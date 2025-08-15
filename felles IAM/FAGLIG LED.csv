@@ -1,0 +1,527 @@
+rollekode,institusjonsnr,emnekode,versjonskode,etternavn,fornavn,emnenavn_bokmal,studieprognavn,stednavn_bokmal,rollenr,dato_fra,dato_til,faknr,instituttnr,gruppenr,studieprogramkode,aktivitetkode,undplanlopenr,terminkode,arstall,terminnr,saksbehinit_opprettet,dato_opprettet,saksbehinit_endring,dato_endring,merknadtekst,etterutdkurskode,kurstidsangivelsekode,klassekode,prioritetsnr,institusjonsnr_eier
+FAGLIG LED,,,,Aadland,Børge,,Master i areal og eiendom,,18,2024-01-01 00:00:00,,,,,EIE-MA,,,,,,GIH,2024-02-26 12:12:30,GIH,2024-09-23 14:45:32,,,,,,203
+FAGLIG LED,,,,Aadland,Børge,,Bachelor i landmåling og eiendomsdesign,,19,2024-05-01 00:00:00,,,,,LEIE,,,,,,SIRIJO,2024-08-09 12:59:03,SIRIJO,2024-08-09 12:59:03,Assisterande instituttleiar,,,,,203
+FAGLIG LED,,,,Aasen,Unni Margrethe Uren,,Bachelor i vernepleie,,49,2020-08-01 00:00:00,,,,,BVPL,,,,,,INFA,2021-01-07 10:30:20,INFA,2021-01-07 10:31:21,Fagseksjonsleiar,,,,,203
+FAGLIG LED,,,,Aasheim,Vigdis,,Master i jordmorfag,,13,2017-08-01 00:00:00,,,,,MA-JOR,,,,,,HTV,2017-09-19 13:04:47,HMHA,2017-12-20 11:10:36,,,,,,203
+FAGLIG LED,,,,Aasheim,Vigdis,,Master i klinisk sykepleie - Helsesykepleier,,37,2022-08-22 00:00:00,,,,,MA-KSH,,,,,,MEAH,2022-08-22 11:58:27,MEAH,2022-08-22 11:58:27,,,,,,203
+FAGLIG LED,,,,Aasheim,Vigdis,,Master i helsesykepleie,,43,2023-05-01 00:00:00,,,,,MAHEL,,,,,,LHE,2023-08-17 08:03:26,LHE,2023-08-17 08:03:26,,,,,,203
+FAGLIG LED,,,,Aasheim,Vigdis,,Master i jordmorfag,,44,2023-12-08 00:00:00,,,,,MAJOR,,,,,,HMHA,2023-12-18 10:13:19,HMHA,2023-12-18 10:13:19,,,,,,203
+FAGLIG LED,,,,Aasprang,Anny,,Bachelor i sykepleie,,22,2020-05-29 00:00:00,,,,,BSYK,,,,,,IHS,2020-05-29 12:46:47,IHS,2020-05-29 12:46:47,Fagseksjonleiar - studiestad Førde,,,,,203
+FAGLIG LED,,,,Aasprang,Anny,,Bachelor i sykepleie (desentralisert),,55,2021-12-20 00:00:00,,,,,BSYKDES,,,,,,MEAH,2021-12-20 13:55:15,MEAH,2021-12-20 13:55:28,Fagseksjonsleder/koordinator Førde,,,,,203
+FAGLIG LED,,,,Agdal,Rita,,Master i samfunnsarbeid,,4,2016-08-01 00:00:00,,,,,MA-SAA,,,,,,EHI,2017-04-24 10:15:46,EHI,2017-04-24 10:15:46,,,,,,203
+FAGLIG LED,,,,Alme,Maria Nordheim,,Master in Healthy Ageing and Rehabilitation,,8,2022-01-01 00:00:00,,,,,MARE,,,,,,KHE,2022-01-20 08:19:34,KHE,2022-01-20 08:19:34,Fagseksjonsleiar,,,,,203
+FAGLIG LED,,,,Alme,Maria Nordheim,,Helse migrasjon og aldring,,11,2023-05-01 00:00:00,,,,,HMA,,,,,,HMHA,2023-04-17 11:31:41,HMHA,2023-04-17 11:31:49,,,,,,203
+FAGLIG LED,,,,Antonsen,Nils Anton,,Masterprogram i energi,,7,2017-01-01 00:00:00,,,,,ETK-MA,,,,,,GIH,2017-02-03 09:39:40,GIH,2017-02-03 09:39:40,,,,,,203
+FAGLIG LED,,,,Antonsen,Nils Ottar,,"Bachelor i ingeniørfag, allmenn maskinteknikk",,3,2010-12-31 00:00:00,,,,,MAM,,,,,,HMHA,2014-03-12 09:26:53,HMHA,2014-03-12 09:27:03,,,,,,203
+FAGLIG LED,,,,Antonsen,Nils Ottar,,"Bachelor i ingeniørfag, bærekraftig produksjon og sirkulærøkonomi",,10,2014-01-02 00:00:00,,,,,MPR,,,,,,HMHA,2017-08-17 09:46:04,HMHA,2017-08-17 09:46:04,,,,,,203
+FAGLIG LED,,,,Antonsen,Nils Ottar,,"Bachelor i ingeniørfag, energiteknologi",,11,2014-01-02 00:00:00,,,,,ETK,,,,,,HMHA,2017-08-17 09:47:26,HMHA,2017-08-17 09:47:26,,,,,,203
+FAGLIG LED,,,,Antonsen,Nils Ottar,,"Bachelor i ingeniørfag, marinteknikk",,12,2014-01-02 00:00:00,,,,,MMT,,,,,,HMHA,2017-08-17 09:47:36,HMHA,2017-08-17 09:47:36,,,,,,203
+FAGLIG LED,,,,Antonsen,Nils Ottar,,"Bachelor i ingeniørfag, havteknologi",,15,2017-12-15 00:00:00,,,,,HVT,,,,,,HMHA,2017-12-18 13:30:36,HMHA,2017-12-18 13:32:06,,,,,,203
+FAGLIG LED,,,,Antonsen,Nils Ottar,,"Bachelor i ingeniørfag, maskin",,22,2018-01-01 00:00:00,,,,,ING-MAB,,,,,,RUH,2018-08-08 12:22:55,RUH,2024-08-09 15:02:28,Assisterande instituttleiar,,,,,203
+FAGLIG LED,,,,Antonsen,Nils Ottar,,"Bachelor i ingeniørfag, Maskin for fagskoleingeniører",,23,2018-01-01 00:00:00,,,,,ING-MAFA,,,,,,RUH,2018-08-08 12:23:44,RUH,2021-11-08 13:48:10,Instituttleder,,,,,203
+FAGLIG LED,,,,Antonsen,Nils Ottar,,Master i bærekraftig energiteknologi (sivilingeniør),,39,2023-05-01 00:00:00,,,,,MABET,,,,,,HMHA,2023-08-14 10:04:29,KHE,2024-02-07 11:18:57,,,,,,203
+FAGLIG LED,,,,Bakke,Elisabeth,,Tverrfaglig videreutdanning i psykososialt arbeid med barn og unge,,19,2022-05-01 00:00:00,,,,,PSBU,,,,,,KHE,2022-05-09 10:56:27,KHE,2022-05-09 10:56:27,,,,,,203
+FAGLIG LED,,,,Bentin,Marcus,,Master i maritime operasjoner,,1,2018-06-01 00:00:00,,,,,MMO,,,,,,KHE,2018-07-10 08:34:41,GME,2024-05-30 09:24:35,Dekan Hochschule Emden/Leer,,,,,203
+FAGLIG LED,,,,Berge,Magnar,,"Bachelor i ingeniørfag, bygg",,9,2024-08-01 00:00:00,,,,,BYGG,,,,,,GIH,2024-08-06 12:56:55,GIH,2024-08-06 12:56:55,,,,,,203
+FAGLIG LED,,,,Berge,Magnar,,"Bachelor i ingeniørfag, bygg",,10,2024-08-01 00:00:00,,,,,BYGGF,,,,,,GIH,2024-08-06 12:57:43,GIH,2024-08-06 12:57:43,,,,,,203
+FAGLIG LED,,,,Berge,Magnar,,"Bachelor i ingeniørfag, bygg, y-vei",,11,2024-08-01 00:00:00,,,,,BYGGYF,,,,,,GIH,2024-08-06 12:58:15,GIH,2024-08-06 12:58:15,,,,,,203
+FAGLIG LED,,,,Bergfjord,Ole Jakob,,"Bachelor i økonomi og administrasjon, Bergen",,13,2022-01-01 00:00:00,,,,,ØAU3,,,,,,KHE,2022-01-14 13:32:00,KHE,2022-01-14 13:33:25,,,,,,203
+FAGLIG LED,,,,Bergfjord,Ole Jakob,,Addisco ,,27,2022-05-01 00:00:00,,,,,ADDISCO,,,,,,HMHA,2022-08-04 11:32:59,HMHA,2022-08-04 11:33:10,,,,,,203
+FAGLIG LED,,,,Bergfjord,Ole Jakob,,Program i digital kompetanse for renovasjons- og gjenvinningsbransjen,,31,2022-05-01 00:00:00,,,,,DKR,,,,,,HMHA,2022-08-04 11:34:38,HMHA,2022-08-04 11:34:38,,,,,,203
+FAGLIG LED,,,,Bergfjord,Ole Jakob,,"Digital økonomi og leiing, Årsprogram",,32,2022-05-01 00:00:00,,,,,DOL,,,,,,HMHA,2022-08-04 11:35:09,HMHA,2022-08-04 11:35:09,,,,,,203
+FAGLIG LED,,,,Bergfjord,Ole Jakob,,Etter- og videreutdanning FØS,,33,2020-01-01 00:00:00,,,,,EVUEFØS,,,,,,HMHA,2022-08-04 11:35:27,HMHA,2022-08-04 11:35:27,,,,,,203
+FAGLIG LED,,,,Bergfjord,Ole Jakob,,Etter- og videreutdanning FØS,,34,2022-05-01 00:00:00,,,,,EVUFØS,,,,,,HMHA,2022-08-04 11:35:56,HMHA,2022-08-04 11:35:56,,,,,,203
+FAGLIG LED,,,,Bergfjord,Ole Jakob,,FRAMO-akademiet,,35,2022-05-01 00:00:00,,,,,FRAMOAKADE,,,,,,HMHA,2022-08-04 11:36:10,HMHA,2022-08-04 11:36:10,,,,,,203
+FAGLIG LED,,,,Bergfjord,Ole Jakob,,Innvekslingsstudent - FØS - Bergen,,36,2022-05-01 00:00:00,,,,,INT-FØS-B,,,,,,HMHA,2022-08-04 11:36:20,HMHA,2022-08-04 11:36:20,,,,,,203
+FAGLIG LED,,,,Bergfjord,Ole Jakob,,Logistikk,,37,2022-05-01 00:00:00,,,,,LOG,,,,,,HMHA,2022-08-04 11:36:47,HMHA,2022-08-04 11:36:47,,,,,,203
+FAGLIG LED,,,,Bergfjord,Ole Jakob,,Coaching som ledelsesverktøy,,48,2022-05-01 00:00:00,,,,,V-COA,,,,,,HMHA,2022-08-04 11:40:58,HMHA,2022-08-04 11:40:58,,,,,,203
+FAGLIG LED,,,,Bergfjord,Ole Jakob,,Forhandlinger og konfliktforståelse,,49,2022-05-01 00:00:00,,,,,V-FKA,,,,,,HMHA,2022-08-04 11:41:08,HMHA,2022-08-04 11:41:08,,,,,,203
+FAGLIG LED,,,,Birkeland,Arvid Karl,,Videreutdanning i Psykisk helse- og rusarbeid,,16,2020-07-01 00:00:00,,,,,PSHR,,,,,,KHE,2020-02-28 10:13:12,KHE,2020-02-28 10:13:20,,,,,,203
+FAGLIG LED,203,SA597,1,Bjørnøy,Harald,Danning og akademisk håndverk - historie,,,1,2024-05-01 00:00:00,,,,,,,,HØST,2024,1,SIRIJO,2024-08-13 08:38:12,SIRIJO,2024-08-13 08:38:12,Studieprogramansvarleg,,,,,203
+FAGLIG LED,,,,Bjørnøy,Harald,,"Historie, årsstudium",,2,2024-05-01 00:00:00,,,,,HIS,,,,,,AKSL,2024-09-06 11:14:49,AKSL,2024-09-06 11:14:49,,,,,,203
+FAGLIG LED,,,,Bjørnøy,Harald,,"Historie, bachelorstudium, Sogndal",,3,2024-05-01 00:00:00,,,,,HISB,,,,,,AKSL,2024-09-06 11:14:58,AKSL,2024-09-06 11:14:58,,,,,,203
+FAGLIG LED,,,,Bjørnøy,Harald,,"Historie, bachelorstudium - nettstudium",,4,2024-05-01 00:00:00,,,,,HISBN,,,,,,AKSL,2024-09-06 11:15:43,AKSL,2024-09-06 11:15:43,,,,,,203
+FAGLIG LED,,,,Bjørnøy,Harald,,"Historie, årsstudium - nettstudium",,5,2024-05-01 00:00:00,,,,,HISN,,,,,,AKSL,2024-09-06 11:15:57,AKSL,2024-09-06 11:15:57,,,,,,203
+FAGLIG LED,,,,Bjørnøy,Harald,,Bachelor i Sosiologi - nettstudium,,6,2024-05-01 00:00:00,,,,,BSOSN,,,,,,AKSL,2024-09-06 11:16:38,AKSL,2024-09-06 11:16:38,,,,,,203
+FAGLIG LED,,,,Bjørnøy,Harald,,"Årsstudium i Sosiologi - ungdomssosiologi, nettstudium",,7,2024-05-01 00:00:00,,,,,SOSN,,,,,,AKSL,2024-09-06 11:20:35,AKSL,2024-09-06 11:20:35,,,,,,203
+FAGLIG LED,,,,Bjørnøy,Harald,,"Samfunnsfag, årsstudium",,8,2024-05-01 00:00:00,,,,,SAM,,,,,,AKSL,2024-09-06 11:21:30,AKSL,2024-09-06 11:21:30,,,,,,203
+FAGLIG LED,,,,Bjørnøy,Harald,,"Samfunnsfag årsstudium, nettstudium",,9,2024-05-01 00:00:00,,,,,SAMN,,,,,,AKSL,2024-09-06 11:21:30,AKSL,2024-09-06 11:21:30,,,,,,203
+FAGLIG LED,,,,Bjørnøy,Harald,,"Jus, årsstudium",,10,2024-05-01 00:00:00,,,,,JUS,,,,,,AKSL,2024-09-06 11:21:56,AKSL,2024-09-06 11:21:56,,,,,,203
+FAGLIG LED,,,,Bjørnøy,Harald,,"Bachelor i eiendomsmegling, økonomi og jus",,11,2024-05-01 00:00:00,,,,,EIMB,,,,,,AKSL,2024-09-06 11:22:34,AKSL,2024-09-06 11:22:34,,,,,,203
+FAGLIG LED,,,,Bjørnøy,Harald,,Masterstudium i organisasjon og ledelse,,12,2024-05-01 00:00:00,,,,,MADL,,,,,,AKSL,2024-09-30 14:25:53,AKSL,2024-09-30 14:25:53,,,,,,203
+FAGLIG LED,,,,Blindheim-Hansen,Renate Louise,,Bachelor i sosialt arbeid,,3,2022-01-01 00:00:00,,,,,BSAB,,,,,,KHE,2022-01-06 14:14:39,KHE,2022-01-06 14:14:39,,,,,,203
+FAGLIG LED,,,,Boge,Fredrik Ingmar,,Bachelor i landmåling og eiendomsdesign,,15,2022-05-01 00:00:00,,,,,LEIE,,,,,,KHE,2022-12-05 13:21:39,KHE,2022-12-05 13:21:50,Studiekoordinator,,,,,203
+FAGLIG LED,,,,Brekke,Tone Merete,,"Bachelor i økonomi og administrasjon, Haugesund",,11,2016-01-01 00:00:00,,,,,ØKB,,,,,,GTA,2017-04-03 09:39:00,GTA,2017-04-03 09:39:00,,,,,,203
+FAGLIG LED,,,,Brekke,Tone Merete,,Bachelor i økonomi og administrasjon - deltid,,22,2016-01-01 00:00:00,,,,,ØKBD,,,,,,GTA,2018-07-04 11:41:10,GME,2022-09-07 09:42:04,,,,,,203
+FAGLIG LED,,,,Brekke,Tone Merete,,Enkeltemner på Økonomi og administrasjon,,23,2016-01-01 00:00:00,,,,,ØKAD-EMNER,,,,,,GTA,2018-07-04 13:04:26,GTA,2018-07-04 13:04:26,,,,,,203
+FAGLIG LED,,,,Brekke,Tone Merete,,Etter- og videreutdanning FØS,,44,2020-01-01 00:00:00,,,,,EVUEFØS,,,,,,GTA,2021-01-14 10:13:22,GTA,2021-01-14 10:13:22,,,,,,203
+FAGLIG LED,,,,Brekke,Tone Merete,,"Bachelor i økonomi og administrasjon, Bergen",,57,2022-01-01 00:00:00,,,,,ØAU3,,,,,,KHE,2022-01-14 13:31:36,KHE,2022-01-14 13:33:25,,,,,,203
+FAGLIG LED,,,,Brekke,Tone Merete,,"Master i innovasjon og ledelse, samfunnsfaglig retning",,58,2022-01-01 00:00:00,,,,,MIL-MA,,,,,,KHE,2022-01-14 14:37:00,KHE,2022-01-14 14:37:00,,,,,,203
+FAGLIG LED,,,,Brekke,Tone Merete,,Master i økonomi og administrasjon (Siviløkonom),,63,2022-01-01 00:00:00,,,,,MSB,,,,,,GME,2022-06-08 10:08:14,GME,2022-09-07 09:44:42,Instituttleder,,,,,203
+FAGLIG LED,,,,Brekke,Tone Merete,,"Bachelor i økonomi og administrasjon, Sogndal",,67,2022-09-07 00:00:00,,,,,ØKOB,,,,,,GME,2022-09-07 09:50:03,GME,2022-09-07 09:50:03,,,,,,203
+FAGLIG LED,,,,Brekke,Tone Merete,,"Økonomi og jus, bachelorstudium, Sogndal",,68,2022-09-07 00:00:00,,,,,ØKOJ,,,,,,GME,2022-09-07 09:51:49,GME,2022-09-07 09:51:49,,,,,,203
+FAGLIG LED,,,,Brekke,Tone Merete,,"Bachelor i natur og opplevelsesbasert reiseliv, Sogndal",,69,2022-09-07 00:00:00,,,,,BRL,,,,,,GME,2022-09-07 09:53:04,GME,2022-09-07 09:53:04,,,,,,203
+FAGLIG LED,,,,Brekke,Tone Merete,,"Bachelor i reiseliv, markedsføring og ledelse",,70,2022-09-07 00:00:00,,,,,RLIL,,,,,,GME,2022-09-07 09:55:38,GME,2022-09-07 09:55:38,,,,,,203
+FAGLIG LED,,,,Brekke,Tone Merete,,"Bachelor i eiendomsmegling, økonomi og jus",,71,2022-09-07 00:00:00,,,,,EIMB,,,,,,GME,2022-09-07 09:56:35,GME,2022-09-07 09:56:35,,,,,,203
+FAGLIG LED,,,,Brekke,Tone Merete,,"Bachelor i økonomi og administrasjon, Haugesund",,73,2016-01-01 00:00:00,,,,,ØKB,,,,,,GME,2023-01-03 09:35:08,GME,2023-01-03 09:35:08,,,,,,203
+FAGLIG LED,,,,Brekke,Tone Merete,,Årsstudium i administrasjon og ledelse,,74,2022-10-01 00:00:00,,,,,ADLE,,,,,,ELT,2023-05-04 11:00:41,ELT,2023-05-04 11:00:41,,,,,,203
+FAGLIG LED,,,,Brekke,Tone Merete,,Logistikk,,86,2024-01-01 00:00:00,,,,,LOG,,,,,,ABR,2024-03-11 09:40:54,ABR,2024-03-11 13:31:41,,,,,,203
+FAGLIG LED,,,,Brekke,Tone Merete,,"Digital økonomi og leiing, Årsprogram",,87,2024-01-01 00:00:00,,,,,DOL,,,,,,ABR,2024-03-11 09:43:12,ABR,2024-03-11 09:43:21,,,,,,203
+FAGLIG LED,,,,Brekke,Tone Merete,,"Jus, årsstudium",,88,2024-01-01 00:00:00,,,,,JUS,,,,,,ABR,2024-03-11 09:44:33,ABR,2024-03-11 09:44:33,,,,,,203
+FAGLIG LED,,,,Brekke,Tone Merete,,Masterstudium i organisasjon og ledelse,,89,2024-01-01 00:00:00,,,,,MADL,,,,,,ABR,2024-03-11 09:46:49,ABR,2024-03-11 13:34:13,,,,,,203
+FAGLIG LED,,,,Brekke,Tone Merete,,"Historie, bachelorstudium, Sogndal",,90,2024-01-01 00:00:00,,,,,HISB,,,,,,KHE,2024-03-11 12:57:17,KHE,2024-03-11 12:57:17,,,,,,203
+FAGLIG LED,,,,Brekke,Tone Merete,,"Historie, bachelorstudium - nettstudium",,91,2024-01-01 00:00:00,,,,,HISBN,,,,,,KHE,2024-03-11 12:57:39,KHE,2024-03-11 12:57:39,,,,,,203
+FAGLIG LED,,,,Brekke,Tone Merete,,"Historie, årsstudium - nettstudium",,92,2024-01-01 00:00:00,,,,,HISN,,,,,,KHE,2024-03-11 12:58:01,KHE,2024-03-11 12:58:01,,,,,,203
+FAGLIG LED,,,,Brekke,Tone Merete,,"Historie, årsstudium",,93,2024-01-01 00:00:00,,,,,HIS,,,,,,KHE,2024-03-11 12:58:22,KHE,2024-03-11 12:58:22,,,,,,203
+FAGLIG LED,,,,Brekke,Tone Merete,,"Samfunnsfag, årsstudium",,94,2024-01-01 00:00:00,,,,,SAM,,,,,,KHE,2024-03-11 12:58:40,KHE,2024-03-11 12:58:40,,,,,,203
+FAGLIG LED,,,,Brekke,Tone Merete,,"Samfunnsfag årsstudium, nettstudium",,95,2024-01-01 00:00:00,,,,,SAMN,,,,,,KHE,2024-03-11 12:58:56,KHE,2024-03-11 12:58:56,,,,,,203
+FAGLIG LED,,,,Brekke,Tone Merete,,"Ungdomssosiologi, årsstudium",,96,2024-01-01 00:00:00,,,,,UNG,,,,,,KHE,2024-03-11 12:59:14,KHE,2024-03-11 12:59:14,,,,,,203
+FAGLIG LED,,,,Brekke,Tone Merete,,"Sosiologi - ungdomssosiologi, bachelorstudium",,97,2024-01-01 00:00:00,,,,,UNGB,,,,,,KHE,2024-03-11 12:59:31,KHE,2024-03-11 12:59:31,,,,,,203
+FAGLIG LED,,,,Brekke,Tone Merete,,Bachelor i Sosiologi - nettstudium,,98,2024-01-01 00:00:00,,,,,BSOSN,,,,,,KHE,2024-03-11 12:59:52,KHE,2024-03-11 12:59:52,,,,,,203
+FAGLIG LED,,,,Brekke,Tone Merete,,"Årsstudium i Sosiologi - ungdomssosiologi, nettstudium",,99,2024-01-01 00:00:00,,,,,SOSN,,,,,,KHE,2024-03-11 13:00:10,KHE,2024-03-11 13:00:10,,,,,,203
+FAGLIG LED,,,,Brekke,Tone Merete,,Master i ansvarlig innovasjon og entreprenørskap,,101,2024-01-01 00:00:00,,,,,MA-INN,,,,,,KHE,2024-07-10 09:11:36,KHE,2024-07-10 09:11:36,,,,,,203
+FAGLIG LED,,,,Brekke,Tone Merete,,Master i ansvarlig innovasjon og entreprenørskap,,102,2024-01-01 00:00:00,,,,,MA-INND,,,,,,KHE,2024-07-10 09:12:05,KHE,2024-07-10 09:12:05,,,,,,203
+FAGLIG LED,,,,Brekke,Tone Merete,,"Årsstudium i reiseliv, markedsføring og ledelse",,103,2024-01-01 00:00:00,,,,,REISÅ,,,,,,KHE,2024-07-10 09:12:29,KHE,2024-07-10 09:12:29,,,,,,203
+FAGLIG LED,,,,Bulie,Erik,,Veilederutdanning,,41,2024-08-01 00:00:00,,,,,KFK-VEIL,,,,,,KHE,2024-08-14 13:29:21,KHE,2024-08-14 13:29:21,,,,,,203
+FAGLIG LED,,,,Bulie,Erik,,"Spesialpedagogikk 2, 1.-10. trinn",,42,2024-08-01 00:00:00,,,,,KFK-SPB2,,,,,,KHE,2024-08-14 13:30:01,KHE,2024-08-14 13:30:01,,,,,,203
+FAGLIG LED,,,,Bulie,Erik,,Læringsmiljø og pedagogisk ledelse,,43,2024-08-01 00:00:00,,,,,LPL,,,,,,KHE,2024-08-14 13:30:41,KHE,2024-08-14 13:30:41,,,,,,203
+FAGLIG LED,,,,Bulie,Erik,,Spesialpedagogikk i barnehagen,,44,2024-08-01 00:00:00,,,,,KK-SPESB,,,,,,KHE,2024-08-14 13:31:14,KHE,2024-08-14 13:31:14,,,,,,203
+FAGLIG LED,,,,Bulie,Erik,,Videreutdanning i veiledning for praksislærere i barnehagen,,45,2024-08-01 00:00:00,,,,,KK-VVPB,,,,,,KHE,2024-08-14 13:31:54,KHE,2024-08-14 13:31:54,,,,,,203
+FAGLIG LED,,,,Bulie,Erik,,Digital kompetanse i barnehagen,,46,2024-08-01 00:00:00,,,,,KFB-DKB,,,,,,KHE,2024-08-14 13:32:26,KHE,2024-08-14 13:32:26,,,,,,203
+FAGLIG LED,,,,Bulie,Erik,,Ledelse av utviklingsarbeid i barnehagen,,47,2024-08-01 00:00:00,,,,,KFB-LUB,,,,,,KHE,2024-08-14 13:32:51,KHE,2024-08-14 13:32:51,,,,,,203
+FAGLIG LED,,,,Bulie,Erik,,Vurderingspraksis og læreplanforståelse,,48,2024-08-01 00:00:00,,,,,YFL1,,,,,,KHE,2024-08-14 13:33:49,KHE,2024-08-14 13:33:49,,,,,,203
+FAGLIG LED,,,,Bulie,Erik,,E-helse for HO & EL/ Digitalisering og ny teknologi inn i yrkesdidaktikken for HO og EL ,,49,2024-08-01 00:00:00,,,,,YFL2,,,,,,KHE,2024-08-14 13:34:00,KHE,2024-08-14 13:34:00,,,,,,203
+FAGLIG LED,,,,Bulie,Erik,,Tilpasset opplæring og motivasjon i mangfoldige og flerspråklige elevgrupper,,50,2024-08-01 00:00:00,,,,,YFL3,,,,,,KHE,2024-08-14 13:34:10,KHE,2024-08-14 13:34:10,,,,,,203
+FAGLIG LED,,,,Bulie,Erik,,Rektorutdanning - Utdanningsledelse,,51,2024-08-01 00:00:00,,,,,RUTDLEI,,,,,,KHE,2024-08-14 13:34:44,KHE,2024-08-14 13:34:44,,,,,,203
+FAGLIG LED,,,,Bulie,Erik,,Etter- og videreutdanning FLKI,,52,2024-08-01 00:00:00,,,,,EVUEFLKI,,,,,,KHE,2024-08-14 13:35:52,KHE,2024-08-14 13:35:52,,,,,,203
+FAGLIG LED,,,,Bulie,Erik,,Etter- og videreutdanning FLKI,,53,2024-08-01 00:00:00,,,,,EVUMFLKI,,,,,,KHE,2024-08-14 13:36:03,KHE,2024-08-14 13:36:03,,,,,,203
+FAGLIG LED,,,,Bulie,Erik,,Karriereveiledning,,54,2024-08-01 00:00:00,,,,,B-KVL,,,,,,KHE,2024-08-14 13:36:26,KHE,2024-08-14 13:36:26,,,,,,203
+FAGLIG LED,,,,Cejka,Dagmar Andrea,,Bachelor i tegnspråk og tolking,,3,2019-06-14 00:00:00,,,,,TST,,,,,,ALHE,2019-06-14 14:17:03,ALHE,2019-06-14 14:17:03,,,,,,203
+FAGLIG LED,,,,Cimpan,Emil,,Masterprogram i energi,,5,2017-01-01 00:00:00,,,,,ETK-MA,,,,,,GIH,2017-02-03 09:41:29,GIH,2020-12-08 11:03:16,,,,,,203
+FAGLIG LED,,,,Drønen,Robert,,Bachelor i Maritime Management,,1,2024-05-01 00:00:00,,,,,BAMM,,,,,,GME,2024-05-30 09:20:35,GME,2024-05-30 09:21:46,Ass. instituttleder FTMS,,,,,203
+FAGLIG LED,,,,Drønen,Robert,,Bachelor i nautikk Y-vei,,2,2024-05-01 00:00:00,,,,,NABY,,,,,,GME,2024-05-30 09:21:35,GME,2024-05-30 09:21:35,Ass. instituttleder FTMS,,,,,203
+FAGLIG LED,,,,Drønen,Robert,,Bachelor i nautikk med integrert praksis,,3,2024-05-01 00:00:00,,,,,NABP,,,,,,GME,2024-05-30 09:22:35,GME,2024-05-30 09:22:35,Ass. instituttleder FTMS,,,,,203
+FAGLIG LED,,,,Drønen,Robert,,Master i maritime operasjoner,,4,2024-05-01 00:00:00,,,,,MMO,,,,,,GME,2024-05-30 09:25:29,GME,2024-05-30 09:25:29,Ass. instituttleder FTMS,,,,,203
+FAGLIG LED,,,,Drønen,Robert,,Bachelor i Maritime Management - nettstudium,,12,2025-05-01 00:00:00,,,,,BAMMN,,,,,,KHE,2024-12-03 09:21:40,KHE,2024-12-03 09:21:40,,,,,,203
+FAGLIG LED,,,,Dåvøy,Grethe,,Master i spesialsykepleie,,93,2023-05-01 00:00:00,,,,,MASP,,,,,,HMHA,2023-08-11 10:03:24,HMHA,2023-08-11 10:03:41,Studiekoordinator Operasjonssykepleie,,,,,203
+FAGLIG LED,203,SYKB140,1,Eide,Wenche Mjanger,Sykdomslære og farmakologi,,,29,2022-05-01 00:00:00,,,,,,,,,,,HMHA,2022-05-16 08:54:19,MEAH,2022-06-01 13:36:11,,,,,2,203
+FAGLIG LED,203,SYKB200,1,Eide,Wenche Mjanger,"Sykepleie ved akutt, kronisk og kritisk sykdom",,,30,2022-05-01 00:00:00,,,,,,,,,,,HMHA,2022-05-16 08:54:30,HMHA,2022-05-16 08:54:30,,,,,,203
+FAGLIG LED,203,SYKB220P,1,Eide,Wenche Mjanger,"Praksisstudie, Medisinsk sykepleie ved akutt, kronisk og kritisk sykdom",,,31,2022-05-01 00:00:00,,,,,,,,,,,HMHA,2022-05-16 08:54:40,HMHA,2022-05-16 08:54:40,,,,,,203
+FAGLIG LED,203,SYKB230P,1,Eide,Wenche Mjanger,"Praksisstudie, Kirurgisk sykepleie ved akutt, kronisk og kritisk sykdom",,,32,2022-05-01 00:00:00,,,,,,,,,,,HMHA,2022-05-16 08:54:50,HMHA,2022-05-16 08:54:50,,,,,,203
+FAGLIG LED,203,SYKB250,1,Eide,Wenche Mjanger,Folkehelse i et nasjonalt og globalt perspektiv,,,33,2022-05-01 00:00:00,,,,,,,,,,,HMHA,2022-05-16 08:54:59,HMHA,2022-05-16 08:54:59,,,,,,203
+FAGLIG LED,203,SYKB300,1,Eide,Wenche Mjanger,Sykepleie ved komplekse og sammensatte pasienttilstander og sykdomsbilde i kommunehelsetjenesten,,,34,2022-05-01 00:00:00,,,,,,,,,,,HMHA,2022-05-16 08:55:09,HMHA,2022-05-16 08:55:09,,,,,,203
+FAGLIG LED,203,SYKB320P,1,Eide,Wenche Mjanger,"Praksisstudie, Sykepleie ved komplekse og sammensatte pasienttilstander og sykdomsbilder i kommunehelsetjenesten",,,35,2022-05-01 00:00:00,,,,,,,,,,,HMHA,2022-05-16 08:55:16,HMHA,2022-05-16 08:55:16,,,,,,203
+FAGLIG LED,203,SYKB330P,1,Eide,Wenche Mjanger,"Praksisstudie, Sykepleie ved psykisk sykdom/lidelse",,,36,2022-05-01 00:00:00,,,,,,,,,,,HMHA,2022-05-16 08:55:27,HMHA,2022-05-16 08:55:27,,,,,,203
+FAGLIG LED,203,SYKB360P,1,Eide,Wenche Mjanger,"Praksisstudie, Faglig ledelse, tjenesteutvikling og innovasjon",,,37,2022-05-01 00:00:00,,,,,,,,,,,HMHA,2022-05-16 08:55:36,HMHA,2022-05-16 08:55:36,,,,,,203
+FAGLIG LED,203,SYKB390,1,Eide,Wenche Mjanger,Bacheloroppgave,,,38,2022-05-01 00:00:00,,,,,,,,,,,HMHA,2022-05-16 08:55:49,HMHA,2022-05-16 08:55:49,,,,,,203
+FAGLIG LED,,,,Eikefjord,Eli Nina Hølleland,,Bachelor i radiografi,,43,2020-07-01 00:00:00,,,,,BRAD,,,,,,CHA,2020-06-29 11:42:06,CHA,2020-06-29 11:42:06,,,,,,203
+FAGLIG LED,203,,,Eikset,Andrea Synnøve Søndergaard,,,"Institutt for språk, litteratur, matematikk og tolking",7,2021-09-01 00:00:00,,30,3,0,,,,,,,HMHA,2022-03-23 15:44:31,HMHA,2022-03-23 15:44:54,,,,,,203
+FAGLIG LED,,,,Eilifsen,Margareth,,"Barnehagelærerutdanning, arbeidsplassbasert",,7,2018-01-01 00:00:00,,,,,ABLU,,,,,,RVI,2018-01-12 10:53:18,RVI,2018-01-12 10:53:18,,,,,,203
+FAGLIG LED,,,,Eilifsen,Margareth,,"Barnehagelærerutdanning, deltid",,14,2019-01-01 00:00:00,,,,,BBLD,,,,,,RVI,2019-03-05 10:14:22,RVI,2019-03-05 10:14:22,,,,,,203
+FAGLIG LED,,,,Eilifsen,Margareth,,Bachelor - barnehagelærerutdanning,,15,2019-01-01 00:00:00,,,,,BBL,,,,,,RVI,2019-03-05 10:37:50,RVI,2019-03-05 10:37:50,,,,,,203
+FAGLIG LED,,,,Eilifsen,Margareth,,"Barnehagelærerutdanning, deltid",,16,2019-06-14 00:00:00,,,,,BBLD,,,,,,ALHE,2019-06-14 14:20:03,ALHE,2019-06-14 14:20:03,,,,,,203
+FAGLIG LED,,,,Eliassen,Øyvind Stokkenes,,"Bachelor i natur og opplevelsesbasert reiseliv, Sogndal",,7,2024-05-01 00:00:00,,,,,BRL,,,,,,KHE,2024-09-06 13:04:12,KHE,2024-09-06 13:04:12,,,,,,203
+FAGLIG LED,,,,Eliassen,Øyvind Stokkenes,,"Bachelor i eiendomsmegling, økonomi og jus",,8,2024-05-01 00:00:00,,,,,EIMB,,,,,,KHE,2024-09-06 13:04:32,KHE,2024-09-06 13:04:32,,,,,,203
+FAGLIG LED,,,,Eliassen,Øyvind Stokkenes,,Master i økonomi og administrasjon (Siviløkonom),,9,2024-05-01 00:00:00,,,,,MSB,,,,,,KHE,2024-09-06 13:04:52,KHE,2024-09-06 13:04:52,,,,,,203
+FAGLIG LED,,,,Eliassen,Øyvind Stokkenes,,"Bachelor i reiseliv, markedsføring og ledelse",,10,2024-05-01 00:00:00,,,,,RLIL,,,,,,KHE,2024-09-06 13:05:09,KHE,2024-09-06 13:05:09,,,,,,203
+FAGLIG LED,,,,Eliassen,Øyvind Stokkenes,,"Bachelor i økonomi og administrasjon, Sogndal",,11,2024-05-01 00:00:00,,,,,ØKOB,,,,,,KHE,2024-09-06 13:05:27,KHE,2024-09-06 13:05:27,,,,,,203
+FAGLIG LED,,,,Eliassen,Øyvind Stokkenes,,"Økonomi og jus, bachelorstudium, Sogndal",,12,2024-05-01 00:00:00,,,,,ØKOJ,,,,,,KHE,2024-09-06 13:05:42,KHE,2024-09-06 13:05:42,,,,,,203
+FAGLIG LED,,,,Eliassen,Øyvind Stokkenes,,"Årsstudium i reiseliv, markedsføring og ledelse",,13,2024-05-01 00:00:00,,,,,REISÅ,,,,,,KHE,2024-09-09 09:13:10,KHE,2024-09-09 09:13:10,,,,,,203
+FAGLIG LED,,,,Eliassen,Øyvind Stokkenes,,Innvekslingsstudent - FØS - Sogndal,,14,2024-05-01 00:00:00,,,,,INT-FØS-SO,,,,,,KHE,2024-12-03 11:28:05,KHE,2024-12-03 11:28:05,,,,,,203
+FAGLIG LED,,,,Ellingsen,Pål,,"Bachelor i ingeniørfag, data",,11,2020-01-01 00:00:00,,,,,DATA,,,,,,GIH,2020-02-03 13:08:03,GIH,2021-08-30 11:51:49,,,,,,203
+FAGLIG LED,,,,Ellingsen,Pål,,Bachelor i informasjonsteknologi,,15,2023-08-01 00:00:00,,,,,INF-H,,,,,,GIH,2023-08-09 14:09:59,GIH,2023-08-09 14:09:59,,,,,,203
+FAGLIG LED,,,,Fjell,Astrid,,Bachelor i sykepleie,,4,2021-08-01 00:00:00,,,,,BSYK,,,,,,KHE,2022-12-19 15:31:14,KHE,2022-12-19 15:31:27,Fagseksjonsleder Haugesund,,,,,203
+FAGLIG LED,,,,Fjose,Marianne,,Bachelor i sykepleie,,48,2020-05-29 00:00:00,,,,,BSYK,,,,,,MEAH,2020-05-29 09:46:37,MEAH,2020-05-29 09:46:37,Fagseksjonleiar - studiestad Bergen,,,,,203
+FAGLIG LED,203,SYKB220P,1,Fjose,Marianne,"Praksisstudie, Medisinsk sykepleie ved akutt, kronisk og kritisk sykdom",,,90,2024-04-28 00:00:00,,,,,,,,HØST,2024,1,MILFA,2024-04-05 13:09:42,MILFA,2024-04-05 13:09:42,Endret til fradato til 01.05.2022 etter forespørsel til SIKT,,,,2,203
+FAGLIG LED,203,SYKB230P,1,Fjose,Marianne,"Praksisstudie, Kirurgisk sykepleie ved akutt, kronisk og kritisk sykdom",,,91,2024-04-28 00:00:00,,,,,,,,HØST,2024,1,MILFA,2024-04-05 13:09:47,MILFA,2024-04-05 13:09:47,Endret til fradato til 01.05.2022 etter forespørsel til SIKT,,,,2,203
+FAGLIG LED,203,SYKB220P,1,Fjose,Marianne,"Praksisstudie, Medisinsk sykepleie ved akutt, kronisk og kritisk sykdom",,,122,2025-04-27 00:00:00,,,,,,,,HØST,2025,1,MILFA,2025-02-24 12:45:03,MILFA,2025-02-24 12:45:03,Endret til fradato til 01.05.2022 etter forespørsel til SIKT,,,,2,203
+FAGLIG LED,203,SYKB230P,1,Fjose,Marianne,"Praksisstudie, Kirurgisk sykepleie ved akutt, kronisk og kritisk sykdom",,,125,2025-04-27 00:00:00,,,,,,,,HØST,2025,1,MILFA,2025-02-24 12:46:48,MILFA,2025-02-24 12:46:48,Endret til fradato til 01.05.2022 etter forespørsel til SIKT,,,,2,203
+FAGLIG LED,,,,Fossøy,Joar,,"Idrett og kroppsøving, bachelorstudium, Sogndal",,27,2019-06-14 00:00:00,,,,,IDKB,,,,,,ALHE,2019-06-14 14:02:31,ALHE,2019-06-14 14:02:31,,,,,,203
+FAGLIG LED,,,,Fossøy,Joar,,"Idrett, fysisk aktivitet og helse, bachelorstudium, Sogndal",,28,2019-06-14 00:00:00,,,,,IDRB,,,,,,ALHE,2019-06-14 14:05:04,ALHE,2019-06-14 14:05:04,,,,,,203
+FAGLIG LED,,,,Fossøy,Joar,,"Friluftsliv, bachelorstudium, Sogndal",,29,2019-06-14 00:00:00,,,,,FRIB,,,,,,ALHE,2019-06-14 14:06:28,ALHE,2019-06-14 14:06:28,,,,,,203
+FAGLIG LED,,,,Fossøy,Joar,,Bachelor i folkehelsearbeid med vekt på kosthold og fysisk aktivitet,,30,2019-06-14 00:00:00,,,,,FHA,,,,,,ALHE,2019-06-14 14:08:26,ALHE,2019-06-14 14:08:26,,,,,,203
+FAGLIG LED,,,,Fossøy,Joar,,"Personlig Trener, årsstudium",,33,2020-07-01 00:00:00,,,,,PT,,,,,,KHE,2020-08-11 10:11:23,KHE,2020-08-11 10:11:23,,,,,,203
+FAGLIG LED,,,,Fossøy,Joar,,Master i idrettsvitenskap,,35,2020-07-01 00:00:00,,,,,MIDR,,,,,,KHE,2020-08-11 10:26:12,KHE,2020-08-11 10:26:12,,,,,,203
+FAGLIG LED,,,,Fossøy,Joar,,Fjords and Glaciers - Wild Pedagogies,,37,2020-07-01 00:00:00,,,,,FJORDS,,,,,,KHE,2020-08-11 10:30:08,KHE,2020-08-11 10:30:08,,,,,,203
+FAGLIG LED,,,,Fossøy,Joar,,Outdoor Education and Nordic Friluftsliv,,38,2020-07-01 00:00:00,,,,,FRI30,,,,,,KHE,2020-08-11 10:31:06,KHE,2020-08-11 10:31:06,,,,,,203
+FAGLIG LED,,,,Fossøy,Joar,,"Bachelor i idrett, trening og helse",,39,2020-12-10 00:00:00,,,,,BIDR,,,,,,KHE,2020-12-10 11:01:17,KHE,2020-12-10 11:01:17,,,,,,203
+FAGLIG LED,,,,Fossøy,Joar,,Videreutdanning for SFO-ansatte,,42,2022-05-01 00:00:00,,,,,VSFO,,,,,,KHE,2022-08-17 13:24:39,KHE,2022-08-17 13:24:39,,,,,,203
+FAGLIG LED,,,,Fossøy,Joar,,Outdoor Education and Nordic Friluftsliv - Winter,,43,2022-05-01 00:00:00,,,,,FRI30W,,,,,,KHE,2023-02-28 13:01:08,KHE,2023-02-28 13:01:08,,,,,,203
+FAGLIG LED,,,,Fossøy,Joar,,Årsstudium idrett og trening,,44,2023-12-03 00:00:00,,,,,IDR60,,,,,,KHE,2023-12-13 10:58:10,KHE,2023-12-13 12:47:43,,,,,,203
+FAGLIG LED,,,,Fossøy,Joar,,Årsstudium kroppsøving og idrettsfag,,45,2023-12-03 00:00:00,,,,,KRO60,,,,,,KHE,2023-12-13 11:19:35,KHE,2023-12-13 12:48:17,,,,,,203
+FAGLIG LED,,,,Fretland,Frode,,Lærerutdanning i praktiske og estetiske fag for trinn 1-13 - Kroppsøving og idrettsfag,,1,2024-05-01 00:00:00,,,,,LUPEK,,,,,,HMHA,2024-09-02 09:48:38,HMHA,2024-09-02 09:55:08,,,,,,203
+FAGLIG LED,,,,Fretland,Frode,,Bachelor i folkehelsearbeid med vekt på kosthold og fysisk aktivitet,,2,2024-05-01 00:00:00,,,,,FHA,,,,,,HMHA,2024-09-02 09:49:09,HMHA,2024-09-02 09:55:18,,,,,,203
+FAGLIG LED,,,,Fretland,Frode,,"Bachelor i idrett, trening og helse",,3,2024-05-01 00:00:00,,,,,BIDR,,,,,,HMHA,2024-09-02 09:49:57,HMHA,2024-09-02 09:55:30,,,,,,203
+FAGLIG LED,,,,Fretland,Frode,,"Friluftsliv, bachelorstudium, Sogndal",,4,2024-05-01 00:00:00,,,,,FRIB,,,,,,HMHA,2024-09-02 09:50:14,HMHA,2024-09-02 09:55:41,,,,,,203
+FAGLIG LED,,,,Fretland,Frode,,Master i idrettsvitenskap,,5,2024-05-01 00:00:00,,,,,MIDR,,,,,,HMHA,2024-09-02 09:50:41,HMHA,2024-09-02 09:55:52,,,,,,203
+FAGLIG LED,,,,Fretland,Frode,,Outdoor Education and Nordic Friluftsliv,,6,2024-05-01 00:00:00,,,,,FRI30,,,,,,HMHA,2024-09-02 09:51:25,HMHA,2024-09-02 09:51:28,,,,,,203
+FAGLIG LED,,,,Fretland,Frode,,Fjords and Glaciers - Wild Pedagogies,,7,2024-05-01 00:00:00,,,,,FJORDS,,,,,,HMHA,2024-09-02 09:51:58,HMHA,2024-09-02 09:51:58,,,,,,203
+FAGLIG LED,,,,Fretland,Frode,,"Personlig Trener, årsstudium",,8,2024-05-01 00:00:00,,,,,PT,,,,,,HMHA,2024-09-02 09:52:36,HMHA,2024-09-02 09:52:36,,,,,,203
+FAGLIG LED,,,,Fretland,Frode,,Årsstudium idrett og trening,,9,2024-05-01 00:00:00,,,,,IDR60,,,,,,HMHA,2024-09-02 09:53:36,HMHA,2024-09-02 09:53:36,,,,,,203
+FAGLIG LED,,,,Fretland,Frode,,Folkehelsearbeid,,10,2024-05-01 00:00:00,,,,,VFHAM,,,,,,HMHA,2024-09-02 09:54:38,HMHA,2024-09-02 09:54:38,,,,,,203
+FAGLIG LED,,,,Fyllingen,Ørjan,,"Bachelor i ingeniørfag, bygg",,3,2017-01-01 00:00:00,,,,,BYGG,,,,,,GIH,2017-02-07 09:38:42,GIH,2017-02-07 09:38:42,,,,,,203
+FAGLIG LED,,,,Førland,Geir Martin,,"Bachelor i ingeniørfag, kjemi",,6,2017-01-01 00:00:00,,,,,KJE,,,,,,GIH,2017-02-02 13:01:33,GIH,2017-02-02 13:02:20,,,,,,203
+FAGLIG LED,,,,Gillespie,Mark Andrew,,Bachelor i energiomstilling,,6,2018-08-17 00:00:00,,,,,FEN,,,,,,DAVIDP,2018-08-17 14:09:39,KHE,2024-02-07 11:22:05,,,,,,203
+FAGLIG LED,,,,Gillespie,Mette Kusk,,Bachelor i geologi og geofare,,7,2021-08-01 00:00:00,,,,,GEFA,,,,,,TORIRUU,2021-07-02 10:51:10,TORIRUU,2021-07-02 10:51:10,,,,,,203
+FAGLIG LED,,,,Gilpin,Geoffrey Sean,,Bachelor i energiomstilling,,12,2019-08-01 00:00:00,,,,,FEN,,,,,,TORIRUU,2021-07-02 10:58:37,TORIRUU,2021-07-02 10:58:37,,,,,,203
+FAGLIG LED,,,,Gjelstad,Lars Edvin,,"Ungdomssosiologi, årsstudium",,5,2020-09-01 00:00:00,,,,,UNG,,,,,,KHE,2021-03-02 15:24:28,KHE,2021-03-02 15:24:28,,,,,,203
+FAGLIG LED,,,,Gjelstad,Lars Edvin,,"Sosiologi - ungdomssosiologi, bachelorstudium",,6,2020-09-01 00:00:00,,,,,UNGB,,,,,,KHE,2021-03-02 15:24:57,KHE,2021-03-02 15:24:57,,,,,,203
+FAGLIG LED,,,,Gjelstad,Lars Edvin,,"Årsstudium i Sosiologi - ungdomssosiologi, nettstudium",,13,2024-01-01 00:00:00,,,,,SOSN,,,,,,KHE,2024-02-13 12:49:12,KHE,2024-02-13 12:49:12,,,,,,203
+FAGLIG LED,,,,Gjelstad,Lars Edvin,,Bachelor i Sosiologi - nettstudium,,14,2024-01-01 00:00:00,,,,,BSOSN,,,,,,KHE,2024-02-13 12:52:00,KHE,2024-02-13 12:52:00,,,,,,203
+FAGLIG LED,,,,Gundersen,Lise Bjørkhaug,,Masterprogram i medisinsk laboratorieteknologi,,10,2024-05-01 00:00:00,,,,,MAMLT,,,,,,SIRIJO,2024-08-09 13:03:34,SIRIJO,2024-08-09 13:03:34,Studieprogramansvarleg,,,,,203
+FAGLIG LED,203,BIO501,1,Gundersen,Lise Bjørkhaug,Kvalitetssikring av medisinske laboratorieanalyser,,,11,2024-09-01 00:00:00,,,,,,,,HØST,2024,1,SIRIJO,2024-09-11 08:12:03,SIRIJO,2024-09-11 08:12:03,,,,,,203
+FAGLIG LED,,,,Haltbakk,Johannes,,Master i klinisk sykepleie,,9,2017-08-01 00:00:00,,,,,MA-KS,,,,,,HMHA,2018-04-12 09:46:08,HMHA,2018-04-12 10:07:02,,,,,,203
+FAGLIG LED,,,,Haltbakk,Johannes,,Master i klinisk sykepleie - Anestesisykepleie,,10,2017-08-01 00:00:00,,,,,MA-KSA,,,,,,HMHA,2018-04-12 10:07:11,HMHA,2018-04-12 10:09:46,,,,,,203
+FAGLIG LED,,,,Haltbakk,Johannes,,Master i klinisk sykepleie - Barnesykepleie,,11,2017-08-01 00:00:00,,,,,MA-KSB,,,,,,HMHA,2018-04-12 10:08:07,HMHA,2018-04-12 10:09:43,,,,,,203
+FAGLIG LED,,,,Haltbakk,Johannes,,Master i klinisk sykepleie - Diabetessykepleie,,12,2017-08-01 00:00:00,,,,,MA-KSD,,,,,,HMHA,2018-04-12 10:08:18,HMHA,2018-04-12 10:09:38,,,,,,203
+FAGLIG LED,,,,Haltbakk,Johannes,,Master i klinisk sykepleie - Intensivsykepleie,,14,2017-08-01 00:00:00,,,,,MA-KSI,,,,,,HMHA,2018-04-12 10:08:37,HMHA,2018-04-12 10:09:30,,,,,,203
+FAGLIG LED,,,,Haltbakk,Johannes,,Master i klinisk sykepleie - Kardiologisk sykepleie,,15,2017-08-01 00:00:00,,,,,MA-KSK,,,,,,HMHA,2018-04-12 10:08:46,HMHA,2018-04-12 10:09:26,,,,,,203
+FAGLIG LED,,,,Haltbakk,Johannes,,Master i klinisk sykepleie - Operasjonssykepleie,,16,2017-08-01 00:00:00,,,,,MA-KSO,,,,,,HMHA,2018-04-12 10:08:59,HMHA,2018-04-12 10:09:08,,,,,,203
+FAGLIG LED,203,ANE506,1,Haltbakk,Johannes,Kliniske studier 3,,,21,2018-04-27 00:00:00,,,,,,,,,,,MEAH,2018-04-27 09:49:50,MEAH,2018-04-27 09:49:50,,,,,,203
+FAGLIG LED,203,DIA501B,1,Haltbakk,Johannes,Helsepedagogikk,,,45,2018-04-27 00:00:00,,,,,,,,,,,MEAH,2018-04-27 10:10:32,MEAH,2018-04-27 10:10:32,,,,,,203
+FAGLIG LED,203,DIA502,1,Haltbakk,Johannes,Forskningsmetode og kunnskapsbasert  praksis,,,46,2018-04-27 00:00:00,,,,,,,,,,,MEAH,2018-04-27 10:10:50,MEAH,2018-04-27 10:10:50,,,,,,203
+FAGLIG LED,203,DIA503,1,Haltbakk,Johannes,Fordypning i klinisk diabetesspesialitet og klinisk fagledelse,,,47,2018-04-27 00:00:00,,,,,,,,,,,MEAH,2018-04-27 10:11:06,HTV,2018-06-08 09:29:15,,,,,,203
+FAGLIG LED,,,,Haltbakk,Johannes,,Master i sykepleie - kliniske spesialiteter,,72,2021-01-01 00:00:00,,,,,MASKS,,,,,,IHS,2021-02-18 15:21:40,IHS,2021-02-18 15:21:40,,,,,,203
+FAGLIG LED,,,,Haltbakk,Johannes,,Master i spesialsykepleie,,78,2022-05-01 00:00:00,,,,,MASP,,,,,,HMHA,2022-12-01 10:12:23,HMHA,2023-08-11 10:10:14,Programansvarlig og studiekoordinator Barnesykepleie,,,,,203
+FAGLIG LED,,,,Haltbakk,Johannes,,Sykepleie - kliniske spesialiteter,,81,2023-01-30 00:00:00,,,,,VSKS,,,,,,LHE,2023-01-30 14:11:16,LHE,2023-01-30 14:11:16,,,,,,203
+FAGLIG LED,,,,Haltbakk,Johannes,,Master i spesialsykepleie,,89,2023-03-15 00:00:00,,,,,MASP,,,HØST,2023,,MEAH,2023-03-14 12:40:18,HMHA,2025-02-04 15:44:04,,,,,,203
+FAGLIG LED,,,,Haltbakk,Johannes,,Master i spesialsykepleie,,90,2023-03-15 00:00:00,,,,,MASP,,,HØST,2023,,MEAH,2023-03-14 12:41:57,HMHA,2025-02-04 15:44:03,,,,BERGEN,,203
+FAGLIG LED,,,,Haltbakk,Johannes,,Master i spesialsykepleie,,100,2024-03-19 00:00:00,,,,,MASP,,,HØST,2024,,MEAH,2024-03-19 09:45:25,MEAH,2024-03-19 09:45:32,,,,BRG-ANE,,203
+FAGLIG LED,,,,Haltbakk,Johannes,,Master i klinisk sykepleie - Diabetessykepleie,,101,2024-04-29 00:00:00,,,,,MA-KSD,,,HØST,2024,,MEAH,2024-04-29 13:09:19,MEAH,2024-04-29 13:09:19,,,,,,203
+FAGLIG LED,,,,Haltbakk,Johannes,,Master i klinisk sykepleie - Kardiologisk sykepleie,,102,2024-04-29 00:00:00,,,,,MA-KSK,,,HØST,2024,,MEAH,2024-04-29 13:13:12,MEAH,2024-04-29 13:13:12,,,,,,203
+FAGLIG LED,203,SPE590,1,Haltbakk,Johannes,Masteroppgave,,,104,2024-08-16 00:00:00,,,,,,,,,,,MEAH,2024-08-16 11:10:15,MEAH,2024-08-16 11:10:15,,,,,,203
+FAGLIG LED,,,,Hamre,Liv Norunn,,Bachelor i landskapsplanlegging med landskapsarkitektur,,10,2019-07-01 00:00:00,,,,,LANA,,,,,,KHE,2020-01-29 13:14:46,KHE,2020-01-29 13:14:46,,,,,,203
+FAGLIG LED,,,,Hansen,Hege Almeland,,Master i psykisk helse- og rusarbeid,,7,2022-01-01 00:00:00,,,,,MA-PHA,,,,,,KHE,2022-01-20 08:27:12,KHE,2022-01-20 08:27:12,Fagseksjonsleder,,,,,203
+FAGLIG LED,,,,Hansen,Hege Almeland,,Tverrfaglig videreutdanning i psykisk helse- og rusarbeid,,14,2023-10-10 00:00:00,,,,,VTPHR,,,,,,SIRIJO,2023-12-08 13:34:32,SIRIJO,2023-12-08 13:35:11,,,,,,203
+FAGLIG LED,,,,Hansen,Hege Almeland,,Tverrfaglig master i psykisk helse- og rusarbeid,,15,2023-10-10 00:00:00,,,,,MAPHER,,,,,,SIRIJO,2023-12-08 13:47:17,SIRIJO,2023-12-08 13:47:17,,,,,,203
+FAGLIG LED,,,,Hanson,Erik Andreas,,Forkurs nett- og samlingsbasert,,13,2023-03-01 00:00:00,,,,,FORNS,,,,,,GIH,2023-03-21 14:16:01,GIH,2023-03-21 14:16:01,,,,,,203
+FAGLIG LED,,,,Hanson,Erik Andreas,,Ettårig forkurs for 3-årig ingeniørutdanning og integrert masterstudium i teknologiske fag,,14,2023-03-01 00:00:00,,,,,FORKURS,,,,,,GIH,2023-03-21 14:16:56,GIH,2023-03-21 14:16:56,,,,,,203
+FAGLIG LED,,,,Hanson,Erik Andreas,,Realfagskurs (over ett semester),,15,2023-03-01 00:00:00,,,,,REALFAG,,,,,,GIH,2023-03-21 14:17:44,GIH,2023-03-21 14:17:44,,,,,,203
+FAGLIG LED,,,,Hanson,Erik Andreas,,Realfagskurs nett- og samlingsbasert (deltid),,16,2023-03-01 00:00:00,,,,,REALNS,,,,,,GIH,2023-03-21 14:18:31,GIH,2023-03-21 14:18:31,,,,,,203
+FAGLIG LED,,,,Hasund,Solfrid Paula Sjåstad,,Masterprogram i energi,,29,2020-01-01 00:00:00,,,,,ETK-MA,,,,,,GIH,2021-03-11 15:18:08,GIH,2021-03-11 19:13:57,,,,,,203
+FAGLIG LED,203,MGBMA101,1,Hauge,Kjellrun Hiis,"Matematikk 1, emne 1 - Begynneropplæring i matematikk",,,7,2024-05-01 00:00:00,,,,,,1,,VÅR,2025,1,MAJA,2024-12-16 12:55:57,MAJA,2024-12-16 12:55:57,,,,,,203
+FAGLIG LED,,,,Haugstvedt,Anne,,Master i klinisk sykepleie - Diabetessykepleie,,13,2022-05-01 00:00:00,,,,,MA-KSD,,,,,,HMHA,2022-08-12 09:39:37,HMHA,2022-08-12 09:40:22,,,,,,203
+FAGLIG LED,,,,Haustveit,Eirik,,"Bachelor i ingeniørfag, elkraftteknikk",,15,2024-05-01 00:00:00,,,,,ELK,,,,,,GIH,2024-04-29 12:00:28,GIH,2024-05-15 08:26:49,,,,,,203
+FAGLIG LED,,,,Haustveit,Eirik,,"Bachelor i ingeniørfag, elkraftteknikk",,17,2024-06-01 00:00:00,,,,,ELKF,,,,,,GIH,2024-05-15 08:28:30,GIH,2024-05-15 08:28:41,,,,,,203
+FAGLIG LED,,,,Haustveit,Eirik,,"Bachelor i ingeniørfag, elkraftteknikk y-vei",,18,2024-06-01 00:00:00,,,,,ELKYF,,,,,,GIH,2024-05-15 08:29:17,GIH,2024-05-15 08:29:17,,,,,,203
+FAGLIG LED,,,,Haustveit,Eirik,,"Bachelor i ingeniørfag, elektroteknologi",,19,2024-08-01 00:00:00,,,,,BELE,,,,,,GIH,2024-05-15 08:30:04,GIH,2024-05-15 08:30:04,Studieretning ELK,,,,,203
+FAGLIG LED,,,,Haustveit,Eirik,,"Bachelor i ingeniørfag, elektroteknologi",,20,2024-08-01 00:00:00,,,,,BELEF,,,,,,GIH,2024-05-15 08:30:51,GIH,2024-05-15 08:30:51,Studieretning ELK,,,,,203
+FAGLIG LED,,,,Haustveit,Svein,,"Bachelor i ingeniørfag, elektronikk",,35,2020-01-01 00:00:00,,,,,EEL,,,,,,GIH,2020-01-14 11:00:47,GIH,2020-10-16 14:42:33,,,,,,203
+FAGLIG LED,,,,Haustveit,Svein,,"Bachelor i ingeniørfag, elkraftteknikk",,48,2020-10-01 00:00:00,,,,,ELK,,,,,,GIH,2020-10-16 14:43:29,GIH,2020-10-16 14:43:29,,,,,,203
+FAGLIG LED,,,,Haustveit,Svein,,"Bachelor i ingeniørfag, cyberfysisk nettverksteknologi",,50,2020-10-01 00:00:00,,,,,KOM,,,,,,GIH,2020-10-16 14:45:20,GIH,2020-10-16 14:45:20,,,,,,203
+FAGLIG LED,,,,Helland,Lars-Petter,,"Bachelor i ingeniørfag, data",,9,2017-01-01 00:00:00,,,,,DATA,,,,,,GIH,2017-02-02 12:39:57,GIH,2017-02-02 12:39:57,,,,,,203
+FAGLIG LED,,,,Helland,Lars-Petter,,Bachelor i informasjonsteknologi,,11,2018-01-01 00:00:00,,,,,INF,,,,,,GIH,2018-01-31 14:24:27,GIH,2021-02-19 09:45:49,,,,,,203
+FAGLIG LED,,,,Helland,Lars-Petter,,Bachelor i informasjonsteknologi,,23,2010-08-01 00:00:00,,,,,INF-F,,,,,,HMHA,2018-10-01 15:48:26,GIH,2021-10-28 08:11:01,,,,,,203
+FAGLIG LED,,,,Helland,Lars-Petter,,Bachelor i informasjonsteknologi,,41,2023-08-01 00:00:00,,,,,INF-H,,,,,,GIH,2023-09-27 10:18:07,GIH,2023-09-27 10:18:16,,,,,,203
+FAGLIG LED,,,,Hemmingsson,Per Fredrik Lennart,,"Bachelor i ingeniørfag, Brannsikkerhet",,19,2018-01-01 00:00:00,,,,,ING-BRANN,,,,,,KHE,2018-03-16 08:03:47,KHE,2018-03-16 08:05:38,,,,,,203
+FAGLIG LED,,,,Herfindal,Torunn,,Bachelor - barnehagelærerutdanning,,9,2019-06-14 00:00:00,,,,,BBL,,,,,,ALHE,2019-06-14 14:19:10,ALHE,2019-06-14 14:19:10,,,,,,203
+FAGLIG LED,,,,Hetland,Kristin Fanebust,,"Bachelor i ingeniørfag, data",,4,2017-01-01 00:00:00,,,,,DATA,,,,,,GIH,2017-02-02 12:39:19,GIH,2017-02-02 12:39:57,,,,,,203
+FAGLIG LED,,,,Hetland,Kristin Fanebust,,Bachelor i informasjonsteknologi,,5,2017-03-29 00:00:00,,,,,INF,,,,,,HMHA,2017-03-30 09:06:42,GIH,2021-02-19 09:45:49,,,,,,203
+FAGLIG LED,,,,Hetland,Kristin Fanebust,,"Bachelor i ingeniørfag, cyberfysisk nettverksteknologi",,13,2022-08-01 00:00:00,,,,,KOM,,,,,,GIH,2022-08-17 13:47:02,GIH,2022-08-17 13:47:02,,,,,,203
+FAGLIG LED,,,,Hetland,Kristin Fanebust,,"Bachelor i ingeniørfag, elkraftteknikk",,14,2022-08-01 00:00:00,,,,,ELK,,,,,,GIH,2022-08-17 13:47:43,GIH,2022-08-17 13:47:43,,,,,,203
+FAGLIG LED,,,,Hetland,Kristin Fanebust,,"Bachelor i ingeniørfag, elektronikk",,15,2022-08-01 00:00:00,,,,,EEL,,,,,,GIH,2022-08-17 13:48:19,GIH,2022-08-17 13:48:19,,,,,,203
+FAGLIG LED,,,,Hetland,Kristin Fanebust,,"Bachelor i ingeniørfag, automatisering med robotikk",,16,2022-08-01 00:00:00,,,,,AUTB,,,,,,GIH,2022-08-17 13:49:04,GIH,2022-08-17 13:49:04,,,,,,203
+FAGLIG LED,,,,Hetland,Kristin Fanebust,,"Bachelor i ingeniørfag, automatisering med robotikk",,17,2022-08-01 00:00:00,,,,,AUTH,,,,,,GIH,2022-08-17 13:50:36,GIH,2022-08-17 13:50:36,,,,,,203
+FAGLIG LED,,,,Hetland,Kristin Fanebust,,"Bachelor i ingeniørfag, automatisering med robotikk y-vei",,18,2022-08-01 00:00:00,,,,,AUTYH,,,,,,GIH,2022-08-17 13:51:30,GIH,2022-08-17 13:51:30,,,,,,203
+FAGLIG LED,,,,Hetland,Kristin Fanebust,,"Bachelor i ingeniørfag, elkraftteknikk",,19,2022-08-01 00:00:00,,,,,ELKF,,,,,,GIH,2022-08-17 13:52:35,GIH,2022-08-17 13:52:35,,,,,,203
+FAGLIG LED,,,,Hetland,Kristin Fanebust,,"Bachelor i ingeniørfag, elkraftteknikk y-vei",,20,2022-08-01 00:00:00,,,,,ELKYF,,,,,,GIH,2022-08-17 13:54:33,GIH,2022-08-17 13:54:33,,,,,,203
+FAGLIG LED,,,,Hetland,Kristin Fanebust,,Forkurs nett- og samlingsbasert,,21,2022-08-01 00:00:00,,,,,FORNS,,,,,,GIH,2022-08-17 14:03:25,GIH,2022-08-17 14:03:25,,,,,,203
+FAGLIG LED,,,,Hetland,Kristin Fanebust,,Ettårig forkurs for 3-årig ingeniørutdanning og integrert masterstudium i teknologiske fag,,22,2022-08-01 00:00:00,,,,,FORKURS,,,,,,GIH,2022-08-19 14:27:49,GIH,2022-08-19 14:27:49,,,,,,203
+FAGLIG LED,,,,Hetland,Kristin Fanebust,,Realfagskurs nett- og samlingsbasert (deltid),,23,2022-08-01 00:00:00,,,,,REALNS,,,,,,GIH,2022-08-19 14:28:31,GIH,2022-08-19 14:28:31,,,,,,203
+FAGLIG LED,,,,Hetland,Kristin Fanebust,,Realfagskurs (over ett semester),,24,2022-08-01 00:00:00,,,,,REALFAG,,,,,,GIH,2022-08-19 14:29:06,GIH,2022-08-19 14:29:06,,,,,,203
+FAGLIG LED,,,,Hodzic,Adis,,"Bachelor i ingeniørfag, cyberfysisk nettverksteknologi",,6,2017-01-01 00:00:00,,,,,KOM,,,,,,GIH,2017-02-15 14:07:24,GIH,2017-02-15 14:07:24,,,,,,203
+FAGLIG LED,,,,Hodzic,Adis,,"Bachelor i ingeniørfag, elektroteknologi",,75,2024-08-01 00:00:00,,,,,BELE,,,,,,GIH,2024-04-29 12:10:05,GIH,2024-04-29 12:10:05,Studieretning CYB,,,,,203
+FAGLIG LED,,,,Hollekve,Ingvild,,Bachelor i vernepleie,,19,2020-07-01 00:00:00,,,,,BVPL,,,,,,KHE,2020-11-02 15:23:51,KHE,2024-02-27 10:41:18, Fagseksjonsleiar Sogndal,,,,,203
+FAGLIG LED,,,,Hollekve,Ingvild,,"Bachelor i vernepleie, deltid",,33,2023-07-01 00:00:00,,,,,BVPLD,,,,,,KHE,2024-02-27 10:41:08,KHE,2024-02-27 10:41:08,Fagseksjonsleiar Sogndal,,,,,203
+FAGLIG LED,,,,Hope,Kristin Lofthus,,"Bachelor i økonomi og administrasjon, Bergen",,12,2021-07-01 00:00:00,,,,,ØAU3,,,,,,KHE,2021-10-08 13:25:33,KHE,2022-01-14 13:31:08,,,,,,203
+FAGLIG LED,,,,Hope,Kristin Lofthus,,Master i økonomi og administrasjon (Siviløkonom),,14,2022-09-07 00:00:00,,,,,MSB,,,,,,GME,2022-09-07 09:45:49,GME,2022-09-07 09:45:49,,,,,,203
+FAGLIG LED,,,,Hope,Kristin Lofthus,,FRAMO-akademiet,,17,2023-05-01 00:00:00,,,,,FRAMOAKADE,,,,,,KHE,2023-09-21 12:55:35,KHE,2023-09-21 12:55:35,,,,,,203
+FAGLIG LED,,,,Hope,Kristin Lofthus,,Addisco ,,18,2023-05-01 00:00:00,,,,,ADDISCO,,,,,,KHE,2023-09-21 12:56:13,KHE,2023-09-21 12:56:13,,,,,,203
+FAGLIG LED,,,,Hope,Kristin Lofthus,,Coaching som ledelsesverktøy,,19,2023-05-01 00:00:00,,,,,V-COA,,,,,,KHE,2023-09-21 12:56:47,KHE,2023-09-21 12:56:47,,,,,,203
+FAGLIG LED,203,BØA119,1,Hope,Kristin Lofthus,Danning og akademisk håndverk,,,26,2022-05-01 00:00:00,,,,,,,,,,,KHE,2023-10-16 10:50:48,KHE,2023-10-16 10:50:48,,,,,,203
+FAGLIG LED,203,DØL117,1,Hope,Kristin Lofthus,Digital organisering og ledelse,,,27,2023-05-01 00:00:00,,,,,,,,,,,KHE,2023-10-16 10:51:55,KHE,2023-10-16 10:51:55,,,,,,203
+FAGLIG LED,,,,Hope,Kristin Lofthus,,"Digital økonomi og leiing, Årsprogram",,28,2023-05-01 00:00:00,,,,,DOL,,,,,,HMHA,2024-02-20 08:38:14,ABR,2024-03-11 09:43:26,,,,,,203
+FAGLIG LED,203,BØA3200,1,Hope,Kristin Lofthus,"Bærekraftig økonomi, miljø og velstand ",,,29,2023-05-01 00:00:00,,,,,,,,,,,HMHA,2024-03-04 14:15:37,HMHA,2024-03-04 14:15:37,,,,,,203
+FAGLIG LED,203,MAS215,1,Hope,Kristin Lofthus,Produktutvikling for bærekraft,,,30,2023-05-01 00:00:00,,,,,,,,,,,HMHA,2024-03-04 14:16:25,HMHA,2024-03-04 14:19:00,Ansvarlig på SDG-fag,,,,,203
+FAGLIG LED,203,MMO5002,1,Hope,Kristin Lofthus,Safety and Human Factors,,,31,2023-05-01 00:00:00,,,,,,,,,,,HMHA,2024-03-04 14:17:01,HMHA,2024-03-04 14:19:03,Ansvarlig på SDG-fag,,,,,203
+FAGLIG LED,203,OR1000,1,Hope,Kristin Lofthus,Ledelse av kulturelt mangfold,,,32,2023-05-01 00:00:00,,,,,,,,,,,HMHA,2024-03-04 14:17:05,HMHA,2024-03-04 14:19:07,Ansvarlig på SDG-fag,,,,,203
+FAGLIG LED,203,SA206,1,Hope,Kristin Lofthus,"Kultur, identitet og globale kriser",,,33,2023-05-01 00:00:00,,,,,,,,,,,HMHA,2024-03-04 14:17:09,HMHA,2024-03-04 14:19:11,Ansvarlig på SDG-fag,,,,,203
+FAGLIG LED,203,SDG230,1,Hope,Kristin Lofthus,Rettferdig fordeling og rettferdig skatt,,,34,2023-05-01 00:00:00,,,,,,,,,,,HMHA,2024-03-04 14:17:14,HMHA,2024-03-04 14:19:14,Ansvarlig på SDG-fag,,,,,203
+FAGLIG LED,203,SDG234,2,Hope,Kristin Lofthus,"Innovasjons-, endringsledelse og bærekraft",,,35,2023-05-01 00:00:00,,,,,,,,,,,HMHA,2024-03-04 14:17:19,HMHA,2024-03-04 14:19:19,Ansvarlig på SDG-fag,,,,,203
+FAGLIG LED,203,SDG331,1,Hope,Kristin Lofthus,Økonomisk og teknologisk historie,,,36,2023-05-01 00:00:00,,,,,,,,,,,HMHA,2024-03-04 14:17:24,HMHA,2024-03-04 14:19:22,Ansvarlig på SDG-fag,,,,,203
+FAGLIG LED,203,SDG332,1,Hope,Kristin Lofthus,Miljøøkonomi og bærekraftig utvikling,,,37,2023-05-01 00:00:00,,,,,,,,,,,HMHA,2024-03-04 14:17:28,HMHA,2024-03-04 14:19:26,Ansvarlig på SDG-fag,,,,,203
+FAGLIG LED,203,SDG335,1,Hope,Kristin Lofthus,Grønn digitalisering og app-utvikling,,,38,2023-05-01 00:00:00,,,,,,,,,,,HMHA,2024-03-04 14:17:32,HMHA,2024-03-04 14:19:30,Ansvarlig på SDG-fag,,,,,203
+FAGLIG LED,203,ØKB2117,1,Hope,Kristin Lofthus,Entreprenørskap,,,39,2023-05-01 00:00:00,,,,,,,,,,,HMHA,2024-03-04 14:17:37,HMHA,2024-03-04 14:19:34,Ansvarlig på SDG-fag,,,,,203
+FAGLIG LED,203,ØKB3130,1,Hope,Kristin Lofthus,Bærekraftig shippingøkonomi ,,,40,2023-05-01 00:00:00,,,,,,,,,,,HMHA,2024-03-04 14:17:41,HMHA,2024-03-04 14:19:38,Ansvarlig på SDG-fag,,,,,203
+FAGLIG LED,,,,Hope,Kristin Lofthus,,Etter- og videreutdanning FØS,,42,2024-05-01 00:00:00,,,,,EVUEFØS,,,,,,KHE,2024-10-23 13:42:38,KHE,2024-10-23 13:42:38,,,,,,203
+FAGLIG LED,,,,Hope,Kristin Lofthus,,"Bachelor i økonomi og administrasjon, Haugesund",,43,2024-05-01 00:00:00,,,,,ØKB,,,,,,KHE,2024-10-23 13:43:01,KHE,2024-10-23 13:43:01,,,,,,203
+FAGLIG LED,,,,Hope,Kristin Lofthus,,"Økonomi og jus, bachelorstudium, Sogndal",,44,2024-05-01 00:00:00,,,,,ØKOJ,,,,,,KHE,2024-10-23 13:50:03,KHE,2024-10-23 13:50:03,,,,,,203
+FAGLIG LED,,,,Hope,Kristin Lofthus,,"Bachelor i økonomi og administrasjon, Sogndal",,45,2024-05-01 00:00:00,,,,,ØKOB,,,,,,KHE,2024-10-23 13:56:50,KHE,2024-10-23 13:56:50,,,,,,203
+FAGLIG LED,,,,Hope,Kristin Lofthus,,Årsstudium i administrasjon og ledelse,,46,2024-05-01 00:00:00,,,,,ADLE,,,,,,KHE,2024-10-23 13:57:34,KHE,2024-10-23 13:57:34,,,,,,203
+FAGLIG LED,,,,Hovland,Gro,,Master i klinisk sykepleie - Anestesisykepleie,,60,2022-05-01 00:00:00,,,,,MA-KSA,,,,,,HMHA,2022-08-12 09:38:10,HMHA,2022-08-12 09:38:10,,,,,,203
+FAGLIG LED,,,,Husabø,Gunnar,,Masterstudium i organisasjon og ledelse,,44,2023-07-01 00:00:00,,,,,MADL,,,,,,KHE,2024-01-11 12:29:45,KHE,2024-01-11 12:29:45,,,,,,203
+FAGLIG LED,,,,Johnsgaard,Tone,,Master i spesialsykepleie,,25,2023-05-01 00:00:00,,,,,MASP,,,,,,HMHA,2023-08-11 10:04:19,HMHA,2023-08-11 10:04:27,Studiekoordinator Intensivsykepleie,,,,,203
+FAGLIG LED,,,,Johnsgaard,Tone,,Master i klinisk sykepleie - Intensivsykepleie,,26,2023-05-01 00:00:00,,,,,MA-KSI,,,,,,HMHA,2023-08-11 10:35:27,HMHA,2023-08-11 10:35:27,,,,,,203
+FAGLIG LED,,,,Jonsson,Loftur Thor,,Master i areal og eiendom,,16,2020-10-01 00:00:00,,,,,EIE-MA,,,,,,GIH,2020-10-16 10:07:14,GIH,2020-10-16 10:16:20,,,,,,203
+FAGLIG LED,,,,Julbø,Brit,,"Bachelor i ingeniørfag, automatisering med robotikk y-vei",,53,2021-01-01 00:00:00,,,,,AUTYH,,,,,,RUH,2021-01-19 09:05:34,RUH,2021-01-19 11:11:32,,,,,,203
+FAGLIG LED,,,,Julbø,Brit,,"Bachelor i ingeniørfag, automatisering med robotikk",,54,2021-01-01 00:00:00,,,,,AUTH,,,,,,RUH,2021-01-19 09:06:41,RUH,2021-01-19 11:11:28,,,,,,203
+FAGLIG LED,203,FOR022,1,Julbø,Brit,Teknologi og samfunn,,,59,2022-05-01 00:00:00,,,,,,,,,,,FSWS,2022-03-07 12:44:41,HMHA,2024-08-16 09:12:00,,,,,,203
+FAGLIG LED,,,,Jørgensen,Tone,,Vurdering av barnets beste,,1,2018-03-08 00:00:00,,,,,O-VBB,,,,,,KSEN,2018-03-12 18:00:45,KSEN,2018-03-12 18:00:45,,,,,,203
+FAGLIG LED,,,,Kaldestad,Arne,,Praktisk-pedagogisk utdanning for allmenne fag,,37,2019-01-01 00:00:00,,,,,PPUALM,,,,,,KHE,2021-10-08 13:29:05,KHE,2021-10-08 13:29:15,,,,,,203
+FAGLIG LED,,,,Kaldestad,Arne,,Praktisk-pedagogisk utdanning for allmenne fag,,38,2019-01-01 00:00:00,,,,,PPUALMD,,,,,,KHE,2021-10-08 13:29:43,KHE,2021-10-08 13:29:43,,,,,,203
+FAGLIG LED,,,,Kaldestad,Arne,,Praktisk pedagogisk utdanning for yrkesfag,,39,2019-01-01 00:00:00,,,,,PPUYRKD,,,,,,KHE,2021-10-08 13:30:50,KHE,2021-10-08 13:30:50,,,,,,203
+FAGLIG LED,,,,Kaldestad,Arne,,Master i praktisk utdanningsvitenskap,,40,2021-07-01 00:00:00,,,,,MPUV,,,,,,KHE,2022-01-18 14:47:40,KHE,2022-01-18 14:47:40,,,,,,203
+FAGLIG LED,,,,Kaldestad,Arne,,Master i didaktiske praksiser,,41,2021-07-01 00:00:00,,,,,MDIP,,,,,,KHE,2022-01-18 14:48:14,KHE,2022-01-18 14:48:14,,,,,,203
+FAGLIG LED,,,,Kaldestad,Arne,,E-helse for HO & EL/ Digitalisering og ny teknologi inn i yrkesdidaktikken for HO og EL ,,50,2022-05-01 00:00:00,,,,,YFL2,,,,,,KHE,2022-12-21 11:06:39,KHE,2022-12-21 11:06:39,,,,,,203
+FAGLIG LED,,,,Kaldestad,Arne,,Tilpasset opplæring og motivasjon i mangfoldige og flerspråklige elevgrupper,,51,2022-05-01 00:00:00,,,,,YFL3,,,,,,KHE,2022-12-21 11:13:17,KHE,2022-12-21 11:13:17,,,,,,203
+FAGLIG LED,,,,Kaldestad,Arne,,Master med integrert PPU,,55,2024-05-01 00:00:00,,,,,MPPU,,,,,,KHE,2023-11-30 15:24:54,KHE,2023-11-30 15:24:54,,,,,,203
+FAGLIG LED,,,,Kaldestad,Arne,,Bachelor i skolefritidspedagogikk,,65,2024-10-23 00:00:00,,,,,BSFPED,,,,,,KHE,2024-11-01 09:52:21,ANEB,2025-02-17 11:33:06,,,,,,203
+FAGLIG LED,,,,Kaldestad,Arne,,Master med integrert PPU,,66,2024-05-01 00:00:00,,,,,MPPUA,,,,,,KHE,2024-12-05 10:17:40,KHE,2024-12-05 10:17:40,,,,,,203
+FAGLIG LED,,,,Kalgraf,Solveig,,Grunnskolelærerutdanning 1.-7. trinn,,8,2019-06-18 00:00:00,,,,,MGBBE,,,,,,ALHE,2019-06-19 09:13:46,ALHE,2019-06-19 09:13:46,,,,,,203
+FAGLIG LED,,,,Kalgraf,Solveig,,Grunnskolelærerutdanning 5.-10. trinn,,9,2019-06-18 00:00:00,,,,,MGUST,,,,,,ALHE,2019-06-19 09:41:42,ALHE,2019-06-19 09:41:42,,,,,,203
+FAGLIG LED,,,,Kallestad,Jan Helge,,Grunnskolelærerutdanning 5.-10. trinn,,9,2010-08-01 00:00:00,,,,,MGUBE,,,,,,HMHA,2017-08-31 09:23:20,HMHA,2017-08-31 09:23:20,,,,,,203
+FAGLIG LED,,,,Kallestad,Jan Helge,,Grunnskolelærerutdanning 5.-10. trinn,,10,2010-08-01 00:00:00,,,,,MGUSO,,,,,,HMHA,2017-08-31 09:24:55,HMHA,2017-08-31 09:24:55,,,,,,203
+FAGLIG LED,,,,Kalsås,Øyvind Reehorst,,Familieterapi og relasjonelt arbeid,,20,2024-05-01 00:00:00,,,,,VRA,,,,,,KHE,2025-01-22 10:41:03,KHE,2025-01-22 10:41:03,,,,,,203
+FAGLIG LED,,,,Kalsås,Øyvind Reehorst,,Master i familieterapi og relasjonelt arbeid,,21,2024-05-01 00:00:00,,,,,MARA,,,,,,KHE,2025-01-22 10:41:31,KHE,2025-01-22 10:41:31,,,,,,203
+FAGLIG LED,,,,Kalsås,Øyvind Reehorst,,Master i psykisk helse- og rusarbeid,,22,2024-05-01 00:00:00,,,,,MA-PHA,,,,,,KHE,2025-01-22 10:42:10,KHE,2025-01-22 10:42:10,,,,,,203
+FAGLIG LED,,,,Kalsås,Øyvind Reehorst,,Tverrfaglig master i psykisk helse- og rusarbeid,,23,2024-05-01 00:00:00,,,,,MAPHER,,,,,,KHE,2025-01-22 10:42:34,KHE,2025-01-22 10:42:34,,,,,,203
+FAGLIG LED,,,,Kalsås,Øyvind Reehorst,,Tverrfaglig videreutdanning i psykisk helse- og rusarbeid,,24,2024-05-01 00:00:00,,,,,VTPHR,,,,,,KHE,2025-01-22 10:42:54,KHE,2025-01-22 10:42:54,,,,,,203
+FAGLIG LED,,,,Kampen,Anne-Lena,,"Bachelor i ingeniørfag, cyberfysisk nettverksteknologi",,11,2021-08-01 00:00:00,,,,,KOM,,,,,,GIH,2021-08-04 13:23:55,GIH,2021-08-04 13:23:55,,,,,,203
+FAGLIG LED,,,,Kampen,Anne-Lena,,"Bachelor i ingeniørfag, elektronikk",,16,2022-08-01 00:00:00,,,,,EEL,,,,,,GIH,2022-08-16 12:55:47,GIH,2022-08-16 12:56:58,,,,,,203
+FAGLIG LED,,,,Kampen,Anne-Lena,,"Bachelor i ingeniørfag, elkraftteknikk",,17,2022-08-01 00:00:00,,,,,ELK,,,,,,GIH,2022-08-16 12:56:29,GIH,2022-08-16 12:56:29,,,,,,203
+FAGLIG LED,,,,Kampen,Anne-Lena,,"Bachelor i ingeniørfag, automatisering med robotikk",,18,2022-08-01 00:00:00,,,,,AUTB,,,,,,GIH,2022-08-16 12:58:13,GIH,2022-08-16 12:58:13,,,,,,203
+FAGLIG LED,,,,Kampen,Anne-Lena,,"Bachelor i ingeniørfag, automatisering med robotikk",,19,2022-08-01 00:00:00,,,,,AUTH,,,,,,GIH,2022-08-17 13:50:36,GIH,2022-08-17 13:50:36,,,,,,203
+FAGLIG LED,,,,Kampen,Anne-Lena,,"Bachelor i ingeniørfag, automatisering med robotikk y-vei",,20,2022-08-01 00:00:00,,,,,AUTYH,,,,,,GIH,2022-08-17 13:51:30,GIH,2022-08-17 13:51:30,,,,,,203
+FAGLIG LED,,,,Kampen,Anne-Lena,,"Bachelor i ingeniørfag, elkraftteknikk",,21,2022-08-01 00:00:00,,,,,ELKF,,,,,,GIH,2022-08-17 13:52:35,GIH,2022-08-17 13:52:35,,,,,,203
+FAGLIG LED,,,,Kampen,Anne-Lena,,"Bachelor i ingeniørfag, elkraftteknikk y-vei",,22,2022-08-01 00:00:00,,,,,ELKYF,,,,,,GIH,2022-08-17 13:54:33,GIH,2022-08-17 13:54:33,,,,,,203
+FAGLIG LED,,,,Kampen,Anne-Lena,,"Bachelor i ingeniørfag, automatisering med robotikk",,23,2022-08-01 00:00:00,,,,,AUTF,,,,,,GIH,2022-08-24 10:44:44,GIH,2022-08-24 10:44:44,,,,,,203
+FAGLIG LED,,,,Kampen,Anne-Lena,,"Bachelor i ingeniørfag, automatisering med robotikk y-vei",,24,2022-08-01 00:00:00,,,,,AUTYF,,,,,,GIH,2022-08-24 10:45:25,GIH,2022-08-24 10:45:25,,,,,,203
+FAGLIG LED,,,,Kampen,Anne-Lena,,"Bachelor i ingeniørfag, elektroteknologi",,36,2024-08-01 00:00:00,,,,,BELE,,,,,,GIH,2024-04-29 12:08:57,GIH,2024-04-29 12:08:57,,,,,,203
+FAGLIG LED,,,,Kampen,Anne-Lena,,"Bachelor i ingeniørfag, elektroteknologi ",,37,2024-08-01 00:00:00,,,,,BELEH,,,,,,GIH,2024-04-29 12:12:58,GIH,2024-04-29 12:12:58,,,,,,203
+FAGLIG LED,,,,Kampen,Anne-Lena,,"Bachelor i ingeniørfag, elektroteknologi",,38,2024-08-01 00:00:00,,,,,BELEF,,,,,,GIH,2024-04-29 12:13:45,GIH,2024-04-29 12:13:45,,,,,,203
+FAGLIG LED,,,,Karlsen,Elsa Haagensen,,Logistikk,,17,2024-01-01 00:00:00,,,,,LOG,,,,,,ABR,2024-03-11 09:42:27,ABR,2024-03-11 09:42:27,,,,,,203
+FAGLIG LED,,,,Kleppe,Svein-Rune,,"Bachelor i ingeniørfag, bygg",,18,2019-08-01 00:00:00,,,,,BYGGF,,,,,,GIH,2019-04-11 13:32:51,GIH,2019-04-11 13:34:12,,,,,,203
+FAGLIG LED,,,,Kleppe,Svein-Rune,,"Bachelor i ingeniørfag, bygg, y-vei",,21,2019-08-01 00:00:00,,,,,BYGGYF,,,,,,GIH,2019-06-03 10:32:29,GIH,2019-06-03 10:32:29,,,,,,203
+FAGLIG LED,,,,Knudsen,Kristin,,Grunnskolelærerutdanning 1.-7. trinn,,36,2020-08-12 00:00:00,,,,,MGBBE,,,,,,ANEB,2020-08-12 13:22:57,ANEB,2020-08-12 13:23:22,,,,,,203
+FAGLIG LED,,,,Knudsen,Kristin,,Grunnskolelærerutdanning 5.-10. trinn,,37,2020-08-12 00:00:00,,,,,MGUBE,,,,,,ANEB,2020-08-12 13:24:07,HMHA,2023-12-01 13:42:35,,,,,,203
+FAGLIG LED,,,,Koch,Peter Edgar,,Masterprogram i energi,,7,2020-12-08 00:00:00,,,,,ETK-MA,,,,,,GIH,2020-12-08 11:04:25,GIH,2020-12-08 11:04:25,,,,,,203
+FAGLIG LED,,,,Koch,Peter Edgar,,Master i bærekraftig energiteknologi (sivilingeniør),,12,2023-05-01 00:00:00,,,,,MABET,,,,,,KHE,2023-08-15 14:10:07,GIH,2024-08-08 09:05:12,Studieprogramansvarlig,,,,,203
+FAGLIG LED,,,,Kolnes,Ole Fartein Knutson,,"Bachelor i ingeniørfag, bygg",,9,2021-08-01 00:00:00,,,,,BYGGF,,,,,,GIH,2021-08-24 09:59:43,GIH,2021-08-24 09:59:43,,,,,,203
+FAGLIG LED,,,,Kolnes,Ole Fartein Knutson,,"Bachelor i ingeniørfag, bygg, y-vei",,10,2021-08-01 00:00:00,,,,,BYGGYF,,,,,,GIH,2021-08-24 10:01:35,GIH,2021-08-24 10:01:35,,,,,,203
+FAGLIG LED,,,,Kopperstad,Arild Johann Wefring,,Bachelor i sosialt arbeid,,13,2023-05-01 00:00:00,,,,,BSAB,,,,,,KHE,2023-08-17 11:05:21,KHE,2023-08-17 11:05:21,,,,,,203
+FAGLIG LED,,,,Kristensen,Lars Michael,,Master i anvendt datateknologi og ingeniørvitenskap - ingeniørvitenskapelig studieretning ,,44,2022-12-01 00:00:00,,,,,MADI,,,,,,GIH,2022-11-25 14:29:03,GIH,2022-11-25 14:29:03,,,,,,203
+FAGLIG LED,,,,Kristensen,Lars Michael,,Master i anvendt datateknologi og ingeniørvitenskap - datavitenskapelig studieretning,,45,2022-12-01 00:00:00,,,,,MADD,,,,,,GIH,2022-11-25 14:30:23,GIH,2022-11-25 14:30:23,,,,,,203
+FAGLIG LED,,,,Kvala,Knut Steffen Vall,,"Bachelor i økonomi og administrasjon, Haugesund",,24,2021-07-01 00:00:00,,,,,ØKB,,,,,,KHE,2022-03-02 09:26:11,KHE,2022-03-02 09:26:11,,,,,,203
+FAGLIG LED,,,,Kvala,Knut Steffen Vall,,Etter- og videreutdanning FØS,,25,2021-07-01 00:00:00,,,,,EVUEFØS,,,,,,KHE,2022-03-02 09:26:34,KHE,2022-03-02 09:26:34,,,,,,203
+FAGLIG LED,,,,Kvala,Knut Steffen Vall,,Enkeltemner på Økonomi og administrasjon,,26,2021-07-01 00:00:00,,,,,ØKAD-EMNER,,,,,,KHE,2022-03-02 09:26:59,KHE,2022-03-02 09:26:59,,,,,,203
+FAGLIG LED,,,,Kvala,Knut Steffen Vall,,Bachelor i økonomi og administrasjon - deltid,,27,2021-07-01 00:00:00,,,,,ØKBD,,,,,,KHE,2022-03-02 09:27:21,KHE,2022-03-02 09:27:21,,,,,,203
+FAGLIG LED,,,,Kvala,Knut Steffen Vall,,Master i økonomi og administrasjon (Siviløkonom),,28,2021-07-01 00:00:00,,,,,MSB,,,,,,KHE,2022-03-02 09:28:02,KHE,2022-03-02 09:28:08,Faglig leder Haugesund,,,,,203
+FAGLIG LED,,,,Kvala,Knut Steffen Vall,,"Bachelor i økonomi og administrasjon, Haugesund",,53,2021-07-01 00:00:00,,,,,ØKB,,,,,,GME,2023-01-03 09:35:08,GME,2023-01-03 09:35:08,,,,,,203
+FAGLIG LED,,,,Kvala,Knut Steffen Vall,,Årsstudium i administrasjon og ledelse,,63,2022-10-01 00:00:00,,,,,ADLE,,,,,,ELT,2023-05-04 10:58:06,ELT,2023-05-04 11:01:03,Programansvarlig,,,,,203
+FAGLIG LED,,,,Kvamme,Kristin,,"Bachelor i ingeniørfag, kjemi",,6,2017-01-01 00:00:00,,,,,KJE,,,,,,GIH,2017-02-02 13:02:02,GIH,2017-02-03 09:27:23,,,,,,203
+FAGLIG LED,,,,Kvestad,Lars August Hafting,,"Bachelor i ingeniørfag, bygg",,21,2022-05-01 00:00:00,,,,,BYGGF,,,,,,KHE,2022-08-26 09:40:44,SIRIJO,2023-08-17 12:28:09,,,,,,203
+FAGLIG LED,,,,Kvestad,Lars August Hafting,,"Bachelor i ingeniørfag, bygg",,22,2022-05-01 00:00:00,,,,,BYGG,,,,,,KHE,2022-08-26 10:47:50,HMHA,2023-08-01 11:23:26,Ansvarlig for studiestart.,,,,,203
+FAGLIG LED,,,,Kvestad,Lars August Hafting,,Bachelor i landmåling og eiendomsdesign,,23,2022-05-01 00:00:00,,,,,LEIE,,,,,,KHE,2022-08-26 10:48:36,GIH,2024-10-03 09:35:52,Studieprogramansvarlig fra 01.10.2024,,,,,203
+FAGLIG LED,,,,Kvestad,Lars August Hafting,,Master i areal og eiendom,,30,2023-05-01 00:00:00,,,,,EIE-MA,,,,,,HMHA,2023-08-01 11:25:50,HMHA,2023-08-01 11:25:50,Ansvarlig for studiestart,,,,,203
+FAGLIG LED,,,,Kyrkjebø,Erik,,Master i anvendt datateknologi og ingeniørvitenskap - ingeniørvitenskapelig studieretning ,,11,2022-12-01 00:00:00,,,,,MADI,,,,,,GIH,2022-11-25 14:29:03,GIH,2022-11-25 14:29:03,,,,,,203
+FAGLIG LED,,,,Kyrkjebø,Erik,,Master i anvendt datateknologi og ingeniørvitenskap - datavitenskapelig studieretning,,12,2022-12-01 00:00:00,,,,,MADD,,,,,,GIH,2022-11-25 14:30:23,GIH,2022-11-25 14:30:23,,,,,,203
+FAGLIG LED,,,,Leiknes,Arve,,"Bachelor i ingeniørfag, bygg",,8,2017-01-01 00:00:00,,,,,BYGG,,,,,,GIH,2017-02-07 09:37:53,GIH,2017-02-07 09:37:53,,,,,,203
+FAGLIG LED,,,,Leiknes,Arve,,Bachelor i landmåling og eiendomsdesign,,9,2017-01-01 00:00:00,,,,,LEIE,,,,,,GIH,2017-02-07 09:39:44,GIH,2017-02-07 09:39:44,,,,,,203
+FAGLIG LED,,,,Leiknes,Arve,,Master i areal og eiendom,,10,2017-01-01 00:00:00,,,,,EIE-MA,,,,,,GIH,2017-02-07 09:40:40,GIH,2017-02-07 09:40:40,,,,,,203
+FAGLIG LED,,,,Leiknes,Arve,,"Bachelor i ingeniørfag, bygg",,14,2019-08-01 00:00:00,,,,,BYGGF,,,,,,GIH,2019-04-11 13:34:12,GIH,2020-10-20 15:15:08,,,,,,203
+FAGLIG LED,,,,Leiknes,Arve,,"Bachelor i ingeniørfag, bygg, y-vei",,15,2019-08-01 00:00:00,,,,,BYGGYF,,,,,,GIH,2019-06-03 10:32:29,GIH,2019-06-03 10:32:29,,,,,,203
+FAGLIG LED,,,,Leiknes,Arve,,Utvikling og forvaltning av bygg og eiendom,,21,2023-08-01 00:00:00,,,,,V-NEAK,,,,,,GIH,2024-01-05 11:04:32,GIH,2024-01-05 11:04:32,,,,,,203
+FAGLIG LED,,,,Lien,Vilde Hannevik,,"Jus, årsstudium",,22,2024-01-01 00:00:00,,,,,JUS,,,,,,ABR,2024-03-11 09:45:54,ABR,2024-03-11 13:33:35,,,,,,203
+FAGLIG LED,,,,Lindeman,Sari Kaarina,,Master i familieterapi og relasjonelt arbeid,,31,2021-01-20 00:00:00,,,,,MARA,,,,,,KHE,2021-01-20 13:21:09,KHE,2021-01-20 13:21:09,,,,,,203
+FAGLIG LED,,,,Lindeman,Sari Kaarina,,Frittstående emner i Familieterapi og relasjonelt arbeid,,57,2021-01-20 00:00:00,,,,,FFRA,,,,,,HMHA,2023-01-27 11:15:22,HMHA,2023-01-27 11:15:22,,,,,,203
+FAGLIG LED,,,,Lykkebø,Osvald,,"Engelsk 2, 1.-7. trinn",,24,2020-12-18 00:00:00,,,,,KFK-ENB2-N,,,,,,KHE,2020-12-18 11:32:22,KHE,2020-12-18 13:54:22,,,,,,203
+FAGLIG LED,,,,Lykkebø,Osvald,,"Engelsk 1, 1.-7. trinn",,25,2020-12-18 00:00:00,,,,,KFK-ENB1-N,,,,,,KHE,2020-12-18 13:54:16,KHE,2020-12-18 13:54:16,,,,,,203
+FAGLIG LED,,,,Lykkebø,Osvald,,"Engelsk 1, 5.-10. trinn",,26,2020-12-18 00:00:00,,,,,KFK-ENU1-N,,,,,,KHE,2020-12-18 13:58:41,KHE,2020-12-18 13:58:41,,,,,,203
+FAGLIG LED,,,,Lykkebø,Osvald,,"Engelsk 2, 5.-10. trinn",,27,2020-12-18 00:00:00,,,,,KFK-ENU2-N,,,,,,KHE,2020-12-18 13:59:28,KHE,2020-12-18 13:59:28,,,,,,203
+FAGLIG LED,,,,Lykkebø,Osvald,,"Matematikk 1, 1.-7. trinn, nettbasert",,29,2020-12-21 00:00:00,,,,,KFK-MAB1-N,,,,,,SIRIJO,2020-12-21 09:42:49,SIRIJO,2020-12-21 09:42:49,,,,,,203
+FAGLIG LED,,,,Lykkebø,Osvald,,"Matematikk 1, 5.-10. trinn, nettbasert",,32,2020-12-21 00:00:00,,,,,KFK-MAU1-N,,,,,,SIRIJO,2020-12-21 10:46:54,SIRIJO,2020-12-21 10:46:54,,,,,,203
+FAGLIG LED,,,,Lykkebø,Osvald,,"Norsk 1, 1.-7. trinn, nettbasert",,36,2020-12-21 00:00:00,,,,,KFK-NOB1-N,,,,,,SIRIJO,2020-12-21 12:28:49,SIRIJO,2020-12-21 12:28:49,,,,,,203
+FAGLIG LED,,,,Lykkebø,Osvald,,"Norsk 1, 5.-10. trinn, nettbasert",,38,2020-12-21 00:00:00,,,,,KFK-NOU1-N,,,,,,SIRIJO,2020-12-21 12:33:24,SIRIJO,2020-12-21 12:33:24,,,,,,203
+FAGLIG LED,,,,Lykkebø,Osvald,,"Norsk 2, 5.-10. trinn, nettbasert",,40,2020-12-21 00:00:00,,,,,KFK-NOU2-N,,,,,,SIRIJO,2020-12-21 12:36:04,SIRIJO,2020-12-21 12:36:04,,,,,,203
+FAGLIG LED,,,,Lykkebø,Osvald,,"Grunnleggende lese-, skrive- og matematikkopplæring",,41,2021-01-01 00:00:00,,,,,KFK-GLSM,,,,,,KHE,2021-01-06 15:43:16,KHE,2021-01-06 15:43:16,,,,,,203
+FAGLIG LED,,,,Lykkebø,Osvald,,"Norsk tegnspråk 1, 1.-13. trinn",,42,2021-01-11 00:00:00,,,,,KFK-NTS,,,,,,KHE,2021-01-11 12:21:49,KHE,2021-01-11 12:21:49,,,,,,203
+FAGLIG LED,,,,Lümmen,Norbert,,"Bachelor i ingeniørfag, energiteknologi",,2,2017-01-01 00:00:00,,,,,ETK,,,,,,GIH,2017-02-03 09:39:00,GIH,2024-08-08 09:01:25,Programfaglig ressursperson,,,,,203
+FAGLIG LED,,,,Løvlie,Frode Andreas,,"Master i innovasjon og ledelse, samfunnsfaglig retning",,13,2024-05-01 00:00:00,,,,,MIL-MA,,,,,,HMHA,2024-09-02 09:58:12,HMHA,2024-09-02 09:58:12,,,,,,203
+FAGLIG LED,203,INN524,1,Løvlie,Frode Andreas,Innovasjon i tverrfaglige studentteam,,,14,2024-05-01 00:00:00,,,,,,,,,,,HMHA,2024-09-03 12:20:16,HMHA,2024-09-03 12:20:16,,,,,,203
+FAGLIG LED,203,MOØ110,1,Løvlie,Frode Andreas,"Teknologiledelse og organisering, etikk og bærekraft",,,15,2024-05-01 00:00:00,,,,,,,,,,,HMHA,2024-09-03 12:20:32,HMHA,2024-09-03 12:20:32,,,,,,203
+FAGLIG LED,203,MOØ234,1,Løvlie,Frode Andreas,Innovasjonsledelse i etablerte bedrifter,,,16,2024-05-01 00:00:00,,,,,,,,,,,HMHA,2024-09-03 12:20:44,HMHA,2024-09-03 12:20:44,,,,,,203
+FAGLIG LED,203,MOØ236,1,Løvlie,Frode Andreas,Praksisemne - Innovasjon og ledelse i en afrikansk kontekst,,,17,2024-05-01 00:00:00,,,,,,,,,,,HMHA,2024-09-03 12:20:53,HMHA,2024-09-03 12:20:53,,,,,,203
+FAGLIG LED,203,MOØ238,1,Løvlie,Frode Andreas,Organisering og innovasjonskapasitet,,,18,2024-05-01 00:00:00,,,,,,,,,,,HMHA,2024-09-03 12:21:02,HMHA,2024-09-03 12:21:02,,,,,,203
+FAGLIG LED,203,MOØ239,1,Løvlie,Frode Andreas,Innovasjon og strategi,,,19,2024-05-01 00:00:00,,,,,,,,,,,HMHA,2024-09-03 12:21:12,HMHA,2024-09-03 12:21:12,,,,,,203
+FAGLIG LED,203,MOØ240,1,Løvlie,Frode Andreas,Innovasjon og entreprenørskap i praksis i en regional kontekst,,,20,2024-05-01 00:00:00,,,,,,,,,,,HMHA,2024-09-03 12:21:48,HMHA,2024-09-03 12:21:48,,,,,,203
+FAGLIG LED,203,MOØ241,1,Løvlie,Frode Andreas,Grønn omstilling og innovasjon i offentlig sektor,,,21,2024-05-01 00:00:00,,,,,,,,,,,HMHA,2024-09-03 12:21:56,HMHA,2024-09-03 12:21:56,,,,,,203
+FAGLIG LED,203,MSB102,1,Løvlie,Frode Andreas,Innovasjonsteori og praksis,,,22,2024-05-01 00:00:00,,,,,,,,,,,HMHA,2024-09-03 12:22:19,HMHA,2024-09-03 12:22:19,,,,,,203
+FAGLIG LED,203,MSB112,1,Løvlie,Frode Andreas,Forretningsutvikling,,,24,2024-05-01 00:00:00,,,,,,,,,,,HMHA,2024-09-03 12:22:35,HMHA,2024-09-03 12:22:35,,,,,,203
+FAGLIG LED,203,MSB206,1,Løvlie,Frode Andreas,Avansert forskning og spesialisering,,,25,2024-05-01 00:00:00,,,,,,,,,,,HMHA,2024-09-03 12:22:47,HMHA,2024-09-03 12:22:47,,,,,,203
+FAGLIG LED,203,MSB209,1,Løvlie,Frode Andreas,Avansert metode og forskningsdesign,,,26,2024-05-01 00:00:00,,,,,,,,,,,HMHA,2024-09-03 12:22:55,HMHA,2024-09-03 12:22:55,,,,,,203
+FAGLIG LED,203,MSB211,1,Løvlie,Frode Andreas,Digital organisering og ledelse,,,28,2024-05-01 00:00:00,,,,,,,,,,,FSWS,2025-02-07 11:20:01,FS,2025-02-08 00:00:52,,,,,,203
+FAGLIG LED,,,,Maristuen,Helene,,"Årsstudium i reiseliv, markedsføring og ledelse",,13,2020-10-01 00:00:00,,,,,REISÅ,,,,,,KHE,2021-03-17 15:01:55,KHE,2021-03-17 15:02:03,,,,,,203
+FAGLIG LED,,,,Mathiesen,Mathias Christian,,"Bachelor i ingeniørfag, automatisering med robotikk",,45,2018-01-01 00:00:00,,,,,AUTB,,,,,,GIH,2020-12-08 08:28:17,GIH,2021-01-19 12:55:06,,,,,,203
+FAGLIG LED,,,,Mathiesen,Mathias Christian,,"Bachelor i ingeniørfag, automatisering med robotikk",,46,2021-01-01 00:00:00,,,,,AUTF,,,,,,GIH,2020-12-08 08:29:04,GIH,2020-12-08 08:29:12,,,,,,203
+FAGLIG LED,,,,Mathiesen,Mathias Christian,,"Bachelor i ingeniørfag, automatisering med robotikk y-vei",,47,2021-01-01 00:00:00,,,,,AUTYF,,,,,,GIH,2020-12-08 08:30:07,GIH,2020-12-08 08:30:16,,,,,,203
+FAGLIG LED,,,,Mathiesen,Mathias Christian,,"Bachelor i ingeniørfag, automatisering med robotikk",,48,2021-01-01 00:00:00,,,,,AUTH,,,,,,GIH,2020-12-08 10:55:29,GIH,2020-12-08 10:55:29,,,,,,203
+FAGLIG LED,,,,Mathiesen,Mathias Christian,,"Bachelor i ingeniørfag, automatisering med robotikk y-vei",,49,2021-01-01 00:00:00,,,,,AUTYH,,,,,,GIH,2020-12-08 10:56:11,GIH,2020-12-08 10:56:11,,,,,,203
+FAGLIG LED,,,,Mathiesen,Mathias Christian,,"Bachelor i ingeniørfag, cyberfysisk nettverksteknologi",,68,2022-08-01 00:00:00,,,,,KOM,,,,,,GIH,2022-08-03 09:14:22,GIH,2022-08-03 09:14:22,,,,,,203
+FAGLIG LED,,,,Mathiesen,Mathias Christian,,"Bachelor i ingeniørfag, elkraftteknikk",,69,2022-08-01 00:00:00,,,,,ELK,,,,,,GIH,2022-08-03 09:14:49,GIH,2022-08-03 09:14:49,,,,,,203
+FAGLIG LED,,,,Mathiesen,Mathias Christian,,"Bachelor i ingeniørfag, elkraftteknikk",,70,2022-08-01 00:00:00,,,,,ELKF,,,,,,GIH,2022-08-03 09:15:24,GIH,2022-08-03 09:15:24,,,,,,203
+FAGLIG LED,,,,Mathiesen,Mathias Christian,,"Bachelor i ingeniørfag, elkraftteknikk y-vei",,71,2022-08-01 00:00:00,,,,,ELKYF,,,,,,GIH,2022-08-03 09:15:53,GIH,2022-08-03 09:15:53,,,,,,203
+FAGLIG LED,,,,Mathiesen,Mathias Christian,,"Bachelor i ingeniørfag, elektroteknologi",,81,2024-08-01 00:00:00,,,,,BELE,,,,,,GIH,2024-04-29 12:06:51,GIH,2024-04-29 12:08:57,1. år og studieretning AUT,,,,,203
+FAGLIG LED,,,,Mathiesen,Mathias Christian,,"Bachelor i ingeniørfag, elektroteknologi ",,82,2024-08-01 00:00:00,,,,,BELEH,,,,,,GIH,2024-04-29 12:12:28,GIH,2024-04-29 12:12:28,,,,,,203
+FAGLIG LED,,,,Mathiesen,Mathias Christian,,"Bachelor i ingeniørfag, elektroteknologi",,83,2024-08-01 00:00:00,,,,,BELEF,,,,,,GIH,2024-04-29 12:14:23,GIH,2024-04-29 12:14:23,1. år og studieretning AUT,,,,,203
+FAGLIG LED,,,,Mjøs,Leiv Bjarte,,Master i areal og eiendom,,7,2017-01-01 00:00:00,,,,,EIE-MA,,,,,,GIH,2017-02-07 09:41:04,GIH,2017-02-07 09:41:04,,,,,,203
+FAGLIG LED,,,,Momeni,Hassan,,"Bachelor i ingeniørfag, allmenn maskinteknikk",,3,2017-01-01 00:00:00,,,,,MAM,,,,,,GIH,2017-02-03 09:29:50,GIH,2017-02-03 09:29:50,,,,,,203
+FAGLIG LED,,,,Momeni,Hassan,,"Bachelor i ingeniørfag, energiteknologi",,52,2024-01-01 00:00:00,,,,,ETK,,,,,,KHE,2024-04-05 10:12:54,KHE,2024-04-05 10:12:54,,,,,,203
+FAGLIG LED,,,,Momeni,Hassan,,Masterprogram i energi,,53,2024-01-01 00:00:00,,,,,ETK-MA,,,,,,KHE,2024-04-05 10:13:14,KHE,2024-04-05 10:13:14,,,,,,203
+FAGLIG LED,,,,Momeni,Hassan,,"Bachelor i ingeniørfag, havteknologi",,54,2024-01-01 00:00:00,,,,,HVT,,,,,,KHE,2024-04-05 10:18:00,KHE,2024-04-05 10:18:00,,,,,,203
+FAGLIG LED,,,,Momeni,Hassan,,"Bachelor i ingeniørfag, Maskin for fagskoleingeniører",,56,2024-01-01 00:00:00,,,,,ING-MAFA,,,,,,KHE,2024-04-05 10:19:03,KHE,2024-04-05 10:19:03,,,,,,203
+FAGLIG LED,,,,Momeni,Hassan,,Master i bærekraftig energiteknologi (sivilingeniør),,57,2024-01-01 00:00:00,,,,,MABET,,,,,,KHE,2024-04-05 10:19:20,KHE,2024-04-05 10:19:20,,,,,,203
+FAGLIG LED,,,,Momeni,Hassan,,"Bachelor i ingeniørfag, allmenn maskinteknikk",,58,2024-01-01 00:00:00,,,,,MAM,,,,,,KHE,2024-04-05 10:19:36,KHE,2024-04-05 10:19:36,,,,,,203
+FAGLIG LED,,,,Momeni,Hassan,,"Bachelor i ingeniørfag, marinteknikk",,59,2024-01-01 00:00:00,,,,,MMT,,,,,,KHE,2024-04-05 10:19:55,KHE,2024-04-05 10:19:55,,,,,,203
+FAGLIG LED,,,,Momeni,Hassan,,"Bachelor i ingeniørfag, bærekraftig produksjon og sirkulærøkonomi",,60,2024-01-01 00:00:00,,,,,MPR,,,,,,KHE,2024-04-05 10:20:14,KHE,2024-04-05 10:20:14,,,,,,203
+FAGLIG LED,,,,Nesheim,Knut,,Master i klinisk sykepleie - Anestesisykepleie,,7,2023-05-01 00:00:00,,,,,MA-KSA,,,,,,HMHA,2023-11-22 10:13:07,HMHA,2023-11-22 10:13:07,,,,,,203
+FAGLIG LED,,,,Nesheim,Knut,,Master i spesialsykepleie,,10,2023-05-01 00:00:00,,,,,MASP,,,,,,HMHA,2023-11-23 09:36:13,HMHA,2023-11-23 09:36:13,,,,,,203
+FAGLIG LED,,,,Nilsen,Marianne,,"Master in Climate Change Management, Sogndal",,25,2024-05-01 00:00:00,,,,,MACCM,,,,,,KHE,2024-02-07 11:25:28,KHE,2024-02-07 11:25:50,,,,,,203
+FAGLIG LED,,,,Nordås,Tonje Margrethe,,Bachelor i landmåling og eiendomsdesign,,3,2017-01-01 00:00:00,,,,,LEIE,,,,,,GIH,2017-02-07 09:40:10,GIH,2017-02-07 09:40:10,,,,,,203
+FAGLIG LED,,,,Norekvål,Tone Merete,,Master i klinisk sykepleie - Kardiologisk sykepleie,,5,2022-05-01 00:00:00,,,,,MA-KSK,,,,,,HMHA,2022-08-12 09:41:38,HMHA,2022-08-12 09:41:38,,,,,,203
+FAGLIG LED,,,,Oklevik,Ove,,Master i økonomi og administrasjon (Siviløkonom),,5,2020-07-01 00:00:00,,,,,MSB,,,,,,KHE,2020-03-19 10:04:27,GME,2022-04-12 15:18:50,Studieprogramansvarlig,,,,,203
+FAGLIG LED,,,,Olsen,Nina Rydland,,Master i kunnskapsbasert praksis,,20,2020-10-19 00:00:00,,,,,MA-KBP4,,,,,,HTV,2020-10-19 07:38:12,HTV,2020-10-19 07:38:51,,,,,,203
+FAGLIG LED,,,,Olsen,Nina Rydland,,Kunnskapsbasert praksis - nettbasert,,35,2025-05-01 00:00:00,,,,,MAKPN,,,,,,KHE,2024-12-03 11:08:01,KHE,2024-12-03 11:08:01,,,,,,203
+FAGLIG LED,,,,Olsen,Terje Årsvoll,,"Kompletterende utdanning for sykepleiere med utdanning frå land utanfor EU/EØS_x000D_
+",,57,2020-10-29 00:00:00,,,,,SYKAUT,,,,,,MEAH,2020-10-29 12:24:58,MEAH,2021-05-18 15:14:49,,,,,,203
+FAGLIG LED,,,,Olsen,Terje Årsvoll,,Bachelor i sykepleie (desentralisert),,68,2021-06-22 00:00:00,,,,,BSYKDES,,,,,,MEAH,2021-06-23 14:06:37,MEAH,2021-12-20 13:54:02,Fagseksjonsleder/koordinator Bergen,,,,,203
+FAGLIG LED,,,,Opheim,Bente,,Master i didaktiske praksiser,,32,2022-05-01 00:00:00,,,,,MDIP,,,,,,KHE,2023-01-25 14:48:44,KHE,2023-01-25 14:48:44,,,,,,203
+FAGLIG LED,,,,Opheim,Bente,,Master i praktisk utdanningsvitenskap,,33,2022-05-01 00:00:00,,,,,MPUV,,,,,,KHE,2023-01-25 14:49:02,KHE,2023-01-25 14:49:02,,,,,,203
+FAGLIG LED,,,,Opheim,Bente,,"Master i barnehagekunnskap, deltid",,34,2022-05-01 00:00:00,,,,,MBAKD,,,,,,KHE,2023-01-25 14:49:24,KHE,2023-01-25 14:49:24,,,,,,203
+FAGLIG LED,,,,Opheim,Bente,,"Master i barnehagekunnskap, samlingsbasert",,35,2022-05-01 00:00:00,,,,,MBAKS,,,,,,KHE,2023-01-25 14:49:48,KHE,2023-01-25 14:49:48,,,,,,203
+FAGLIG LED,,,,Opheim,Bente,,Master med integrert PPU,,46,2024-09-01 00:00:00,,,,,MPPU,,,,,,ANEB,2024-09-20 13:14:35,ANEB,2024-09-20 13:14:35,,,,,,203
+FAGLIG LED,,,,Opheim,Sandra,,Bachelor i barnevern,,20,2022-05-01 00:00:00,,,,,BBARN,,,,,,AKSL,2022-08-12 10:38:35,AKSL,2022-08-12 10:38:35,Fagseksjonsleder,,,,,203
+FAGLIG LED,,,,Paetzel,Matthias,,From Mountain to Fjord - Geology and Ecology of Western Norway,,9,2012-08-01 00:00:00,,,,,FMF,,,,,,TORIRUU,2021-07-02 10:17:37,KHE,2024-02-07 11:22:50,,,,,,203
+FAGLIG LED,,,,Pedersen,Janiche Helen,,Master i klinisk fysioterapi,,6,2023-12-04 00:00:00,,,,,MA-FYS,,,HØST,2024,,GDG,2023-12-04 13:09:33,GDG,2023-12-04 13:09:33,,,,,,203
+FAGLIG LED,,,,Pedersen,Janiche Helen,,Master i klinisk fysioterapi,,7,2023-05-01 00:00:00,,,,,MA-FYS,,,,,,HMHA,2024-06-28 14:59:59,HMHA,2024-06-28 14:59:59,Fagseksjonsleder,,,,,203
+FAGLIG LED,,,,Pettersen,Inger Beate,,Master i ansvarlig innovasjon og entreprenørskap,,16,2023-06-26 00:00:00,,,,,MA-INN,,,,,,GIH,2023-06-26 10:24:58,GIH,2023-06-26 10:24:58,,,,,,203
+FAGLIG LED,,,,Pettersen,Inger Beate,,Master i ansvarlig innovasjon og entreprenørskap,,17,2023-06-26 00:00:00,,,,,MA-INND,,,,,,GIH,2023-06-26 10:27:02,GIH,2023-06-26 10:27:02,,,,,,203
+FAGLIG LED,,,,Reime,Monika Alvestad,,Masterstudium i organisasjon og ledelse,,50,2024-05-01 00:00:00,,,,,MADL,,,,,,KHE,2024-05-29 10:30:56,KHE,2024-05-29 10:30:56,,,,,,203
+FAGLIG LED,,,,Reisæter,Vigdis,,Bachelor i vernepleie,,7,2022-01-01 00:00:00,,,,,BVPL,,,,,,KHE,2022-01-20 08:25:27,KHE,2022-01-20 08:25:34,Fagseksjonsleder,,,,,203
+FAGLIG LED,,,,Reisæter,Vigdis,,"Bachelor i vernepleie, deltid",,10,2022-05-01 00:00:00,,,,,BVPLD,,,,,,KHE,2022-08-17 09:47:03,KHE,2022-08-17 09:47:03,,,,,,203
+FAGLIG LED,,,,Risøy,Bodil Kjesbo,,Grunnskolelærerutdanning 1.-7. trinn,,33,2019-06-18 00:00:00,,,,,MGBBE,,,,,,ALHE,2019-06-19 09:13:45,ALHE,2019-06-19 09:13:45,,,,,,203
+FAGLIG LED,,,,Risøy,Bodil Kjesbo,,Grunnskolelærerutdanning 5.-10. trinn,,34,2019-06-18 00:00:00,,,,,MGUST,,,,,,ALHE,2019-06-19 09:41:42,ALHE,2019-06-19 09:41:42,,,,,,203
+FAGLIG LED,,,,Rustad,Else Cathrine Lütcherath,,Bachelor i sykepleie,,24,2020-05-29 00:00:00,,,,,BSYK,,,,,,IHS,2020-05-29 12:45:54,KHE,2022-01-20 08:23:50,Instituttleder,,,,,203
+FAGLIG LED,,,,Rutle,Adrian,,Felles masterprogram i programvareutvikling,,13,2020-01-01 00:00:00,,,,,DPU-MA,,,,,,GIH,2020-01-09 10:28:41,GIH,2020-01-09 10:28:52,,,,,,203
+FAGLIG LED,,,,Røkenes,Tone Helene Bergset,,"Bachelor i ingeniørfag, havteknologi",,3,2017-12-15 00:00:00,,,,,HVT,,,,,,HMHA,2017-12-18 13:32:06,HMHA,2017-12-18 13:32:06,,,,,,203
+FAGLIG LED,,,,Røkenes,Tone Helene Bergset,,"Bachelor i ingeniørfag, marinteknikk",,22,2022-08-01 00:00:00,,,,,MMT,,,,,,GIH,2022-08-16 09:07:21,GIH,2024-08-08 09:01:51,Studieprogramansvarlig,,,,,203
+FAGLIG LED,,,,Røkenes,Tone Helene Bergset,,"Bachelor i ingeniørfag, energiteknologi",,24,2023-08-01 00:00:00,,,,,ETK,,,,,,GIH,2023-08-07 12:44:35,GIH,2024-08-08 09:01:25,Studieprogramansvarlig,,,,,203
+FAGLIG LED,,,,Rønning,Morten,,Grunnskolelærerutdanning 5.-10. trinn,,10,2019-06-18 00:00:00,,,,,MGUST,,,,,,ALHE,2019-06-19 09:41:42,ALHE,2019-06-19 09:41:42,,,,,,203
+FAGLIG LED,,,,Rønsen,Anne Kristin,,Bachelor i drama og anvendt teater,,28,2019-06-14 00:00:00,,,,,DRAMAT,,,,,,ALHE,2019-06-14 13:55:38,ALHE,2019-06-14 13:55:38,,,,,,203
+FAGLIG LED,,,,Rønsen,Anne Kristin,,Høgskolepedagogikk,,29,2020-11-16 00:00:00,,,,,HSPED,,,,,,SIRIJO,2020-11-23 12:53:37,SIRIJO,2020-11-23 12:53:37,,,,,,203
+FAGLIG LED,,,,Rønsen,Anne Kristin,,Bachelor i folkehelsearbeid med vekt på kosthold og fysisk aktivitet,,32,2024-08-01 00:00:00,,,,,FHA,,,,,,KHE,2024-08-12 13:06:12,KHE,2024-08-12 13:06:12,,,,,,203
+FAGLIG LED,,,,Scheiber,Thomas,,Geofarer og klimaendringer,,10,2019-08-01 00:00:00,,,,,GEOF,,,,,,TORIRUU,2021-07-02 10:16:29,TORIRUU,2021-07-02 10:59:56,,,,,,203
+FAGLIG LED,203,MSB104,1,Seidel,André,Økonometri,,,8,2024-04-29 00:00:00,,,,,,,,HØST,2024,1,RUH,2024-03-25 13:40:35,ELT,2024-06-26 09:13:36,,,,,,203
+FAGLIG LED,,,,Sivertsen,Bjarte,,"Bachelor i ingeniørfag, allmenn maskinteknikk",,72,2024-05-01 00:00:00,,,,,MAM,,,,,,GIH,2024-04-26 12:44:38,GIH,2024-04-26 12:44:44,,,,,,203
+FAGLIG LED,,,,Sivertsen,Lasse Hugo,,"Bachelor i ingeniørfag, elkraftteknikk y-vei",,13,2020-12-08 00:00:00,,,,,ELKYF,,,,,,GIH,2020-12-08 11:01:30,GIH,2020-12-08 11:01:30,,,,,,203
+FAGLIG LED,,,,Sivertsen,Lasse Hugo,,"Bachelor i ingeniørfag, elkraftteknikk",,14,2020-12-08 00:00:00,,,,,ELKF,,,,,,GIH,2020-12-08 11:02:15,GIH,2020-12-08 11:02:15,,,,,,203
+FAGLIG LED,,,,Sjøholt,Gry,,Bachelor i bioingeniørfag,,5,2019-11-25 00:00:00,,,,,BIO,,,,,,ALHE,2019-11-26 10:08:54,GIH,2024-10-24 09:02:11,,,,,,203
+FAGLIG LED,,,,Sjøholt,Gry,,Masterprogram i medisinsk laboratorieteknologi,,14,2024-07-01 00:00:00,,,,,MAMLT,,,,,,GIH,2023-11-15 12:25:38,GIH,2023-11-15 12:25:38,,,,,,203
+FAGLIG LED,,,,Sjøtun,Svein Gunnar,,Master i ansvarlig innovasjon og entreprenørskap,,5,2022-06-01 00:00:00,,,,,MA-INN,,,,,,GIH,2022-06-08 13:16:13,GIH,2022-06-08 13:16:13,,,,,,203
+FAGLIG LED,,,,Sjøtun,Svein Gunnar,,Master i ansvarlig innovasjon og entreprenørskap,,6,2022-06-01 00:00:00,,,,,MA-INND,,,,,,GIH,2022-06-08 13:20:13,GIH,2022-06-08 13:20:13,,,,,,203
+FAGLIG LED,,,,Skjelbreidalen,Ingunn,,Master i økonomi og administrasjon (Siviløkonom),,24,2022-09-07 00:00:00,,,,,MSB,,,,,,GME,2022-09-07 09:44:27,GME,2022-09-07 09:45:13,,,,,,203
+FAGLIG LED,,,,Skjelbreidalen,Ingunn,,"Bachelor i økonomi og administrasjon, Sogndal",,25,2022-09-07 00:00:00,,,,,ØKOB,,,,,,GME,2022-09-07 09:50:52,GME,2022-09-07 09:50:52,,,,,,203
+FAGLIG LED,,,,Skjelbreidalen,Ingunn,,"Økonomi og jus, bachelorstudium, Sogndal",,26,2022-09-07 00:00:00,,,,,ØKOJ,,,,,,GME,2022-09-07 09:52:22,GME,2022-09-07 09:52:22,,,,,,203
+FAGLIG LED,,,,Skjelbreidalen,Ingunn,,"Bachelor i natur og opplevelsesbasert reiseliv, Sogndal",,27,2022-09-07 00:00:00,,,,,BRL,,,,,,GME,2022-09-07 09:53:35,GME,2022-09-07 09:53:35,,,,,,203
+FAGLIG LED,,,,Skjelbreidalen,Ingunn,,"Bachelor i reiseliv, markedsføring og ledelse",,28,2022-09-07 00:00:00,,,,,RLIL,,,,,,GME,2022-09-07 09:55:15,GME,2022-09-07 09:55:15,,,,,,203
+FAGLIG LED,,,,Skjelbreidalen,Ingunn,,"Bachelor i eiendomsmegling, økonomi og jus",,29,2022-09-07 00:00:00,,,,,EIMB,,,,,,GME,2022-09-07 09:57:03,GME,2022-09-07 09:57:03,,,,,,203
+FAGLIG LED,,,,Skjæveland,Eivind Vågslid,,"Bachelor i ingeniørfag, elektronikk",,32,2024-04-01 00:00:00,,,,,EEL,,,,,,GIH,2024-04-29 10:44:45,GIH,2024-04-29 12:10:50,,,,,,203
+FAGLIG LED,,,,Skjæveland,Eivind Vågslid,,"Bachelor i ingeniørfag, elektroteknologi",,33,2024-08-01 00:00:00,,,,,BELE,,,,,,GIH,2024-04-29 12:08:57,GIH,2024-04-29 12:10:05,Studieretning EEL,,,,,203
+FAGLIG LED,,,,Solbraa,Ane Kristiansen,,"Idrett og kroppsøving, bachelorstudium, Sogndal",,16,2019-06-14 00:00:00,,,,,IDKB,,,,,,ALHE,2019-06-14 14:03:58,ALHE,2019-06-14 14:03:58,,,,,,203
+FAGLIG LED,,,,Solbraa,Ane Kristiansen,,"Idrett, fysisk aktivitet og helse, bachelorstudium, Sogndal",,17,2019-06-14 00:00:00,,,,,IDRB,,,,,,ALHE,2019-06-14 14:05:04,ALHE,2019-06-14 14:05:04,,,,,,203
+FAGLIG LED,,,,Solbraa,Ane Kristiansen,,"Friluftsliv, bachelorstudium, Sogndal",,18,2019-06-14 00:00:00,,,,,FRIB,,,,,,ALHE,2019-06-14 14:06:28,ALHE,2019-06-14 14:06:28,,,,,,203
+FAGLIG LED,,,,Solbraa,Ane Kristiansen,,Bachelor i folkehelsearbeid med vekt på kosthold og fysisk aktivitet,,19,2019-06-14 00:00:00,,,,,FHA,,,,,,ALHE,2019-06-14 14:08:26,ALHE,2019-06-14 14:08:26,,,,,,203
+FAGLIG LED,,,,Solbraa,Ane Kristiansen,,"Personlig Trener, årsstudium",,23,2019-08-01 00:00:00,,,,,PT,,,,,,KHE,2019-08-14 10:13:22,KHE,2019-08-14 10:13:22,,,,,,203
+FAGLIG LED,,,,Solbraa,Ane Kristiansen,,Outdoor Education and Nordic Friluftsliv,,24,2019-08-01 00:00:00,,,,,FRI30,,,,,,KHE,2019-08-14 10:13:50,KHE,2019-08-14 10:13:50,,,,,,203
+FAGLIG LED,,,,Solbraa,Ane Kristiansen,,Fjords and Glaciers - Wild Pedagogies,,25,2019-08-01 00:00:00,,,,,FJORDS,,,,,,KHE,2019-08-14 10:14:11,KHE,2019-08-14 10:14:11,,,,,,203
+FAGLIG LED,,,,Solbraa,Ane Kristiansen,,Master i idrettsvitenskap,,26,2019-08-01 00:00:00,,,,,MIDR,,,,,,KHE,2019-08-14 10:14:30,KHE,2019-08-14 10:14:30,,,,,,203
+FAGLIG LED,,,,Solbraa,Ane Kristiansen,,"Bachelor i idrett, trening og helse",,31,2022-05-01 00:00:00,,,,,BIDR,,,,,,KHE,2022-08-16 10:41:41,KHE,2022-08-16 10:41:41,,,,,,203
+FAGLIG LED,,,,Solbraa,Ane Kristiansen,,Årsstudium idrett og trening,,32,2024-08-01 00:00:00,,,,,IDR60,,,,,,KHE,2024-08-12 13:21:55,KHE,2024-08-12 13:21:55,,,,,,203
+FAGLIG LED,,,,Sollid,Bente Nikolaisen,,Grunnskolelærerutdanning 5.-10. trinn,,12,2019-06-18 00:00:00,,,,,MGUST,,,,,,ALHE,2019-06-19 09:41:42,ALHE,2019-06-19 09:41:42,,,,,,203
+FAGLIG LED,,,,Sortland,Merete Økland,,Bachelor - barnehagelærerutdanning,,69,2019-06-14 00:00:00,,,,,BBL,,,,,,ALHE,2019-06-14 14:19:10,ALHE,2019-06-14 14:19:10,,,,,,203
+FAGLIG LED,,,,Sortland,Merete Økland,,"Barnehagelærerutdanning, deltid",,70,2019-06-14 00:00:00,,,,,BBLD,,,,,,ALHE,2019-06-14 14:19:39,ALHE,2019-06-14 14:19:39,,,,,,203
+FAGLIG LED,,,,Sortland,Merete Økland,,Grunnskolelærerutdanning 1.-7. trinn,,71,2019-06-18 00:00:00,,,,,MGBBE,,,,,,ALHE,2019-06-19 09:13:46,ALHE,2019-06-19 09:13:46,,,,,,203
+FAGLIG LED,,,,Sortland,Merete Økland,,Grunnskolelærerutdanning 5.-10. trinn,,72,2019-06-18 00:00:00,,,,,MGUST,,,,,,ALHE,2019-06-19 09:41:42,ALHE,2019-06-19 09:41:42,,,,,,203
+FAGLIG LED,,,,Spångberg,Harald,,"Bachelor i ingeniørfag, automatisering med robotikk y-vei",,28,2019-07-01 00:00:00,,,,,AUTYH,,,,,,KHE,2020-01-15 11:32:00,KHE,2020-01-15 11:32:00,,,,,,203
+FAGLIG LED,,,,Spångberg,Harald,,"Bachelor i ingeniørfag, automatisering med robotikk",,39,2020-08-01 00:00:00,,,,,AUTH,,,,,,RUH,2020-08-20 15:05:05,RUH,2021-01-19 09:06:19,,,,,,203
+FAGLIG LED,,,,Spångberg,Harald,,"Bachelor i ingeniørfag, elektroteknologi ",,113,2024-08-01 00:00:00,,,,,BELEH,,,,,,LHE,2024-08-12 10:26:37,LHE,2024-08-12 10:26:37,,,,,,203
+FAGLIG LED,,,,Steensnæs,Jorunn,,Master i maritime operasjoner,,132,2023-12-01 00:00:00,,,,,MMO,,,,,,GME,2023-12-15 12:36:24,GME,2024-05-30 09:23:31,Instituttleder FTMS,,,,,203
+FAGLIG LED,,,,Steensnæs,Jorunn,,Bachelor i Maritime Management,,133,2023-12-01 00:00:00,,,,,BAMM,,,,,,GME,2023-12-15 12:37:39,GME,2024-05-30 09:26:15,Instiuttleder FTMS,,,,,203
+FAGLIG LED,,,,Steensnæs,Jorunn,,Bachelor i nautikk med integrert praksis,,134,2023-12-01 00:00:00,,,,,NABP,,,,,,GME,2023-12-15 12:39:04,GME,2024-05-30 09:22:13,Instituttleder FTMS,,,,,203
+FAGLIG LED,,,,Steensnæs,Jorunn,,Bachelor i nautikk Y-vei,,135,2023-12-01 00:00:00,,,,,NABY,,,,,,GME,2023-12-15 12:39:37,GME,2024-05-30 09:21:03,Instituttleder FTMS,,,,,203
+FAGLIG LED,,,,Steensnæs,Jorunn,,Bachelor i nautikk,,136,2023-12-01 00:00:00,,,,,NAB,,,,,,GME,2023-12-15 12:40:06,GME,2024-01-11 13:47:41,,,,,,203
+FAGLIG LED,203,MMO5009,1,Steensnæs,Jorunn,Maritime Operations,,,139,2023-12-01 00:00:00,,,,,,,,,,,GME,2024-02-01 11:17:21,GME,2024-02-01 11:17:21,,,,,,203
+FAGLIG LED,203,MMO5011,1,Steensnæs,Jorunn,Ship Operation and Maintenance Management,,,140,2023-12-01 00:00:00,,,,,,,,,,,GME,2024-02-01 12:20:19,GME,2024-02-01 12:20:19,,,,,,203
+FAGLIG LED,,,,Steensnæs,Jorunn,,"Bachelor i ingeniørfag, bærekraftig produksjon og sirkulærøkonomi",,145,2023-08-01 00:00:00,,,,,MPR,,,,,,KHE,2024-06-25 11:08:11,KHE,2024-06-25 11:16:42,,,,,,203
+FAGLIG LED,,,,Steensnæs,Jorunn,,"Bachelor i ingeniørfag, marinteknikk",,146,2023-08-01 00:00:00,,,,,MMT,,,,,,KHE,2024-06-25 11:10:12,KHE,2024-06-25 11:16:35,,,,,,203
+FAGLIG LED,,,,Steensnæs,Jorunn,,"Bachelor i ingeniørfag, allmenn maskinteknikk",,147,2023-08-01 00:00:00,,,,,MAM,,,,,,KHE,2024-06-25 11:10:39,KHE,2024-06-25 11:16:27,,,,,,203
+FAGLIG LED,,,,Steensnæs,Jorunn,,"Bachelor i ingeniørfag, maskin",,148,2023-08-01 00:00:00,,,,,ING-MAB,,,,,,KHE,2024-06-25 11:11:16,KHE,2024-06-25 11:16:12,,,,,,203
+FAGLIG LED,,,,Steensnæs,Jorunn,,"Bachelor i ingeniørfag, havteknologi",,149,2023-08-01 00:00:00,,,,,HVT,,,,,,KHE,2024-06-25 11:11:33,KHE,2024-06-25 11:15:56,,,,,,203
+FAGLIG LED,,,,Steensnæs,Jorunn,,"Bachelor i ingeniørfag, energiteknologi",,150,2023-08-01 00:00:00,,,,,ETK,,,,,,KHE,2024-06-25 11:11:53,KHE,2024-06-25 11:15:40,,,,,,203
+FAGLIG LED,,,,Steensnæs,Jorunn,,Master i bærekraftig energiteknologi (sivilingeniør),,151,2023-08-01 00:00:00,,,,,MABET,,,,,,KHE,2024-06-25 11:12:27,KHE,2024-06-25 11:15:21,,,,,,203
+FAGLIG LED,,,,Steensnæs,Jorunn,,Bachelor i Maritime Management - nettstudium,,152,2025-05-01 00:00:00,,,,,BAMMN,,,,,,KHE,2024-12-03 09:21:18,KHE,2024-12-03 09:21:18,,,,,,203
+FAGLIG LED,,,,Stenfelt,Gloria,,"Bachelor i ingeniørfag, marinteknikk",,2,2017-01-01 00:00:00,,,,,MMT,,,,,,GIH,2017-02-03 09:37:52,GIH,2024-08-08 09:01:51,Programfaglig ressursperson,,,,,203
+FAGLIG LED,,,,Stolz,Volker,,Bachelor i informasjonsteknologi,,19,2020-08-01 00:00:00,,,,,INF,,,,,,GIH,2020-08-20 15:01:40,RUH,2024-07-22 13:17:22,Studieprogramansvarleg,,,,,203
+FAGLIG LED,,,,Stolz,Volker,,"Bachelor i ingeniørfag, data",,27,2020-01-01 00:00:00,,,,,DATA,,,,,,GIH,2021-08-30 11:51:49,GIH,2021-08-30 11:51:49,,,,,,203
+FAGLIG LED,,,,Stolz,Volker,,Bachelor i informasjonsteknologi,,36,2023-08-01 00:00:00,,,,,INF-H,,,,,,GIH,2023-08-09 14:11:10,GIH,2023-08-09 14:11:10,,,,,,203
+FAGLIG LED,,,,Sudmann,Tobba,,"Ph.d.-studium i helse, funksjon og deltakelse",,19,2019-09-23 00:00:00,,,,,PHDH,,,,,,ALHE,2019-09-23 09:43:34,KHE,2020-09-14 13:37:47,,,,,,203
+FAGLIG LED,203,PHDH902,1,Sudmann,Tobba,Vitenskapsteori og etikk i helse- sosialvitenskap,,,30,2020-09-01 00:00:00,,,,,,,,,,,RABE,2020-09-22 11:42:12,RABE,2020-09-22 11:42:12,,,,,,203
+FAGLIG LED,203,PHDH903,1,Sudmann,Tobba,Forskningsdesign og -metoder,,,31,2019-09-01 00:00:00,,,,,,,,,,,RABE,2020-09-22 11:43:17,RABE,2020-09-22 11:43:17,,,,,,203
+FAGLIG LED,203,PHDH904,1,Sudmann,Tobba,Helsefremming og mestring,,,32,2019-09-01 00:00:00,,,,,,,,,,,RABE,2020-09-22 11:44:10,RABE,2020-09-22 11:44:10,,,,,,203
+FAGLIG LED,203,PHDH907,1,Sudmann,Tobba,"Metoder for kartlegging av helse, funksjon og deltakelse",,,35,2019-09-01 00:00:00,,,,,,,,,,,RABE,2020-09-22 11:46:27,RABE,2020-09-22 11:46:27,,,,,,203
+FAGLIG LED,203,PHDH908,1,Sudmann,Tobba,Intervensjonsstudier,,,36,2019-09-01 00:00:00,,,,,,,,,,,RABE,2020-09-22 11:47:29,RABE,2020-09-22 11:47:29,,,,,,203
+FAGLIG LED,,,,Svedal,Hans Mark,,Bachelor i kunstfag - musikk og visuell kunst,,24,2024-10-23 00:00:00,,,,,BKUF,,,,,,KHE,2024-11-20 08:52:17,KHE,2024-11-20 08:52:24,,,,,,203
+FAGLIG LED,,,,Sæterbakken,Atle Hole,,Master i idrettsvitenskap,,8,2022-01-01 00:00:00,,,,,MIDR,,,,,,SIRIJO,2022-01-07 10:36:23,SIRIJO,2022-01-07 10:36:23,,,,,,203
+FAGLIG LED,203,,,Sønnesyn,Kjetil,,,"Institutt for språk, litteratur, matematikk og tolking",1,2023-05-01 00:00:00,,30,3,0,,,,,,,KHE,2023-10-06 10:30:36,KHE,2023-10-06 10:30:36,,,,,,203
+FAGLIG LED,,,,Søvik,Margaret Ljosnes,,Bachelor i ergoterapi,,32,2020-05-01 00:00:00,,,,,BERG,,,,,,MEAH,2020-08-11 19:22:22,MEAH,2020-08-11 19:22:22,,,,,,203
+FAGLIG LED,203,ERG120,1,Søvik,Margaret Ljosnes,Aktivitetsanalyse,,,35,2020-08-11 00:00:00,,,,,,,,,,,MEAH,2020-08-11 19:25:33,MEAH,2020-08-11 19:25:33,,,,,2,203
+FAGLIG LED,203,ERGP2,1,Søvik,Margaret Ljosnes,Ergoterapiprosessen og klinisk resonnering- praksis,,,39,2021-11-01 00:00:00,,,,,,,,,,,KHE,2021-11-19 12:49:27,KHE,2022-03-11 09:10:56,,,,,,203
+FAGLIG LED,,,,Søvik,Margaret Ljosnes,,Bachelor i ergoterapi,,40,2023-12-04 00:00:00,,,,,BERG,,,HØST,2024,,GDG,2023-12-04 13:00:50,GDG,2023-12-04 13:00:50,,,,,,203
+FAGLIG LED,,,,Søvik,Margaret Ljosnes,,Bachelor i ergoterapi,,42,2023-12-04 00:00:00,,,,,BERG,,,HØST,2025,,MEAH,2024-12-11 09:25:00,MEAH,2024-12-11 09:25:00,,,,,,203
+FAGLIG LED,,,,Theodorsen,Britt Randby,,Grunnskolelærerutdanning 1.-7. trinn,,18,2017-06-01 00:00:00,,,,,MGBST,,,,,,RVI,2017-08-08 13:47:05,RVI,2017-08-08 13:47:05,,,,,,203
+FAGLIG LED,,,,Theodorsen,Britt Randby,,Grunnskolelærerutdanning 1.-7. trinn,,19,2010-08-01 00:00:00,,,,,MGBBE,,,,,,HMHA,2017-08-31 09:24:27,HMHA,2017-08-31 09:24:27,,,,,,203
+FAGLIG LED,,,,Theodorsen,Britt Randby,,Grunnskolelærerutdanning 5.-10. trinn,,39,2019-06-18 00:00:00,,,,,MGUST,,,,,,ALHE,2019-06-19 09:41:42,ALHE,2019-06-19 09:41:42,,,,,,203
+FAGLIG LED,,,,Thorvaldsen,Per Eilif,,"Bachelor i ingeniørfag, cyberfysisk nettverksteknologi",,8,2017-01-01 00:00:00,,,,,KOM,,,,,,GIH,2017-02-15 14:09:10,GIH,2017-02-15 14:09:10,,,,,,203
+FAGLIG LED,,,,Tolås,Kristina Johannessen,,Bachelor i sykepleie,,1,2021-08-01 00:00:00,,,,,BSYK,,,,,,IHS,2021-08-11 09:20:44,KHE,2022-01-20 08:23:50,Fagseksjonsleder Stord,,,,,203
+FAGLIG LED,,,,Torbjørnsen,Inger Birgitte,,Bachelor i tegnspråk og tolking,,8,2010-08-01 00:00:00,,,,,TST,,,,,,HMHA,2018-08-23 10:10:51,HMHA,2018-08-23 10:10:51,,,,,,203
+FAGLIG LED,,,,Trovåg,Johanne Marie,,Enkeltemner på nautikk,,83,2018-08-01 00:00:00,,,,,NAB-EMNER,,,,,,KHE,2018-10-10 07:46:00,KHE,2020-01-20 13:26:53,,,,,,203
+FAGLIG LED,203,PNO902,1,Trovåg,Johanne Marie,Maritime Organisational Safety Management,,,85,2019-12-10 00:00:00,,,,,,,,,,,GME,2019-12-10 13:17:27,KHE,2023-03-13 14:06:54,,,,,,203
+FAGLIG LED,,,,Tysnes,Ingunn Barmen,,Master i sosialvitenskap,,9,2022-03-01 00:00:00,,,,,MASO,,,,,,MEAH,2022-03-01 14:48:40,HMHA,2023-08-18 10:32:51,Studieprogramansvarleg,,,,,203
+FAGLIG LED,203,MASM530,1,Tysnes,Ingunn Barmen,Miljøterapeutisk arbeid - metodiske tilnærminger,,,13,2023-05-01 00:00:00,,,,,,,,,,,FSWS,2023-03-14 09:10:55,KHE,2024-03-19 12:49:22,Fagseksjonsleiar,,,,,203
+FAGLIG LED,,,,Tysnes,Ingunn Barmen,,Master i sosialvitenskap,,15,2024-03-01 00:00:00,,,,,MASOD,,,,,,MEAH,2024-03-19 09:41:50,MEAH,2024-09-06 12:03:53,Studieprogramansvarleg,,,,,203
+FAGLIG LED,,,,Van Wijchen,Joost,,Bachelor i fysioterapi,,1,2022-01-01 00:00:00,,,,,BFYS,,,,,,KHE,2022-02-04 08:05:53,KHE,2022-02-04 08:05:53,,,,,,203
+FAGLIG LED,,,,Van Wijchen,Joost,,Bachelor i fysioterapi,,2,2023-12-04 00:00:00,,,,,BFYS,,,HØST,2024,,GDG,2023-12-04 12:56:13,GDG,2023-12-04 12:56:13,,,,,,203
+FAGLIG LED,,,,Van Wijchen,Joost,,Bachelor i fysioterapi,,3,2023-12-04 00:00:00,,,,,BFYS,,,HØST,2025,,MEAH,2024-12-11 09:23:54,MEAH,2024-12-11 09:23:54,,,,,,203
+FAGLIG LED,,,,Viig,Tine Grieg,,Bachelor i drama og anvendt teater,,43,2019-06-14 00:00:00,,,,,DRAMAT,,,,,,ALHE,2019-06-14 13:55:38,ALHE,2019-06-14 13:55:38,,,,,,203
+FAGLIG LED,,,,Viig,Tine Grieg,,Grunnskolelærerutdanning 5.-10. trinn,,45,2019-06-18 00:00:00,,,,,MGUST,,,,,,ALHE,2019-06-19 09:41:42,ALHE,2019-06-19 09:41:42,,,,,,203
+FAGLIG LED,,,,Vik,Marte Lange,,"Master in Climate Change Management, Sogndal",,10,2020-01-01 00:00:00,,,,,MACCM,,,,,,KHE,2020-01-29 13:13:02,KHE,2020-01-29 13:13:02,,,,,,203
+FAGLIG LED,,,,Wergeland,Line,,Bachelor i bioingeniørfag,,5,2020-12-08 00:00:00,,,,,BIO,,,,,,GIH,2020-12-08 08:18:17,GIH,2024-02-26 10:23:05,Studieprogramansvarlig,,,,,203
+FAGLIG LED,,,,Ytrehus,Siri,,Tverrfaglig videreutdanning i psykisk helse- og rusarbeid,,23,2023-10-10 00:00:00,,,,,VTPHR,,,,,,SIRIJO,2023-12-08 13:35:06,SIRIJO,2023-12-08 13:35:06,,,,,,203
+FAGLIG LED,,,,Ytrehus,Siri,,Tverrfaglig master i psykisk helse- og rusarbeid,,24,2023-10-10 00:00:00,,,,,MAPHER,,,,,,SIRIJO,2023-12-08 13:48:50,SIRIJO,2023-12-08 13:48:50,,,,,,203
+FAGLIG LED,,,,Øyangen,Knut Einar Utnes,,"Historie, årsstudium",,27,2021-11-01 00:00:00,,,,,HIS,,,,,,KHE,2021-11-22 09:59:22,KHE,2021-11-22 09:59:22,,,,,,203
+FAGLIG LED,,,,Øyangen,Knut Einar Utnes,,"Historie, bachelorstudium, Sogndal",,28,2021-11-01 00:00:00,,,,,HISB,,,,,,KHE,2021-11-22 09:59:40,KHE,2021-11-22 09:59:40,,,,,,203
+FAGLIG LED,,,,Øyangen,Knut Einar Utnes,,"Historie, bachelorstudium - nettstudium",,29,2021-11-01 00:00:00,,,,,HISBN,,,,,,KHE,2021-11-22 10:00:08,KHE,2021-11-22 10:00:08,,,,,,203
+FAGLIG LED,,,,Øyangen,Knut Einar Utnes,,"Historie, årsstudium - nettstudium",,30,2021-11-01 00:00:00,,,,,HISN,,,,,,KHE,2021-11-22 10:00:29,KHE,2021-11-22 10:00:29,,,,,,203
+FAGLIG LED,,,,Øyangen,Knut Einar Utnes,,"Samfunnsfag, årsstudium",,31,2021-11-01 00:00:00,,,,,SAM,,,,,,KHE,2021-11-22 10:02:13,KHE,2021-11-22 10:02:13,,,,,,203
+FAGLIG LED,203,HI101,1,Øyangen,Knut Einar Utnes,Historie 500-1500. Innføring i norsk og internasjonal historie,,,35,2021-12-22 00:00:00,,,,,,,,,,,HMHA,2021-12-22 09:04:27,HMHA,2021-12-22 09:04:27,,,,,,203
+FAGLIG LED,203,HI104,1,Øyangen,Knut Einar Utnes,Historie etter 1930. Innføring i norsk og internasjonal historie,,,36,2021-12-22 00:00:00,,,,,,,,,,,HMHA,2021-12-22 09:06:00,HMHA,2021-12-22 09:06:00,,,,,,203
+FAGLIG LED,,,,Øyangen,Knut Einar Utnes,,"Samfunnsfag årsstudium, nettstudium",,42,2024-01-01 00:00:00,,,,,SAMN,,,,,,KHE,2024-01-05 14:06:28,KHE,2024-01-05 14:06:35,,,,,,203
+FAGLIG LED,,,,Aasprang,Anny,,Bachelor i sykepleie (desentralisert),,40,2021-08-02 00:00:00,2025-12-31 00:00:00,,,,BSYKDES,,,HØST,2021,,MEAH,2021-08-03 16:06:09,HMHA,2022-10-26 11:24:30,,,,FORDE,,203
+FAGLIG LED,,,,Aasprang,Anny,,Bachelor i sykepleie,,56,2022-02-17 00:00:00,2025-12-31 00:00:00,,,,BSYK,,,HØST,2022,,MEAH,2022-02-17 09:57:48,HMHA,2024-02-01 14:55:55,,,,FORDE,1,203
+FAGLIG LED,,,,Fjose,Marianne,,Bachelor i sykepleie,,65,2022-02-17 00:00:00,2025-12-31 00:00:00,,,,BSYK,,,HØST,2022,,MEAH,2022-02-17 09:52:58,HMHA,2024-02-01 14:55:55,,,,BERGEN,1,203
+FAGLIG LED,203,FOR032,1,Julbø,Brit,Teknologi og samfunn,,,62,2022-05-01 00:00:00,2025-08-01 00:00:00,,,,,,,,,,FSWS,2022-03-07 12:44:43,FSWS,2025-02-05 10:37:42,,,,,,203
+FAGLIG LED,,,,Kambe,Marianne,,Bachelor i sykepleie (desentralisert),,16,2021-08-02 00:00:00,2025-12-31 00:00:00,,,,BSYKDES,,,HØST,2021,,MEAH,2021-08-03 16:03:24,HMHA,2022-10-26 11:24:30,,,,HGSD,,203
+FAGLIG LED,,,,Kulild,Marit,,Grunnskolelærerutdanning 1.-7. trinn,,28,2020-08-01 00:00:00,2025-12-31 00:00:00,,,,MGBST,,,HØST,2020,,ELS,2020-08-12 14:25:34,HMHA,2022-10-26 11:12:53,,,,,,203
+FAGLIG LED,,,,Olsen,Terje Årsvoll,,Bachelor i sykepleie (desentralisert),,69,2021-06-28 00:00:00,2025-12-31 00:00:00,,,,BSYKDES,,,HØST,2021,,MEAH,2021-06-28 10:33:22,HMHA,2022-10-26 11:24:30,,,,BERGEN,,203
+FAGLIG LED,,,,Sandal,Ann Karin,,Master i læring og undervisning,,8,2018-08-01 00:00:00,2029-06-30 00:00:00,,,,MALUND,,,HØST,2017,,GS,2018-08-08 14:00:21,HMHA,2023-08-02 10:10:36,,,,,,203
+FAGLIG LED,,,,Sørdal,Elisabeth Lundervold,,Grunnskolelærerutdanning 5.-10. trinn,,7,2020-08-01 00:00:00,2025-12-31 00:00:00,,,,MGUST,,,HØST,2020,,ELS,2020-08-12 14:24:46,HMHA,2022-10-26 11:13:13,,,,,,203
+FAGLIG LED,,,,Tolås,Kristina Johannessen,,Bachelor i sykepleie,,4,2022-02-17 00:00:00,2025-12-31 00:00:00,,,,BSYK,,,HØST,2022,,MEAH,2022-02-17 13:58:29,HMHA,2024-02-01 14:55:55,,,,STORD,1,203

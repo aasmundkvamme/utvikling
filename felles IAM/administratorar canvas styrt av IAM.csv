@@ -1,0 +1,75 @@
+konto,bruker,brukerid,login_id,rolleid,rolle
+1,Casper Håland,fs:203:668693,chal@hvl.no,1,kontoadmin
+1,Andreas Senneset Hove,fs:203:203103,andrehov@hvl.no,1,kontoadmin
+1,Alisa Rysaeva,fs:203:1144222,aliry@hvl.no,1,kontoadmin
+1,Hege Stein,fs:203:168145,hste@hvl.no,1,kontoadmin
+1,Grethe Høyvik Hansen,fs:203:116248,gho@hvl.no,163,leganto
+1,Christoffer Naustdal,fs:203:379438,cni@hvl.no,163,leganto
+1,Daniel Bruvoll Tangen,fs:203:1226726,data@hvl.no,163,leganto
+1,Bente Olderkjær,fs:203:183593,beol@hvl.no,1,kontoadmin
+1,Rune Hjelmeseter,fs:203:29503,rhj@hvl.no,1,kontoadmin
+54,Håvard Berge,fs:203:388560,haabe@hvl.no,18,emneadmin-hvl
+54,Martin Mo,fs:203:523244,mamo@hvl.no,18,emneadmin-hvl
+54,Håvard Moe Hagen,fs:203:154634,hmha@hvl.no,18,emneadmin-hvl
+54,Jenny Marie Sørby Mikkelsen,fs:203:1221647,jmsm@hvl.no,18,emneadmin-hvl
+54,Anita Svedal,fs:203:119299,anitasv@hvl.no,18,emneadmin-hvl
+54,Bodil Moss,fs:203:646662,bomo@hvl.no,18,emneadmin-hvl
+54,Else Brita Ness,fs:203:56480,ebne@hvl.no,18,emneadmin-hvl
+54,Gunhild Helene Austrheim,fs:203:139463,gau@hvl.no,18,emneadmin-hvl
+54,Irene Waage,fs:203:158231,iwa@hvl.no,18,emneadmin-hvl
+54,Kåre Johan Mjør,fs:203:751140,kmj@hvl.no,18,emneadmin-hvl
+54,Lars Malvin Røsseland Kvinge,fs:203:159188,lmk@hvl.no,18,emneadmin-hvl
+54,Lillian Olsen,fs:203:272765,lol@hvl.no,18,emneadmin-hvl
+54,Lise Vik-Haugen,fs:203:62207,lisevikh@hvl.no,18,emneadmin-hvl
+54,Mai Linn Bolkan Eidet,fs:203:159672,mlbe@hvl.no,18,emneadmin-hvl
+54,Mari Fredrikke Osen,fs:203:130830,mfo@hvl.no,18,emneadmin-hvl
+54,Maria Lefdal Jenssen,fs:203:112024,mlje@hvl.no,18,emneadmin-hvl
+54,Sondre Mula Myhre,fs:203:1016262,somm@hvl.no,18,emneadmin-hvl
+54,Susanne Osland,fs:203:418314,suos@hvl.no,18,emneadmin-hvl
+54,Tonje Bakke Velde,fs:203:231573,tv@hvl.no,18,emneadmin-hvl
+54,Toril Engesæter,fs:203:128598,torilen@hvl.no,18,emneadmin-hvl
+54,Torild Tveit,fs:203:31458,ttv@hvl.no,18,emneadmin-hvl
+54,Trude Hals,fs:203:353058,trha@hvl.no,18,emneadmin-hvl
+54,Aleksander Rebbeng Aulie,fs:203:1115084,alau@hvl.no,18,emneadmin-hvl
+54,Maia Vatlestad,fs:203:147079,mavat@hvl.no,18,emneadmin-hvl
+54,Helge Olsen,fs:203:172147,hols@hvl.no,18,emneadmin-hvl
+54,Anna Sambor,fs:203:1321936,ansam@hvl.no,18,emneadmin-hvl
+54,Ragnhild Alice Bjerk Steinsland,fs:203:235881,ras@hvl.no,18,emneadmin-hvl
+54,Tone Hølleland,fs:203:28561,tho@hvl.no,18,emneadmin-hvl
+54,Mariann Kjøpstad,fs:203:588371,mk@hvl.no,18,emneadmin-hvl
+54,Ingvild Blanceflor Hvidsten,fs:203:536192,ibhv@hvl.no,18,emneadmin-hvl
+54,Wenke Wüsthoff Jortveit,fs:203:118025,wwj@hvl.no,18,emneadmin-hvl
+54,Ingrid Heiberg-Andersen,fs:203:1386100,iha@hvl.no,18,emneadmin-hvl
+54,Inger Marie Vik,fs:203:478790,imv@hvl.no,18,emneadmin-hvl
+54,Henrik Dalstø,fs:203:1170592,hda@hvl.no,1,kontoadmin
+54,Ivar Rosenberg,fs:203:666040,ivro@hvl.no,1,kontoadmin
+54,Merete-Anett Hoddevik,fs:203:193059,meah@hvl.no,18,emneadmin-hvl
+54,Helene Oestreich,fs:203:214334,hoe@hvl.no,18,emneadmin-hvl
+54,Christina Havn,fs:203:255714,cha@hvl.no,18,emneadmin-hvl
+54,Mia Louise Farstad,fs:203:121270,milfa@hvl.no,18,emneadmin-hvl
+54,Gry Sjøholt,fs:203:174742,gsj@hvl.no,18,emneadmin-hvl
+54,Giselda Di Giovanni,fs:203:177074,gdg@hvl.no,18,emneadmin-hvl
+54,Elisabeth Aase Sæther,fs:203:940637,easa@hvl.no,18,emneadmin-hvl
+54,Unni Margrethe Uren Aasen,fs:203:660455,unnimua@hvl.no,18,emneadmin-hvl
+54,Helene Holsen Foss,fs:203:54060,hhfo@hvl.no,18,emneadmin-hvl
+54,Andreas Rande Nesheim,fs:203:107114,anne@hvl.no,18,emneadmin-hvl
+54,Hanne Søvik Bårdsen,fs:203:74840,hsba@hvl.no,18,emneadmin-hvl
+54,Bergljot Sundfør,fs:203:592186,bergljos@hvl.no,18,emneadmin-hvl
+54,Thale Jacobsen Åsli,fs:203:830642,tjaa@hvl.no,18,emneadmin-hvl
+54,Kristine Selvikvåg Lundervold,fs:203:431967,krse@hvl.no,18,emneadmin-hvl
+54,Helene Flatland Erfjord,fs:203:86407,helenefe@hvl.no,18,emneadmin-hvl
+54,Gro-Mette Rønning Eikemo,fs:203:19792,gme@hvl.no,18,emneadmin-hvl
+54,Gunn Berge,fs:203:1116909,gbe@hvl.no,18,emneadmin-hvl
+54,Ingvild Nilssen,fs:203:1054652,inil@hvl.no,18,emneadmin-hvl
+54,Øystein Abrahamsen,fs:203:209830,oab@hvl.no,18,emneadmin-hvl
+54,Hilde Albertine Gjertsen,fs:203:377376,hagj@hvl.no,18,emneadmin-hvl
+54,Anne Birgitte Rodal,fs:203:254624,abr@hvl.no,18,emneadmin-hvl
+54,Leah Junge,fs:203:1224001,lju@hvl.no,18,emneadmin-hvl
+54,Helen Sæverud,fs:203:209170,hse@hvl.no,18,emneadmin-hvl
+54,Eli Tjerandsen,fs:203:272473,elt@hvl.no,18,emneadmin-hvl
+54,Lena Strandheim,fs:203:66068,lenst@hvl.no,18,emneadmin-hvl
+54,Lise Jamt Tønjum,fs:203:276862,lito@hvl.no,18,emneadmin-hvl
+54,Jorunn Sætre Miljeteig,fs:203:595043,jsm@hvl.no,18,emneadmin-hvl
+54,Birthe Berven Dahle,fs:203:1234072,bbda@hvl.no,18,emneadmin-hvl
+54,Anne Jorunn Vikdal,fs:203:184901,ajvi@hvl.no,18,emneadmin-hvl
+54,Kirsti Møller Bruland,fs:203:63209,kirstimb@hvl.no,18,emneadmin-hvl

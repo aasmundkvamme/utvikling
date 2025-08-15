@@ -1,0 +1,11 @@
+rollekode,institusjonsnr,emnekode,versjonskode,etternavn,fornavn,emnenavn_bokmal,studieprognavn,stednavn_bokmal,rollenr,dato_fra,dato_til,faknr,instituttnr,gruppenr,studieprogramkode,aktivitetkode,undplanlopenr,terminkode,arstall,terminnr,saksbehinit_opprettet,dato_opprettet,saksbehinit_endring,dato_endring,merknadtekst,etterutdkurskode,kurstidsangivelsekode,klassekode,prioritetsnr,institusjonsnr_eier
+PRAKSKOORD,203,BØ6-2003,1,Ellingsen,Ove,Årsregnskap i praksis,,,1,2023-01-01 00:00:00,,,,,,,,,,,HELENEFE,2023-01-13 12:44:47,HELENEFE,2023-01-13 12:44:47,,,,,,203
+PRAKSKOORD,203,MGBPRS301,1,Hermansen,Marie Gasmann,"Skolen som organisasjon, praksis 3. år - 25 dager",,,16,2022-05-01 00:00:00,,,,,,,,,,,FSWS,2022-03-11 13:04:41,KHE,2025-02-14 14:32:33,Praksiskoordinator Sogndal,,,,,203
+PRAKSKOORD,203,BIO207,1,Nundal,Camilla Hatlevoll,Ekstern praksis 1,,,12,2024-05-01 00:00:00,,,,,,,,,,,KHE,2024-12-11 13:01:52,KHE,2024-12-11 13:01:52,,,,,,203
+PRAKSKOORD,203,BIO175,1,Nundal,Camilla Hatlevoll,Medisinsk laboratorieteknologi I,,,13,2024-05-01 00:00:00,,,,,,,,,,,KHE,2024-12-11 13:02:14,KHE,2024-12-11 13:02:14,,,,,,203
+PRAKSKOORD,203,ABLUPR101,1,Sandal,Marion Østenstad,Praksis 1. år ABLU,,,13,2024-05-01 00:00:00,,,,,,2,,HØST,2024,1,KIRSTIMB,2024-09-23 14:48:38,KIRSTIMB,2024-09-23 14:48:38,,,,,,203
+PRAKSKOORD,203,ABLUPR101,1,Sandal,Marion Østenstad,Praksis 1. år ABLU,,,14,2024-05-01 00:00:00,,,,,,1,,HØST,2024,1,KIRSTIMB,2024-09-23 14:49:16,KIRSTIMB,2024-09-23 14:49:16,,,,,,203
+PRAKSKOORD,,,,Storebø,Øyvind Langballe,,Grunnskolelærerutdanning 1.-7. trinn,,32,2019-01-01 00:00:00,,,,,MGBST,,,,,,ELS,2019-09-12 14:27:34,ELS,2019-09-12 14:27:34,,,,,,203
+PRAKSKOORD,,,,Storebø,Øyvind Langballe,,Grunnskolelærerutdanning 5.-10. trinn,,33,2019-08-01 00:00:00,,,,,MGUST,,,,,,ELS,2019-09-12 14:28:26,ELS,2019-09-12 14:28:26,,,,,,203
+PRAKSKOORD,203,MGBPRS301,1,Tufteland,Katharina Reksten,"Skolen som organisasjon, praksis 3. år - 25 dager",,,32,2023-07-01 00:00:00,,,,,,,,,,,FSWS,2023-03-15 10:42:23,KHE,2025-02-14 14:32:33,Praksiskoordinator Stord,,,,,203
+PRAKSKOORD,,,,Ytrehus,Siri,,Master i samhandling og folkehelse,,25,2024-07-01 00:00:00,,,,,MSFH,,,HØST,2024,,BERGLJOS,2024-11-08 10:45:50,BERGLJOS,2024-11-08 10:45:50,,,,,,203

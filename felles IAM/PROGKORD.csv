@@ -1,0 +1,82 @@
+rollekode,institusjonsnr,emnekode,versjonskode,etternavn,fornavn,emnenavn_bokmal,studieprognavn,stednavn_bokmal,rollenr,dato_fra,dato_til,faknr,instituttnr,gruppenr,studieprogramkode,aktivitetkode,undplanlopenr,terminkode,arstall,terminnr,saksbehinit_opprettet,dato_opprettet,saksbehinit_endring,dato_endring,merknadtekst,etterutdkurskode,kurstidsangivelsekode,klassekode,prioritetsnr,institusjonsnr_eier
+PROGKORD,203,SAVPU301,1,Aarlie,Hege Cathrine,Praksisstudier. Ut i verden! Tverrprofesjonelt samarbeid på tvers av landegrenser,,,30,2023-05-01 00:00:00,,,,,,,,,,,FSWS,2023-08-15 12:55:32,CHA,2023-08-30 11:23:29,,,,,,203
+PROGKORD,,,,Abrahamsen,Øystein,,Bachelor i nautikk Y-vei,,17,2024-05-01 00:00:00,,,,,NABY,,,,,,GME,2024-05-30 09:27:24,GME,2024-05-30 09:27:24,,,,,,203
+PROGKORD,,,,Abrahamsen,Øystein,,Bachelor i nautikk med integrert praksis,,18,2024-05-01 00:00:00,,,,,NABP,,,,,,GME,2024-05-30 09:28:11,HMHA,2024-06-26 14:28:18,,,,,,203
+PROGKORD,,,,Andersen,Vidar,,"Personlig Trener, årsstudium",,8,2021-08-19 00:00:00,,,,,PT,,,,,,HMHA,2021-08-19 09:10:36,KHE,2022-08-16 09:53:13,,,,,,203
+PROGKORD,203,MSU520,1,Beisland,Elisabeth Grov,Klinisk fagledelse og fordypning i klinisk uroterapi ,,,8,2023-01-25 00:00:00,,,,,,,,,,,ANNE,2023-01-25 10:22:25,ANNE,2023-01-25 10:22:25,,,,,,203
+PROGKORD,203,MSS500,1,Beisland,Elisabeth Grov,"Helsepedagogikk, helsetenesteutvikling og innovasjon ",,,9,2023-01-25 00:00:00,,,,,,,,,,,ANNE,2023-01-25 10:25:22,ANNE,2023-01-25 10:25:22,,,,,,203
+PROGKORD,,,,Beisland,Elisabeth Grov,,Master i sykepleie - kliniske spesialiteter,,10,2023-01-30 00:00:00,,,,,MASKS,,,,,,LHE,2023-01-30 14:09:27,LHE,2023-01-30 14:10:42,,,,,,203
+PROGKORD,,,,Beisland,Elisabeth Grov,,Sykepleie - kliniske spesialiteter,,11,2023-01-30 00:00:00,,,,,VSKS,,,,,,LHE,2023-01-30 14:10:15,LHE,2023-01-30 14:10:22,,,,,,203
+PROGKORD,203,PHDH909,1,Bjørndal,Anne Dall-Larsen,"Doktorgradsavhandling i Helse, funksjon og deltakelse",,,1,2023-06-01 00:00:00,,,,,,,,,,,ANBJ,2023-06-20 15:36:24,ANBJ,2023-06-20 15:36:24,,,,,,203
+PROGKORD,203,PHDH901,1,Bjørndal,Anne Dall-Larsen,"Helse, funksjon og deltakelse",,,2,2023-06-01 00:00:00,,,,,,,,,,,HMHA,2023-08-18 13:49:56,ANBJ,2024-04-05 12:40:47,,,,,,203
+PROGKORD,203,PHDH916,1,Bjørndal,Anne Dall-Larsen,Introduksjon til vurdering og utarbeidelse av systematiske kunnskapsoppsummeringer,,,3,2023-06-01 00:00:00,,,,,,,,,,,ANBJ,2023-09-21 09:27:15,ANBJ,2023-09-21 09:27:15,,,,,,203
+PROGKORD,203,PHDH913,1,Bjørndal,Anne Dall-Larsen,Introduksjon til longitudinell dataanalyse ved bruk av “mixed effects” modeller ,,,4,2023-06-01 00:00:00,,,,,,,,,,,ANBJ,2023-09-21 09:27:50,ANBJ,2023-09-21 09:27:50,,,,,,203
+PROGKORD,203,PHDH902,1,Bjørndal,Anne Dall-Larsen,Vitenskapsteori og etikk i helse- sosialvitenskap,,,5,2023-06-01 00:00:00,,,,,,,,,,,ANBJ,2024-04-05 12:40:13,ANBJ,2024-04-05 12:40:13,,,,,,203
+PROGKORD,203,PHDH903,1,Bjørndal,Anne Dall-Larsen,Forskningsdesign og -metoder,,,6,2023-06-01 00:00:00,,,,,,,,,,,ANBJ,2024-04-05 12:43:02,ANBJ,2024-04-05 12:43:02,,,,,,203
+PROGKORD,203,PHDH904,1,Bjørndal,Anne Dall-Larsen,Helsefremming og mestring,,,7,2023-06-01 00:00:00,,,,,,,,,,,ANBJ,2024-04-05 12:43:35,ANBJ,2024-04-05 12:43:35,,,,,,203
+PROGKORD,203,PHDH907,1,Bjørndal,Anne Dall-Larsen,"Metoder for kartlegging av helse, funksjon og deltakelse",,,9,2023-06-01 00:00:00,,,,,,,,,,,ANBJ,2024-04-05 12:44:36,ANBJ,2024-04-05 12:44:36,,,,,,203
+PROGKORD,203,PHDH908,1,Bjørndal,Anne Dall-Larsen,Intervensjonsstudier,,,10,2023-06-01 00:00:00,,,,,,,,,,,ANBJ,2024-04-05 12:45:14,ANBJ,2024-04-05 12:45:14,,,,,,203
+PROGKORD,,,,Ellingsen,Pål,,Teknologi for forretningsutvikling,,14,2021-03-24 00:00:00,,,,,TEKFO,,,,,,KJO,2021-03-26 09:28:07,KJO,2021-03-26 09:28:07,,,,,,203
+PROGKORD,203,MSU520,1,Haltbakk,Johannes,Klinisk fagledelse og fordypning i klinisk uroterapi ,,,79,2023-01-25 00:00:00,,,,,,,,,,,ANNE,2023-01-25 10:21:41,ANNE,2023-01-25 10:21:41,,,,,,203
+PROGKORD,203,MSS500,1,Haltbakk,Johannes,"Helsepedagogikk, helsetenesteutvikling og innovasjon ",,,80,2023-01-25 00:00:00,,,,,,,,,,,ANNE,2023-01-25 10:26:32,ANNE,2023-01-25 10:26:32,,,,,,203
+PROGKORD,,,,Hamre,Øyvind Hansen,,"Bachelor i idrett, trening og helse",,2,2022-05-01 00:00:00,,,,,BIDR,,,,,,KHE,2022-08-16 10:41:12,KHE,2022-08-16 10:41:12,,,,,,203
+PROGKORD,,,,Hansen,Hege Almeland,,Tverrfaglig master i psykisk helse- og rusarbeid,,16,2024-01-03 00:00:00,,,,,MAPHER,,,HØST,2024,,BERGLJOS,2024-01-03 14:08:22,BERGLJOS,2024-01-03 14:08:22,,,,,,203
+PROGKORD,,,,Hansen,Hege Almeland,,Tverrfaglig videreutdanning i psykisk helse- og rusarbeid,,17,2024-01-03 00:00:00,,,,,VTPHR,,,HØST,2024,,BERGLJOS,2024-01-03 14:14:01,BERGLJOS,2024-01-03 14:14:01,,,,,,203
+PROGKORD,203,SYKS200,1,Harneshaug,Torill Synnøve,"Sykepleie ved akutt, kronisk og kritisk sykdom",,,18,2021-12-09 00:00:00,,,,,,,,,,,EAT,2021-12-09 10:15:53,EAT,2021-12-09 10:15:53,,,,,,203
+PROGKORD,203,SYKS220P,1,Harneshaug,Torill Synnøve,"Praksisstudie, Medisinsk sykepleie ved akutt, kronisk og kritisk sykdom",,,19,2022-09-02 00:00:00,,,,,,,,,,,EAT,2022-09-02 10:13:48,EAT,2022-09-02 10:13:48,,,,,,203
+PROGKORD,203,SYKS230P,1,Harneshaug,Torill Synnøve,"Praksisstudie, Kirurgisk sykepleie ved akutt, kronisk og kritisk sykdom",,,20,2022-09-02 00:00:00,,,,,,,,,,,EAT,2022-09-02 10:19:38,EAT,2022-09-02 10:19:38,,,,,,203
+PROGKORD,203,SYKS100,1,Harneshaug,Torill Synnøve,Grunnleggende sykepleie,,,21,2022-09-05 00:00:00,,,,,,,,,,,EAT,2022-09-05 13:01:13,EAT,2022-09-05 13:01:13,,,,,,203
+PROGKORD,203,SYKS110,1,Harneshaug,Torill Synnøve,Danning og akademisk håndverk,,,22,2022-09-05 00:00:00,,,,,,,,,,,EAT,2022-09-05 13:01:39,EAT,2022-09-05 13:01:39,,,,,,203
+PROGKORD,203,SYKS120P,1,Harneshaug,Torill Synnøve,"Praksisstudie, Grunnleggende sykepleie",,,23,2022-09-05 00:00:00,,,,,,,,,,,EAT,2022-09-05 13:02:00,EAT,2022-09-05 13:02:00,,,,,,203
+PROGKORD,203,SYKS130,1,Harneshaug,Torill Synnøve,"Anatomi, fysiologi, biokjemi og mikrobiologi",,,24,2022-09-05 00:00:00,,,,,,,,,,,EAT,2022-09-05 13:02:16,EAT,2022-09-05 13:02:16,,,,,,203
+PROGKORD,203,SYKS140,1,Harneshaug,Torill Synnøve,Sykdomslære og farmakologi,,,25,2022-09-05 00:00:00,,,,,,,,,,,EAT,2022-09-05 13:02:31,EAT,2022-09-05 13:02:31,,,,,,203
+PROGKORD,203,SYKS250,1,Harneshaug,Torill Synnøve,Folkehelse i et nasjonalt og globalt perspektiv,,,26,2022-09-05 00:00:00,,,,,,,,,,,EAT,2022-09-05 13:03:19,EAT,2022-09-05 13:03:19,,,,,,203
+PROGKORD,203,SYKS300,1,Harneshaug,Torill Synnøve,Sykepleie ved komplekse og sammensatte pasienttilstander og sykdomsbilde i kommunehelsetjenesten,,,27,2022-09-05 00:00:00,,,,,,,,,,,EAT,2022-09-05 13:03:35,EAT,2022-09-05 13:03:35,,,,,,203
+PROGKORD,203,SYKS320P,1,Harneshaug,Torill Synnøve,"Praksisstudie, Sykepleie ved komplekse og sammensatte pasienttilstander og sykdomsbilder i kommunehelsetjenesten",,,28,2022-09-05 00:00:00,,,,,,,,,,,EAT,2022-09-05 13:03:50,EAT,2022-09-05 13:03:50,,,,,,203
+PROGKORD,203,SYKS360P,1,Harneshaug,Torill Synnøve,"Praksisstudie,  Faglig ledelse, tjenesteutvikling og innovasjon",,,29,2022-09-05 00:00:00,,,,,,,,,,,EAT,2022-09-05 13:04:07,EAT,2022-09-05 13:04:07,,,,,,203
+PROGKORD,203,SYKS330P,1,Harneshaug,Torill Synnøve,"Praksisstudie, Sykepleie ved psykisk sykdom/lidelse",,,30,2022-09-05 00:00:00,,,,,,,,,,,EAT,2022-09-05 13:04:20,EAT,2022-09-05 13:04:20,,,,,,203
+PROGKORD,203,SYKS390,1,Harneshaug,Torill Synnøve,Bacheloroppgave,,,31,2022-09-05 00:00:00,,,,,,,,,,,EAT,2022-09-05 13:04:33,EAT,2022-09-05 13:04:33,,,,,,203
+PROGKORD,203,SYKS231P,1,Harneshaug,Torill Synnøve,"Medisinsk og kirurgisk sykepleie - akutt, kronisk og kritisk sykdom med samhandling på tvers av helsetjenestenivå",,,45,2022-09-02 00:00:00,,,,,,,,,,,HHFO,2024-05-13 09:36:18,HHFO,2024-05-13 09:36:18,,,,,,203
+PROGKORD,203,SYKDS110,1,Harneshaug,Torill Synnøve,Danning og akademisk håndverk,,,46,2022-09-02 00:00:00,,,,,,,,,,,HHFO,2024-05-13 09:36:44,HHFO,2024-05-13 09:36:44,,,,,,203
+PROGKORD,203,SYKDS130,1,Harneshaug,Torill Synnøve,"Anatomi, fysiologi, biokjemi og mikrobiologi",,,47,2022-09-02 00:00:00,,,,,,,,,,,HHFO,2024-05-13 09:37:12,HHFO,2024-05-13 09:37:12,,,,,,203
+PROGKORD,203,SYKDS100,1,Harneshaug,Torill Synnøve,Grunnleggende sykepleie,,,48,2022-09-02 00:00:00,,,,,,,,,,,HHFO,2024-05-13 09:38:29,HHFO,2024-05-13 09:38:29,,,,,,203
+PROGKORD,203,SYKDS140,1,Harneshaug,Torill Synnøve,Sykdomslære og farmakologi,,,49,2022-09-02 00:00:00,,,,,,,,,,,HHFO,2024-05-13 09:38:52,HHFO,2024-05-13 09:38:52,,,,,,203
+PROGKORD,,,,Hausmann,Frøydis,,Bachelor i folkehelsearbeid med vekt på kosthold og fysisk aktivitet,,23,2020-07-01 00:00:00,,,,,FHA,,,,,,KHE,2020-08-11 10:21:40,KHE,2022-08-16 09:55:08,,,,,,203
+PROGKORD,,,,Hjertenes,Anne-Margrethe Aguirre,,Bachelor i sykepleie,,56,2023-05-01 00:00:00,,,,,BSYK,,,HØST,2025,,MILFA,2024-12-11 09:39:50,HHFO,2024-12-11 09:42:15,,,,FORDE,,203
+PROGKORD,,,,Hjertenes,Anne-Margrethe Aguirre,,Bachelor i sykepleie,,80,2024-05-01 00:00:00,,,,,BSYK,,,VÅR,2026,,HHFO,2024-12-11 09:38:41,HHFO,2024-12-11 09:38:41,,,,FORDE,,203
+PROGKORD,,,,Hope,Kristin Lofthus,,"Master i innovasjon og ledelse, samfunnsfaglig retning",,10,2018-07-01 00:00:00,,,,,MIL-MA,,,,,,MSKN,2021-01-22 09:22:16,MSKN,2021-01-22 09:22:16,,,,,,203
+PROGKORD,203,MARE520,1,Jalovcic,Djenana,Rehabilitation: Theoretical Foundation,,,17,2022-05-19 00:00:00,,,,,,,,,,,CHA,2022-05-19 14:40:15,CHA,2022-05-19 14:40:15,,,,,,203
+PROGKORD,203,MGBPRO101,1,Kallmyr,Linda Skrede,Profesjonsemne 1,,,62,2024-05-01 00:00:00,,,,,,,,,,,ANEB,2024-09-27 10:33:12,ANEB,2024-09-27 10:33:12,,,,,,203
+PROGKORD,203,MGBPRO201,1,Kallmyr,Linda Skrede,Profesjonsemne 2,,,63,2024-05-01 00:00:00,,,,,,,,,,,ANEB,2024-09-27 10:33:54,ANEB,2024-09-27 10:33:54,,,,,,203
+PROGKORD,203,MGBPRO301,1,Kallmyr,Linda Skrede,Profesjonsemne 3,,,64,2024-05-01 00:00:00,,,,,,,,,,,ANEB,2024-09-27 10:34:17,ANEB,2024-09-27 10:34:17,,,,,,203
+PROGKORD,203,MGBPRO401,1,Kallmyr,Linda Skrede,Profesjonsemne 4,,,65,2024-05-01 00:00:00,,,,,,,,,,,ANEB,2024-09-27 10:34:42,ANEB,2024-09-27 10:34:42,,,,,,203
+PROGKORD,203,MGUPRO101,1,Kallmyr,Linda Skrede,Profesjonsemne 1,,,66,2024-05-01 00:00:00,,,,,,,,,,,ANEB,2024-09-27 10:35:28,ANEB,2024-09-27 10:35:28,,,,,,203
+PROGKORD,203,MGUPRO201,1,Kallmyr,Linda Skrede,Profesjonsemne 2,,,67,2024-05-01 00:00:00,,,,,,,,,,,ANEB,2024-09-27 10:35:51,ANEB,2024-09-27 10:35:51,,,,,,203
+PROGKORD,203,MGUPRO301,1,Kallmyr,Linda Skrede,Profesjonsemne 3,,,68,2024-05-01 00:00:00,,,,,,,,,,,ANEB,2024-09-27 10:36:13,ANEB,2024-09-27 10:36:13,,,,,,203
+PROGKORD,203,MGUPRO401,1,Kallmyr,Linda Skrede,Profesjonsemne 4,,,69,2024-05-01 00:00:00,,,,,,,,,,,ANEB,2024-09-27 10:36:43,ANEB,2024-09-27 10:36:43,,,,,,203
+PROGKORD,,,,Kambe,Marianne,,"Bachelor i sykepleie, deltid",,80,2024-05-01 00:00:00,,,,,BSYKD,,,HØST,2025,,HHFO,2024-12-11 09:33:17,MEAH,2024-12-11 09:38:33,,,,HGSD,,203
+PROGKORD,,,,Kleiven,Ole Tormod,,Master i samhandling og folkehelse,,20,2023-05-01 00:00:00,,,,,MSFH,,,HØST,2023,,BERGLJOS,2023-03-13 13:28:09,HMHA,2025-02-04 15:44:25,,,,,,203
+PROGKORD,,,,Kolltveit,Beate-Christin Hope,,Master i avansert klinisk allmennsykepleie,,17,2023-05-01 00:00:00,,,,,MASKA,,,HØST,2025,,HHFO,2024-12-11 09:25:36,HHFO,2024-12-11 09:25:36,,,,,,203
+PROGKORD,,,,Lindeman,Sari Kaarina,,Master i familieterapi og relasjonelt arbeid,,58,2023-05-01 00:00:00,,,,,MARA,,,HØST,2023,,BERGLJOS,2023-12-04 13:53:35,HMHA,2025-02-04 15:44:49,,,,,,203
+PROGKORD,,,,Lindeman,Sari Kaarina,,Master i familieterapi og relasjonelt arbeid,,59,2024-01-01 00:00:00,,,,,MARA,,,HØST,2024,,BERGLJOS,2023-12-04 13:54:54,BERGLJOS,2023-12-04 13:54:54,,,,,,203
+PROGKORD,,,,Lindeman,Sari Kaarina,,Master i familieterapi og relasjonelt arbeid,,60,2025-01-01 00:00:00,,,,,MARA,,,HØST,2025,,BERGLJOS,2024-12-04 10:41:03,BERGLJOS,2024-12-04 10:41:13,,,,,,203
+PROGKORD,,,,Lykkebø,Osvald,,"Engelsk årsstudium, nettstudium",,43,2024-04-15 00:00:00,,,,,ENGN,,,,,,ANEB,2024-04-15 13:30:59,ANEB,2024-04-15 13:30:59,,,,,,203
+PROGKORD,,,,Malterud Grøndahl,lotte,,"Friluftsliv, bachelorstudium, Sogndal",,6,2022-05-01 00:00:00,,,,,FRIB,,,,,,KHE,2022-08-16 11:37:35,KHE,2022-08-16 11:37:35,,,,,,203
+PROGKORD,,,,Nesheim,Knut,,Master i klinisk sykepleie - Intensivsykepleie,,8,2023-05-01 00:00:00,,,,,MA-KSI,,,,,,HMHA,2023-11-22 10:13:25,HMHA,2023-11-22 10:13:52,Haugesund,,,,,203
+PROGKORD,,,,Nesheim,Knut,,Master i klinisk sykepleie - Operasjonssykepleie,,9,2023-05-01 00:00:00,,,,,MA-KSO,,,,,,HMHA,2023-11-22 10:14:13,HMHA,2023-11-22 10:14:13,,,,,,203
+PROGKORD,,,,Nilsen,Ann-Kristin,,Lærerutdanning i praktiske og estetiske fag for trinn 1-13 - Kroppsøving og idrettsfag,,31,2025-01-01 00:00:00,,,,,LUPEK,,,,,,ANEB,2025-02-25 09:17:41,FS,2025-02-26 00:00:11,,,,,,203
+PROGKORD,203,MDIP501C,1,Opheim,Bente,Globalisering og utdanning,,,47,2023-05-01 00:00:00,,,,,,,,,,,ANEB,2024-09-20 13:31:33,ANEB,2024-09-20 13:48:04,,,,,,203
+PROGKORD,203,MPUV550C,1,Opheim,Bente,Ledelse - Masteroppgave,,,48,2024-09-01 00:00:00,,,,,,,,,,,ANEB,2024-09-20 13:40:00,ANEB,2024-09-20 13:40:00,,,,,,203
+PROGKORD,203,MDIP550C,1,Opheim,Bente,Masteroppgave - Samfunnsfag/Religion,,,49,2024-05-01 00:00:00,,,,,,,,,,,ANEB,2024-09-20 13:50:08,ANEB,2024-09-20 13:50:08,,,,,,203
+PROGKORD,,,,Robbestad,Anne Isabelle,,Master i økonomi og administrasjon (Siviløkonom),,33,2022-03-01 00:00:00,,,,,MSB,,,,,,GME,2022-04-07 15:36:09,GME,2022-06-30 15:42:19,Studieprogramansvarlig i perioden mars 2022 - juli 2023,,,,,203
+PROGKORD,,,,Røthe,Torgeir Opeland,,Bachelor i geologi og geofare,,12,2023-08-01 00:00:00,,,,,GEFA,,,,,,GS,2012-03-02 10:28:10,TORIRUU,2023-08-17 13:17:57,,,,,,203
+PROGKORD,,,,Sandhåland,Hilde,,Master i maritime operasjoner,,40,2023-10-01 00:00:00,,,,,MMO,,,,,,GME,2023-12-15 12:37:00,GME,2024-01-11 13:47:18,,,,,,203
+PROGKORD,,,,Sandhåland,Hilde,,Bachelor i Maritime Management,,41,2023-10-01 00:00:00,,,,,BAMM,,,,,,GME,2023-12-15 12:38:26,GME,2024-01-11 13:45:48,,,,,,203
+PROGKORD,,,,Spjeldnæs,Ingrid Onarheim,,Master i sosialvitenskap,,9,2024-09-06 00:00:00,,,,,MASOD,,,,,,MEAH,2024-09-06 12:05:23,MEAH,2025-01-09 09:09:10,Programkoordinator 2. studieår ,,,,,203
+PROGKORD,,,,Spångberg,Harald,,Bachelor i informasjonsteknologi,,95,2023-05-01 00:00:00,,,,,INF-H,,,,,,KHE,2023-08-17 09:40:26,KHE,2023-08-17 09:40:26,,,,,,203
+PROGKORD,,,,Steensnæs,Jorunn,,Enkeltemner på nautikk,,65,2019-08-01 00:00:00,,,,,NAB-EMNER,,,,,,KHE,2020-01-20 13:26:39,KHE,2023-03-07 08:57:31,,,,,,203
+PROGKORD,,,,Turøy,Anne Kristine Wallace,,Lærerutdanning i praktiske og estetiske fag for trinn 1-13 - Musikk,,28,2022-05-01 00:00:00,,,,,LUPEM,,,,,,KHE,2022-08-16 10:11:45,KHE,2022-08-16 10:11:45,,,,,,203
+PROGKORD,,,,Voll,Ingrid,,Master i sosialvitenskap,,13,2024-09-06 00:00:00,,,,,MASOD,,,,,,MEAH,2024-09-06 12:03:29,MEAH,2024-09-06 12:03:40,Programkoordinator 1. studieår ,,,,,203
+PROGKORD,,,,Ylvisåker,Einar,,"Bachelor i idrett, trening og helse",,28,2022-05-01 00:00:00,,,,,BIDR,,,,,,KHE,2022-08-16 10:42:27,KHE,2022-08-16 10:42:27,,,,,,203
+PROGKORD,203,MAMET1SKA,1,Ytrehus,Siri,"Vitenskapsteori, etikk og metode",,,18,2021-07-01 00:00:00,,,,,,,,,,,FSWS,2021-03-15 10:41:32,EAT,2023-09-08 12:35:49,,,,,,203
+PROGKORD,,,,Ytrehus,Siri,,Master i samhandling og folkehelse,,26,2025-01-01 00:00:00,,,,,MSFH,,,HØST,2025,,BERGLJOS,2024-12-04 10:42:05,BERGLJOS,2024-12-04 10:42:05,,,,,,203

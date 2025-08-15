@@ -1,0 +1,35 @@
+rollekode,institusjonsnr,emnekode,versjonskode,etternavn,fornavn,emnenavn_bokmal,studieprognavn,stednavn_bokmal,rollenr,dato_fra,dato_til,faknr,instituttnr,gruppenr,studieprogramkode,aktivitetkode,undplanlopenr,terminkode,arstall,terminnr,saksbehinit_opprettet,dato_opprettet,saksbehinit_endring,dato_endring,merknadtekst,etterutdkurskode,kurstidsangivelsekode,klassekode,prioritetsnr,institusjonsnr_eier
+OBSERVATØR,203,SYKB100,1,Fjose,Marianne,Grunnleggende sykepleie,,,49,2020-06-01 00:00:00,,,,,,,,,,,MEAH,2020-06-22 09:24:12,MEAH,2022-06-09 14:12:19,,,,,2,203
+OBSERVATØR,203,SYKB120P,1,Kloven,Randi Dale,"Praksisstudie, Grunnleggende sykepleie",,,60,2020-08-11 00:00:00,,,,,,,,,,,MEAH,2020-08-11 19:08:24,MEAH,2022-06-09 14:47:40,,,,,12,203
+OBSERVATØR,203,SYKB130,1,Kloven,Randi Dale,"Anatomi, fysiologi, biokjemi og mikrobiologi",,,61,2020-08-11 00:00:00,,,,,,,,,,,MEAH,2020-08-11 19:13:32,MEAH,2022-06-09 15:02:15,,,,,12,203
+OBSERVATØR,203,SYKB100,1,Kloven,Randi Dale,Grunnleggende sykepleie,,,76,2024-04-28 00:00:00,,,,,,,,HØST,2024,1,MILFA,2024-04-05 13:09:41,MILFA,2024-04-05 13:09:41,Endret til fradato til 01.05.2022 etter forespørsel til SIKT,,,,,203
+OBSERVATØR,203,SYKB110,1,Kloven,Randi Dale,Danning og akademisk håndverk,,,77,2024-04-28 00:00:00,,,,,,,,HØST,2024,1,MILFA,2024-04-05 13:09:41,MILFA,2024-04-05 13:09:41,Endret til fradato til 01.05.2022 etter forespørsel til SIKT,,,,,203
+OBSERVATØR,203,SYKB130,1,Kloven,Randi Dale,"Anatomi, fysiologi, biokjemi og mikrobiologi",,,78,2024-04-28 00:00:00,,,,,,,,HØST,2024,1,MILFA,2024-04-05 13:09:41,MILFA,2024-04-05 13:09:41,Endret til fradato til 01.05.2022 etter forespørsel til SIKT,,,,,203
+OBSERVATØR,203,SYKB120P,1,Kloven,Randi Dale,"Praksisstudie, Grunnleggende sykepleie",,,80,2024-04-28 00:00:00,,,,,,,,VÅR,2025,2,MILFA,2024-04-05 13:24:08,MILFA,2024-04-05 13:24:08,Endret til fradato til 01.05.2022 etter forespørsel til SIKT,,,,,203
+OBSERVATØR,203,SYKB120P,1,Kloven,Randi Dale,"Praksisstudie, Grunnleggende sykepleie",,,83,2025-04-27 00:00:00,,,,,,,,VÅR,2026,2,MILFA,2025-02-24 12:43:57,MILFA,2025-02-24 12:43:57,Endret til fradato til 01.05.2022 etter forespørsel til SIKT,,,,,203
+OBSERVATØR,203,SYKB100,1,Kloven,Randi Dale,Grunnleggende sykepleie,,,84,2025-04-27 00:00:00,,,,,,,,HØST,2025,1,MILFA,2025-02-24 12:54:17,MILFA,2025-02-24 12:54:17,Endret til fradato til 01.05.2022 etter forespørsel til SIKT,,,,,203
+OBSERVATØR,203,SYKB110,1,Kloven,Randi Dale,Danning og akademisk håndverk,,,85,2025-04-27 00:00:00,,,,,,,,HØST,2025,1,MILFA,2025-02-24 12:54:17,MILFA,2025-02-24 12:54:17,Endret til fradato til 01.05.2022 etter forespørsel til SIKT,,,,,203
+OBSERVATØR,203,SYKB130,1,Kloven,Randi Dale,"Anatomi, fysiologi, biokjemi og mikrobiologi",,,86,2025-04-27 00:00:00,,,,,,,,HØST,2025,1,MILFA,2025-02-24 12:54:17,MILFA,2025-02-24 12:54:17,Endret til fradato til 01.05.2022 etter forespørsel til SIKT,,,,,203
+OBSERVATØR,203,SYKB100,1,Kvam,Fred-Ivan,Grunnleggende sykepleie,,,18,2020-08-10 00:00:00,,,,,,,,,,,MEAH,2020-08-10 09:28:28,MEAH,2022-06-09 14:13:16,,,,,3,203
+OBSERVATØR,203,SYKB120P,1,Kvam,Fred-Ivan,"Praksisstudie, Grunnleggende sykepleie",,,20,2020-08-11 00:00:00,,,,,,,,,,,MEAH,2020-08-11 19:09:06,MEAH,2022-06-09 14:48:13,,,,,14,203
+OBSERVATØR,,,,Kvinge,Elin,,,,1,2019-01-01 00:00:00,,,,,,,,,,,KHE,2019-01-31 08:49:05,KHE,2019-01-31 08:49:05,,EVN1007,2019 VÅR,,,203
+OBSERVATØR,,,,Kvinge,Elin,,,,5,2019-01-01 00:00:00,,,,,,,,,,,ALHE,2020-01-15 12:19:11,ALHE,2020-01-15 12:19:11,,EVN1007,2020 VÅR,,,203
+OBSERVATØR,203,SYKB100,1,Messaoudi,el Houcine,Grunnleggende sykepleie,,,22,2020-08-10 00:00:00,,,,,,,,,,,MEAH,2020-08-10 09:42:44,MEAH,2022-06-09 14:13:16,,,,,7,203
+OBSERVATØR,203,SYKB120P,1,Messaoudi,el Houcine,"Praksisstudie, Grunnleggende sykepleie",,,24,2020-08-11 00:00:00,,,,,,,,,,,MEAH,2020-08-11 19:06:16,MEAH,2022-06-09 14:48:13,,,,,7,203
+OBSERVATØR,203,PHD901,1,Moe,Vegard Fusche,Danning og didaktiske praksiser,,,7,2023-05-15 00:00:00,,,,,,,,,,,STSJ,2023-05-15 10:36:35,STSJ,2023-05-15 10:36:35,,,,,,203
+OBSERVATØR,203,PHD902,1,Moe,Vegard Fusche,"Vitenskapsteori, etikk og akademisk tekstarbeid",,,8,2023-05-15 00:00:00,,,,,,,,,,,STSJ,2023-05-15 10:38:41,STSJ,2023-05-15 10:38:41,,,,,,203
+OBSERVATØR,203,PHD903,1,Moe,Vegard Fusche,Forskningsmetodologi og -design,,,9,2023-05-15 00:00:00,,,,,,,,,,,STSJ,2023-05-15 10:40:44,STSJ,2023-05-15 10:40:44,,,,,,203
+OBSERVATØR,203,PHD904,1,Moe,Vegard Fusche,Utforskende forskningsformer,,,10,2023-05-15 00:00:00,,,,,,,,,,,STSJ,2023-05-15 10:41:25,STSJ,2023-05-15 10:41:25,,,,,,203
+OBSERVATØR,203,PHD905,1,Moe,Vegard Fusche,Lærerprofesjonen,,,11,2023-05-15 00:00:00,,,,,,,,,,,STSJ,2023-05-15 10:41:49,STSJ,2023-05-15 10:41:49,,,,,,203
+OBSERVATØR,203,PHD906,1,Moe,Vegard Fusche,Utdanningsinstitusjoner som danningsarenaer,,,12,2023-05-15 00:00:00,,,,,,,,,,,STSJ,2023-05-15 10:42:22,STSJ,2023-05-15 10:42:22,,,,,,203
+OBSERVATØR,203,PHD908,1,Moe,Vegard Fusche,Kritisk matematikkdidaktikk: undervisning og forskning,,,13,2023-07-14 00:00:00,,,,,,,,,,,STSJ,2023-05-15 10:42:57,STSJ,2023-05-15 10:42:57,,,,,,203
+OBSERVATØR,203,PHD909,1,Moe,Vegard Fusche,Utdanningsretorikk,,,14,2023-05-15 00:00:00,,,,,,,,,,,STSJ,2023-05-15 10:44:06,STSJ,2023-05-15 10:44:06,,,,,,203
+OBSERVATØR,203,PHD911,1,Moe,Vegard Fusche,Ikke-vestlig utdanningsfilosofi og politikk,,,15,2023-05-15 00:00:00,,,,,,,,,,,STSJ,2023-05-15 10:44:31,STSJ,2023-05-15 10:44:31,,,,,,203
+OBSERVATØR,203,PHD912,1,Moe,Vegard Fusche,Økokritikk og didaktiske praksiser ,,,16,2023-05-15 00:00:00,,,,,,,,,,,STSJ,2023-05-15 10:44:54,STSJ,2023-05-15 10:44:54,,,,,,203
+OBSERVATØR,203,PHD915,1,Moe,Vegard Fusche,Multimodal leseferdigheter og estetisk engasjement  ,,,17,2023-05-15 00:00:00,,,,,,,,,,,STSJ,2023-05-15 10:45:54,STSJ,2023-05-15 10:45:54,,,,,,203
+OBSERVATØR,203,SYKB130,1,Pedersen,Henriette Bakke,"Anatomi, fysiologi, biokjemi og mikrobiologi",,,11,2024-04-28 00:00:00,,,,,,,,HØST,2024,1,MILFA,2024-04-05 13:09:41,MILFA,2024-04-05 13:09:41,Endret til fradato til 01.05.2022 etter forespørsel til SIKT,,,,,203
+OBSERVATØR,203,SYKB130,1,Pedersen,Henriette Bakke,"Anatomi, fysiologi, biokjemi og mikrobiologi",,,14,2025-04-27 00:00:00,,,,,,,,HØST,2025,1,MILFA,2025-02-24 12:54:17,MILFA,2025-02-24 12:54:17,Endret til fradato til 01.05.2022 etter forespørsel til SIKT,,,,,203
+OBSERVATØR,203,PHDH913,1,Sudmann,Tobba,Introduksjon til longitudinell dataanalyse ved bruk av “mixed effects” modeller ,,,40,2023-01-01 00:00:00,,,,,,,,,,,RABE,2023-01-05 10:35:08,RABE,2023-01-05 10:35:08,,,,,,203
+OBSERVATØR,203,PHDH916,1,Sudmann,Tobba,Introduksjon til vurdering og utarbeidelse av systematiske kunnskapsoppsummeringer,,,41,2023-02-01 00:00:00,,,,,,,,,,,RABE,2023-02-20 07:29:18,RABE,2023-02-20 07:29:18,,,,,,203
+OBSERVATØR,203,SYKB130,1,Woldeyes,Tigist Assefa,"Anatomi, fysiologi, biokjemi og mikrobiologi",,,13,2024-04-28 00:00:00,,,,,,,,HØST,2024,1,MILFA,2024-04-05 13:09:41,MILFA,2024-04-05 13:09:41,,,,,,203
+OBSERVATØR,203,SYKB130,1,Woldeyes,Tigist Assefa,"Anatomi, fysiologi, biokjemi og mikrobiologi",,,17,2025-04-27 00:00:00,,,,,,,,HØST,2025,1,MILFA,2025-02-24 12:54:17,MILFA,2025-02-24 12:54:17,,,,,,203

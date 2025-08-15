@@ -1,0 +1,15 @@
+rollekode,institusjonsnr,emnekode,versjonskode,etternavn,fornavn,emnenavn_bokmal,studieprognavn,stednavn_bokmal,rollenr,dato_fra,dato_til,faknr,instituttnr,gruppenr,studieprogramkode,aktivitetkode,undplanlopenr,terminkode,arstall,terminnr,saksbehinit_opprettet,dato_opprettet,saksbehinit_endring,dato_endring,merknadtekst,etterutdkurskode,kurstidsangivelsekode,klassekode,prioritetsnr,institusjonsnr_eier
+PROGANSV,,,,Bakke,Elisabeth,,Tverrfaglig videreutdanning i psykososialt arbeid med barn og unge,,22,2025-02-01 00:00:00,,,,,TPSBU,,,,,,BERGLJOS,2025-02-24 11:08:36,FS,2025-02-25 00:00:48,,,,,,203
+PROGANSV,,,,Bergfjord,Ole Jakob,,Årsstudium i Human Resource Management og ledelse (HRM),,61,2025-05-01 00:00:00,,,,,AHRM,,,,,,KHE,2024-12-06 10:40:04,KHE,2024-12-06 10:40:04,,,,,,203
+PROGANSV,,,,Bulie,Erik,,Karriereveiledning,,56,2025-05-01 00:00:00,,,,,VKVL,,,,,,KHE,2024-12-06 09:45:29,KHE,2024-12-06 10:40:13,,,,,,203
+PROGANSV,,,,Fjell,Astrid,,"Bachelor i sykepleie, deltid",,80,2024-05-01 00:00:00,,,,,BSYKD,,,HØST,2025,,HHFO,2024-12-11 09:34:01,MEAH,2024-12-11 09:38:36,,,,HGSD,,203
+PROGANSV,,,,Kalsås,Øyvind Reehorst,,Tverrfaglig master i psykisk helse- og rusarbeid,,19,2024-12-11 00:00:00,,,,,MAPHER,,,HØST,2025,,BERGLJOS,2024-12-11 09:41:39,BERGLJOS,2024-12-11 09:41:39,,,,,,203
+PROGANSV,,,,Kvala,Knut Steffen Vall,,Årsstudium i bedriftsøkonomi,,83,2025-05-01 00:00:00,,,,,ABED,,,,,,KHE,2024-12-05 14:19:56,KHE,2024-12-05 14:42:35,Studieprogramansvarlig,,,,,203
+PROGANSV,,,,Lewis,Rhiannon Tveiten,,"Bachelor i ingeniørfag, prosessteknologi y-vei",,35,2025-03-01 00:00:00,,,,,BPRO,,,,,,KHE,2025-03-11 14:36:05,FS,2025-03-12 00:01:21,,,,,,203
+PROGANSV,,,,Olsen,Terje Årsvoll,,"Bachelor i sykepleie, deltid",,82,2023-05-01 00:00:00,,,,,BSYKD,,,HØST,2025,,HHFO,2024-12-11 09:31:22,MEAH,2024-12-11 09:38:03,,,,BERGEN,,203
+PROGANSV,,,,Rønsen,Anne Kristin,,Lærerutdanning i praktiske og estetiske fag for trinn 1-13 - Kroppsøving og idrettsfag,,33,2025-01-01 00:00:00,,,,,LUPEK,,,,,,ANEB,2025-02-25 09:21:01,FS,2025-02-26 00:00:44,,,,,,203
+PROGANSV,,,,Samnøy,Stig Frode,,"Bachelor i ingeniørfag, bygg",,11,2025-01-01 00:00:00,,,,,BYGG,,,,,,GIH,2025-03-06 10:53:26,FS,2025-03-07 00:00:44,SPA fra V25,,,,,203
+PROGANSV,,,,Samnøy,Stig Frode,,"Bachelor i ingeniørfag, bygg",,12,2025-01-01 00:00:00,,,,,BYGGF,,,,,,GIH,2025-03-06 10:54:21,FS,2025-03-07 00:00:44,,,,,,203
+PROGANSV,,,,Samnøy,Stig Frode,,"Bachelor i ingeniørfag, bygg, y-vei",,13,2025-01-01 00:00:00,,,,,BYGGYF,,,,,,GIH,2025-03-06 10:55:34,FS,2025-03-07 00:00:44,,,,,,203
+PROGANSV,,,,Svedal,Hans Mark,,Lærerutdanning i praktiske og estetiske fag for trinn 1-13 - Musikk,,21,2022-05-01 00:00:00,,,,,LUPEM,,,,,,KHE,2022-08-16 10:10:42,ANEB,2025-02-25 09:22:06,,,,,,203
+PROGANSV,,,,Sæverud,Helen,,"Bachelor i ingeniørfag, maskin",,93,2025-01-01 00:00:00,,,,,ING-MAB,,,,,,GIH,2025-03-06 10:58:23,FS,2025-03-07 00:00:44,,,,,,203

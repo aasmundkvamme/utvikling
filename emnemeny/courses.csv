@@ -1,0 +1,1053 @@
+canvas_course_id,course_id,integration_id,short_name,long_name,canvas_account_id,account_id,canvas_term_id,term_id,status,start_date,end_date,course_format,canvas_blueprint_course_id,blueprint_course_id,created_by_sis
+29503,UE_203_MAS170_1_2025_VÅR_1,,MAS170-1 25V,MAS170-1 25V Sirkulærøkonomi,15738,ST_0203201300,332,2025_VÅR,active,,,,,,true
+30189,UE_203_YFL817_1_2025_VÅR_1,,YFL817-1 25V,YFL817-1 25V Digitalisering og ny teknologi inn i yrkesdidaktikken for HO og EL,439,ST_0203300200,332,2025_VÅR,active,,,,,,true
+30232,UE_203_ØBR112_1_2025_VÅR_1,,ØBR112-1 25V,ØBR112-1 25V Skatte- og avgiftsrett 2,15739,ST_0203201400,332,2025_VÅR,active,,,,,,true
+30251,UE_203_ØKB2121_1_2025_VÅR_1,,ØKB2121-1 25V,ØKB2121-1 25V Internasjonal markedsføring,15739,ST_0203201400,332,2025_VÅR,active,,,,,,true
+30795,UE_203_FHS8202_1_2025_VÅR_1,,FHS8202-1 25V,FHS8202-1 25V Veiledningspedagogikk med fokus på individ- og gruppenivå,429,ST_0203100100,332,2025_VÅR,active,,,,,,true
+28461,UA_203_VPL130_1_2025_VÅR_1_1,,Bergen VPL130 (25V),Bergen VPL130 (25V),17658,UE_203_VPL130_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+29440,UE_203_MAS102_1_2025_VÅR_1,,MAS102-1 25V,MAS102-1 25V Marin Særkurs,15738,ST_0203201300,332,2025_VÅR,active,,,,,,true
+28464,UA_203_VPL130_1_2025_VÅR_1_2,,Sogndal VPL130 (2),Sogndal VPL130 (2),17658,UE_203_VPL130_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+30246,UE_203_SÅR1102_1_2025_VÅR_1,,SÅR1102-1 25V,SÅR1102-1 25V Behandling av sår forårsaket av systemiske sykdommer,429,ST_0203100100,332,2025_VÅR,active,,,,,,true
+30265,UE_203_TOS201A_1_2025_VÅR_1,,"TOS201 A/S/T 25V Tolking i praksis - norsk/arabisk, norsk/ukrainsk, norsk/russisk","TOS201 A/S/T 25V Tolking i praksis - norsk/arabisk, norsk/ukrainsk, norsk/russisk",440,ST_0203300300,332,2025_VÅR,active,,,,,,true
+28067,UA_203_MGUMA102_1_2025_VÅR_1_1,,MGUMA102 Bergen  (1),MGUMA102 Bergen  (1),16936,UE_203_MGUMA102_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+29437,UE_203_MARV553_1_2025_VÅR_1,,MARV553-1 25V,MARV553-1 25V Samarbeid og konflikthåndtering i organisasjoner,430,ST_0203100300,332,2025_VÅR,active,,,,,,true
+29354,UE_203_MASS520_1_2025_VÅR_1,,MASS520-1 25V,"MASS520-1 25V Samfunnsarbeid faghistorie, teori og praksis",430,ST_0203100300,332,2025_VÅR,active,,,,,,true
+29373,UE_203_MARE530_1_2025_VÅR_1,,MARE530-1 25V,MARE530-1 25V Leadership in Rehabilitation,355,ST_0203100200,332,2025_VÅR,active,,,,,,true
+29311,UE_203_MASM520_1_2025_VÅR_1,,MASM520-1 25V,MASM520-1 25V Miljøterapeutisk arbeid i ulike kontekster,430,ST_0203100300,332,2025_VÅR,active,,,,,,true
+30107,UE_203_SYKDS140_1_2025_VÅR_1,,SYKDS140-1 25V,SYKDS140-1 25V Sykdomslære og farmakologi,429,ST_0203100100,332,2025_VÅR,active,,,,,,true
+29996,UE_203_SYKDB220P_1_2025_VÅR_1,,SYKDB220P-1 25V,"SYKDB220P-1 25V Praksisstudie, Medisinsk sykepleie ved akutt, kronisk og kritisk sykdom",429,ST_0203100100,332,2025_VÅR,active,,,,,,true
+29317,UE_203_MAMET1SKA_1_2025_VÅR_1,,MAMET1SKA-1 25V,"MAMET1SKA-1 25V Vitenskapsteori, etikk og metode",429,ST_0203100100,332,2025_VÅR,active,,,,,,true
+29999,UE_203_SYKDB230P_1_2025_VÅR_1,,SYKDB230P-1 25V,"SYKDB230P-1 25V Praksisstudie, Kirurgisk sykepleie ved akutt, kronisk og kritisk sykdom",429,ST_0203100100,332,2025_VÅR,active,,,,,,true
+30020,UE_203_SYKDB360P_1_2025_VÅR_1,,SYKDB360P-1 25V,"SYKDB360P-1 25V Praksisstudie, Faglig ledelse, tjenesteutvikling og innovasjon",429,ST_0203100100,332,2025_VÅR,active,,,,,,true
+29969,UE_203_SYKB330P_1_2025_VÅR_1,,SYKB330P-1 25V,"SYKB330P-1 25V Praksisstudie, Sykepleie ved psykisk sykdom/lidelse",429,ST_0203100100,332,2025_VÅR,active,,,,,,true
+31153,UE_203_PRV007_1_2025_VÅR_1,,PRV007-1 25V,PRV007-1 25V Testemne Canvas,5313,ST_0203201000,332,2025_VÅR,unpublished,,,,,,true
+30086,UE_203_SA607_1_2025_VÅR_1,,SA607-1 25V,SA607-1 25V Historiefaglig kommunikasjon,15739,ST_0203201400,332,2025_VÅR,active,,,,,,true
+30198,UE_203_SYKI106_1_2025_VÅR_1,,SYKI106-1 25V,SYKI106-1 25V Practical studies in Hospital and Community Health Care,429,ST_0203100100,332,2025_VÅR,unpublished,,,,,,true
+29235,UE_203_MAKP402_1_2025_VÅR_1,,MAKP402-1 25V,"MAKP402-1 25V Implementering II: integrere forskning, profesjons- og brukerkunnskap",355,ST_0203100200,332,2025_VÅR,active,,,,,,true
+30040,UE_203_RP5-400_1_2025_VÅR_1,,RP5-400-1 25V,RP5-400-1 25V Rusproblematikk - ulike perspektiver i forståelsen av rus,430,ST_0203100300,332,2025_VÅR,active,,,,,,true
+29186,UE_203_MAFYS512_1_2025_VÅR_1,,MAFYS512-1 25V,MAFYS512-1 25V Fysioterapi ved subakutte og langvarige hjerte- og lungesykdommer,355,ST_0203100200,332,2025_VÅR,active,,,,,,true
+29988,UE_203_SYKDB003_1_2025_VÅR_1,,SYKDB003-1 25V,SYKDB003-1 25V Medikamentregning,429,ST_0203100100,332,2025_VÅR,unpublished,,,,,,true
+29649,UE_203_MGUPRO401_1_2025_VÅR_1,,MGUPRO401-1 25V,MGUPRO401-1 25V Profesjonsemne 4,439,ST_0203300200,332,2025_VÅR,active,,,,,,true
+30229,UE_203_SYKS250_1_2025_VÅR_1,,SYKS250-1 25V,SYKS250-1 25V Folkehelse i et nasjonalt og globalt perspektiv,429,ST_0203100100,332,2025_VÅR,active,,,,,,true
+29008,UE_203_EVN1011_1_2025_VÅR_1,,EVN1011-1 25V,EVN1011-1 25V Tekniske utfordringer som maritim næring står overfor,15738,ST_0203201300,332,2025_VÅR,unpublished,,,,,,true
+29604,UE_203_MSB111_1_2025_VÅR_1,,MSB111-1 25V,MSB111-1 25V Kundesentrert innovasjon,15739,ST_0203201400,332,2025_VÅR,active,,,,,,true
+29673,UE_203_PHDH916_1_2025_VÅR_1,,PHDH916-1 25V,PHDH916-1 25V Introduksjon til vurdering og utarbeidelse av systematiske kunnskapsoppsummeringer,198,ST_0203100000,332,2025_VÅR,active,,,,,,true
+29706,UE_203_NAB1001_1_2025_VÅR_1,,NAB1001-1 25V,NAB1001-1 25V Fysikk,15738,ST_0203201300,332,2025_VÅR,active,,,,,,true
+30290,UE_203_TPHR502_1_2025_VÅR_1,,Felles alle campus: TPHR502-1 25V,"TPHR502-1 25V Forebygging, behandling og omsorg (fellesemne)",429,ST_0203100100,332,2025_VÅR,unpublished,,,,,,true
+29878,UE_203_NTS806_1_2025_VÅR_1,,NTS806-1 25V,"NTS806-1 25V Norsk tegnspråk 1, emne 2 - Norsk tegnspråk i læreplanverket og tegnspråklig undervisningspraksis",15836,,332,2025_VÅR,active,,,,,,true
+29554,UE_203_MGBMH201A_1_2025_VÅR_1,,MGB/MGUMH201A - 25V Mat og helse,MGB/MGUMH201A - 25V Mat og helse ,438,ST_0203300100,332,2025_VÅR,active,,,,,,true
+29698,UE_203_MUS401_1_2025_VÅR_1,,MUS301/401 - Årsstudium musikk - V25,MUS301/401 - Årsstudium musikk - V25 ,441,ST_0203300400,332,2025_VÅR,active,,,,,,true
+29772,UE_203_NABP1012_1_2025_VÅR_1,,NABP1012-1 25V,NABP1012-1 25V Meteorologi og oseanografi,15738,ST_0203201300,332,2025_VÅR,active,,,,,,true
+28987,UE_203_BIO172_1_2025_VÅR_1,,BIO172-1 25V,BIO172-1 25V Statistikk,5316,ST_0203201100,332,2025_VÅR,active,,,,,,true
+29771,UE_203_MKUF504_1_2025_VÅR_1,,MKUF504-1 25V,MKUF504-1 25V Vitenskapsteori og metode,441,ST_0203300400,332,2025_VÅR,active,,,,,,true
+29752,UE_203_MKUF502C_1_2025_VÅR_1,,MKUF502C-1 25V,MKUF502C-1 25V Kunst- og håndverksdidaktiske arbeidsformer i skole og kulturliv,441,ST_0203300400,332,2025_VÅR,active,,,,,,true
+28622,UA_203_SRLE201_1_2025_VÅR_1_2,,SRLE201 Bergen - Klasse A (2),SRLE201 Bergen - Klasse A (2),17412,UE_203_SRLE201_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+29163,UE_203_MAF530_1_2025_VÅR_1,,MAF530-1 25V,MAF530-1 25V Familieterapi og nettverksarbeid,430,ST_0203100300,332,2025_VÅR,active,,,,,,true
+30919,UA_203_PSBU102_1_2025_VÅR_1_1,,PSBU102- Stord/Haugesund (25V),PSBU102 (25V) Kompetanse og tjenesteutvikling i psykososialt arbeid med barn og unge,17293,UE_203_PSBU102_1_2025_VÅR_1,332,2025_VÅR,unpublished,,,,,,true
+28568,UA_203_SABP1_1_2025_VÅR_1_2,,SABP1 Sogndal - V25 (2),SABP1 Sogndal - V25 (2),17373,UE_203_SABP1_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+28595,UA_203_SABV260_1_2025_VÅR_1_1,,SABV260 - Bergen - V25 (1),SABV260 - Bergen - V25 (1),17377,UE_203_SABV260_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+28562,UA_203_SABP1_1_2025_VÅR_1_1,,SABP1 Bergen - V25 (1),SABP1 Bergen - V25 (1),17373,UE_203_SABP1_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+29786,UE_203_PPUA304_1_2025_VÅR_1,,PPUA304-1 25V,PPUA304-1 25V Praksis 2,439,ST_0203300200,332,2025_VÅR,unpublished,,,,,,true
+29214,UE_203_KAS520_1_2025_VÅR_1,,KAS520-1 25V,"KAS520-1 25V Ledelse, samhandling, tjenesteutvikling og innovasjon",429,ST_0203100100,332,2025_VÅR,active,,,,,,true
+29549,UE_203_MGBKR201A_1_2025_VÅR_1,,"MGB/MGUKR201A - KRLE 1, emne 2 - 25V","MGB/MGUKR201A - KRLE 1, emne 2 - 25V",439,ST_0203300200,332,2025_VÅR,active,,,,,,true
+29933,UE_203_MGUNA202_1_2025_VÅR_1,,MGUNA202-1 25V,"MGUNA202-1 25V Naturfag 1, emne 2 – Innføring i fysikk og kjemi for grunnskolen",438,ST_0203300100,332,2025_VÅR,active,,,,,,true
+29407,UE_203_LEI113_1_2025_VÅR_1,,LEI113-1 25V,LEI113-1 25V Økonomi og ressursforvaltning,15737,ST_0203201200,332,2025_VÅR,active,,,,,,true
+30928,UE_203_LEI110_1_2025_VÅR_1,,LEI110-1 25V,LEI110-1 25V Industrilandmåling og laserskanning,15737,ST_0203201200,332,2025_VÅR,active,,,,,,true
+29630,UE_203_MGBPP501_1_2025_VÅR_1,,MGB/MGUPP501 - V25,MGB/MGUPP501 - V25,439,ST_0203300200,332,2025_VÅR,active,,,,,,true
+30806,UE_203_INT100_1_2025_VÅR_1,,INT100-1 25V,INT100-1 25V Interkulturell kompetanse før studentutveksling,439,ST_0203300200,332,2025_VÅR,active,,,,,,true
+29570,UE_203_MGBMU201_1_2025_VÅR_1,,"MGB/MGUMU201-1 25V Musikk 1, emne 2","MGB/MGUMU201-1 25V Musikk 1, emne 2 - Eleven og den musikkulturelle konteksten",441,ST_0203300400,332,2025_VÅR,active,,,,,,true
+28048,UA_203_MGUKØ503_1_2025_VÅR_1_1,,MGUKØ503 Bergen (1),MGUKØ503 Bergen (1),16933,UE_203_MGUKØ503_1_2025_VÅR_1,332,2025_VÅR,unpublished,,,,,,true
+29375,UE_203_MAU802N_1_2025_VÅR_1,,MAU802N-1 25V,"MAU802N-1 25V Matematikk 1, emne 2 - Læring i matematikk",440,ST_0203300300,332,2025_VÅR,active,,,,,,true
+29550,UE_203_MGBKR301_1_2025_VÅR_1,,MGBKR301/MGUKR301 -1 25V,"MGBKR301/MGUKR301 -1 25V KRLE 2, emne 1 - Hellige tekster, sekularisering, mangfold og religionskritikk",439,ST_0203300200,332,2025_VÅR,active,,,,,,true
+29003,UE_203_ESB120_1_2025_VÅR_1,,ESB120-1 25V,"ESB120-1 25V Etikk, samfunnsansvar og bærekraft 2",15739,ST_0203201400,332,2025_VÅR,active,,,,,,true
+28398,UA_203_MGUPE201_1_2025_VÅR_1_5,,MGUPE201 Bergen - Klasse SAM (5),MGUPE201 Bergen - Klasse SAM (5),16995,UE_203_MGUPE201_1_2025_VÅR_1,332,2025_VÅR,unpublished,,,,,,true
+29534,UE_203_MGBEN503_1_2025_VÅR_1,,"MGB/MGUEN503 - Engelsk 3, emne 3 - V25","MGB/MGUEN503 - Engelsk 3, emne 3 - V25",440,ST_0203300300,332,2025_VÅR,active,,,,,,true
+28377,UA_203_MGUPE201_1_2025_VÅR_1_10,,MGUPE201 Bergen - Klasse MUS (10),MGUPE201 Bergen - Klasse MUS (10),16995,UE_203_MGUPE201_1_2025_VÅR_1,332,2025_VÅR,unpublished,,,,,,true
+30030,UE_203_MPUV505_1_2025_VÅR_1,,MPUV505/ MDIP505 25V,MPUV505/ MDIP505 Utdanningsforskning i praksis 25V,439,ST_0203300200,332,2025_VÅR,active,,,,,,true
+29002,UE_203_ESB112_1_2025_VÅR_1,,ESB112-1 25V,ESB112-1 25V Sirkulær økonomi,15739,ST_0203201400,332,2025_VÅR,active,,,,,,true
+29343,UE_203_KRO1003_1_2025_VÅR_1,,KRO1003-1 25V,KRO1003-1 25V Profesjonsfag: Lærerrollen og elevenes læring og utvikling,438,ST_0203300100,332,2025_VÅR,unpublished,,,,,,true
+28434,UA_203_MGBSA503_1_2025_VÅR_1_2,,MGBSA503 Stord (2),MGBSA503 Stord (2),16887,UE_203_MGBSA503_1_2025_VÅR_1,332,2025_VÅR,unpublished,,,,,,true
+29255,UE_203_FRIW201_1_2025_VÅR_1,,FRIW201-1 25V,FRIW201-1 25V Friluftsliv vinter,438,ST_0203300100,332,2025_VÅR,active,,,,,,true
+29024,UE_203_GBPEL412_1_2025_VÅR_1,,GB/GUPEL412 - 25V Bacheloroppgave,GB/GUPEL412 - 25V Bacheloroppgave,439,ST_0203300200,332,2025_VÅR,active,,,,,,true
+29032,UE_203_GE4-306_1_2025_VÅR_1,,GE4-306/GE488 25V Natural hazards,GE4-306/GE488 25V Natural hazards,15737,ST_0203201200,332,2025_VÅR,active,,,,,,true
+29240,UE_203_FRIB203_1_2025_VÅR_1,,FRIB203-1 25V,FRIB203-1 25V Friluftsliv vår – kultur og samfunn ,438,ST_0203300100,332,2025_VÅR,active,,,,,,true
+28416,UA_203_MGUPE201_1_2025_VÅR_1_9,,MGUPE201 Bergen - Klasse KoH/MoH/KRLE/SAM - V25,MGUPE201 Bergen - Klasse KoH/MoH/KRLE/SAM - V25,16995,UE_203_MGUPE201_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+29031,UE_203_FE410_1_2025_VÅR_1,,FE410-1 25V,"FE410-1 25V Teknologi, innovasjon og samfunn",15737,ST_0203201200,332,2025_VÅR,active,,,,,,true
+29052,UE_203_FHA318_1_2025_VÅR_1,,FHA318-1 25V,FHA318-1 25V Basics in nutrition and health,438,ST_0203300100,332,2025_VÅR,active,,,,,,true
+28852,UE_203_ENG701_1_2025_VÅR_1,,ENG701-1 25V,English linguistics 2,440,ST_0203300300,332,2025_VÅR,active,,,,,,true
+28861,UE_203_ENU802N_1_2025_VÅR_1,,ENU802N-1 25V,"ENU802N-1 25V Engelsk 1, emne 2 - Engelsk språk, litteratur og kultur med fagdidaktikk 2",440,ST_0203300300,332,2025_VÅR,active,,,,,,true
+28922,UE_203_ERGP2_1_2025_VÅR_1,,ERGP2-1 25V,ERGP2-1 25V Ergoterapiprosessen og klinisk resonnering- praksis,355,ST_0203100200,332,2025_VÅR,active,,,,,,true
+29012,UE_203_FAL851_1_2025_VÅR_1,,FAL851-1 25V,FAL851-1 25V Fysisk aktiv læring,439,ST_0203300200,332,2025_VÅR,active,,,,,,true
+28668,UE_203_BYG109_1_2025_VÅR_1,,BYG109-1 25V,BYG109-1 25V Geografisk Informasjonsanalyse,15737,ST_0203201200,332,2025_VÅR,active,,,,,,true
+28637,UE_203_DØL115_1_2025_VÅR_1,,DØL115-1 25V,DØL115-1 25V Digital forretningsforståelse,15739,ST_0203201400,332,2025_VÅR,active,,,,,,true
+28624,UE_203_DYK605_1_2025_VÅR_1,,DYK605-1 25V,DYK605-1 25V Engelsk,15740,ST_0203209000,332,2025_VÅR,active,,,,,,true
+28641,UE_203_DØL116_1_2025_VÅR_1,,DØL116-1 25V,DØL116-1 25V Digital markedsføring,15739,ST_0203201400,332,2025_VÅR,active,,,,,,true
+30072,UE_203_SA6-502_1_2025_VÅR_1,,SA6-502-1 25V,SA6-502-1 25V Helse- og velferdspolitikk,15739,ST_0203201400,332,2025_VÅR,unpublished,,,,,,true
+28726,UA_203_MGUSA503_1_2025_VÅR_1_1,,MGB/MGUSA503 Bergen - V25,MGB/MGUSA503 Bergen - V25,17024,UE_203_MGUSA503_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+30830,UA_203_ING161_1_2025_VÅR_1_9,,ING161 Haugesund - Maskin (9),ING161 Haugesund - Maskin (9),16392,UE_203_ING161_1_2025_VÅR_1,332,2025_VÅR,unpublished,,,,,,true
+30827,UA_203_ING161_1_2025_VÅR_1_5,,ING161 Bergen - Havteknologi (5),ING161 Bergen - Havteknologi (5),16392,UE_203_ING161_1_2025_VÅR_1,332,2025_VÅR,unpublished,,,,,,true
+28025,UA_203_MGUKH401_1_2025_VÅR_1_2,,MGUKH401 Stord (2),MGUKH401 Stord (2),16912,UE_203_MGUKH401_1_2025_VÅR_1,332,2025_VÅR,unpublished,,,,,,true
+28757,UE_203_BØ6-2002_1_2025_VÅR_1,,BØ6-2002-1 25V,BØ6-2002-1 25V Virksomhetsorganisering og regnskapsførerregelverket,15739,ST_0203201400,332,2025_VÅR,active,,,,,,true
+28119,UA_203_BØA115_1_2025_VÅR_1_2,,BØA115 Haugesund - Statistikk for økonomer  (2),BØA115 Haugesund - Statistikk for økonomer  (2),16034,UE_203_BØA115_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+28114,UA_203_BØA115_1_2025_VÅR_1_1,,BØA115 Bergen - Statistikk for økonomer  (1),BØA115 Bergen - Statistikk for økonomer  (1),16034,UE_203_BØA115_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+28584,UE_203_ABLUPR401_1_2025_VÅR_1,,ABLUPR401-1 25V,ABLUPR401-1 25V Praksis 4. år - ABLU,200,ST_0203300000,332,2025_VÅR,unpublished,,,,,,true
+28895,UE_203_BI435_1_2025_VÅR_1,,BI435-1 25V,BI435-1 25V Landskapsøkologi,15737,ST_0203201200,332,2025_VÅR,active,,,,,,true
+28479,UE_203_BIO204_1_2025_VÅR_1,,BIO204-1 25V,BIO204-1 25V Medisinsk mikrobiologi,5316,ST_0203201100,332,2025_VÅR,active,,,,,,true
+28990,UE_203_BIO173_1_2025_VÅR_1,,BIO173-1 25V,BIO173-1 25V Organisk kjemi og biokjemi,5316,ST_0203201100,332,2025_VÅR,active,,,,,,true
+28993,UE_203_BIO174_1_2025_VÅR_1,,BIO174-1 25V,BIO174-1 25V Cellebiologi,5316,ST_0203201100,332,2025_VÅR,active,,,,,,true
+30970,UE_203_TST213_1_2025_VÅR_1,,TST213-1 25V,"TST213-1 25V Tolking,ledsaging og beskrivelse 1",440,ST_0203300300,332,2025_VÅR,unpublished,,,,,,true
+28552,UA_203_SAB390_1_2025_VÅR_1_1,,SAB390 - Bergen V25 (1),SAB390 - Bergen V25 (1),17372,UE_203_SAB390_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+28165,UA_203_MGBPE301_1_2025_VÅR_1_1,,MGBPE301/MGUPE301  Sogndal (1),MGBPE301/MGUPE301  Sogndal (1),16857,UE_203_MGBPE301_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+28220,UA_203_MGBPE301_1_2025_VÅR_1_6,,MGBPE301 Bergen - masterfag NOR/NAT - V25,MGBPE301 Bergen - masterfag NOR/NAT - V25,16857,UE_203_MGBPE301_1_2025_VÅR_1,332,2025_VÅR,active,,,,30797,hvl241118-dov-E1,true
+28125,UA_203_MGBPE201_1_2025_VÅR_1_2,,MGBPE201 / MGUPE201 Sogndal (25V),MGBPE201 / MGUPE201 Sogndal (25V),16856,UE_203_MGBPE201_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+28311,UA_203_MGBMA503_1_2025_VÅR_1_1,,MGBMA503 Bergen (1),MGBMA503 Bergen (1),16805,UE_203_MGBMA503_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+28174,UA_203_MGBMA101_1_2025_VÅR_1_2,,MGBMA101 Bergen - Klasse KRLE/MUS/KoH - V25,MGBMA101 Bergen - Klasse KRLE/MUS/KoH - V25,16797,UE_203_MGBMA101_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+28199,UA_203_MGBMA101_1_2025_VÅR_1_7,,MGBMA101 Bergen - Klasse MoH/NAT - V25,MGBMA101 Bergen - Klasse MoH/NAT - V25,16797,UE_203_MGBMA101_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+29783,UE_203_MGUKØ201_1_2025_VÅR_1,,MGB/MGUKØ201 Sogndal - V25,MGB/MGUKØ201 Sogndal - V25,438,ST_0203300100,332,2025_VÅR,active,,,,,,true
+28141,UA_203_MGBKØ503_1_2025_VÅR_1_2,,MGB/MGU KØ503 Sogndal (2),MGB/MGU KØ503 Sogndal (2),16795,UE_203_MGBKØ503_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+28138,UA_203_MGBKØ503_1_2025_VÅR_1_1,,MGB/MGUKØ503 - Bergen - V25,MGB/MGUKØ503 - Bergen - V25,16795,UE_203_MGBKØ503_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+27921,UA_203_MAT301_1_2025_VÅR_1_1,,MAT301 Bergen - Alle linjer,MAT301 Bergen - Alle linjer,16724,UE_203_MAT301_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+29364,UE_203_MAT121_1_2025_VÅR_1,,MAT121-1 25V,MAT121-1 25V Statistikk for ingeniør,5313,ST_0203201000,332,2025_VÅR,active,,,,,,true
+28636,UE_203_BSVCBP_1_2025_VÅR_1,,BSVCBP-1 25V,BSVCBP-1 25V Crossing Borders - practical placement,430,ST_0203100300,332,2025_VÅR,unpublished,,,,,,true
+30352,UE_203_MAS220_1_2025_VÅR_1,,MAS220-1 25V,MAS220-1 25V Grunnleggende fluidmekanikk,15738,ST_0203201300,332,2025_VÅR,active,,,,,,true
+28493,UA_203_VPL220_1_2025_VÅR_1_2,,Sogndal VPL220 (2),Sogndal VPL220 (2),17661,UE_203_VPL220_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+28167,UA_203_BØA118_1_2025_VÅR_1_3,,BØA118 Sogndal - Makroøkonomi  (3),BØA118 Sogndal - Makroøkonomi  (3),16037,UE_203_BØA118_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+29395,UE_203_ING271_1_2025_VÅR_1,,ING271-1 25V,ING271-1 25V Bølgefysikk og termodynamikk,5313,ST_0203201000,332,2025_VÅR,active,,,,,,true
+29095,UE_203_INTP513_1_2025_VÅR_1,,INTP513-1 25V,"INTP513-1 25V Pasientsikkerhet, teknologi og digital kompetanse i intensivsykepleie",429,ST_0203100100,332,2025_VÅR,active,,,,,,true
+28674,UA_203_MGUSA301_1_2025_VÅR_1_2,,MGUSA301 Stord (2),MGUSA301 Stord (2),17018,UE_203_MGUSA301_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+29005,UE_203_EVL-LPL215_1_2025_VÅR_1,,EVL-LPL215-1 25V,EVL-LPL215-1 25V Læringsmiljø og pedagogisk ledelse 2,439,ST_0203300200,332,2025_VÅR,active,,,,,,true
+28690,UA_203_MGUSA401_1_2025_VÅR_1_2,,MGUSA401 Stord (2),MGUSA401 Stord (2),17020,UE_203_MGUSA401_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+28709,UE_203_ELE143_1_2025_VÅR_1,,ELE143-1 25V,ELE143-1 25V Elektrofaglig basis,5313,ST_0203201000,332,2025_VÅR,active,,,,,,true
+28749,UE_203_ELE304_1_2025_VÅR_1,,ELE304-1 25V,ELE304-1 25V PLS programmering,5313,ST_0203201000,332,2025_VÅR,active,,,,,,true
+28705,UE_203_ELE142_1_2025_VÅR_1,,ELE142-1 25V,ELE142-1 25V Elektrofaglig basis 2,5313,ST_0203201000,332,2025_VÅR,active,,,,,,true
+28723,UE_203_BYG300_1_2025_VÅR_1,,BYG300-1 25V,BYG300-1 25V Trekonstruksjoner og Statikk,15737,ST_0203201200,332,2025_VÅR,active,,,,,,true
+28041,UA_203_MGBKH201_1_2025_VÅR_1_1,,MGB/MGUKH201 Bergen - V25,MGB/MGUKH201 Bergen - V25,16773,UE_203_MGBKH201_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+30968,UE_203_DAT107_1_2025_VÅR_1,,DAT107-1 25V,DAT107-1 25V Databaser,5313,ST_0203201000,332,2025_VÅR,active,,,,,,true
+28818,UE_203_EM6-3000_1_2025_VÅR_1,,EM6-3000-1 25V,EM6-3000-1 25V Anvendt finans for eiendomsmarkedet,15739,ST_0203201400,332,2025_VÅR,active,,,,,,true
+28157,UA_203_BØA118_1_2025_VÅR_1_1,,BØA118 Bergen - Makroøkonomi  (1),BØA118 Bergen - Makroøkonomi  (1),16037,UE_203_BØA118_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+28137,UA_203_BØA116_1_2025_VÅR_1_3,,BØA116 Sogndal - Markedsføring  (3),BØA116 Sogndal - Markedsføring  (3),16035,UE_203_BØA116_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+28693,UE_203_ELE125_1_2025_VÅR_1,,ELE125-1 25V,ELE125-1 25V Audioforsterkere,5313,ST_0203201000,332,2025_VÅR,active,,,,,,true
+28029,UA_203_MAJOR504_1_2025_VÅR_1_1,,MAJOR504 - 120 sp. løp (1),MAJOR504 - 120 sp. løp (1),16568,UE_203_MAJOR504_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+28692,UE_203_BYG115_1_2025_VÅR_1,,BYG115-1 25V,BYG115-1 25V Geoteknikk,15737,ST_0203201200,332,2025_VÅR,active,,,,,,true
+28675,UE_203_ADA527_1_2025_VÅR_1,,ADA527-1 25V,ADA527-1 25V Avansert robotstyring,5313,ST_0203201000,332,2025_VÅR,active,,,,,,true
+28601,UE_203_ADA504_1_2025_VÅR_1,,ADA504-1 25V,ADA504-1 25V Forskning innen anvendt datateknologi og ingeniørvitenskaper,5313,ST_0203201000,332,2025_VÅR,active,,,,,,true
+29665,UE_203_PHDH908_1_2025_VÅR_1,,PHDH908-1 25V,PHDH908-1 25V Intervensjonsstudier,198,ST_0203100000,332,2025_VÅR,active,,,,,,true
+29954,UE_203_OR6-1008_1_2025_VÅR_1,,OR6-1008-1 25V,OR6-1008-1 25V Ledelse,15739,ST_0203201400,332,2025_VÅR,active,,,,,,true
+30195,UE_203_Å-KH230_1_2025_VÅR_1,,Å-KH230-1 25V,Å-KH230-1 25V Kunst og håndverk 2,441,ST_0203300400,332,2025_VÅR,active,,,,,,true
+29074,UE_203_GE487_1_2025_VÅR_1,,PL4-303/GE487 25V Runoff Management,PL4-303/GE487 25V Runoff Management,15737,ST_0203201200,332,2025_VÅR,active,,,,,,true
+30397,UA_203_MGBPRO401_1_2025_VÅR_1_2,,MGBPRO401 Stord (2),MGBPRO401 Stord (2),16873,UE_203_MGBPRO401_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+29949,UE_203_SYKB250_1_2025_VÅR_1,,SYKB250-1 25V,SYKB250-1 25V Folkehelse i et nasjonalt og globalt perspektiv,429,ST_0203100100,332,2025_VÅR,active,,,,,,true
+28635,UA_203_SRLE201_1_2025_VÅR_1_4,,SRLE201 Bergen - Klasse C (4),SRLE201 Bergen - Klasse C (4),17412,UE_203_SRLE201_1_2025_VÅR_1,332,2025_VÅR,unpublished,,,,,,true
+29511,UE_203_MAS207_1_2025_VÅR_1,,MAS207-1 25V,MAS207-1 25V Elementmetode (FEM),15738,ST_0203201300,332,2025_VÅR,active,,,,,,true
+27917,UA_203_MGBNO101_1_2025_VÅR_1_9,,MGBNO101 Sogndal (9),MGBNO101 Sogndal (9),16841,UE_203_MGBNO101_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+30423,UA_203_MGUPRO401_1_2025_VÅR_1_2,,MGUPRO401 Stord (2),MGUPRO401 Stord (2),17010,UE_203_MGUPRO401_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+28089,UA_203_MGUMA202_1_2025_VÅR_1_3,,MGUMA202 Sogndal  (3),MGUMA202 Sogndal  (3),16938,UE_203_MGUMA202_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+29355,UE_203_FØS8113_1_2025_VÅR_1,,FØS8113-1 25V,FØS8113-1 25V Bærekraftig havbruk for framtiden,15739,ST_0203201400,332,2025_VÅR,active,,,,,,true
+29765,UE_203_MGUKR401_1_2025_VÅR_1,,MGUKR401-1 25V,"MGUKR401-1 25V KRLE 2, emne 2 - Valgfritt tema, filosofi og læreplanarbeid",439,ST_0203300200,332,2025_VÅR,unpublished,,,,,,true
+29671,UE_203_MSR520_1_2025_VÅR_1,,MSR520-1 25V,MSR520-1 25V Klinisk fagledelse og fordypning i klinisk rettsmedisin i sykepleien,429,ST_0203100100,332,2025_VÅR,active,,,,,,true
+29694,UE_203_MUS301_1_2025_VÅR_1,,MUS301-1 25V,MUS301-1 25V Samspill og musikalsk produksjon,441,ST_0203300400,332,2025_VÅR,unpublished,,,,,,true
+28597,UE_203_DYK500_1_2025_VÅR_1,,DYK500-1 25V,DYK500-1 25V Dykkeleder Kurs,15740,ST_0203209000,332,2025_VÅR,unpublished,,,,,,true
+30938,UA_203_VPL220_1_2025_VÅR_1_1,,Bergen VPL220 (1),Bergen VPL220 (1),17661,UE_203_VPL220_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+30286,UE_203_TPE804_1_2025_VÅR_1,,TPE804-1 25V,TPE804-1 25V Forebygging for et inkluderende læringsmiljø,439,ST_0203300200,332,2025_VÅR,active,,,,,,true
+28889,UA_203_SYKI106_1_2025_VÅR_1_4,,Førde: International nursing students V25 (4),Førde: International nursing students V25 (4),17563,UE_203_SYKI106_1_2025_VÅR_1,332,2025_VÅR,unpublished,,,,,,true
+29545,UE_203_MGBKHS201_1_2025_VÅR_1,,MGBKHS201-1 25V,"MGBKHS201-1 25V Kunst og håndverk 1, emne 2 - Grunnleggende innføring i kunst og håndverk 2",441,ST_0203300400,332,2025_VÅR,active,,,,,,true
+29731,UE_203_PL433_1_2025_VÅR_1,,PL433-1 25V,PL433-1 25V Innføring i arealplanlegging,15737,ST_0203201200,332,2025_VÅR,unpublished,,,,,,true
+29655,UE_203_MSI520_1_2025_VÅR_1,,MSI520-1 25V,MSI520-1 25V Klinisk fagledelse og fordypning i klinisk infeksjonssykepleie og smittevern,429,ST_0203100100,332,2025_VÅR,active,,,,,,true
+29401,UE_203_ING301_1_2025_VÅR_1,,ING301-1 25V,ING301-1 25V Datateknologi og videregående programmering for ingeniører,5313,ST_0203201000,332,2025_VÅR,active,,,,,,true
+29421,UE_203_LEI300_1_2025_VÅR_1,,LEI300-1 25V,"LEI300-1 25V Eiendom, matrikkel og jordskifte",15737,ST_0203201200,332,2025_VÅR,active,,,,,,true
+28128,UA_203_MGUMA503_1_2025_VÅR_1_1,,MGUMA503 Bergen (1),MGUMA503 Bergen (1),16943,UE_203_MGUMA503_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+29044,UE_203_GE436_1_2025_VÅR_1,,GE436-1 25V,GE436-1 25V Sedimentologi,15737,ST_0203201200,332,2025_VÅR,active,,,,,,true
+28143,UA_203_BØA117_1_2025_VÅR_1_1,,BØA117 Bergen - Finansregnskap med analyse  (1),BØA117 Bergen - Finansregnskap med analyse  (1),16036,UE_203_BØA117_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+29903,UE_203_RAD230_1_2025_VÅR_1,,RAD230-1 25V,"RAD230-1 25V Medisinsk bildebehandling, kunstig intelligens og innovasjon i radiografi",355,ST_0203100200,332,2025_VÅR,active,,,,,,true
+29286,UE_203_MAMET1HE_1_2025_VÅR_1,,MAMET1HE-1 25V,"MAMET1HE-1 25V Vitenskapsteori, etikk og metode",429,ST_0203100100,332,2025_VÅR,active,,,,,,true
+31184,UE_203_DLU100_1_2025_VÅR_1,,DLU100-1 25V,DLU100-1 25V Dykkeleder innaskjærs NORSOK U-103,15740,ST_0203209000,332,2025_VÅR,unpublished,,,,,,true
+30252,UE_203_TAK802_1_2025_VÅR_1,,TAK802-1 25V,"TAK802-1 25V Teknisk forvaltning – bygningsfysikk, FDVU og ombygging",15737,ST_0203201200,332,2025_VÅR,active,,,,,,true
+28761,UA_203_SYKF230P_1_2025_VÅR_1_2,,SYKF230P Kull 84 (2),SYKF230P Kull 84 (2),17520,UE_203_SYKF230P_1_2025_VÅR_1,332,2025_VÅR,unpublished,,,,,,true
+29098,UE_203_LUPEKP200_1_2025_VÅR_1,,LUPEKP200-1 25V,LUPEKP200-1 25V Praksis 2.år kroppsøving og idrettsfag,439,ST_0203300200,332,2025_VÅR,unpublished,,,,,,true
+28737,UE_203_ELE250_1_2025_VÅR_1,,ELE250-1 25V,ELE250-1 25V Industriell instrumentering,5313,ST_0203201000,332,2025_VÅR,active,,,,,,true
+29561,UE_203_MGBMA402_1_2025_VÅR_1,,MGBMA402-1 25V,"MGBMA402-1 25V Matematikk 2, emne 2 - Problemløsning og handlingskompetanse i matematikk",440,ST_0203300300,332,2025_VÅR,unpublished,,,,,,true
+29496,UE_203_LUPEKI204_1_2025_VÅR_1,,LUPEKI204-1 25V,LUPEKI204-1 25V FoU-oppgave: Den forskende lærer,438,ST_0203300100,332,2025_VÅR,active,,,,,,true
+28643,UE_203_BYG102_1_2025_VÅR_1,,BYG102-1 25V,BYG102-1 25V Statistikk og landmåling,15737,ST_0203201200,332,2025_VÅR,active,,,,,,true
+28786,UA_203_MGUSP501_1_2025_VÅR_1_1,,MGUSP501 Bergen (1),MGUSP501 Bergen (1),17028,UE_203_MGUSP501_1_2025_VÅR_1,332,2025_VÅR,unpublished,,,,,,true
+30771,UE_203_REAL122_1_2025_VÅR_1,,REAL122-1 25V,REAL122-1 25V Matematikk realfagkurs,5313,ST_0203201000,332,2025_VÅR,active,,,,,,true
+30942,UA_203_SYKI104_1_2025_VÅR_1_1,,Bergen: International nursing students campus - V25 (1),Bergen: International nursing students campus - V25 (1),17561,UE_203_SYKI104_1_2025_VÅR_1,332,2025_VÅR,unpublished,,,,,,true
+31146,UE_203_PRV006_1_2025_VÅR_1,,PRV006-1 25V,PRV006-1 25V Testemne Canvas,5313,ST_0203201000,332,2025_VÅR,unpublished,,,,,,true
+28520,UE_203_BIO502_1_2025_VÅR_1,,BIO502-1 25V,BIO502-1 25V Avanserte medisinske laboratorieanalyser,5316,ST_0203201100,332,2025_VÅR,active,,,,,,true
+29287,UE_203_FYS140_1_2025_VÅR_1,,FYS140-1 25V,"FYS140-1 25V Fysioterapeutisk undersøkelse, forståelse og ferdighet",355,ST_0203100200,332,2025_VÅR,active,,,,,,true
+28486,UE_203_BIO206_1_2025_VÅR_1,,BIO206-1 25V,BIO206-1 25V Medisinsk laboratorieteknologi III - Instrumentelle analyser,5316,ST_0203201100,332,2025_VÅR,active,,,,,,true
+28038,UA_203_MGBNO503_1_2025_VÅR_1_2,,MGBNO503/MGUNO503 Sogndal V25,MGBNO503/MGUNO503 Sogndal V25,16847,UE_203_MGBNO503_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+29448,UE_203_MAS116_1_2025_VÅR_1,,MAS116-1 25V,MAS116-1 25V Hydrodynamikk,15738,ST_0203201300,332,2025_VÅR,active,,,,,,true
+28482,UE_203_BIO205_1_2025_VÅR_1,,BIO205-1 25V,BIO205-1 25V Transfusjonsmedisin,5316,ST_0203201100,332,2025_VÅR,active,,,,,,true
+29962,UE_203_SYKB320P_1_2025_VÅR_1,,SYKB320P-1 25V,"SYKB320P-1 25V Praksisstudie, Sykepleie ved komplekse og sammensatte pasienttilstander og sykdomsbilder i kommunehelsetjenesten",429,ST_0203100100,332,2025_VÅR,active,,,,,,true
+28980,UE_203_BIO151_1_2025_VÅR_1,,BIO151-1 25V,BIO151-1 25V Practical Training in Biomedical Laboratory Sciences,5316,ST_0203201100,332,2025_VÅR,unpublished,,,,,,true
+30903,UA_203_ING162_1_2025_VÅR_1_1,,ING162 Bergen - Kjemiingeniør (1),ING162 Bergen - Kjemiingeniør (1),16393,UE_203_ING162_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+30398,UA_203_MGBPRO401_1_2025_VÅR_1_3,,MGBPRO401 Sogndal (3),MGBPRO401 Sogndal (3),16873,UE_203_MGBPRO401_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+28784,UA_203_SYKF250_1_2025_VÅR_1_2,,Kull 82: SYKF250 Folkehelse i eit nasjonalt og globalt perspekti,Kull 82: SYKF250 Folkehelse i eit nasjonalt og globalt perspekti,17523,UE_203_SYKF250_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+30424,UA_203_MGUPRO401_1_2025_VÅR_1_3,,MGUPRO401 Sogndal (3),MGUPRO401 Sogndal (3),17010,UE_203_MGUPRO401_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+30202,UE_203_SYKI110_1_2025_VÅR_1,,SYKI110-1 25V,SYKI110-1 25V Practical Studies in Hospital and Community Health Care,198,ST_0203100000,332,2025_VÅR,unpublished,,,,,,true
+28020,UA_203_MGUKH401_1_2025_VÅR_1_1,,MGUKH401 Bergen (1),MGUKH401 Bergen (1),16912,UE_203_MGUKH401_1_2025_VÅR_1,332,2025_VÅR,unpublished,,,,,,true
+29353,UE_203_MARA510_1_2025_VÅR_1,,MARA510-1 25V,MARA510-1 25V Ferdigheter i relasjonelt arbeid,430,ST_0203100300,332,2025_VÅR,active,,,,,,true
+30801,UE_203_FØS8130_1_2025_VÅR_1,,FØS8130-1 25V,FØS8130-1 25V Resirkulerende akvakultursystemer - RAS,15739,ST_0203201400,332,2025_VÅR,active,,,,,,true
+30225,UE_203_ØAO016_1_2025_VÅR_1,,ØAO016-1 25V,ØAO016-1 25V Strategi og virksomhetsutvikling,15739,ST_0203201400,332,2025_VÅR,active,,,,,,true
+27949,UA_203_KKK201_1_2025_VÅR_1_1,,KKK201 Bergen - Klasse E (1),KKK201 Bergen - Klasse E (1),16492,UE_203_KKK201_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+28644,UA_203_MGUSA201_1_2025_VÅR_1_2,,MGUSA201 / MGBSA201 (25V) - Stord,MGUSA201 / MGBSA201 (25V) - Stord,17015,UE_203_MGUSA201_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+28148,UA_203_BØA117_1_2025_VÅR_1_2,,BØA117 Haugesund - Finansregnskap med analyse  (2),BØA117 Haugesund - Finansregnskap med analyse  (2),16036,UE_203_BØA117_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+28210,UA_203_MGBPE301_1_2025_VÅR_1_4,,MGBPE301 Bergen - masterfag ENG (4),MGBPE301 Bergen - masterfag ENG (4),16857,UE_203_MGBPE301_1_2025_VÅR_1,332,2025_VÅR,unpublished,,,,,,true
+28271,UA_203_MGUNO503_1_2025_VÅR_1_2,,MGUNO503 Sogndal (2),MGUNO503 Sogndal (2),16987,UE_203_MGUNO503_1_2025_VÅR_1,332,2025_VÅR,unpublished,,,,,,true
+28075,UA_203_MAS143_1_2025_VÅR_1_2,,MAS143 25V Haugesund,MAS143 25V Maskinkonstruksjon 1 - Haugesund,16633,UE_203_MAS143_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+29559,UE_203_MGBMH401_1_2025_VÅR_1,,MGB/MGUMH401 - V25,MGB/MGUMH401 - V25,438,ST_0203300100,332,2025_VÅR,active,,,,,,true
+28891,UE_203_BI434_1_2025_VÅR_1,,BI434-1 25V,BI434-1 25V Vegetasjonsøkologi,15737,ST_0203201200,332,2025_VÅR,active,,,,,,true
+28098,UA_203_MGBKØ301_1_2025_VÅR_1_1,,MGBKØ301 Bergen (1),MGBKØ301 Bergen (1),16791,UE_203_MGBKØ301_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+28428,UA_203_MGUPE301_1_2025_VÅR_1_12,,MGUPE301 Bergen - masterfag MH (12),MGUPE301 Bergen - masterfag MH (12),16996,UE_203_MGUPE301_1_2025_VÅR_1,332,2025_VÅR,unpublished,,,,,,true
+28431,UA_203_MGBSA503_1_2025_VÅR_1_1,,MGBSA503 Bergen (1),MGBSA503 Bergen (1),16887,UE_203_MGBSA503_1_2025_VÅR_1,332,2025_VÅR,unpublished,,,,,,true
+28035,UA_203_MGBNO503_1_2025_VÅR_1_1,,MGBNO503 Bergen (1),MGBNO503 Bergen (1),16847,UE_203_MGBNO503_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+29261,UE_203_KJE104_1_2025_VÅR_1,,KJE104-1 25V,KJE104-1 25V Fysikalsk kjemi,5316,ST_0203201100,332,2025_VÅR,active,,,,,,true
+29976,UE_203_SYKB360P_1_2025_VÅR_1,,SYKB360P-1 25V,"SYKB360P-1 25V Praksisstudie, Faglig ledelse, tjenesteutvikling og innovasjon",429,ST_0203100100,332,2025_VÅR,active,,,,,,true
+29518,UE_203_MAS221_1_2025_VÅR_1,,MAS221-1 25V,MAS221-1 25V Masse- og energibalanser,15738,ST_0203201300,332,2025_VÅR,active,,,,,,true
+28108,UA_203_MGBKØ401_1_2025_VÅR_1_1,,MGBKØ401 Bergen (1),MGBKØ401 Bergen (1),16792,UE_203_MGBKØ401_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+30474,UA_203_PSBU104_1_2025_VÅR_1_2,,PSBU104 -  Førde (2),PSBU104 -  Førde (2),17295,UE_203_PSBU104_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+29458,UE_203_MDIP503_1_2025_VÅR_1,,MDIP503-1 25V,MDIP503-1 25V Didaktiske praksiser,439,ST_0203300200,332,2025_VÅR,active,,,,,,true
+28011,UA_203_MGBEN201_1_2025_VÅR_1_1,,MGBEN201 Bergen (1),MGBEN201 Bergen (1),16762,UE_203_MGBEN201_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+28589,UE_203_DRA312_1_2025_VÅR_1,,DRA312-1 25V,"DRA312-1 25V Bacheloroppgave, vitenskapsteori og forskingsmetode",441,ST_0203300400,332,2025_VÅR,active,,,,,,true
+29870,UE_203_SOS160_1_2025_VÅR_1,,SOS160-1 25V,SOS160-1 25V Sosiologisk forskningsmetode,15739,ST_0203201400,332,2025_VÅR,active,,,,,,true
+30492,UA_203_TPHR502_1_2025_VÅR_1_3,,TPHR502 Førde/Sogndal - Vår 2025,TPHR502 Førde/Sogndal - Vår 2025,17614,UE_203_TPHR502_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+30037,UE_203_SYKDF140_1_2025_VÅR_1,,SYKDF140-1 25V,SYKDF140-1 25V Sykdomslære og farmakologi,429,ST_0203100100,332,2025_VÅR,active,,,,,,true
+28613,UE_203_BSDAUT230_1_2025_VÅR_1,,BSDAUT230-1 25V,BSDAUT230-1 25V Bacheloroppgave,429,ST_0203100100,332,2025_VÅR,unpublished,,,,,,true
+28372,UA_203_MGBSA201_1_2025_VÅR_1_3,,MGBSA201 Sogndal (3),MGBSA201 Sogndal (3),16881,UE_203_MGBSA201_1_2025_VÅR_1,332,2025_VÅR,unpublished,,,,,,true
+28580,UE_203_BRL108_1_2025_VÅR_1,,BRL108-1 25V,"BRL108-1 25V Reiseliv, natur og samfunn",15739,ST_0203201400,332,2025_VÅR,unpublished,,,,,,true
+29719,UE_203_PL418_1_2025_VÅR_1,,PL418-1 25V,PL418-1 25V Reguleringsplanlegging,15737,ST_0203201200,332,2025_VÅR,active,,,,,,true
+28901,UE_203_BI436_1_2025_VÅR_1,,BI436-1 25V,BI436-1 25V Grønnstruktur og urban vegetasjon,15737,ST_0203201200,332,2025_VÅR,active,,,,,,true
+28221,UA_203_MGUNO202_1_2025_VÅR_1_1,,MGUNO202 Bergen  (1),MGUNO202 Bergen  (1),16984,UE_203_MGUNO202_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+30831,UA_203_ING161_1_2025_VÅR_1_7,,"ING161 Førde - Konte-semester, ingen undervisning på campus (7)","ING161 Førde - Konte-semester, ingen undervisning på campus (7)",16392,UE_203_ING161_1_2025_VÅR_1,332,2025_VÅR,unpublished,,,,,,true
+28966,UA_203_VPD210_1_2025_VÅR_1_2,,Sogndal VPD210 (2),Sogndal VPD210 (2),17649,UE_203_VPD210_1_2025_VÅR_1,332,2025_VÅR,unpublished,,,,,,true
+30906,UA_203_ING164_1_2025_VÅR_1_1,,ING164 Bergen/Førde 2025V,"ING164 Bergen og Førde Mekanikk, elektristetslære og kjemi 2025 vår",16394,UE_203_ING164_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+28507,UE_203_BIO306_1_2025_VÅR_1,,BIO306-1 25V,BIO306-1 25V Ekstern praksis 2,5316,ST_0203201100,332,2025_VÅR,active,,,,,,true
+27939,UA_203_MAT301_1_2025_VÅR_1_13,,MAT301 Førde - Automatisering (13),MAT301 Førde - Automatisering (13),16724,UE_203_MAT301_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+28078,UA_203_MGUMA102_1_2025_VÅR_1_5,,MGUMA102 Stord  (5),MGUMA102 Stord  (5),16936,UE_203_MGUMA102_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+29100,UE_203_GLSM804_1_2025_VÅR_1,,GLSM804-1 25V,GLSM804-1 25V Fordypning i matematikk,440,ST_0203300300,332,2025_VÅR,active,,,,,,true
+29428,UE_203_MARV550_1_2025_VÅR_1,,MARV550-1 25V,"MARV550-1 25V Vold, krenkelser og konflikter i nære relasjoner",430,ST_0203100300,332,2025_VÅR,unpublished,,,,,,true
+29713,UE_203_NAB1027_1_2025_VÅR_1,,NAB1027-1 25V,NAB1027-1 25V Navigasjon II,15738,ST_0203201300,332,2025_VÅR,active,,,,,,true
+30215,UE_203_SYKS140_1_2025_VÅR_1,,SYKS140-1 25V,SYKS140-1 25V Sykdomslære og farmakologi,429,ST_0203100100,332,2025_VÅR,active,,,,,,true
+28681,UE_203_ADA528_1_2025_VÅR_1,,ADA528-1 25V,ADA528-1 25V Sensornettverk,5313,ST_0203201000,332,2025_VÅR,active,,,,,,true
+29600,UE_203_MGBNOS301_1_2025_VÅR_1,,MGBNOS301-1 25V,"MGBNOS301-1 25V Norsk 2, emne 1 - Språk, kultur og litteratur 1",440,ST_0203300300,332,2025_VÅR,active,,,,,,true
+29059,UE_203_GE481_1_2025_VÅR_1,,GE481-1 25V,"GE481-1 25V Ingeniørgeologi, geoteknikk og overvåkning av ustabile fjellsider",15737,ST_0203201200,332,2025_VÅR,active,,,,,,true
+29082,UE_203_GE491_2_2025_VÅR_1,,GE491-2 25V,GE491-2 25V Bacheloroppgåve i geologi,15737,ST_0203201200,332,2025_VÅR,unpublished,,,,,,true
+30823,UA_203_ING161_1_2025_VÅR_1_1,,ING161 Bergen 25V,ING161 Kjemi Bergen (Alle linjer) 2025 vår,16392,UE_203_ING161_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+30939,UE_203_MAS130_1_2025_VÅR_1,,MAS130-1 25V,MAS130-1 25V Grunnleggende elektro og automasjon,5313,ST_0203201000,332,2025_VÅR,active,,,,,,true
+29574,UE_203_MGBMU401_1_2025_VÅR_1,,"MGB/MGU MU301-401 - 25V Musikk 2, emne 2","MGB/MGU MU301-401 - 25V Musikk 2, emne 2 - Den utforskende musikklæreren",441,ST_0203300400,332,2025_VÅR,active,,,,,,true
+28854,UE_203_BARNP513_1_2025_VÅR_1,,BARNP513-1 25V,"BARNP513-1 25V Pasientsikkerhet, teknologi, og digital kompetanse i utøvende barnesykepleie",429,ST_0203100100,332,2025_VÅR,unpublished,,,,,,true
+29164,UE_203_JU6-4000_1_2025_VÅR_1,,JU6-4000-1 25V,JU6-4000-1 25V Kontraktsrett,15739,ST_0203201400,332,2025_VÅR,active,,,,,,true
+29272,UE_203_MAKPR450_1_2025_VÅR_1,,MAKPR450-1 25V,MAKPR450-1 25V Kunstig intelligens og innovasjon innen visualisering og bildeanalyse i radiografi,355,ST_0203100200,332,2025_VÅR,unpublished,,,,,,true
+29393,UE_203_LEI107_1_2025_VÅR_1,,LEI107-1 25V,LEI107-1 25V Ingeniørlandmåling,15737,ST_0203201200,332,2025_VÅR,active,,,,,,true
+29190,UE_203_MAFYS532_1_2025_VÅR_1,,MAFYS532-1 25V,MAFYS532-1 25V Fysioterapi ved langvarige muskelskjelettplager,355,ST_0203100200,332,2025_VÅR,active,,,,,,true
+28488,UA_203_SAB140_1_2025_VÅR_1_2,,SAB140 Sogndal - V25 (2),SAB140 Sogndal - V25 (2),17366,UE_203_SAB140_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+28886,UE_203_ERG130_1_2025_VÅR_1,,ERG130-1 25V,ERG130-1 25V Aktivitetsvitenskap,355,ST_0203100200,332,2025_VÅR,active,,,,,,true
+28892,UE_203_DAT110_1_2025_VÅR_1,,DAT110-1 25V,DAT110-1 25V Distribuerte systemer og nettverksteknologi,5313,ST_0203201000,332,2025_VÅR,active,,,,,,true
+29233,UE_203_HYD801_1_2025_VÅR_1,,HYD801-1 25V,HYD801-1 25V Hydrogenteknologi I,15738,ST_0203201300,332,2025_VÅR,unpublished,,,,,,true
+28857,UA_203_SYKI105_1_2025_VÅR_1_2,,Haugesund: International nursing students - spring 25,Haugesund: SYKI 104 / 105 / 106 / 110 - V25,17562,UE_203_SYKI105_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+27994,UA_203_MGBNO401_1_2025_VÅR_1_2,,MGBNO301/401 Sogndal - V25,MGBNO301/401 Sogndal - V25,16844,UE_203_MGBNO401_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+29667,UE_203_MSN520_1_2025_VÅR_1,,MSN520-1 25V,MSN520-1 25V Klinisk fagledelse og fordypning i klinisk nevrosykepleie,429,ST_0203100100,332,2025_VÅR,active,,,,,,true
+29692,UE_203_MHE804_1_2025_VÅR_1,,MHE804-1 25V,"MHE804-1 25V Mat og helse 1, emne 2 - Mat og helse som undervisningsfag",438,ST_0203300100,332,2025_VÅR,active,,,,,,true
+28787,UE_203_EM6-1001_1_2025_VÅR_1,,EM6-1001-1 25V,EM6-1001-1 25V Praktisk eiendomsmegling 1,15739,ST_0203201400,332,2025_VÅR,active,,,,,,true
+30192,UE_203_SYKI103_1_2025_VÅR_1,,SYKI103-1 25V,SYKI103-1 25V Practical studies in Community Health Care,429,ST_0203100100,332,2025_VÅR,unpublished,,,,,,true
+30770,UE_203_REAL121_1_2025_VÅR_1,,REAL121-1 25V,REAL121-1 25V Fysikk realfagkurs,5313,ST_0203201000,332,2025_VÅR,active,,,,,,true
+30282,UE_203_TOS201T_1_2025_VÅR_1,,TOS201T-1 25V,TOS201T-1 25V Tolking i praksis - norsk/russisk,440,ST_0203300300,332,2025_VÅR,unpublished,,,,,,true
+30914,UE_203_HMA811_1_2025_VÅR_1,,HMA811-1 25V,HMA811-1 25V Teoretiske perspektiver på velferdsteknologi,355,ST_0203100200,332,2025_VÅR,active,,,,,,true
+30553,UE_203_BYG161_1_2025_VÅR_1,,BYG161-1 25V,BYG161-1 25V Mekanikk,15737,ST_0203201200,332,2025_VÅR,active,,,,,,true
+28383,UA_203_MGUPE201_1_2025_VÅR_1_2,,MGUPE201 Sogndal (2),MGUPE201 Sogndal (2),16995,UE_203_MGUPE201_1_2025_VÅR_1,332,2025_VÅR,unpublished,,,,,,true
+28879,UA_203_SYKI106_1_2025_VÅR_1_2,,Haugesund: International nursing students V25 (2),Haugesund: International nursing students V25 (2),17563,UE_203_SYKI106_1_2025_VÅR_1,332,2025_VÅR,unpublished,,,,,,true
+28570,UE_203_BRL106_1_2025_VÅR_1,,BRL106-1 25V,BRL106-1 25V Friluftsliv og naturguiding vinter II,15739,ST_0203201400,332,2025_VÅR,active,,,,,,true
+29292,UE_203_FYS150_1_2025_VÅR_1,,FYS150-1 25V,FYS150-1 25V Bevegelseslære,355,ST_0203100200,332,2025_VÅR,active,,,,,,true
+28685,UE_203_ELE121_1_2025_VÅR_1,,ELE121-1 25V,ELE121-1 25V Videregående nettverksteknikk,5313,ST_0203201000,332,2025_VÅR,active,,,,,,true
+29116,UE_203_FHSUF300_1_2025_VÅR_1,,FHSUF300-1 25V,FHSUF300-1 25V The Norwegian Health Care System in an International Perspective,355,ST_0203100200,332,2025_VÅR,unpublished,,,,,,true
+29810,UE_203_NABP3005_1_2025_VÅR_1,,NABP3005-1 25V,"NABP3005-1 25V Helse, arbeidsmiljø og sikkerhet",15738,ST_0203201300,332,2025_VÅR,active,,,,,,true
+29817,UE_203_MGUMA301_1_2025_VÅR_1,,MGUMA301-1 25V,"MGUMA301-1 25V Matematikk 2, emne 1 - Perspektiv på matematikkfaget",440,ST_0203300300,332,2025_VÅR,active,,,,,,true
+28684,UA_203_STM101_1_2025_VÅR_1_2,,STM101 Bergen - Klasse B (2),STM101 Bergen - Klasse B (2),17418,UE_203_STM101_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+29358,UE_203_ING172_1_2025_VÅR_1,,ING172-1 25V,ING172-1 25V Klassisk mekanikk og termodynamikk,5313,ST_0203201000,332,2025_VÅR,active,,,,,,true
+30810,UE_203_FHA852_1_2025_VÅR_1,,FHA852-1 25V,FHA852-1 25V Verktøy og metoder i systematisk folkehelsearbeid,438,ST_0203300100,332,2025_VÅR,active,,,,,,true
+28911,UE_203_DAT153_1_2025_VÅR_1,,DAT153-1 25V,DAT153-1 25V Mobile og distribuerte applikasjoner,5313,ST_0203201000,332,2025_VÅR,active,,,,,,true
+29959,UE_203_MOØ234_1_2025_VÅR_1,,MOØ234-1 25V,MOØ234-1 25V Innovasjonsledelse i etablerte bedrifter,15739,ST_0203201400,332,2025_VÅR,active,,,,,,true
+29981,UE_203_MOØ240_1_2025_VÅR_1,,MOØ240-1 25V,MOØ240-1 25V Innovasjon og entreprenørskap i praksis i en regional kontekst,15739,ST_0203201400,332,2025_VÅR,active,,,,,,true
+29048,UE_203_INN503_1_2025_VÅR_1,,INN503-1 25V,"INN503-1 25V Digital transformasjon, innovasjon og bærekraft",15739,ST_0203201400,332,2025_VÅR,active,,,,,,true
+29249,UE_203_MAKPR420_1_2025_VÅR_1,,MAKPR420-1 25V,"MAKPR420-1 25V Prinsipper for bildekvalitet, bildebehandling og bildeanalyse",355,ST_0203100200,332,2025_VÅR,unpublished,,,,,,true
+28144,UA_203_MAS220_1_2025_VÅR_1_3,,MAS220 Bergen - Marinteknikk (3),MAS220 Bergen - Marinteknikk (3),16650,UE_203_MAS220_1_2025_VÅR_1,332,2025_VÅR,unpublished,,,,,,true
+29418,UE_203_MDIP501A_1_2025_VÅR_1,,MDIP501A-1 25V,MDIP501A-1 25V Didaktiske praksiser rettet mot undervisning i kroppsøving og mat og helse,438,ST_0203300100,332,2025_VÅR,active,,,,,,true
+31015,hvl250122-e1-akv,,Studentassistentar FTMS vår 2025,Studentassistentar FTMS vår 2025,199,ST_0203200000,332,2025_VÅR,active,,,,,,false
+29837,UE_203_PSBU104_1_2025_VÅR_1,,PSBU104-1 25V,"PSBU104-1 25V Psykososialt arbeid med barn, ungdom og deres familier - ulike praksiser, teorier og etiske dilemma",429,ST_0203100100,332,2025_VÅR,unpublished,,,,,,true
+28855,UA_203_NHR101_1_2025_VÅR_1_2,,NHR101 Bergen - Klasse C (2),NHR101 Bergen - Klasse C (2),17189,UE_203_NHR101_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+28766,UE_203_ELE308_1_2025_VÅR_1,,ELE308-1 25V,ELE308-1 25V Fordypning i Kraftelektronikk,5313,ST_0203201000,332,2025_VÅR,unpublished,,,,,,true
+29436,UE_203_MDIP501F_1_2025_VÅR_1,,MDIP501F-1 25V,MDIP501F-1 25V Refleksiv profesjonsledelse innen yrkesdidaktisk arbeid,439,ST_0203300200,332,2025_VÅR,active,,,,,,true
+29589,UE_203_MGBNA503_1_2025_VÅR_1,,MGU/BNA 503-1 25V,"MGBNA503-1 25V Naturfag 3, emne 3 - Naturfagdidaktikk",438,ST_0203300100,332,2025_VÅR,active,,,,,,true
+29579,UE_203_MGBMU503_1_2025_VÅR_1,,MGB/MGU MU503-1 25V,"MGB/MGU MU503-1 25V Musikk 3, emne 3 - Musikkpedagogisk grunnlagstenking, tradisjoner og utviklingstrekk",441,ST_0203300400,332,2025_VÅR,active,,,,,,true
+29722,UE_203_MIDR406_1_2025_VÅR_1,,MIDR406-1 25V,"MIDR406-1 25V Måleegenskaper, statistikk og prosjektplan",438,ST_0203300100,332,2025_VÅR,active,,,,,,true
+28401,UA_203_MGBNO101_1_2025_VÅR_1_1,,MGBNO101 Bergen - Klasse ENG (1),MGBNO101 Bergen - Klasse ENG (1),16841,UE_203_MGBNO101_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+29859,UE_203_MOA253_1_2025_VÅR_1,,MOA253-1 25V,"MOA253-1 25V Avtalerett, ekspropriasjonsrett og grunnerverv",15737,ST_0203201200,332,2025_VÅR,active,,,,,,true
+28976,UA_203_PSBU105_1_2025_VÅR_1_1,,PSBU105 Stord/Haugesund (1),PSBU105 Stord/Haugesund (1),17296,UE_203_PSBU105_1_2025_VÅR_1,332,2025_VÅR,unpublished,,,,,,true
+29923,UE_203_OPRP513_1_2025_VÅR_1,,OPRP513-1 25V,OPRP513-1 25V Utøvende operasjonssykepleie: grunnleggende ferdigheter og pasientsikkerhet,429,ST_0203100100,332,2025_VÅR,active,,,,,,true
+29658,UE_203_MGUSA202_1_2025_VÅR_1,,MGUSA202-1 25V,"MGUSA202-1 25V Samfunnsfag 1, emne 2 - Innføring i samfunnsfag 2",439,ST_0203300200,332,2025_VÅR,active,,,,,,true
+30984,UE_203_PHDINN903_1_2025_VÅR_1,,PHDINN903-1 25V,PHDINN903-1 25V Understanding and Exploring Innovation,199,ST_0203200000,332,2025_VÅR,active,,,,,,true
+28875,UE_203_DAT102_1_2025_VÅR_1,,DAT102-1 25V,DAT102-1 25V Algoritmer og datastrukturer,5313,ST_0203201000,332,2025_VÅR,active,,,,,,true
+29998,UE_203_MPUV501B_1_2025_VÅR_1,,MPUV501B-1 25V,MPUV501B-1 25V IKT i læring 1 - Digital teknologi i pedagogisk utviklingsarbeid,439,ST_0203300200,332,2025_VÅR,active,,,,,,true
+27974,UA_203_MGBNO301_1_2025_VÅR_1_1,,MGBNO301 Bergen (1),MGBNO301 Bergen (1),16843,UE_203_MGBNO301_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+29893,UE_203_NVB001_1_2025_VÅR_1,,NVB001-1 25V,NVB001-1 25V Bedriftsøkonomisk analyse,15739,ST_0203201400,332,2025_VÅR,active,,,,,,true
+29016,UE_203_FØS8306_1_2025_VÅR_1,,FØS8306-1 25V,FØS8306-1 25V Forretningsengelsk,15739,ST_0203201400,332,2025_VÅR,unpublished,,,,,,true
+29652,UE_203_MSG520_1_2025_VÅR_1,,MSG520-1 25V,MSG520-1 25V Klinisk fagledelse og fordypning i klinisk gastrosykepleie,429,ST_0203100100,332,2025_VÅR,active,,,,,,true
+28084,UA_203_MGUMA202_1_2025_VÅR_1_1,,MGUMA202 Bergen  (1),MGUMA202 Bergen  (1),16938,UE_203_MGUMA202_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+28364,UA_203_MGBSA201_1_2025_VÅR_1_1,,MGBSA201 Bergen (1),MGBSA201 Bergen (1),16881,UE_203_MGBSA201_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+28687,UE_203_ADA529_1_2025_VÅR_1,,ADA529-1 25V,ADA529-1 25V Beregningsvitenskap,5313,ST_0203201000,332,2025_VÅR,active,,,,,,true
+29177,UE_203_HI104_1_2025_VÅR_1,,HI104-1 25V,HI104-1 25V Historie etter 1930. Innføring i norsk og internasjonal historie,15739,ST_0203201400,332,2025_VÅR,active,,,,,,true
+28925,UE_203_BIDR202_1_2025_VÅR_1,,BIDR202-1 25V,BIDR202-1 25V Coaching og trenerrollen,438,ST_0203300100,332,2025_VÅR,active,,,,,,true
+29748,UE_203_MKUF502B_1_2025_VÅR_1,,MKUF502B-1 25V,MKUF502B-1 25V Anvendt teater,441,ST_0203300400,332,2025_VÅR,active,,,,,,true
+29046,UE_203_GE448_1_2025_VÅR_1,,GE448-1 25V,GE448-1 25V Snø og snøskred,15737,ST_0203201200,332,2025_VÅR,active,,,,,,true
+30959,hvl250110-e1-akv,,MAT122 testemne,MAT122 testemne,5313,ST_0203201000,332,2025_VÅR,active,,,,,,false
+29127,UE_203_JU5-105_1_2025_VÅR_1,,JU5-105-1 25V,JU5-105-1 25V Juridisk metode,15739,ST_0203201400,332,2025_VÅR,active,,,,,,true
+29148,UE_203_MAB802N_1_2025_VÅR_1,,MAB802N-1 25V,"MAB802N-1 25V Matematikk 1, emne 2 - Den utforskende matematikklærer",440,ST_0203300300,332,2025_VÅR,active,,,,,,true
+30348,UA_203_MGBPE201_1_2025_VÅR_1_11,,MGBPE201 Bergen - Klasse KOH/NAT/KRLE/MOH/MUS - V25,MGBPE201 Bergen - Klasse KOH/NAT/KRLE/MOH/MUS - V25,16856,UE_203_MGBPE201_1_2025_VÅR_1,332,2025_VÅR,active,,,,30812,hvl241202-dov-E1,true
+28154,UA_203_MGBPE201_1_2025_VÅR_1_8,,MGBPE201 Bergen - Klasse SAM - V25,MGBPE201 Bergen - Klasse SAM - V25,16856,UE_203_MGBPE201_1_2025_VÅR_1,332,2025_VÅR,active,,,,30812,hvl241202-dov-E1,true
+28145,UA_203_MGBPE201_1_2025_VÅR_1_6,,MGBPE201 Bergen - Klasse ENG/KRO - V25,MGBPE201 Bergen - Klasse ENG/KRO - V25,16856,UE_203_MGBPE201_1_2025_VÅR_1,332,2025_VÅR,active,,,,30812,hvl241202-dov-E1,true
+29411,UE_203_ING303_1_2025_VÅR_1,,ING303-1 25V,ING303-1 25V Systemtenking og innovasjon for ingeniører,15739,ST_0203201400,332,2025_VÅR,active,,,,,,true
+29206,UE_203_MAS520_1_2025_VÅR_1,,MAS520-1 25V,MAS520-1 25V Design for Sustainable Energy Technology,15738,ST_0203201300,332,2025_VÅR,active,,,,,,true
+29200,UE_203_MAFYS551_1_2025_VÅR_1,,MAFYS551-1 25V,MAFYS551-1 25V Individuell behandling og gruppebehandling i fysioterapi ved psykiatriske og psykosomatiske helseproblem,355,ST_0203100200,332,2025_VÅR,active,,,,,,true
+30786,UA_203_VPD390_1_2025_VÅR_1_1,,Haugesund VPD390 (1),Haugesund VPD390 (1),17866,UE_203_VPD390_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+29213,UE_203_HVF852_1_2025_VÅR_1,,HVF852-1 25V,HVF852-1 25V Sosial- og trygderett,430,ST_0203100300,332,2025_VÅR,active,,,,,,true
+28261,UA_203_DAT109_1_2025_VÅR_1_3,,DAT109 25V Førde,DAT109 25V Systemutvikling - Førde,16052,UE_203_DAT109_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+28283,UA_203_MAT110_1_2025_VÅR_1_1,,MAT110 Bergen - Dataingeniør (1),MAT110 Bergen - Dataingeniør (1),16719,UE_203_MAT110_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+29219,UE_203_KAS530_1_2025_VÅR_1,,KAS530-1 25V,KAS530-1 25V Prosjektplan,429,ST_0203100100,332,2025_VÅR,active,,,,,,true
+29256,UE_203_KJE103_1_2025_VÅR_1,,KJE103-1 25V,KJE103-1 25V Organisk kjemi,5316,ST_0203201100,332,2025_VÅR,active,,,,,,true
+29222,UE_203_HYD800_1_2025_VÅR_1,,HYD800-1 25V,HYD800-1 25V Innføring i hydrogenteknologi,15738,ST_0203201300,332,2025_VÅR,active,,,,,,true
+29230,UE_203_MAJORP502_1_2025_VÅR_1,,MAJORP502-1 25V,MAJORP502-1 25V Grunnleggende jordmorfag i praksis II,429,ST_0203100100,332,2025_VÅR,active,,,,,,true
+28527,UA_203_VPL390_1_2025_VÅR_1_2,,Sogndal VPL390 / VPD390 (25V),Sogndal VPL390 / VPD390 (25V),17665,UE_203_VPL390_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+29380,UE_203_ING2045_1_2025_VÅR_1,,ING2045-1 25V,ING2045-1 25V Aktive og passive brannsikringssystemer,5316,ST_0203201100,332,2025_VÅR,active,,,,,,true
+28649,UE_203_ELDHELS1004_1_2025_VÅR_1,,ELDHELS1004-1 25V,ELDHELS1004-1 25V Palliasjon,429,ST_0203100100,332,2025_VÅR,active,,,,,,true
+29310,UE_203_KJE302_1_2025_VÅR_1,,KJE302-1 25V,KJE302-1 25V Analyseteknikker med legemiddelanalyser,5316,ST_0203201100,332,2025_VÅR,active,,,,,,true
+28780,UE_203_BØ6-2010_1_2025_VÅR_1,,BØ6-2010-1 25V,BØ6-2010-1 25V Regnskap i praksis,15739,ST_0203201400,332,2025_VÅR,active,,,,,,true
+29277,UE_203_MAMET1ABIO_1_2025_VÅR_1,,MAMET1ABIO-1 25V,"MAMET1ABIO-1 25V Vitenskapsteori, etikk og metode",429,ST_0203100100,332,2025_VÅR,active,,,,,,true
+28415,UA_203_MGBNO101_1_2025_VÅR_1_2,,MGBNO101 Bergen - Klasse KRLE/MUS/KoH - V25,MGBNO101 Bergen - Klasse KRLE/MUS/KoH - V25,16841,UE_203_MGBNO101_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+28574,UE_203_DRA304_1_2025_VÅR_1,,DRA304-1 25V,DRA304-1 25V Teaterhistorie og teaterproduksjon,441,ST_0203300400,332,2025_VÅR,active,,,,,,true
+28898,UE_203_ERG220_1_2025_VÅR_1,,ERG220-1 25V,ERG220-1 25V Enabling Occupation,355,ST_0203100200,332,2025_VÅR,active,,,,,,true
+29684,UE_203_MSU520_1_2025_VÅR_1,,MSU520-1 25V,MSU520-1 25V Klinisk fagledelse og fordypning i klinisk uroterapi,429,ST_0203100100,332,2025_VÅR,active,,,,,,true
+28123,UA_203_BØA115_1_2025_VÅR_1_3,,BØA115 Sogndal - Statistikk for økonomer  (3),BØA115 Sogndal - Statistikk for økonomer  (3),16034,UE_203_BØA115_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+29659,UE_203_MSK520_1_2025_VÅR_1,,MSK520-1 25V,MSK520-1 25V Klinisk fagledelse og fordypning i klinisk stomi- og kontinenssykepleie,429,ST_0203100100,332,2025_VÅR,active,,,,,,true
+28798,UE_203_BØA115_1_2025_VÅR_1,,BØA115-1 25V,BØA115-1 25V Statistikk for økonomer,15739,ST_0203201400,332,2025_VÅR,unpublished,,,,,,true
+29147,UE_203_JU6-1001_1_2025_VÅR_1,,JU6-1001-1 25V,JU6-1001-1 25V Skatte- og avgiftsrett 1,15739,ST_0203201400,332,2025_VÅR,unpublished,,,,,,true
+28678,UA_203_STM101_1_2025_VÅR_1_1,,STM101 Bergen - Klasse A (1),STM101 Bergen - Klasse A (1),17418,UE_203_STM101_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+29663,UE_203_MSL520_1_2025_VÅR_1,,MSL520-1 25V,MSL520-1 25V Klinisk fagledelse og fordypning i klinisk lungesykepleie,429,ST_0203100100,332,2025_VÅR,active,,,,,,true
+29308,UE_203_FYS220_1_2025_VÅR_1,,FYS220-1 25V,FYS220-1 25V Physiotheraphy in Health Promotion and Preventive work,355,ST_0203100200,332,2025_VÅR,active,,,,,,true
+28586,UE_203_DRA311_1_2025_VÅR_1,,DRA311-1 25V,DRA311-1 25V Regi: Eget prosjekt på en valgt samfunnsarena,441,ST_0203300400,332,2025_VÅR,active,,,,,,true
+29312,UE_203_IDF350_1_2025_VÅR_1,,IDF350-1 25V,IDF350-1 25V Forskningsmetode og bacheloroppgave,438,ST_0203300100,332,2025_VÅR,active,,,,,,true
+29929,UE_203_MGUNA201_1_2025_VÅR_1,,MGUNA201/MGBNA201 25V,"MGUNA201/MGBNA201 25V Naturfag 1, emne 2 - Fysikk og kjemi for grunnskolen",438,ST_0203300100,332,2025_VÅR,active,,,,,,true
+29210,UE_203_MAJOR503_1_2025_VÅR_1,,MAJOR503-1 25V,MAJOR503-1 25V Avansert jordmorfag,429,ST_0203100100,332,2025_VÅR,active,,,,,,true
+28423,UA_203_MGBNO101_1_2025_VÅR_1_4,,MGBNO101 Bergen - Klasse SAM (4),MGBNO101 Bergen - Klasse SAM (4),16841,UE_203_MGBNO101_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+27960,UA_203_MGUEN201_1_2025_VÅR_1_1,,MGUEN201 Bergen (1),MGUEN201 Bergen (1),16897,UE_203_MGUEN201_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+28162,UA_203_BØA118_1_2025_VÅR_1_2,,BØA118 Haugesund - Makroøkonomi  (2),BØA118 Haugesund - Makroøkonomi  (2),16037,UE_203_BØA118_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+29221,UE_203_MAS533_1_2025_VÅR_1,,MAS533-1 25V,MAS533-1 25V Materialer for energiteknologi,15738,ST_0203201300,332,2025_VÅR,active,,,,,,true
+28522,UA_203_VPL390_1_2025_VÅR_1_1,,Bergen VPL390 (1),Bergen VPL390 (1),17665,UE_203_VPL390_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+28917,UE_203_ERGP1_1_2025_VÅR_1,,ERGP1-1 25V,ERGP1-1 25V Ergoterapeutisk yrkesutøvelse,355,ST_0203100200,332,2025_VÅR,active,,,,,,true
+29360,UE_203_FØS8114_1_2025_VÅR_1,,FØS8114-1 25V,FØS8114-1 25V Kvalitetsledelse og HMS i havbruksnæringen,15739,ST_0203201400,332,2025_VÅR,active,,,,,,true
+30773,UE_203_LUPEKI104_1_2025_VÅR_1,,LUPEKI104-1 25V,LUPEKI104-1 25V Bevegelsesaktiviteter og friluftsliv 2,438,ST_0203300100,332,2025_VÅR,active,,,,,,true
+29385,UE_203_ING2046_1_2025_VÅR_1,,ING2046-1 25V,ING2046-1 25V Brannteknisk design av bygg,5316,ST_0203201100,332,2025_VÅR,active,,,,,,true
+29391,UE_203_ING2049_1_2025_VÅR_1,,ING2049-1 25V,ING2049-1 25V Undervannsteknologi og hydrauliske systemer,15738,ST_0203201300,332,2025_VÅR,active,,,,,,true
+28092,UA_203_MGBKØ201_1_2025_VÅR_1_2,,MGBKØ201 Sogndal (2),MGBKØ201 Sogndal (2),16790,UE_203_MGBKØ201_1_2025_VÅR_1,332,2025_VÅR,unpublished,,,,,,true
+30127,UE_203_SYKF140_1_2025_VÅR_1,,SYKF140-1 25V,SYKF140-1 25V Sykdomslære og farmakologi,429,ST_0203100100,332,2025_VÅR,active,,,,,,true
+28596,UE_203_ADA502_1_2025_VÅR_1,,ADA502-1 25V,ADA502-1 25V Cloud computing og programvaresystemer,5313,ST_0203201000,332,2025_VÅR,active,,,,,,true
+29517,UE_203_MF6-2000_1_2025_VÅR_1,,MF6-2000-1 25V,MF6-2000-1 25V Merkevarestrategi,15739,ST_0203201400,332,2025_VÅR,active,,,,,,true
+28164,UA_203_MGBMA101_1_2025_VÅR_1_10,,MGBMA101 Stord (10),MGBMA101 Stord (10),16797,UE_203_MGBMA101_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+28023,UA_203_LUPEKI104_1_2025_VÅR_1_2,,LUPEKI104 Stord  (2),LUPEKI104 Stord  (2),16534,UE_203_LUPEKI104_1_2025_VÅR_1,332,2025_VÅR,unpublished,,,,,,true
+29583,UE_203_MS1-340_1_2025_VÅR_1,,MS1-340-1 25V,MS1-340-1 25V Demens og psykiske lidelser blant eldre,429,ST_0203100100,332,2025_VÅR,active,,,,,,true
+28951,UE_203_DAT255_1_2025_VÅR_1,,DAT255-1 25V,DAT255-1 25V Deep learning engineering,5313,ST_0203201000,332,2025_VÅR,active,,,,,,true
+29610,UE_203_MGBPE201E_1_2025_VÅR_1,,MGBPE201E-1 25V,"MGBPE201E-1 25V Pedagogikk og elevkunnskap, emne 2 - Læreren og eleven i mangfoldige læringsmiljø",439,ST_0203300200,332,2025_VÅR,active,,,,,,true
+30490,UA_203_TPHR502_1_2025_VÅR_1_1,,"TPHR502 Bergen, Vår 2025 (1)","TPHR502 Bergen, Vår 2025 (1)",17614,UE_203_TPHR502_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+29608,UE_203_PHD906_1_2025_VÅR_1,,PHD906-1 25V,PHD906-1 25V Utdanningsinstitusjoner som danningsarenaer,200,ST_0203300000,332,2025_VÅR,unpublished,,,,,,true
+29457,UE_203_LPT801_1_2025_VÅR_1,,LPT801-1 25V,LPT801-1 25V Laptop som prosjektstudio,441,ST_0203300400,332,2025_VÅR,active,,,,,,true
+29464,UE_203_LSUINT_1_2025_VÅR_1,,LSUINT-1 25V,"LSUINT-1 25V Ledelse, samarbeid og utviklingsarbeid",439,ST_0203300200,332,2025_VÅR,active,,,,,,true
+29948,UE_203_MGUNA401_1_2025_VÅR_1,,"MGUNA401/MGBNA401 25V Naturfag 2, emne 2 - Den levende naturen 2","MGUNA401/MGBNA401 25V Naturfag 2, emne 2 - Den levende naturen 2",438,ST_0203300100,332,2025_VÅR,active,,,,,,true
+28044,UA_203_MGBNO503_1_2025_VÅR_1_3,,MGB/MGUNO503 Stord - V25,MGB/MGUNO503 Stord - V25,16847,UE_203_MGBNO503_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+28746,UE_203_ELE302_1_2025_VÅR_1,,ELE302-1 25V,ELE302-1 25V Reguleringsteknikk 2,5313,ST_0203201000,332,2025_VÅR,active,,,,,,true
+28387,UA_203_MGUPE201_1_2025_VÅR_1_3,,MGBPE201/MGUPE201 Stord V25,MGBPE201/MGUPE201 Stord V25,16995,UE_203_MGUPE201_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+29091,UE_203_GLSM802_1_2025_VÅR_1,,GLSM802-1 25V,"GLSM802-1 25V Grunnleggende lese-, skrive- og matematikkopplæring for alle",440,ST_0203300300,332,2025_VÅR,active,,,,,,true
+29130,UE_203_FHSUR301_1_2025_VÅR_1,,FHSUR301-1 25V,FHSUR301-1 25V Clinical radiographic practice and international Peer-Assisted Learning,355,ST_0203100200,332,2025_VÅR,unpublished,,,,,,true
+29864,UE_203_SOS140_1_2025_VÅR_1,,SOS140-1 25V,SOS140-1 25V Nyere sosiologiske perspektiver,15739,ST_0203201400,332,2025_VÅR,active,,,,,,true
+30920,UE_203_DKR004_1_2025_VÅR_1,,DKR004-1 25V,DKR004-1 25V Tingenes internett og smarte byer,15739,ST_0203201400,332,2025_VÅR,active,,,,,,true
+29970,UE_203_RE6-1001_1_2025_VÅR_1,,RE6-1001-1 25V,RE6-1001-1 25V Grønn destinasjonsutvikling,15739,ST_0203201400,332,2025_VÅR,active,,,,,,true
+30018,UE_203_PHD903_1_2025_VÅR_1,,PHD903-1 25V,PHD903-1 25V Forskningsmetodologi og -design,200,ST_0203300000,332,2025_VÅR,active,,,,,,true
+30062,UE_203_SYKDF360P_1_2025_VÅR_1,,"SYKDF360P-1 25V Praksisstudie, Faglig ledelse, tjenesteutvikling og innovasjon","SYKDF360P-1 25V Praksisstudie, Faglig ledelse, tjenesteutvikling og innovasjon",429,ST_0203100100,332,2025_VÅR,active,,,,,,true
+28806,UA_203_SYKF320P_1_2025_VÅR_1_2,,SYKF320P - Kull 82 (2),SYKF320P - Kull 82 (2),17527,UE_203_SYKF320P_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+28600,UA_203_SABV260_1_2025_VÅR_1_2,,SABV260 - Sogndal - V25 (2),SABV260 - Sogndal - V25 (2),17377,UE_203_SABV260_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+30075,UE_203_SA6-503_1_2025_VÅR_1,,SA6-503-1 25V,SA6-503-1 25V Utdanningspolitikk,15739,ST_0203201400,332,2025_VÅR,unpublished,,,,,,true
+28849,UE_203_BARNP2_1_2025_VÅR_1,,BARNP2-1 25V,BARNP2-1 25V Praksis i barnevernsfaglig arbeid,430,ST_0203100300,332,2025_VÅR,active,,,,,,true
+30125,UE_203_SYKF130_1_2025_VÅR_1,,SYKF130-1 25V,"SYKF130-1 25V Anatomi, fysiologi, biokjemi og mikrobiologi",429,ST_0203100100,332,2025_VÅR,unpublished,,,,,,true
+28490,UE_203_BIO207_1_2025_VÅR_1,,BIO207-1 25V,BIO207-1 25V Ekstern praksis 1,5316,ST_0203201100,332,2025_VÅR,active,,,,,,true
+29083,UE_203_INN599_1_2025_VÅR_1,,INN599-1 25V,INN599-1 25V Masteroppgave,15739,ST_0203201400,332,2025_VÅR,active,,,,,,true
+28139,UA_203_MAS220_1_2025_VÅR_1_2,,MAS220 Bergen - Havteknologi (2),MAS220 Bergen - Havteknologi (2),16650,UE_203_MAS220_1_2025_VÅR_1,332,2025_VÅR,unpublished,,,,,,true
+29123,UE_203_LUPEM304_1_2025_VÅR_1,,LUPEM304-1 25V,LUPEM304-1 25V Digitale verktøy i studio og fremføring,441,ST_0203300400,332,2025_VÅR,unpublished,,,,,,true
+30149,UE_203_SYKH140_1_2025_VÅR_1,,SYKH140-1 25V,SYKH140-1 25V Sykdomslære og farmakologi,429,ST_0203100100,332,2025_VÅR,active,,,,,,true
+29242,UE_203_HYD802_1_2025_VÅR_1,,HYD802-1 25V,HYD802-1 25V Hydrogenteknologi II,15738,ST_0203201300,332,2025_VÅR,unpublished,,,,,,true
+28061,UA_203_MGBKH301_1_2025_VÅR_1_1,,MGB/MGUKH301-401 Bergen - V25,MGB/MGUKH301-401 Bergen - V25,16775,UE_203_MGBKH301_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+28136,UA_203_MGUMA503_1_2025_VÅR_1_3,,MGUMA503 Stord (3),MGUMA503 Stord (3),16943,UE_203_MGUMA503_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+29198,UE_203_HSPED802_1_2025_VÅR_1,,HSPED802-1 25V,HSPED802-1 25V Fagdidaktisk fordypning i høyskolepedagogikk,200,ST_0203300000,332,2025_VÅR,unpublished,,,,,,true
+29553,UE_203_MGBKR401_1_2025_VÅR_1,,MGB/MGUKR401 - 25V ,MGB/MGUKR401 - 25V ,439,ST_0203300200,332,2025_VÅR,active,,,,,,true
+28556,UE_203_BO6-2011_1_2025_VÅR_1,,BO6-2011-1 25V,BO6-2011-1 25V Bacheloroppgave,15739,ST_0203201400,332,2025_VÅR,active,,,,,,true
+29226,UE_203_MAS534_1_2025_VÅR_1,,MAS534-1 25V,"MAS534-1 25V Electrochemistry for Batteries, Electrolyzers and Fuel Cell Systems",15738,ST_0203201300,332,2025_VÅR,active,,,,,,true
+28585,UE_203_BRL111_1_2025_VÅR_1,,BRL111-1 25V,BRL111-1 25V Økonomistyring i reiselivsbedrifter,15739,ST_0203201400,332,2025_VÅR,active,,,,,,true
+28860,UA_203_NHR101_1_2025_VÅR_1_3,,NHR101 Bergen - Klasse D (3),NHR101 Bergen - Klasse D (3),17189,UE_203_NHR101_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+28202,UA_203_MGBMA101_1_2025_VÅR_1_8,,MGBMA101 Bergen - Klasse KRO 1 (8),MGBMA101 Bergen - Klasse KRO 1 (8),16797,UE_203_MGBMA101_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+28501,UE_203_DAT355_1_2025_VÅR_1,,DAT355-1 25V,DAT355-1 25V Modelldrevet programvareutvikling og pålitelige programvaresystemer,5313,ST_0203201000,332,2025_VÅR,active,,,,,,true
+29173,UE_203_MAS356_1_2025_VÅR_1,,MAS356-1 25V,MAS356-1 25V Bachelor Thesis for Exchange students - Mechanical Engineering,15738,ST_0203201300,332,2025_VÅR,unpublished,,,,,,true
+28697,UE_203_ELE130_1_2025_VÅR_1,,ELE130-1 25V,ELE130-1 25V Nettverkssikkerhet,5313,ST_0203201000,332,2025_VÅR,active,,,,,,true
+29696,UE_203_MGUEN202_1_2025_VÅR_1,,MGUEN202-1 25V,"MGUEN202-1 25V Engelsk 1, emne 2 - Engelsk litteratur og kultur med fagdidaktikk",440,ST_0203300300,332,2025_VÅR,active,,,,,,true
+33662,UE_203_FØS8312_1_2025_VÅR_1,,FØS8312-1 25V,FØS8312-1 25V Økonomi for ikke-økonomer,15739,ST_0203201400,332,2025_VÅR,unpublished,,,,,,true
+28659,UE_203_BYG107_1_2025_VÅR_1,,BYG107-1 25V,BYG107-1 25V Stålkonstruksjoner,15737,ST_0203201200,332,2025_VÅR,active,,,,,,true
+28665,UE_203_ELE114_1_2025_VÅR_1,,ELE114-1 25V,ELE114-1 25V Elektriske maskiner,5313,ST_0203201000,332,2025_VÅR,active,,,,,,true
+28842,UE_203_ENB804N_1_2025_VÅR_1,,ENB804N-1 25V,"ENB804N-1 25V Engelsk 2, emne 2 - Mangfold i språk, tekst og kultur",440,ST_0203300300,332,2025_VÅR,active,,,,,,true
+28700,UE_203_BYG117_1_2025_VÅR_1,,BYG117-1 25V,BYG117-1 25V Entreprise og byggeplassdrift,15737,ST_0203201200,332,2025_VÅR,active,,,,,,true
+29156,UE_203_FKN801_1_2025_VÅR_1,,FKN801-1 25V,FKN801-1 25V Friluftsliv i kystnære naturmiljø,438,ST_0203300100,332,2025_VÅR,active,,,,,,true
+29473,UE_203_MAS134_1_2025_VÅR_1,,MAS134-1 25V,MAS134-1 25V Elektrisk energiteknikk,5313,ST_0203201000,332,2025_VÅR,active,,,,,,true
+29475,UE_203_ING4051UTV_1_2025_VÅR_1,,ING4051UTV-1 25V,ING4051UTV-1 25V Professional Placement Learning 2 - Laboratory,5316,ST_0203201100,332,2025_VÅR,unpublished,,,,,,true
+27999,UA_203_MGBNO401_1_2025_VÅR_1_3,,MGBNO401 Stord (3),MGBNO401 Stord (3),16844,UE_203_MGBNO401_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+29759,UE_203_MKUF502D_1_2025_VÅR_1,,MKUF502D-1 25V,MKUF502D-1 25V Musikkdidaktiske og kunstfaglige arbeidsmåter og forskningsformer,441,ST_0203300400,332,2025_VÅR,active,,,,,,true
+28940,UE_203_DAT251_1_2025_VÅR_1,,DAT251-1 25V,DAT251-1 25V Moderne systemutviklingsmetoder,5313,ST_0203201000,332,2025_VÅR,active,,,,,,true
+29519,UE_203_MAS224_1_2025_VÅR_1,,MAS224-1 25V,MAS224-1 25V Rigid Body Dynamics,15738,ST_0203201300,332,2025_VÅR,active,,,,,,true
+29060,UE_203_INN520_1_2025_VÅR_1,,INN520-1 25V,INN520-1 25V Innovasjon og entreprenørskap i praksis i en regional kontekst,15739,ST_0203201400,332,2025_VÅR,unpublished,,,,,,true
+29508,UE_203_LUPEKI304_1_2025_VÅR_1,,LUPEKI304-1 25V,LUPEKI304-1 25V Idrettspsykologi,438,ST_0203300100,332,2025_VÅR,active,,,,,,true
+28856,UE_203_ENG801_1_2025_VÅR_1,,ENG801-1 25V,"ENG801-1 25V Engelskspråklig litteratur, historie og kultur 2",440,ST_0203300300,332,2025_VÅR,active,,,,,,true
+28200,UA_203_MGBPE301_1_2025_VÅR_1_2,,MGBPE301 Stord (2),MGBPE301 Stord (2),16857,UE_203_MGBPE301_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+28869,UE_203_ENU804N_1_2025_VÅR_1,,ENU804N-1 25V,"ENU804N-1 25V Engelsk 2, emne 2 - Mangfold i språk, tekst og kultur",440,ST_0203300300,332,2025_VÅR,active,,,,,,true
+29513,UE_203_ME6-1001_1_2025_VÅR_1,,ME6-1001-1 25V,ME6-1001-1 25V Statistikk,15739,ST_0203201400,332,2025_VÅR,active,,,,,,true
+29660,UE_203_MGBPRO401_1_2025_VÅR_1,,MGBPRO401-1 25V,MGBPRO401-1 25V Profesjonsemne 4,439,ST_0203300200,332,2025_VÅR,active,,,,,,true
+30162,UE_203_SYKH250_1_2025_VÅR_1,,SYKH250-1 25V,SYKH250-1 25V Folkehelse i et nasjonalt og globalt perspektiv,429,ST_0203100100,332,2025_VÅR,unpublished,,,,,,true
+29166,UE_203_HI102_1_2025_VÅR_1,,HI102-1 25V,HI102-1 25V Historie 1500-1800. Innføring i norsk og internasjonal historie,15739,ST_0203201400,332,2025_VÅR,active,,,,,,true
+28907,UE_203_BI445_3_2025_VÅR_1,,BI445-3 25V,BI445-3 25V Økologi grunnkurs,15737,ST_0203201200,332,2025_VÅR,active,,,,,,true
+28916,UE_203_DAT154_1_2025_VÅR_1,,DAT154-1 25V,DAT154-1 25V Programvarearkitektur og applikasjonsutvikling,5313,ST_0203201000,332,2025_VÅR,active,,,,,,true
+28547,UE_203_BO6-2008_1_2025_VÅR_1,,BO6-2008-1 25V,BO6-2008-1 25V Praksisbasert bacheloroppgave Eiendomsmegling,15739,ST_0203201400,332,2025_VÅR,unpublished,,,,,,true
+28931,UE_203_BIDR203_1_2025_VÅR_1,,BIDR203-1 25V,BIDR203-1 25V Ferdighetslæring,438,ST_0203300100,332,2025_VÅR,active,,,,,,true
+28215,UA_203_MGUNO102_1_2025_VÅR_1_3,,MGUNO102 Stord (3),MGUNO102 Stord (3),16982,UE_203_MGUNO102_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+28944,UE_203_DAT253_1_2025_VÅR_1,,DAT253-1 25V,DAT253-1 25V Avansert datagrafikk,5313,ST_0203201000,332,2025_VÅR,active,,,,,,true
+29273,UE_203_MAS595_1_2025_VÅR_1,,MAS595-1 25V,MAS595-1 25V Masteroppgave,15738,ST_0203201300,332,2025_VÅR,unpublished,,,,,,true
+28952,UE_203_BIDR301_1_2025_VÅR_1,,BIDR301-1 25V,"BIDR301-1 25V Sport, kultur og ledelse",438,ST_0203300100,332,2025_VÅR,active,,,,,,true
+30396,UA_203_MGBPRO401_1_2025_VÅR_1_1,,MGBPRO401 Bergen (1),MGBPRO401 Bergen (1),16873,UE_203_MGBPRO401_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+28529,UE_203_BIO504_1_2025_VÅR_1,,BIO504-1 25V,BIO504-1 25V Litteratursøk og akademisk skriving,5316,ST_0203201100,332,2025_VÅR,active,,,,,,true
+30622,UE_203_KUL801_1_2025_VÅR_1,,KUL801-1 25V,KUL801-1 25V Profesjonsfaglig digital kompetanse i kulturskolen,441,ST_0203300400,332,2025_VÅR,active,,,,,,true
+28231,UA_203_MGUNO202_1_2025_VÅR_1_3,,MGUNO202 Stord (3),MGUNO202 Stord (3),16984,UE_203_MGUNO202_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+28996,UE_203_BIO175_1_2025_VÅR_1,,BIO175-1 25V,BIO175-1 25V Medisinsk laboratorieteknologi I,5316,ST_0203201100,332,2025_VÅR,active,,,,,,true
+29259,UE_203_IDF102_1_2025_VÅR_1,,IDF102-1 25V,IDF102-1 25V Idrett og samfunn,438,ST_0203300100,332,2025_VÅR,active,,,,,,true
+28845,UE_203_BARNP1_1_2025_VÅR_1,,BARNP1-1 25V,BARNP1-1 25V Praksis - miljøterapeutisk arbeid,430,ST_0203100300,332,2025_VÅR,active,,,,,,true
+29079,UE_203_GE489_1_2025_VÅR_1,,GE489-1 25V,GE489-1 25V Past and Present Climate,15737,ST_0203201200,332,2025_VÅR,unpublished,,,,,,true
+28671,UE_203_BYG110_1_2025_VÅR_1,,BYG110-1 25V,BYG110-1 25V Vei- og arealplanlegging,15737,ST_0203201200,332,2025_VÅR,active,,,,,,true
+30762,UA_203_MGUEN401_1_2025_VÅR_1_2,,MGB/MGUEN301-401 Stord - V25,MGB/MGUEN301-401 Stord - V25,16901,UE_203_MGUEN401_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+28226,UA_203_MGUNO202_1_2025_VÅR_1_2,,MGUNO202 Sogndal (2),MGUNO202 Sogndal (2),16984,UE_203_MGUNO202_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+29250,UE_203_FRIW101_1_2025_VÅR_1,,FRIW101-1 25V,FRIW101-1 25V Erfaringsmestring og friluftsliv,438,ST_0203300100,332,2025_VÅR,active,,,,,,true
+28662,UE_203_ELE113_1_2025_VÅR_1,,ELE113-1 25V,ELE113-1 25V HW/SW systemkonstruksjon,5313,ST_0203201000,332,2025_VÅR,active,,,,,,true
+29245,UE_203_FRIB301_1_2025_VÅR_1,,FRIB301-1 25V,FRIB301-1 25V Friluftsliv vinter 2,438,ST_0203300100,332,2025_VÅR,active,,,,,,true
+30912,UE_203_HMA804_1_2025_VÅR_1,,HMA804-1 25V,HMA804-1 25V Ledelsesteori innen rehabilitering,355,ST_0203100200,332,2025_VÅR,active,,,,,,true
+30491,UA_203_TPHR502_1_2025_VÅR_1_2,,"TPHR502 Haugesund, Vår 2025","TPHR502 Haugesund, Vår 2025",17614,UE_203_TPHR502_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+28525,UE_203_BIO503_1_2025_VÅR_1,,BIO503-1 25V,BIO503-1 25V Hematologi innen laboratoriemedisin,5316,ST_0203201100,332,2025_VÅR,active,,,,,,true
+27964,UA_203_MGUEN201_1_2025_VÅR_1_2,,MGU/MGUEN201 Stord - V25,MGU/MGUEN201 Stord - V25,16897,UE_203_MGUEN201_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+28816,UE_203_BØA3100_1_2025_VÅR_1,,BØA3100-1 25V,"BØA3100-1 25V Forsikring, Finans og Adferdsøkonomi",15739,ST_0203201400,332,2025_VÅR,unpublished,,,,,,true
+31199,UE_203_DLU105_1_2025_VÅR_1,,DLU105-1 25V,"DLU105-1 25V Dykkeleder innaskjærs NORSOK U-103, oppdatering førstehjelp og dykkemedisin",15740,ST_0203209000,332,2025_VÅR,unpublished,,,,,,true
+31202,UE_203_EVN1016_1_2025_VÅR_1,,EVN1016-1 25V,EVN1016-1 25V Hvordan ivareta sikker drift ved grønn omstilling,15738,ST_0203201300,332,2025_VÅR,active,,,,,,true
+28211,UA_203_MGUNO102_1_2025_VÅR_1_2,,MGUNO102 Sogndal (2),MGUNO102 Sogndal (2),16982,UE_203_MGUNO102_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+29065,UE_203_GE483_1_2025_VÅR_1,,GE483-1 25V,GE483-1 25V Climate Change,15737,ST_0203201200,332,2025_VÅR,active,,,,,,true
+28619,UE_203_DYK604_1_2025_VÅR_1,,DYK604-1 25V,DYK604-1 25V Matematikk,15740,ST_0203209000,332,2025_VÅR,active,,,,,,true
+29260,UE_203_FY400_1_2025_VÅR_1,,FY400-1 25V,FY400-1 25V Innføring i fysikk,15737,ST_0203201200,332,2025_VÅR,active,,,,,,true
+28683,UE_203_BYG113_1_2025_VÅR_1,,BYG113-1 25V,BYG113-1 25V Fysisk planlegging,15737,ST_0203201200,332,2025_VÅR,active,,,,,,true
+29110,UE_203_GREDI002_1_2025_VÅR_1,,GREDI002-1 25V,GREDI002-1 25V Sustainable literacy and environmental children's literature,440,ST_0203300300,332,2025_VÅR,active,,,,,,true
+28621,UE_203_ADA521_1_2025_VÅR_1,,ADA521-1 25V,ADA521-1 25V Praksis i arbeidslivet,5313,ST_0203201000,332,2025_VÅR,active,,,,,,true
+29216,UE_203_MAS532_1_2025_VÅR_1,,MAS532-1 25V,MAS532-1 25V Numeriske metoder for hydrodynamikk,15738,ST_0203201300,332,2025_VÅR,active,,,,,,true
+29239,UE_203_MAKPE420_1_2025_VÅR_1,,MAKPE420-1 25V,"MAKPE420-1 25V Implementering: integrere forskning, erfaringsbasert kunnskap og brukerkunnskap i ergoterapi",355,ST_0203100200,332,2025_VÅR,unpublished,,,,,,true
+28658,UE_203_ADA524_1_2025_VÅR_1,,ADA524-1 25V,ADA524-1 25V Utvalgte emner i anvendt datateknologi og ingeniørvitenskap,5313,ST_0203201000,332,2025_VÅR,unpublished,,,,,,true
+29275,UE_203_KJE119_1_2025_VÅR_1,,KJE119-1 25V,KJE119-1 25V Introduksjon til havbruk,5316,ST_0203201100,332,2025_VÅR,active,,,,,,true
+30926,UE_203_HMA805_1_2025_VÅR_1,,HMA805-1 25V,HMA805-1 25V Gruppeledelse i rehabilitering,355,ST_0203100200,332,2025_VÅR,active,,,,,,true
+29081,UE_203_FHSU300_1_2025_VÅR_1,,FHSU300-1 25V,FHSU300-1 25V The Norwegian Health Care System in an International Perspective,355,ST_0203100200,332,2025_VÅR,active,,,,,,true
+29291,UE_203_MAMET1H_1_2025_VÅR_1,,MAMET1H-1 25V,"MAMET1H-1 25V Philosophy of Science, Ethics and Research methods",355,ST_0203100200,332,2025_VÅR,active,,,,,,true
+28762,UE_203_ELE307_1_2025_VÅR_1,,ELE307-1 25V,ELE307-1 25V Elektrisk motordrift,5313,ST_0203201000,332,2025_VÅR,unpublished,,,,,,true
+29295,UE_203_MAMET1KF_1_2025_VÅR_1,,MAMET1KF-1 25V,"MAMET1KF-1 25V Vitenskapsteori, etikk og metode",355,ST_0203100200,332,2025_VÅR,active,,,,,,true
+29564,UE_203_MGBMH503_1_2025_VÅR_1,,"MGB/MGUMH503 - 25V Mat og helse 3, emne 3","MGB/MGUMH503 - 25V Mat og helse 3, emne 3",438,ST_0203300100,332,2025_VÅR,active,,,,,,true
+28728,UE_203_ELE213_1_2025_VÅR_1,,ELE213-1 25V,ELE213-1 25V Instrumentering,5313,ST_0203201000,332,2025_VÅR,active,,,,,,true
+28733,UE_203_ELE217_1_2025_VÅR_1,,ELE217-1 25V,ELE217-1 25V Signalbehandling,5313,ST_0203201000,332,2025_VÅR,active,,,,,,true
+28777,UE_203_BAMM3001_1_2025_VÅR_1,,BAMM3001-1 25V,BAMM3001-1 25V Organisasjon og ledelse,15738,ST_0203201300,332,2025_VÅR,active,,,,,,true
+29313,UE_203_MAMET1SF_1_2025_VÅR_1,,MAMET1SF-1 25V,"MAMET1SF-1 25V Vitenskapsteori, etikk og metode",429,ST_0203100100,332,2025_VÅR,active,,,,,,true
+28801,UE_203_EM6-2000_1_2025_VÅR_1,,EM6-2000-1 25V,EM6-2000-1 25V Jus for eiendomsmeglere 2,15739,ST_0203201400,332,2025_VÅR,active,,,,,,true
+28810,UE_203_BARN130_1_2025_VÅR_1,,BARN130-1 25V,BARN130-1 25V Barn og unges oppvekst og utvikling,430,ST_0203100300,332,2025_VÅR,active,,,,,,true
+29656,UE_203_PHDH905_1_2025_VÅR_1,,PHDH905-1 25V,"PHDH905-1 25V Tjenesteforskning. Kontekstuelle betingelser for helse, funksjon og deltakelse",198,ST_0203100000,332,2025_VÅR,unpublished,,,,,,true
+28836,UE_203_BARN320_1_2025_VÅR_1,,BARN320-1 25V,BARN320-1 25V Refleksjon over barnevernets fag og kunnskap,430,ST_0203100300,332,2025_VÅR,active,,,,,,true
+28867,UA_203_SYKI105_1_2025_VÅR_1_4,,Stord: International nursing students V25 (4),Stord: International nursing students V25 (4),17562,UE_203_SYKI105_1_2025_VÅR_1,332,2025_VÅR,unpublished,,,,,,true
+28963,UA_203_VPD210_1_2025_VÅR_1_1,,VPD210 (25V) Haugesund og Sogndal,VPD210 (25V) Haugesund og Sogndal,17649,UE_203_VPD210_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+28837,UE_203_ENB802_1_2025_VÅR_1,,ENB802-1 25V,"ENB802-1 25V Engelsk 1, emne 2 - Språk og kultur",440,ST_0203300300,332,2025_VÅR,active,,,,,,true
+28782,UE_203_ELE502_1_2025_VÅR_1,,ELE502-1 25V,ELE502-1 25V Avansert kraftelektronikk,5313,ST_0203201000,332,2025_VÅR,active,,,,,,true
+29338,UE_203_MAR530_1_2025_VÅR_1,,MAR530-1 25V,MAR530-1 25V Relasjonelt arbeid i organisasjoner,430,ST_0203100300,332,2025_VÅR,active,,,,,,true
+29374,UE_203_ING2043_1_2025_VÅR_1,,ING2043-1 25V,ING2043-1 25V Branndynamikk,5316,ST_0203201100,332,2025_VÅR,active,,,,,,true
+29596,UE_203_MGUNO201_1_2025_VÅR_1,,MGUNO201-1 25V,MGUNO201-1 25V Norsk på mellomtrinnet 2: Litteratur- og tekstkunnskap,440,ST_0203300300,332,2025_VÅR,active,,,,,,true
+29599,UE_203_MGUNOR301_1_2025_VÅR_1,,MGUNOR301-1 25V,"MGUNOR301-1 25V Norsk på ungdomstrinnet 1: Språk, kultur og historie",440,ST_0203300300,332,2025_VÅR,active,,,,,,true
+28169,UA_203_MGBMA101_1_2025_VÅR_1_12,,MGBMA101 Bergen - Klasse KRO 2 (12),MGBMA101 Bergen - Klasse KRO 2 (12),16797,UE_203_MGBMA101_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+28943,UE_203_BIDR212_1_2025_VÅR_1,,BIDR212-1 25V,BIDR212-1 25V Helsepedagogikk,438,ST_0203300100,332,2025_VÅR,active,,,,,,true
+28542,UE_203_BO6-2001_1_2025_VÅR_1,,BO6-2001-1 25V,BO6-2001-1 25V Bacheloroppgave regnskapsfører,15739,ST_0203201400,332,2025_VÅR,unpublished,,,,,,true
+28956,UE_203_BIDR311_1_2025_VÅR_1,,BIDR311-1 25V,BIDR311-1 25V Aktivitetsmedisin,438,ST_0203300100,332,2025_VÅR,active,,,,,,true
+28974,UE_203_BIO139_1_2025_VÅR_1,,BIO139-1 25V,BIO139-1 25V Project in Biomedical Laboratory Science,5316,ST_0203201100,332,2025_VÅR,unpublished,,,,,,true
+28633,UE_203_DYK610_1_2025_VÅR_1,,DYK610-1 25V,DYK610-1 25V Fagopplæring og tverrfaglig eksamen,15740,ST_0203209000,332,2025_VÅR,active,,,,,,true
+29438,UE_203_ING3050UTV_1_2025_VÅR_1,,ING3050UTV-1 25V,ING3050UTV-1 25V Professional Placement Learning 1 - Laboratory,5316,ST_0203201100,332,2025_VÅR,unpublished,,,,,,true
+29043,UE_203_FHA1012_1_2025_VÅR_1,,FHA1012-1 25V,FHA1012-1 25V Folkehelsearbeid i organisasjons- og samfunnsperspektiv,439,ST_0203300200,332,2025_VÅR,active,,,,,,true
+29459,UE_203_MAS124_1_2025_VÅR_1,,MAS124-1 25V,MAS124-1 25V Introduksjon til marinteknikk,15738,ST_0203201300,332,2025_VÅR,active,,,,,,true
+29208,UE_203_HVF851_1_2025_VÅR_1,,HVF851-1 25V,HVF851-1 25V Helserett,430,ST_0203100300,332,2025_VÅR,active,,,,,,true
+29480,UE_203_MAS141_1_2025_VÅR_1,,MAS141-1 25V,MAS141-1 25V Introduksjon til olje og gass (IOG),15738,ST_0203201300,332,2025_VÅR,active,,,,,,true
+28645,UE_203_ADA523_1_2025_VÅR_1,,ADA523-1 25V,ADA523-1 25V Utvalgte emner i anvendt datateknologi og ingeniørvitenskap,5313,ST_0203201000,332,2025_VÅR,unpublished,,,,,,true
+29419,UE_203_FØS8140_1_2025_VÅR_1,,FØS8140-1 25V,FØS8140-1 25V Innføring i havvind,15739,ST_0203201400,332,2025_VÅR,active,,,,,,true
+30044,UE_203_MPUV560_1_2025_VÅR_1,,MPUV560-1 25V,MPUV560-1 25V Masteroppgave,439,ST_0203300200,332,2025_VÅR,unpublished,,,,,,true
+30689,UE_203_FLKI852_1_2025_VÅR_1,,FLKI852-1 25V,"FLKI852-1 25V Profesjonsrettet veilederutdanning for praksislærere i barnehage og/eller skole, emne 2",439,ST_0203300200,332,2025_VÅR,active,,,,,,true
+28776,UE_203_BØ6-2009_1_2025_VÅR_1,,BØ6-2009-1 25V,BØ6-2009-1 25V Videregående finansregnskap,15739,ST_0203201400,332,2025_VÅR,active,,,,,,true
+30705,UE_203_FHSUS300_1_2025_VÅR_1,,FHSUS300-1 25V,FHSUS300-1 25V The Norwegian Health Care System in an International Perspective,429,ST_0203100100,332,2025_VÅR,unpublished,,,,,,true
+28473,UE_203_DAT265_1_2025_VÅR_1,,DAT265-1 25V,DAT265-1 25V Utvalgte emner i programvareutvikling,5313,ST_0203201000,332,2025_VÅR,unpublished,,,,,,true
+29653,UE_203_MGUSA102_1_2025_VÅR_1,,MGUSA102-1 25V,"MGUSA102-1 25V Samfunnsfag 1, emne 1 - Innføring i samfunnsfag 1",439,ST_0203300200,332,2025_VÅR,active,,,,,,true
+29172,UE_203_FLKI8102_1_2025_VÅR_1,,FLKI8102-1 25V,"FLKI8102-1 25V Profesjonsrettet veilederutdanning for praksislærere i barnehage og/eller skole, emne 2",439,ST_0203300200,332,2025_VÅR,unpublished,,,,,,true
+30794,UE_203_FHS8201_1_2025_VÅR_1,,FHS8201-1 25V,FHS8201-1 25V Veiledningspedagogikk med fokus på individnivå,429,ST_0203100100,332,2025_VÅR,active,,,,,,true
+29434,UE_203_LEI351_1_2025_VÅR_1,,LEI351-1 25V,LEI351-1 25V Bachelor Thesis for Exchange students - Land Administration and Surveying,15737,ST_0203201200,332,2025_VÅR,unpublished,,,,,,true
+30796,UE_203_FHS8103_1_2025_VÅR_1,,FHS8103-1 25V,FHS8103-1 25V Vestibulære sykdommer- svimmelhet,355,ST_0203100200,332,2025_VÅR,active,,,,,,true
+28321,UA_203_MGBMA503_1_2025_VÅR_1_3,,MGBMA503 Stord (3),MGBMA503 Stord (3),16805,UE_203_MGBMA503_1_2025_VÅR_1,332,2025_VÅR,unpublished,,,,,,true
+31198,UE_203_DLA105_1_2025_VÅR_1,,DLA105-1 25V,"DLA105-1 25V Dykkeleder innaskjærs, oppdatering",15740,ST_0203209000,332,2025_VÅR,unpublished,,,,,,true
+28890,UE_203_ERG140_1_2025_VÅR_1,,ERG140-1 25V,ERG140-1 25V Omgivelsenes betydning for aktivitet og inkludering,355,ST_0203100200,332,2025_VÅR,active,,,,,,true
+30911,UE_203_HMA801_1_2025_VÅR_1,,HMA801-1 25V,HMA801-1 25V Teoretiske prinsipp for sunn aldring,355,ST_0203100200,332,2025_VÅR,active,,,,,,true
+28947,UE_203_BIDR213_1_2025_VÅR_1,,BIDR213-1 25V,BIDR213-1 25V Folkehelsearbeid,438,ST_0203300100,332,2025_VÅR,active,,,,,,true
+28904,UE_203_DAT151_1_2025_VÅR_1,,DAT151-1 25V,DAT151-1 25V Drift av Unix og databaser,5313,ST_0203201000,332,2025_VÅR,active,,,,,,true
+29029,UE_203_FE409_1_2025_VÅR_1,,FE409-1 25V,FE409-1 25V Metodekurs for fornybar energi,15737,ST_0203201200,332,2025_VÅR,active,,,,,,true
+29431,UE_203_MDIP501D_1_2025_VÅR_1,,MDIP501D-1 25V,MDIP501D-1 25V Andre- og fremmedspråkslæring i norsk skole og opplæring,440,ST_0203300300,332,2025_VÅR,active,,,,,,true
+29057,UE_203_INN519_1_2025_VÅR_1,,INN519-1 25V,INN519-1 25V Finansiering og markedsføring av innovasjoner,15739,ST_0203201400,332,2025_VÅR,active,,,,,,true
+28841,UE_203_BARN390_1_2025_VÅR_1,,BARN390-1 25V,BARN390-1 25V Bacheloroppgave,430,ST_0203100300,332,2025_VÅR,active,,,,,,true
+29007,UE_203_EVN1010_1_2025_VÅR_1,,EVN1010-1 25V,EVN1010-1 25V Utfordringer for maritim næring med hensyn til miljø og klima,15738,ST_0203201300,332,2025_VÅR,unpublished,,,,,,true
+28567,UE_203_DRA303A_1_2025_VÅR_1,,DRA303A-1 25V,DRA303A-1 25V Dramapedagogikk,441,ST_0203300400,332,2025_VÅR,active,,,,,,true
+29010,UE_203_EVN1013_1_2025_VÅR_1,,EVN1013-1 25V,EVN1013-1 25V Endringskapasitet - ledelse i maritime organisasjoner,15738,ST_0203201300,332,2025_VÅR,unpublished,,,,,,true
+28638,UA_203_MGUSA201_1_2025_VÅR_1_1,,MGUSA201 Bergen (1),MGUSA201 Bergen (1),17015,UE_203_MGUSA201_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+29460,UE_203_LSUD301_1_2025_VÅR_1,,LSUD301-1 25V,"LSUD301-1 25V Ledelse, samarbeid og utviklingsarbeid",439,ST_0203300200,332,2025_VÅR,active,,,,,,true
+29736,UE_203_NAB3044_1_2025_VÅR_1,,NAB3044-1 25V,"NAB3044-1 25V Maritime beslutningsstøttesystemer, kunstig intelligens, maskinlæring og digitale tvillinger",15738,ST_0203201300,332,2025_VÅR,unpublished,,,,,,true
+29744,UE_203_NAB802_1_2025_VÅR_1,,NAB802-1 25V,"NAB802-1 25V Naturfag 1, emne 2 - Innføring i fysikk og kjemi for grunnskolen",438,ST_0203300100,332,2025_VÅR,active,,,,,,true
+29093,UE_203_FHSU312_1_2025_VÅR_1,,FHSU312-1 25V,FHSU312-1 25V Health Promotion and Preventive work,355,ST_0203100200,332,2025_VÅR,unpublished,,,,,,true
+29516,UE_203_MAS215_1_2025_VÅR_1,,MAS215-1 25V,MAS215-1 25V Produktutvikling for bærekraft,15738,ST_0203201300,332,2025_VÅR,active,,,,,,true
+29302,UE_203_KJE205_1_2025_VÅR_1,,KJE205-1 25V,KJE205-1 25V Batteriteknologi,5316,ST_0203201100,332,2025_VÅR,active,,,,,,true
+29257,UE_203_MAKPR430_1_2025_VÅR_1,,MAKPR430-1 25V,MAKPR430-1 25V Profesjonell samhandling med pasient i klinisk radiografi,355,ST_0203100200,332,2025_VÅR,unpublished,,,,,,true
+29268,UE_203_MAS550_1_2025_VÅR_1,,MAS550-1 25V,MAS550-1 25V Veiledet selvstudium,15738,ST_0203201300,332,2025_VÅR,active,,,,,,true
+29793,UE_203_NABP2005_1_2025_VÅR_1,,NABP2005-1 25V,NABP2005-1 25V Praksis II,15738,ST_0203201300,332,2025_VÅR,active,,,,,,true
+29938,UE_203_MGUNA301_1_2025_VÅR_1,,MGUNA/MGBNA301 25V,"MGUNA/MGBNA301 25V Naturfag 2, emne 1 – Fysikk og kjemi i utdanning for bærekraft",438,ST_0203300100,332,2025_VÅR,active,,,,,,true
+29390,UE_203_MBAS513_1_2025_VÅR_1,,MBAS513-1 25V,MBAS513-1 25V Ledelse av kvalitetsutvikling i barnehagen,439,ST_0203300200,332,2025_VÅR,active,,,,,,true
+29033,UE_203_FE411_1_2025_VÅR_1,,FE411-1 25V,FE411-1 25V Energisystemer,15737,ST_0203201200,332,2025_VÅR,active,,,,,,true
+29990,UE_203_MOØ300_1_2025_VÅR_1,,MOØ300-1 25V,MOØ300-1 25V Masteroppgave,15739,ST_0203201400,332,2025_VÅR,active,,,,,,true
+27953,UA_203_KKK201_1_2025_VÅR_1_2,,KKK201 Bergen - Klasse F (2),KKK201 Bergen - Klasse F (2),16492,UE_203_KKK201_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+28190,UA_203_MGBPE301_1_2025_VÅR_1_14,,MGBPE301 Bergen - masterfag PROF (14),MGBPE301 Bergen - masterfag PROF (14),16857,UE_203_MGBPE301_1_2025_VÅR_1,332,2025_VÅR,unpublished,,,,,,true
+29879,UE_203_SPE590_1_2025_VÅR_1,,SPE590-1 25V,SPE590-1 25V Masteroppgave,429,ST_0203100100,332,2025_VÅR,active,,,,,,true
+30826,UA_203_ING161_1_2025_VÅR_1_4,,ING161 Bergen - Energiteknologi (4),ING161 Bergen - Energiteknologi (4),16392,UE_203_ING161_1_2025_VÅR_1,332,2025_VÅR,unpublished,,,,,,true
+28149,UA_203_MAS220_1_2025_VÅR_1_4,,MAS220 Bergen - Elektrolinjer valgemne (4),MAS220 Bergen - Elektrolinjer valgemne (4),16650,UE_203_MAS220_1_2025_VÅR_1,332,2025_VÅR,unpublished,,,,,,true
+30427,UE_203_MARV552_1_2025_VÅR_1,,MARV552-1 25V,MARV552-1 25V Seksualitet og seksuell helse,430,ST_0203100300,332,2025_VÅR,active,,,,,,true
+28402,UA_203_MGUPE201_1_2025_VÅR_1_6,,MGUPE201 Bergen - Klasse NOR (6),MGUPE201 Bergen - Klasse NOR (6),16995,UE_203_MGUPE201_1_2025_VÅR_1,332,2025_VÅR,unpublished,,,,,,true
+29019,UE_203_FE404_1_2025_VÅR_1,,FE404-1 25V,FE404-1 25V Matematikk for fornybar energi,15737,ST_0203201200,332,2025_VÅR,active,,,,,,true
+29788,UE_203_SDG335_1_2025_VÅR_1,,SDG335-1 25V,SDG335-1 25V Grønn digitalisering og app-utvikling,15739,ST_0203201400,332,2025_VÅR,unpublished,,,,,,true
+28812,UE_203_BØA205_1_2025_VÅR_1,,BØA205-1 25V,BØA205-1 25V Økonomistyring,15739,ST_0203201400,332,2025_VÅR,unpublished,,,,,,true
+28033,UA_203_MAJOR504_1_2025_VÅR_1_2,,MAJOR504 - Påbygg (2),MAJOR504 - Påbygg (2),16568,UE_203_MAJOR504_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+28309,UA_203_ENB802N_1_2025_VÅR_1_2,,ENB802N - Klasse B (2),ENB802N - Klasse B (2),16162,UE_203_ENB802N_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+29096,UE_203_FHSU313_1_2025_VÅR_1,,FHSU313-1 25V,FHSU313-1 25V Clinical placement for incoming students in specialist care/rehabilitation units,355,ST_0203100200,332,2025_VÅR,unpublished,,,,,,true
+29118,UE_203_LUPEM303_1_2025_VÅR_1,,LUPEM303-1 25V,LUPEM303-1 25V Fast ensemble,441,ST_0203300400,332,2025_VÅR,unpublished,,,,,,true
+29808,UE_203_SIK105_1_2025_VÅR_1,,SIK105-1 25V,SIK105-1 25V Grunnleggende brannteknikk,5316,ST_0203201100,332,2025_VÅR,active,,,,,,true
+29180,UE_203_MAS358_1_2025_VÅR_1,,MAS358-1 25V,MAS358-1 25V Bachelor Thesis for Exchange students - Mechanical Engineering,15738,ST_0203201300,332,2025_VÅR,unpublished,,,,,,true
+29602,UE_203_MGUNOR401_1_2025_VÅR_1,,MGUNOR401-1 25V,"MGUNOR401-1 25V Norsk på ungdomstrinnet 2: Litteratur, kultur og historie",440,ST_0203300300,332,2025_VÅR,active,,,,,,true
+29184,UE_203_JURI800_1_2025_VÅR_1,,JURI800-1 25V,JURI800-1 25V Innføring i forvaltningsrett og juridisk metode,430,ST_0203100300,332,2025_VÅR,active,,,,,,true
+29193,UE_203_HMS001_1_2025_VÅR_1,,HMS001-1 25V,HMS001-1 25V HMS-Kultur og ledelse: Ledelse og endring,15739,ST_0203201400,332,2025_VÅR,active,,,,,,true
+29220,UE_203_MAJOR509_1_2025_VÅR_1,,MAJOR509-1 25V,"MAJOR509-1 25V Grunnlagstenkning, teorier og modeller i jordmorfaget",429,ST_0203100100,332,2025_VÅR,active,,,,,,true
+30925,UE_203_HMA803_1_2025_VÅR_1,,HMA803-1 25V,HMA803-1 25V Meg som leder,355,ST_0203100200,332,2025_VÅR,active,,,,,,true
+29585,UE_203_MGUNA503_1_2025_VÅR_1,,MGUNA503-1 25V,"MGUNA503-1 25V Naturfag 3, emne 3 - Naturfagdidaktikk",438,ST_0203300100,332,2025_VÅR,unpublished,,,,,,true
+29038,UE_203_GE408_1_2025_VÅR_1,,GE408-1 25V,GE408-1 25V Mineralogi og petrografi,15737,ST_0203201200,332,2025_VÅR,active,,,,,,true
+29397,UE_203_MBAS514_1_2025_VÅR_1,,MBAS514-1 25V,MBAS514-1 25V Deltakelse i forskningsgrupper innenfor barnehageforskning,439,ST_0203300200,332,2025_VÅR,active,,,,,,true
+29452,UE_203_MAS119_1_2025_VÅR_1,,MAS119-1 25V,MAS119-1 25V Operations and Maintenance Engineering,15738,ST_0203201300,332,2025_VÅR,active,,,,,,true
+30057,UE_203_SA589_1_2025_VÅR_1,,SA589-1 25V,SA589-1 25V Komparativ politikk,15739,ST_0203201400,332,2025_VÅR,active,,,,,,true
+28484,UA_203_SAB140_1_2025_VÅR_1_1,,SAB140 Bergen - V25 (1),SAB140 Bergen - V25 (1),17366,UE_203_SAB140_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+29068,UE_203_GE484_1_2025_VÅR_1,,GE484-1 25V,GE484-1 25V Geofare og skredkartlegging,15737,ST_0203201200,332,2025_VÅR,active,,,,,,true
+29718,UE_203_MIDR405_1_2025_VÅR_1,,MIDR405-1 25V,MIDR405-1 25V Kvalitativ analyse og prosjektplan,438,ST_0203300100,332,2025_VÅR,active,,,,,,true
+29925,UE_203_MGUNA102_1_2025_VÅR_1,,MGUNA102-1 25V,"MGUNA102-1 25V Naturfag 1, emne 1 - Innføring i biologi for grunnskolen",438,ST_0203300100,332,2025_VÅR,active,,,,,,true
+29346,UE_203_KRO1004_1_2025_VÅR_1,,KRO1004-1 25V,KRO1004-1 25V Bevegelseseaktiviteter og friluftsliv 2,438,ST_0203300100,332,2025_VÅR,unpublished,,,,,,true
+28071,UA_203_MAS143_1_2025_VÅR_1_1,,MAS143 25V Bergen,MAS143 25V Maskinkonstruksjon 1 - Bergen,16633,UE_203_MAS143_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+28771,UE_203_BØ6-2008_1_2025_VÅR_1,,BØ6-2008-1 25V,BØ6-2008-1 25V Internship,15739,ST_0203201400,332,2025_VÅR,active,,,,,,true
+29141,UE_203_HEL514_1_2025_VÅR_1,,HEL514-1 25V,HEL514-1 25V Forskning og fagutvikling – prosjektplan,429,ST_0203100100,332,2025_VÅR,active,,,,,,true
+28546,UA_203_SAB320_1_2025_VÅR_1_2,,SAB320 - Sogndal V25 (2),SAB320 - Sogndal V25 (2),17371,UE_203_SAB320_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+29170,UE_203_HI103_1_2025_VÅR_1,,HI103-1 25V,HI103-1 25V Historie 1800-1930. Innføring i norsk og internasjonal historie,15739,ST_0203201400,332,2025_VÅR,active,,,,,,true
+29211,UE_203_MAS531_1_2025_VÅR_1,,MAS531-1 25V,MAS531-1 25V Bio- and E-fuels,15738,ST_0203201300,332,2025_VÅR,unpublished,,,,,,true
+28103,UA_203_MGBKØ301_1_2025_VÅR_1_2,,MGBKØ301/MGUKØ301 Sogndal,MGBKØ301/MGUKØ301 Sogndal,16791,UE_203_MGBKØ301_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+28809,UE_203_EM6-2002_1_2025_VÅR_1,,EM6-2002-1 25V,EM6-2002-1 25V Jus for eiendomsmeglere 3,15739,ST_0203201400,332,2025_VÅR,unpublished,,,,,,true
+28755,UA_203_SYKF230P_1_2025_VÅR_1_1,,SYKF230P Kull 83 (1),SYKF230P Kull 83 (1),17520,UE_203_SYKF230P_1_2025_VÅR_1,332,2025_VÅR,unpublished,,,,,,true
+30031,UE_203_RED200_1_2025_VÅR_1,,RED200-1 25V,RED200-1 25V Redningsdykker grunnkurs,15740,ST_0203209000,332,2025_VÅR,active,,,,,,true
+30124,UE_203_SYKDS320P_1_2025_VÅR_1,,SYKDS320P-1 25V,"SYKDS320P-1 25V Praksisstudie, Sykepleie ved komplekse og sammensatte pasienttilstander og sykdomsbilder i kommunehelsetjenesten",429,ST_0203100100,332,2025_VÅR,unpublished,,,,,,true
+28778,UA_203_SYKF250_1_2025_VÅR_1_1,,Kull 81: SYKF250 Folkehelse i eit nasjonalt og globalt perspekti,Kull 81: SYKF250 Folkehelse i eit nasjonalt og globalt perspekti,17523,UE_203_SYKF250_1_2025_VÅR_1,332,2025_VÅR,unpublished,,,,,,true
+29961,UE_203_OR6-2003_1_2025_VÅR_1,,OR6-2003-1 25V,OR6-2003-1 25V Human Resource Management,15739,ST_0203201400,332,2025_VÅR,active,,,,,,true
+29185,UE_203_MAS501_1_2025_VÅR_1,,MAS501-1 25V,MAS501-1 25V Waste Heat Recovery,15738,ST_0203201300,332,2025_VÅR,unpublished,,,,,,true
+28680,UA_203_MGUSA301_1_2025_VÅR_1_3,,MGUSA301 Sogndal (3),MGUSA301 Sogndal (3),17018,UE_203_MGUSA301_1_2025_VÅR_1,332,2025_VÅR,unpublished,,,,,,true
+29993,UE_203_MPUV501A_1_2025_VÅR_1,,MPUV501A-1 25V,MPUV501A-1 25V Spesialpedagogikk 1 - Generelle lærevansker,439,ST_0203300200,332,2025_VÅR,active,,,,,,true
+30144,UE_203_UTE802_1_2025_VÅR_1,,UTE802-1 25V,UTE802-1 25V Profesjonsfellesskapet for praktisk og estetisk virksomhet i skolen,438,ST_0203300100,332,2025_VÅR,active,,,,,,true
+28184,UA_203_MGBMA101_1_2025_VÅR_1_4,,MGBMA101 Bergen - Klasse SAM (4),MGBMA101 Bergen - Klasse SAM (4),16797,UE_203_MGBMA101_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+29521,UE_203_MAS226_1_2025_VÅR_1,,MAS226-1 25V,MAS226-1 25V Kinetikk,15738,ST_0203201300,332,2025_VÅR,active,,,,,,true
+28978,UA_203_VPD300_1_2025_VÅR_1_2,,Sogndal VPD300 (2),Sogndal VPD300 (2),17651,UE_203_VPD300_1_2025_VÅR_1,332,2025_VÅR,unpublished,,,,,,true
+28509,UE_203_DAT802_1_2025_VÅR_1,,DAT802-1 25V,DAT802-1 25V Stordata for forretningsutvikling,5313,ST_0203201000,332,2025_VÅR,unpublished,,,,,,true
+30792,UA_203_NOB802N_1_2025_VÅR_1_3,,Klasse C mandag 12 (3),Klasse C mandag 12 (3),17196,UE_203_NOB802N_1_2025_VÅR_1,332,2025_VÅR,unpublished,,,,,,true
+28240,UA_203_BØA205_1_2025_VÅR_1_2,,BØA205 Haugesund - Økonomistyring  (2),BØA205 Haugesund - Økonomistyring  (2),16042,UE_203_BØA205_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+28251,UA_203_DAT109_1_2025_VÅR_1_1,,DAT109 25V Bergen,DAT109 25V Systemutvikling - Bergen (Data/Inf),16052,UE_203_DAT109_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+30777,UA_203_SYKI102_1_2025_VÅR_1_2,,SYKI102 1 2025 VÅR Bergen,SYKI102 1 2025 VÅR Bergen,17558,UE_203_SYKI102_1_2025_VÅR_1,332,2025_VÅR,unpublished,,,,,,true
+30784,UA_203_SA6-503_1_2025_VÅR_1_1,,SA6-503 Førde (1),SA6-503 Førde (1),17353,UE_203_SA6-503_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+29077,UE_203_GE488_1_2025_VÅR_1,,GE488-1 25V,GE488-1 25V Natural Hazards,15737,ST_0203201200,332,2025_VÅR,unpublished,,,,,,true
+30756,UA_203_MGBEN301_1_2025_VÅR_1_2,,MGBEN301 Stord (2),MGBEN301 Stord (2),16763,UE_203_MGBEN301_1_2025_VÅR_1,332,2025_VÅR,unpublished,,,,,,true
+29371,UE_203_FØS8119_1_2025_VÅR_1,,FØS8119-1 25V,FØS8119-1 25V Kommunikasjon i havbruksnæringen,15739,ST_0203201400,332,2025_VÅR,unpublished,,,,,,true
+28607,UE_203_DYK505_1_2025_VÅR_1,,DYK505-1 25V,DYK505-1 25V Dykkeleder Refresher,15740,ST_0203209000,332,2025_VÅR,unpublished,,,,,,true
+30135,UE_203_SYKF300_1_2025_VÅR_1,,SYKF300-1 25V,Kull 82: SYKF300 Sjukepleie ved komplekse og samansette pasienttilstandar og sjukdomsbilete i kommunehelsetenesta vår 2025,429,ST_0203100100,332,2025_VÅR,active,,,,,,true
+28294,UA_203_MAT202_1_2025_VÅR_1_1,,MAT202 Bergen - Maskinfag 25V,MAT202 Matematikk 2 Maskin- og marinfag Bergen Våren 2025,16722,UE_203_MAT202_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+28303,UA_203_ENB802N_1_2025_VÅR_1_1,,ENB802N - Klasse A (1),ENB802N - Klasse A (1),16162,UE_203_ENB802N_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+28091,UA_203_MAS144_1_2025_VÅR_1_3,,MAS144 25V Haugesund,MAS144 25V Materialer og tilvirkning - Haugesund,16635,UE_203_MAS144_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+28316,UA_203_MGBMA503_1_2025_VÅR_1_2,,MGB/MGUMA503 Sogndal,MGB/MGUMA503 Sogndal ,16805,UE_203_MGBMA503_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+28317,UA_203_MAT202_1_2025_VÅR_1_15,,MAT202 Haugesund V25,MAT202 Matematikk 2 Haugesund Våren 2025,16722,UE_203_MAT202_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+28340,UA_203_MAT202_1_2025_VÅR_1_4,,MAT202 Bergen Elektro & kjemi 25V,MAT202 Matematikk 2 Elektro og kjemi Bergen våren 2025,16722,UE_203_MAT202_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+28381,UA_203_MGBNA301_1_2025_VÅR_1_1,,MGBNA301 Bergen (1),MGBNA301 Bergen (1),16835,UE_203_MGBNA301_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+29433,UE_203_MARV551_1_2025_VÅR_1,,MARV551-1 25V,"MARV551-1 25V Relasjonelt arbeid med sorg, livskriser og traumer",430,ST_0203100300,332,2025_VÅR,active,,,,,,true
+28407,UA_203_MGBNO101_1_2025_VÅR_1_10,,MGBNO101 Stord (10),MGBNO101 Stord (10),16841,UE_203_MGBNO101_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+28592,UE_203_BRL2000_1_2025_VÅR_1,,BRL2000-1 25V,BRL2000-1 25V Økonomistyring i reiselivet,15739,ST_0203201400,332,2025_VÅR,active,,,,,,true
+28686,UA_203_MGUSA401_1_2025_VÅR_1_1,,MGUSA401 Bergen (1),MGUSA401 Bergen (1),17020,UE_203_MGUSA401_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+28634,UE_203_ADA522_1_2025_VÅR_1,,ADA522-1 25V,ADA522-1 25V Praksis i arbeidslivet,5313,ST_0203201000,332,2025_VÅR,active,,,,,,true
+29742,UE_203_PL471_2_2025_VÅR_1,,PL471-2 25V,PL471-2 25V Kulturmiljøforvaltning,15737,ST_0203201200,332,2025_VÅR,active,,,,,,true
+31183,UE_203_DLA100_1_2025_VÅR_1,,DLA100-1 25V,DLA100-1 25V Dykkeleder innaskjærs,15740,ST_0203209000,332,2025_VÅR,unpublished,,,,,,true
+28433,UA_203_MGBNO101_1_2025_VÅR_1_7,,MGBNO101 Bergen - Klasse MoH/NAT - V25,MGBNO101 Bergen - Klasse MoH/NAT - V25,16841,UE_203_MGBNO101_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+29836,UE_203_MGUMH201A_1_2025_VÅR_1,,MGUMH201A-1 25V,"MGUMH201A-1 25V Mat og helse 1, emne 2 - Mat og helse som undervisningsfag i skolen",438,ST_0203300100,332,2025_VÅR,unpublished,,,,,,true
+29869,UE_203_NORU804N_1_2025_VÅR_1,,NORU804N-1 25V,"NORU804N-1 25V Norsk 2, emne 2 - Språkmangfold og tekstmangfold",440,ST_0203300300,332,2025_VÅR,active,,,,,,true
+29404,UE_203_FØS8125_1_2025_VÅR_1,,FØS8125-1 25V,FØS8125-1 25V Prosjektplanlegging for leverandørindustrien,15739,ST_0203201400,332,2025_VÅR,active,,,,,,true
+30203,UE_203_ØAF103_1_2025_VÅR_1,,ØAF103-1 25V,ØAF103-1 25V Rettsvitenskap 1,15739,ST_0203201400,332,2025_VÅR,active,,,,,,true
+29492,UE_203_LUPEKI203_1_2025_VÅR_1,,LUPEKI203-1 25V,LUPEKI203-1 25V Treningslære i skolen,438,ST_0203300100,332,2025_VÅR,active,,,,,,true
+28722,UE_203_ANEP513_1_2025_VÅR_1,,ANEP513-1 25V,"ANEP513-1 25V Utøvende anestesisykepleie; Pasientsikkerhet teknologi, digital kompetanse",429,ST_0203100100,332,2025_VÅR,active,,,,,,true
+28725,UE_203_ELE209_1_2025_VÅR_1,,ELE209-1 25V,ELE209-1 25V Styrt praksis,5313,ST_0203201000,332,2025_VÅR,active,,,,,,true
+29157,UE_203_JU6-1004_1_2025_VÅR_1,,JU6-1004-1 25V,JU6-1004-1 25V Skatte- og avgiftsrett for eiendomsmeglere,15739,ST_0203201400,332,2025_VÅR,unpublished,,,,,,true
+30227,UE_203_ØAO019_1_2025_VÅR_1,,ØAO019-1 25V,ØAO019-1 25V Organisasjon og ledelse 2,15739,ST_0203201400,332,2025_VÅR,active,,,,,,true
+29441,UE_203_MDIP501G_1_2025_VÅR_1,,MDIP501G-1 25V,MDIP501G-1 25V Matematikk- og naturfagdidaktikk i praksisfeltet,438,ST_0203300100,332,2025_VÅR,active,,,,,,true
+29889,UE_203_NTS808_1_2025_VÅR_1,,NTS808-1 25V,"NTS808-1 25V Norsk tegnspråk 2, emne 4 - Tegnspråklige lærings- og profesjonsfellesskap",440,ST_0203300300,332,2025_VÅR,active,,,,,,true
+30245,UE_203_ØKB2008_1_2025_VÅR_1,,ØKB2008-1 25V,ØKB2008-1 25V Skatte- og avgiftsrett 2,15739,ST_0203201400,332,2025_VÅR,active,,,,,,true
+28744,UE_203_BYG502_1_2025_VÅR_1,,BYG502-1 25V,BYG502-1 25V Bygningsinformasjonsmodellering og analyse,15737,ST_0203201200,332,2025_VÅR,active,,,,,,true
+29928,UE_203_MOA300_1_2025_VÅR_1,,MOA300-1 25V,MOA300-1 25V Masteroppgave,15737,ST_0203201200,332,2025_VÅR,active,,,,,,true
+29447,UE_203_ING3051UTV_1_2025_VÅR_1,,ING3051UTV-1 25V,ING3051UTV-1 25V Professional Placement Learning 2 - Laboratory,5316,ST_0203201100,332,2025_VÅR,unpublished,,,,,,true
+30021,UE_203_PHD904_1_2025_VÅR_1,,PHD904-1 25V,PHD904-1 25V Utforskende forskningsformer,200,ST_0203300000,332,2025_VÅR,unpublished,,,,,,true
+27931,UA_203_MGBSP501_1_2025_VÅR_1_3,,MGBSP501 Stord (3),MGBSP501 Stord (3),16891,UE_203_MGBSP501_1_2025_VÅR_1,332,2025_VÅR,unpublished,,,,,,true
+30256,UE_203_ØKB2124_1_2025_VÅR_1,,ØKB2124-1 25V,ØKB2124-1 25V Samfunnsvitenskapelig metode,15739,ST_0203201400,332,2025_VÅR,active,,,,,,true
+30280,UE_203_TOS201S_1_2025_VÅR_1,,TOS201S-1 25V,TOS201S-1 25V Tolking i praksis - norsk/ukrainsk,440,ST_0203300300,332,2025_VÅR,unpublished,,,,,,true
+28010,UA_203_MGUKH301_1_2025_VÅR_1_1,,MGUKH301 Bergen (1),MGUKH301 Bergen (1),16911,UE_203_MGUKH301_1_2025_VÅR_1,332,2025_VÅR,unpublished,,,,,,true
+28815,UE_203_BARN140_1_2025_VÅR_1,,BARN140-1 25V,BARN140-1 25V Bruk av aktiviteter i miljøterapeutisk arbeid,430,ST_0203100300,332,2025_VÅR,active,,,,,,true
+29603,UE_203_MGBNOS401_1_2025_VÅR_1,,MGBNOS401-1 25V,"MGBNOS401-1 25V Norsk 2, emne 2 - Språk, kultur og litteratur 2",440,ST_0203300300,332,2025_VÅR,active,,,,,,true
+29294,UE_203_MASB520_1_2025_VÅR_1,,MASB520-1 25V,MASB520-1 25V Ulike perspektiv på barnevernets fag og yrkesutøvelse,430,ST_0203100300,332,2025_VÅR,active,,,,,,true
+29105,UE_203_GREDI001_1_2025_VÅR_1,,GREDI001-1 25V,GREDI001-1 25V Language learning and sustainable language community,440,ST_0203300300,332,2025_VÅR,active,,,,,,true
+30267,UE_203_ØKB3119_1_2025_VÅR_1,,ØKB3119-1 25V,ØKB3119-1 25V Regnskapsføreryrket  og regnskapsorganisering,15739,ST_0203201400,332,2025_VÅR,active,,,,,,true
+29505,UE_203_LUPEKI303_1_2025_VÅR_1,,LUPEKI303-1 25V,LUPEKI303-1 25V Idrett og treningslære,438,ST_0203300100,332,2025_VÅR,active,,,,,,true
+28120,UA_203_MGBPE201_1_2025_VÅR_1_10,,MGBPE201 Bergen - Klasse KOH (10),MGBPE201 Bergen - Klasse KOH (10),16856,UE_203_MGBPE201_1_2025_VÅR_1,332,2025_VÅR,unpublished,,,,,,true
+29983,UE_203_PCS928_1_2025_VÅR_1,,PCS928-1 25V,PCS928-1 25V Sensornettverk,5313,ST_0203201000,332,2025_VÅR,unpublished,,,,,,true
+29424,UE_203_MDIP501C_1_2025_VÅR_1,,MDIP501C-1 25V,MDIP501C-1 25V Globalisering og utdanning,439,ST_0203300200,332,2025_VÅR,active,,,,,,true
+29568,UE_203_MGBMAS301_1_2025_VÅR_1,,MGBMAS301-1 25V,"MGBMAS301-1 25V Matematikk 2, emne 1 - Den utprøvende matematikklærer",440,ST_0203300300,332,2025_VÅR,active,,,,,,true
+29539,UE_203_MGBENS201_1_2025_VÅR_1,,MGBENS201-1 25V,"MGBENS201-1 25V Engelsk 1, emne 2 - Engelsk språk, litteratur og kultur med fagdidaktikk 2",440,ST_0203300300,332,2025_VÅR,active,,,,,,true
+29548,UE_203_MGBMAS401_1_2025_VÅR_1,,MGBMAS401-1 25V,"MGBMAS401-1 25V Matematikk 2, emne 2 - Matematikklæreren som forsker",440,ST_0203300300,332,2025_VÅR,active,,,,,,true
+29323,UE_203_KJE352_1_2025_VÅR_1,,KJE352-1 25V,KJE352-1 25V Bachelor Thesis for Exchange students (30 Credits) – Chemical Engineering,5316,ST_0203201100,332,2025_VÅR,unpublished,,,,,,true
+27996,UA_203_MGUKH201_1_2025_VÅR_1_2,,MGUKH201 Stord (2),MGUKH201 Stord (2),16909,UE_203_MGUKH201_1_2025_VÅR_1,332,2025_VÅR,unpublished,,,,,,true
+29350,UE_203_FØS8112_1_2025_VÅR_1,,FØS8112-1 25V,FØS8112-1 25V Organisering og ledelse i havbruksnæringen,15739,ST_0203201400,332,2025_VÅR,unpublished,,,,,,true
+28216,UA_203_MGBPE301_1_2025_VÅR_1_5,,MGBPE301 Bergen - masterfag NAT (5),MGBPE301 Bergen - masterfag NAT (5),16857,UE_203_MGBPE301_1_2025_VÅR_1,332,2025_VÅR,unpublished,,,,,,true
+29581,UE_203_MS1-328_1_2025_VÅR_1,,MS1-328-1 25V,MS1-328-1 25V Prosjektplan,429,ST_0203100100,332,2025_VÅR,active,,,,,,true
+29601,UE_203_MSB106_1_2025_VÅR_1,,MSB106-1 25V,MSB106-1 25V Anvendt By- og regionaløkonomi,15739,ST_0203201400,332,2025_VÅR,active,,,,,,true
+29617,UE_203_MGUPP501_1_2025_VÅR_1,,MGUPP501-1 25V,"MGUPP501-1 25V Profesjonsrettet pedagogikk 2, emne 1 - Metode og vitenskapsteori i profesjonsrettet pedagogikk",439,ST_0203300200,332,2025_VÅR,unpublished,,,,,,true
+29787,UE_203_MGUKØ202_1_2025_VÅR_1,,MGUKØ202-1 25V,"MGUKØ202-1 25V Kroppsøving 1, emne 2 - Kroppsøvingsfaget, eleven og tilpasset opplæring",438,ST_0203300100,332,2025_VÅR,unpublished,,,,,,true
+29801,UE_203_NABP3003_1_2025_VÅR_1,,NABP3003-1 25V,NABP3003-1 25V Sjørett,15738,ST_0203201300,332,2025_VÅR,active,,,,,,true
+28276,UA_203_MGUNO503_1_2025_VÅR_1_3,,MGUNO503 Stord (3),MGUNO503 Stord (3),16987,UE_203_MGUNO503_1_2025_VÅR_1,332,2025_VÅR,unpublished,,,,,,true
+29117,UE_203_JOR509_1_2025_VÅR_1,,JOR509-1 25V,JOR509-1 25V Kliniske studier del 4 - Helhetlig avansert jordmorfag,429,ST_0203100100,332,2025_VÅR,active,,,,,,true
+28397,UA_203_MGBSA301_1_2025_VÅR_1_3,,MGBSA301/MGUSA301 Sogndal (3),MGBSA301/MGUSA301 Sogndal (3),16883,UE_203_MGBSA301_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+29472,UE_203_MDIP505_1_2025_VÅR_1,,MDIP505-1 25V,MDIP505-1 25V Utdanningsforskning i praksis,439,ST_0203300200,332,2025_VÅR,unpublished,,,,,,true
+28905,UE_203_ERG310_1_2025_VÅR_1,,ERG310-1 25V,ERG310-1 25V Helsefremmende arbeid og innovasjon,355,ST_0203100200,332,2025_VÅR,active,,,,,,true
+28088,UA_203_MGBKØ201_1_2025_VÅR_1_1,,MGBKØ201 Bergen (1),MGBKØ201 Bergen (1),16790,UE_203_MGBKØ201_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+29701,UE_203_PL412_2_2025_VÅR_1,,PL412-2 25V,PL412-2 25V Landskapsinngrep,15737,ST_0203201200,332,2025_VÅR,active,,,,,,true
+29847,UE_203_NO802_1_2025_VÅR_1,,NO802-1 25V,"NO802-1 25V Norsk 1, 1-7 Mellomtrinnet reg.tilbud Leira",440,ST_0203300300,332,2025_VÅR,active,,,,,,true
+27989,UA_203_MGBNO401_1_2025_VÅR_1_1,,MGBNO401 Bergen (1),MGBNO401 Bergen (1),16844,UE_203_MGBNO401_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+29728,UE_203_NAB3037_1_2025_VÅR_1,,NAB3037-1 25V,NAB3037-1 25V Tankoperasjoner,15738,ST_0203201300,332,2025_VÅR,active,,,,,,true
+29881,UE_203_MGUMU201_1_2025_VÅR_1,,MGUMU201-1 25V,"MGUMU201-1 25V Musikk 1, emne 2 - Eleven og musikkulturelle kontekster",441,ST_0203300400,332,2025_VÅR,unpublished,,,,,,true
+29594,UE_203_MGBNOS101_1_2025_VÅR_1,,MGBNOS101-1 25V,"MGBNOS101-1 25V Norsk 1, emne 1 - Begynneropplæringen",440,ST_0203300300,332,2025_VÅR,unpublished,,,,,,true
+28432,UA_203_MGUPE301_1_2025_VÅR_1_13,,MGUPE301 Bergen - masterfag SAM/KoH  - V25,MGUPE301 Bergen - masterfag SAM/KoH  - V25,16996,UE_203_MGUPE301_1_2025_VÅR_1,332,2025_VÅR,active,,,,30688,hvl240902-dov-E1,true
+28414,UA_203_MGBSA401_1_2025_VÅR_1_3,,MGBSA401/MGUSA401 Sogndal - VÅR 2025,MGBSA401/MGUSA401 Sogndal - VÅR 2025,16884,UE_203_MGBSA401_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+29760,UE_203_MGUKR301_1_2025_VÅR_1,,MGUKR301-1 25V,"MGUKR301-1 25V KRLE 2, emne 1 - Hellige tekster, sekularisering, mangfold og religionskritikk",439,ST_0203300200,332,2025_VÅR,unpublished,,,,,,true
+30755,UA_203_MGBEN301_1_2025_VÅR_1_1,,MGBEN301 Bergen (1),MGBEN301 Bergen (1),16763,UE_203_MGBEN301_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+30829,UA_203_ING161_1_2025_VÅR_1_8,,ING161 HGSD 25V,ING161 Kjemi Haugesund våren 2025,16392,UE_203_ING161_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+28439,UA_203_MGUPE301_1_2025_VÅR_1_3,,MGUPE301 Stord (3),MGUPE301 Stord (3),16996,UE_203_MGUPE301_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+28968,UE_203_BIO138_1_2025_VÅR_1,,BIO138-1 25V,BIO138-1 25V Project in Biomedical Laboratory Science,5316,ST_0203201100,332,2025_VÅR,unpublished,,,,,,true
+29839,UE_203_SIK352_1_2025_VÅR_1,,SIK352-1 25V,SIK352-1 25V Bachelor Thesis for Exchange students - Safety Engineering,5316,ST_0203201100,332,2025_VÅR,unpublished,,,,,,true
+29789,UE_203_NABP2004_1_2025_VÅR_1,,NABP2004-1 25V,NABP2004-1 25V Skipskonstruksjon,15738,ST_0203201300,332,2025_VÅR,active,,,,,,true
+29041,UE_203_FHA-P3_1_2025_VÅR_1,,FHA-P3-1 25V,FHA-P3-1 25V Praksis knyttet til folkehelsearbeid i organisasjons- og samfunnsperspektiv,438,ST_0203300100,332,2025_VÅR,active,,,,,,true
+29055,UE_203_FHA412_1_2025_VÅR_1,,FHA412-1 25V,FHA412-1 25V Samfunnsplanlegging og samfunnsvitenskapelig metode,439,ST_0203300200,332,2025_VÅR,active,,,,,,true
+29063,UE_203_FHA712_1_2025_VÅR_1,,FHA712-1 25V,FHA712-1 25V Studieopphold på internasjonal undervisningsinstitusjon,438,ST_0203300100,332,2025_VÅR,active,,,,,,true
+30248,UE_203_ØKB2113_1_2025_VÅR_1,,ØKB2113-1 25V,ØKB2113-1 25V By- og regionaløkonomi,15739,ST_0203201400,332,2025_VÅR,unpublished,,,,,,true
+29106,UE_203_FHSUE300_1_2025_VÅR_1,,FHSUE300-1 25V,FHSUE300-1 25V The Norwegian Health Care System in an International Perspective,355,ST_0203100200,332,2025_VÅR,unpublished,,,,,,true
+29125,UE_203_FHSUR300_1_2025_VÅR_1,,FHSUR300-1 25V,FHSUR300-1 25V The Norwegian Health Care System in an International Perspective,355,ST_0203100200,332,2025_VÅR,unpublished,,,,,,true
+29849,UE_203_MGUMH401_1_2025_VÅR_1,,MGUMH401-1 25V,"MGUMH401-1 25V Mat og helse 2, emne 2 - Helsefremmende kosthold og forskningsarbeid",438,ST_0203300100,332,2025_VÅR,unpublished,,,,,,true
+29234,UE_203_FRIB202_1_2025_VÅR_1,,FRIB202-1 25V,FRIB202-1 25V Friluftsliv vinter 1,438,ST_0203300100,332,2025_VÅR,active,,,,,,true
+28569,UE_203_BRL105_1_2025_VÅR_1,,BRL105-1 25V,BRL105-1 25V Friluftsliv og naturguiding vinter I,15739,ST_0203201400,332,2025_VÅR,unpublished,,,,,,true
+29616,UE_203_MGBPES201_1_2025_VÅR_1,,MGBPES201-1 25V,"MGBPES201-1 25V Pedagogikk og elevkunnskap, emne 2 - Læreren og eleven i mangfoldige læringsmiljø",439,ST_0203300200,332,2025_VÅR,active,,,,,,true
+29887,UE_203_SPILL101_1_2025_VÅR_1,,SPILL101-1 25V,SPILL101-1 25V Spillpedagogikk,438,ST_0203300100,332,2025_VÅR,active,,,,,,true
+29873,UE_203_MOA255_1_2025_VÅR_1,,MOA255-1 25V,MOA255-1 25V Arealøkonomi,15737,ST_0203201200,332,2025_VÅR,active,,,,,,true
+29264,UE_203_IDF103_1_2025_VÅR_1,,IDF103-1 25V,IDF103-1 25V Pedagogikk og coaching,438,ST_0203300100,332,2025_VÅR,active,,,,,,true
+29898,UE_203_NVB012_1_2025_VÅR_1,,NVB012-1 25V,NVB012-1 25V Digital kommunikasjon og markedsføring,15739,ST_0203201400,332,2025_VÅR,active,,,,,,true
+30169,UE_203_SYKH320P_1_2025_VÅR_1,,SYKH320P-1 25V,"SYKH320P-1 25V Praksisstudie, Sykepleie ved komplekse og sammensatte pasienttilstander og sykdomsbilder i kommunehelsetjenesten",429,ST_0203100100,332,2025_VÅR,unpublished,,,,,,true
+30279,UE_203_ØKB3133_1_2025_VÅR_1,,ØKB3133-1 25V,ØKB3133-1 25V Bærekraft som konkurransefordel,15739,ST_0203201400,332,2025_VÅR,unpublished,,,,,,true
+27898,UA_203_ING151_1_2025_VÅR_1_1,,Engelsk språk og kultur - nettbasert (25V),Engelsk språk og kultur - nettbasert (25V),16390,UE_203_ING151_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+29708,UE_203_MIDR403_1_2025_VÅR_1,,MIDR403-1 25V,MIDR403-1 25V Fysisk aktivitet og folkehelseprosjekt,438,ST_0203300100,332,2025_VÅR,active,,,,,,true
+29964,UE_203_MOØ236_1_2025_VÅR_1,,MOØ236-1 25V,MOØ236-1 25V Praksisemne - Innovasjon og ledelse i en afrikansk kontekst,15739,ST_0203201400,332,2025_VÅR,unpublished,,,,,,true
+27929,UA_203_MAT301_1_2025_VÅR_1_11,,MAT301 Bergen - Marinteknikk (11),MAT301 Bergen - Marinteknikk (11),16724,UE_203_MAT301_1_2025_VÅR_1,332,2025_VÅR,unpublished,,,,,,true
+30003,UE_203_MPUV501C_1_2025_VÅR_1,,MPUV501C-1 25V,MPUV501C-1 25V Ledelse 1 - Ledelse og lederroller i utdannings- og oppvekstsektoren,439,ST_0203300200,332,2025_VÅR,active,,,,,,true
+29944,UE_203_SYKB230P_1_2025_VÅR_1,,SYKB230P-1 25V,"SYKB230P-1 25V Praksisstudie, Kirurgisk sykepleie ved akutt, kronisk og kritisk sykdom",429,ST_0203100100,332,2025_VÅR,unpublished,,,,,,true
+30019,UE_203_MPUV503_1_2025_VÅR_1,,MPUV503-1 25V,MPUV503-1 25V Undervisning og ledelse i en digital utdanningskontekst,439,ST_0203300200,332,2025_VÅR,active,,,,,,true
+29979,UE_203_PCS911_1_2025_VÅR_1,,PCS911-1 25V,PCS911-1 25V Beregningsvitenskap,5313,ST_0203201000,332,2025_VÅR,active,,,,,,true
+30005,UE_203_RE6-2010_1_2025_VÅR_1,,RE6-2010-1 25V,RE6-2010-1 25V Opplevelsesøkonomi & Storytelling,15739,ST_0203201400,332,2025_VÅR,active,,,,,,true
+29328,UE_203_MAMET1SO_1_2025_VÅR_1,,MAMET1SO-1 25V,"MAMET1SO-1 25V Vitenskapsteori, etikk og metode",430,ST_0203100300,332,2025_VÅR,active,,,,,,true
+27942,UA_203_MAT301_1_2025_VÅR_1_14,,MAT301 Førde - Bygg (14),MAT301 Førde - Bygg (14),16724,UE_203_MAT301_1_2025_VÅR_1,332,2025_VÅR,unpublished,,,,,,true
+29341,UE_203_MASO590_1_2025_VÅR_1,,MASO590-1 25V,MASO590-1 25V Masteroppgave,430,ST_0203100300,332,2025_VÅR,unpublished,,,,,,true
+27957,UA_203_MAT301_1_2025_VÅR_1_3,,MAT301 Bergen - Bygg (3),MAT301 Bergen - Bygg (3),16724,UE_203_MAT301_1_2025_VÅR_1,332,2025_VÅR,unpublished,,,,,,true
+28015,UA_203_MGUKH301_1_2025_VÅR_1_2,,MGUKH301 Stord (2),MGUKH301 Stord (2),16911,UE_203_MGUKH301_1_2025_VÅR_1,332,2025_VÅR,unpublished,,,,,,true
+29455,UE_203_MAS123_1_2025_VÅR_1,,MAS123-1 25V,"MAS123-1 25V Energi: Forbruk, kilder og teknologi",15738,ST_0203201300,332,2025_VÅR,active,,,,,,true
+28150,UA_203_MGBPE201_1_2025_VÅR_1_7,,MGBPE201 Bergen - Klasse KRLE - V25,MGBPE201 Bergen - Klasse KRLE - V25,16856,UE_203_MGBPE201_1_2025_VÅR_1,332,2025_VÅR,unpublished,,,,,,true
+29896,UE_203_MGUMU401_1_2025_VÅR_1,,MGUMU401-1 25V,"MGUMU401-1 25V Musikk 2, emne 2 - Den utforskende musikklæreren",441,ST_0203300400,332,2025_VÅR,unpublished,,,,,,true
+29945,UE_203_OR6-1005_1_2025_VÅR_1,,OR6-1005-1 25V,OR6-1005-1 25V Strategi,15739,ST_0203201400,332,2025_VÅR,unpublished,,,,,,true
+29704,UE_203_MIDR402_1_2025_VÅR_1,,MIDR402-1 25V,MIDR402-1 25V Trening og prestasjon,438,ST_0203300100,332,2025_VÅR,active,,,,,,true
+28908,UA_203_SYKI110_1_2025_VÅR_1_3,,Stord: International nursing students  (3),Stord: International nursing students  (3),17565,UE_203_SYKI110_1_2025_VÅR_1,332,2025_VÅR,unpublished,,,,,,true
+29362,UE_203_KUN809_1_2025_VÅR_1,,KUN809-1 25V,"KUN809-1 25V 3D-modellering, 3D-printing og laserkutting",441,ST_0203300400,332,2025_VÅR,active,,,,,,true
+29721,UE_203_MGUEN503_1_2025_VÅR_1,,MGUEN503-1 25V,"MGUEN503-1 25V Engelsk 3, emne 3 - Mangfold og endring i engelsk språk, litteratur og kultur",440,ST_0203300300,332,2025_VÅR,unpublished,,,,,,true
+30119,UE_203_SYKDS250_1_2025_VÅR_1,,SYKDS250-1 25V,SYKDS250-1 25V Folkehelse i et nasjonalt og globalt perspektiv,429,ST_0203100100,332,2025_VÅR,unpublished,,,,,,true
+29729,UE_203_MGUKH501_1_2025_VÅR_1,,MGUKH501-1 25V,"MGUKH501-1 25V Kunst og håndverk 3, emne 1 - Fagdidaktikk",441,ST_0203300400,332,2025_VÅR,unpublished,,,,,,true
+30129,UE_203_SYKF200_1_2025_VÅR_1,,SYKF200-1 25V,"SYKF200-1 25V Sykepleie ved akutt, kronisk og kritisk sykdom",429,ST_0203100100,332,2025_VÅR,active,,,,,,true
+30218,UE_203_ØAL122_1_2025_VÅR_1,,ØAL122-1 25V,ØAL122-1 25V Eco Global Operational Management,15739,ST_0203201400,332,2025_VÅR,active,,,,,,true
+28368,UA_203_MGBSA201_1_2025_VÅR_1_2,,MGBSA201 Stord (2),MGBSA201 Stord (2),16881,UE_203_MGBSA201_1_2025_VÅR_1,332,2025_VÅR,unpublished,,,,,,true
+28392,UA_203_MGBSA301_1_2025_VÅR_1_2,,MGBSA301 Stord (2),MGBSA301 Stord (2),16883,UE_203_MGBSA301_1_2025_VÅR_1,332,2025_VÅR,unpublished,,,,,,true
+28404,UA_203_MGBSA401_1_2025_VÅR_1_1,,MGBSA401 Bergen (1),MGBSA401 Bergen (1),16884,UE_203_MGBSA401_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+29389,UE_203_FØS8123_1_2025_VÅR_1,,FØS8123-1 25V,FØS8123-1 25V Kommunal økonomistyring - Virksomhets- og økonomistyring,15739,ST_0203201400,332,2025_VÅR,unpublished,,,,,,true
+28435,UA_203_MGUPE301_1_2025_VÅR_1_14,,MGUPE301 Bergen - masterfag SAM (14),MGUPE301 Bergen - masterfag SAM (14),16996,UE_203_MGUPE301_1_2025_VÅR_1,332,2025_VÅR,unpublished,,,,,,true
+29394,UE_203_FØS8124_1_2025_VÅR_1,,FØS8124-1 25V,FØS8124-1 25V Kommunal økonomistyring - Offentlige anskaffelser,15739,ST_0203201400,332,2025_VÅR,unpublished,,,,,,true
+28437,UA_203_MGUPE301_1_2025_VÅR_1_2,,MGUPE301 Sogndal (2),MGUPE301 Sogndal (2),16996,UE_203_MGUPE301_1_2025_VÅR_1,332,2025_VÅR,unpublished,,,,,,true
+30165,UE_203_VOØ006_1_2025_VÅR_1,,VOØ006-1 25V,VOØ006-1 25V Human Resource Management (HRM) i den norske modellen,15739,ST_0203201400,332,2025_VÅR,active,,,,,,true
+28667,UA_203_MGUSA301_1_2025_VÅR_1_1,,MGUSA301 Bergen (1),MGUSA301 Bergen (1),17018,UE_203_MGUSA301_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+29409,UE_203_FØS8126_1_2025_VÅR_1,,FØS8126-1 25V,FØS8126-1 25V Kommunal styring - Organisasjonsforståelse og kultur,15739,ST_0203201400,332,2025_VÅR,unpublished,,,,,,true
+28821,UA_203_SYKF330P_1_2025_VÅR_1_1,,SYKF330P Kull 83 (1),SYKF330P Kull 83 (1),17529,UE_203_SYKF330P_1_2025_VÅR_1,332,2025_VÅR,unpublished,,,,,,true
+28019,UA_203_LUPEKI104_1_2025_VÅR_1_1,,LUPEKI104 Bergen (1),LUPEKI104 Bergen (1),16534,UE_203_LUPEKI104_1_2025_VÅR_1,332,2025_VÅR,unpublished,,,,,,true
+28112,UA_203_MGBKØ401_1_2025_VÅR_1_2,,MGBKØ401/MGUKØ401 Sogndal,MGBKØ401/MGUKØ401 Sogndal,16792,UE_203_MGBKØ401_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+28081,UA_203_MAS144_1_2025_VÅR_1_1,,MAS144 25V Bergen,MAS144 25V Materialer og tilvirkning - Bergen,16635,UE_203_MAS144_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+29857,UE_203_NORU802N_1_2025_VÅR_1,,NORU802N-1 25V,"NORU802N-1 25V Norsk 1, emne 2 - Litteratur- og tekstkunnskap",440,ST_0203300300,332,2025_VÅR,active,,,,,,true
+28111,UA_203_MAS219_1_2025_VÅR_1_1,,MAS219 25V Bergen,MAS219 25V Maskinkonstruksjon 2 - Bergen,16648,UE_203_MAS219_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+30793,UE_203_MKUF502A_1_2025_VÅR_1,,MKUF502A-1 25V,"MKUF502A-1 25V Litteraturskapning, analyse og formidling",440,ST_0203300300,332,2025_VÅR,active,,,,,,true
+29018,UE_203_FØS8307_1_2025_VÅR_1,,FØS8307-1 25V,FØS8307-1 25V Prosjektledelse og prosess,15739,ST_0203201400,332,2025_VÅR,active,,,,,,true
+30687,UE_203_SA584_2_2025_VÅR_1,,SA584-2 25V,SA584-2 25V Ungdom og ulikhet,15739,ST_0203201400,332,2025_VÅR,active,,,,,,true
+30915,UE_203_PSBU105_1_2025_VÅR_1,,PSBU105-1 25V,"PSBU105-1 25V Vitenskapsteori, metode og etikk",429,ST_0203100100,332,2025_VÅR,active,,,,,,true
+29121,UE_203_GUPEL412_1_2025_VÅR_1,,GUPEL412-1 25V,"GUPEL412-1 25V Bacheloroppgave, vitenskapsteori og  forskningsmetode",439,ST_0203300200,332,2025_VÅR,unpublished,,,,,,true
+30943,UA_203_SYKI104_1_2025_VÅR_1_2,,Haugesund: International nursing students campus - V25 (2),Haugesund: International nursing students campus - V25 (2),17561,UE_203_SYKI104_1_2025_VÅR_1,332,2025_VÅR,unpublished,,,,,,true
+30808,UE_203_INT101_1_2025_VÅR_1,,INT101-1 25V,INT101-1 25V Interkulturell kompetanse etter studentutveksling,439,ST_0203300200,332,2025_VÅR,unpublished,,,,,,true
+29174,UE_203_JU6-5000_1_2025_VÅR_1,,JU6-5000-1 25V,JU6-5000-1 25V Tings- og immaterialrett,15739,ST_0203201400,332,2025_VÅR,active,,,,,,true
+29254,UE_203_MAKPR421_1_2025_VÅR_1,,MAKPR421-1 25V,"MAKPR421-1 25V Implementering II: integrere forskning, erfaringsbasert kunnskap og brukerkunnskap i radiografi",355,ST_0203100200,332,2025_VÅR,unpublished,,,,,,true
+30188,UE_203_SYKI102_1_2025_VÅR_1,,SYKI102-1 25V,SYKI102-1 25V Practical studies in Community Health Care,429,ST_0203100100,332,2025_VÅR,unpublished,,,,,,true
+28492,UE_203_DAT301_1_2025_VÅR_1,,DAT301-1 25V,DAT301-1 25V Masteroppgave (kort),5313,ST_0203201000,332,2025_VÅR,unpublished,,,,,,true
+29319,UE_203_KJE351_1_2025_VÅR_1,,KJE351-1 25V,KJE351-1 25V Bachelor Thesis for Exchange students (20 Credits) – Chemical Engineering,5316,ST_0203201100,332,2025_VÅR,unpublished,,,,,,true
+29334,UE_203_FYS802_1_2025_VÅR_1,,FYS802-1 25V,FYS802-1 25V Barnehagelærarrollen og pedagogisk arbeid med fysisk aktiv lek,438,ST_0203300100,332,2025_VÅR,active,,,,,,true
+29474,UE_203_LUPEF103_1_2025_VÅR_1,,LUPEF103-1 25V,LUPEF103-1 25V Profesjonsfag: Lærerrollen og elevenes læring og utvikling,439,ST_0203300200,332,2025_VÅR,active,,,,,,true
+29372,UE_203_KVL802_1_2025_VÅR_1,,KVL802-1 25V,KVL802-1 25V Utvikling og koordinering i karriereveiledningstjenester,439,ST_0203300200,332,2025_VÅR,active,,,,,,true
+27934,UA_203_MAT301_1_2025_VÅR_1_12,,MAT301 Bergen - Produksjonsteknikk (12),MAT301 Bergen - Produksjonsteknikk (12),16724,UE_203_MAT301_1_2025_VÅR_1,332,2025_VÅR,unpublished,,,,,,true
+28153,UA_203_BØA117_1_2025_VÅR_1_3,,BØA117 Sogndal - Finansregnskap med analyse  (3),BØA117 Sogndal - Finansregnskap med analyse  (3),16036,UE_203_BØA117_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+28541,UE_203_DKR002_1_2025_VÅR_1,,DKR002-1 25V,DKR002-1 25V Digital markedsføring og kommunikasjon,15739,ST_0203201400,332,2025_VÅR,unpublished,,,,,,true
+29410,UE_203_MARV531_1_2025_VÅR_1,,MARV531-1 25V,MARV531-1 25V Kulturell kompetanse i relasjonsarbeid,430,ST_0203100300,332,2025_VÅR,unpublished,,,,,,true
+28328,UA_203_MAT202_1_2025_VÅR_1_17,,MAT202 Haugesund - Maskin (17),MAT202 Haugesund - Maskin (17),16722,UE_203_MAT202_1_2025_VÅR_1,332,2025_VÅR,unpublished,,,,,,true
+27947,UA_203_MAT301_1_2025_VÅR_1_15,,MAT301 Førde - Elkraft (15),MAT301 Førde - Elkraft (15),16724,UE_203_MAT301_1_2025_VÅR_1,332,2025_VÅR,unpublished,,,,,,true
+28391,UA_203_MGBNA401_1_2025_VÅR_1_1,,MGBNA401 Bergen (1),MGBNA401 Bergen (1),16836,UE_203_MGBNA401_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+27952,UA_203_MAT301_1_2025_VÅR_1_2,,MAT301 Bergen - Automatisering (2),MAT301 Bergen - Automatisering (2),16724,UE_203_MAT301_1_2025_VÅR_1,332,2025_VÅR,unpublished,,,,,,true
+28411,UA_203_MGBNO101_1_2025_VÅR_1_12,,MGBNO101 Bergen - Klasse KRO2 (12),MGBNO101 Bergen - Klasse KRO2 (12),16841,UE_203_MGBNO101_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+28630,UE_203_DYK606_1_2025_VÅR_1,,DYK606-1 25V,DYK606-1 25V Praksis sikkerhetsopplæring i dykking,15740,ST_0203209000,332,2025_VÅR,unpublished,,,,,,true
+28204,UA_203_MAT104_1_2025_VÅR_1_1,,MAT104 Bergen - Informasjonsteknologi (1),MAT104 Bergen - Informasjonsteknologi (1),16717,UE_203_MAT104_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+28207,UA_203_MGBMA101_1_2025_VÅR_1_9,,MGBMA101 Sogndal (9),MGBMA101 Sogndal (9),16797,UE_203_MGBMA101_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+29466,UE_203_ING4050UTV_1_2025_VÅR_1,,ING4050UTV-1 25V,ING4050UTV-1 25V Professional Placement Learning 1 - Laboratory,5316,ST_0203201100,332,2025_VÅR,unpublished,,,,,,true
+28208,UA_203_MAT104_1_2025_VÅR_1_2,,MAT104 Førde - Informasjonsteknologi (2),MAT104 Førde - Informasjonsteknologi (2),16717,UE_203_MAT104_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+28551,UE_203_BO6-2009_1_2025_VÅR_1,,BO6-2009-1 25V,BO6-2009-1 25V Muntlig eksamen for bachelor i eiendomsmegling,15739,ST_0203201400,332,2025_VÅR,active,,,,,,true
+28577,UE_203_ABLUPR201_1_2025_VÅR_1,,ABLUPR201-1 25V,ABLUPR201-1 25V Praksis 2. år ABLU,200,ST_0203300000,332,2025_VÅR,unpublished,,,,,,true
+28800,UA_203_SYKF320P_1_2025_VÅR_1_1,,SYKF320P - Kull 81 (1),SYKF320P - Kull 81 (1),17527,UE_203_SYKF320P_1_2025_VÅR_1,332,2025_VÅR,unpublished,,,,,,true
+30152,UE_203_UVN802_1_2025_VÅR_1,,UVN802-1 25V,UVN802-1 25V Norsk som andrespråk i voksenopplæringen 2,440,ST_0203300300,332,2025_VÅR,active,,,,,,true
+30254,UE_203_ØKB2123_1_2025_VÅR_1,,ØKB2123-1 25V,ØKB2123-1 25V Foretaksstrategi,15739,ST_0203201400,332,2025_VÅR,active,,,,,,true
+28234,UA_203_BØA205_1_2025_VÅR_1_1,,BØA205 Bergen - Økonomistyring  (1),BØA205 Bergen - Økonomistyring  (1),16042,UE_203_BØA205_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+28265,UA_203_MGBMA301_1_2025_VÅR_1_3,,MGBMA301 Stord (3),MGBMA301 Stord (3),16799,UE_203_MGBMA301_1_2025_VÅR_1,332,2025_VÅR,unpublished,,,,,,true
+28269,UA_203_MGBMA401_1_2025_VÅR_1_1,,MGBMA401 Bergen (1),MGBMA401 Bergen (1),16801,UE_203_MGBMA401_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+30764,UE_203_GE4-303_1_2025_VÅR_1,,GE4-303-1 25V,GE4-303-1 25V Snø og snøskred,15737,ST_0203201200,332,2025_VÅR,unpublished,,,,,,true
+28313,UA_203_MAT202_1_2025_VÅR_1_14,,MAT202 Førde 25V,MAT202 Matematikk 2 Førde 2025 Vår,16722,UE_203_MAT202_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+30913,UE_203_HMA807_1_2025_VÅR_1,,HMA807-1 25V,HMA807-1 25V Sentral teori om migrasjonshelse,355,ST_0203100200,332,2025_VÅR,active,,,,,,true
+28361,UA_203_MGBNA201_1_2025_VÅR_1_1,,MGBNA201 Bergen (1),MGBNA201 Bergen (1),16833,UE_203_MGBNA201_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+28180,UA_203_MGBPE301_1_2025_VÅR_1_12,,MGBPE301 Bergen - masterfag MH (12),MGBPE301 Bergen - masterfag MH (12),16857,UE_203_MGBPE301_1_2025_VÅR_1,332,2025_VÅR,unpublished,,,,,,true
+28732,UE_203_BYG351_1_2025_VÅR_1,,BYG351-1 25V,BYG351-1 25V Bachelor Thesis for Exchange students - Civil Engineering,15737,ST_0203201200,332,2025_VÅR,unpublished,,,,,,true
+28441,UA_203_MGUPE301_1_2025_VÅR_1_4,,MGUPE301 Bergen - masterfag SPED (4),MGUPE301 Bergen - masterfag SPED (4),16996,UE_203_MGUPE301_1_2025_VÅR_1,332,2025_VÅR,unpublished,,,,,,true
+28447,UA_203_MGUPE301_1_2025_VÅR_1_7,,MGUPE301 Bergen - masterfag ENG/NAT - V25,MGUPE301 Bergen - masterfag ENG/NAT - V25,16996,UE_203_MGUPE301_1_2025_VÅR_1,332,2025_VÅR,active,,,,30688,hvl240902-dov-E1,true
+30241,UE_203_ØKB1113_1_2025_VÅR_1,,ØKB1113-1 25V,ØKB1113-1 25V Organisasjonspsykologi og ledelse,15739,ST_0203201400,332,2025_VÅR,active,,,,,,true
+28691,UA_203_STM101_1_2025_VÅR_1_6,,STM101 Bergen - kontinuasjonseksamen (6),STM101 Bergen - kontinuasjonseksamen (6),17418,UE_203_STM101_1_2025_VÅR_1,332,2025_VÅR,unpublished,,,,,,true
+28825,UA_203_SYKF330P_1_2025_VÅR_1_2,,SYKF330P Kull 84 (2),SYKF330P Kull 84 (2),17529,UE_203_SYKF330P_1_2025_VÅR_1,332,2025_VÅR,unpublished,,,,,,true
+28046,UA_203_MGBKH201_1_2025_VÅR_1_2,,MGBKH201/MGUKH201 V25 Stord,MGBKH201/MGUKH201 V25 Stord,16773,UE_203_MGBKH201_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+30295,UE_203_ØSS118_1_2025_VÅR_1,,ØSS118-1 25V,"ØSS118-1 25V Økonomi, Psykologi og Filosofi",15739,ST_0203201400,332,2025_VÅR,active,,,,,,true
+28731,UA_203_MGUSA503_1_2025_VÅR_1_2,,MGUSA503 Stord (2),MGUSA503 Stord (2),17024,UE_203_MGUSA503_1_2025_VÅR_1,332,2025_VÅR,unpublished,,,,,,true
+27984,UA_203_MGBNO301_1_2025_VÅR_1_3,,MGBNO301 Stord (3),MGBNO301 Stord (3),16843,UE_203_MGBNO301_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+29572,UE_203_MGBMU301_1_2025_VÅR_1,,MGBMU301-1 25V,"MGBMU301-1 25V Musikk 2, emne 1 - Musikalske møter i og utenfor klasserommet",441,ST_0203300400,332,2025_VÅR,unpublished,,,,,,true
+30759,UA_203_MGUEN301_1_2025_VÅR_1_1,,MGUEN301 Bergen (1),MGUEN301 Bergen (1),16899,UE_203_MGUEN301_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+30297,UE_203_ØSS119_1_2025_VÅR_1,,ØSS119-1 25V,ØSS119-1 25V Transportøkonomi,15739,ST_0203201400,332,2025_VÅR,active,,,,,,true
+30824,UA_203_ING161_1_2025_VÅR_1_2,,ING161 Bergen - Bkr. Produksjon og sirkulærøkonomi (2),ING161 Bergen - Bkr. Produksjon og sirkulærøkonomi (2),16392,UE_203_ING161_1_2025_VÅR_1,332,2025_VÅR,unpublished,,,,,,true
+30825,UA_203_ING161_1_2025_VÅR_1_3,,ING161 Bergen - Dataingeniør (3),ING161 Bergen - Dataingeniør (3),16392,UE_203_ING161_1_2025_VÅR_1,332,2025_VÅR,unpublished,,,,,,true
+30828,UA_203_ING161_1_2025_VÅR_1_6,,ING161 Bergen - Marinteknikk (6),ING161 Bergen - Marinteknikk (6),16392,UE_203_ING161_1_2025_VÅR_1,332,2025_VÅR,unpublished,,,,,,true
+30904,UA_203_ING162_1_2025_VÅR_1_2,,ING162 Haugesund 2025V,ING162 Haugesund - Mekanikk (Brann og maskin) 2025 vår,16393,UE_203_ING162_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+29755,UE_203_MGUKR201A_1_2025_VÅR_1,,MGUKR201A-1 25V,"MGUKR201A-1 25V KRLE 1, emne 2 - Etikk, filosofi og fagdidaktikk",439,ST_0203300200,332,2025_VÅR,unpublished,,,,,,true
+29805,UE_203_NABP3004_1_2025_VÅR_1,,NABP3004-1 25V,NABP3004-1 25V Lastebehandling I,15738,ST_0203201300,332,2025_VÅR,active,,,,,,true
+28973,UA_203_PSBU102_1_2025_VÅR_1_2,,PSBU102 -  Førde (2),PSBU102 -  Førde (2),17293,UE_203_PSBU102_1_2025_VÅR_1,332,2025_VÅR,unpublished,,,,,,true
+29651,UE_203_PHDH904_1_2025_VÅR_1,,PHDH904-1 25V,PHDH904-1 25V Helsefremming og mestring,198,ST_0203100000,332,2025_VÅR,active,,,,,,true
+29669,UE_203_PHDH913_1_2025_VÅR_1,,PHDH913-1 25V,PHDH913-1 25V Introduksjon til longitudinell dataanalyse ved bruk av “mixed effects” modeller,198,ST_0203100000,332,2025_VÅR,active,,,,,,true
+28245,UA_203_BØA205_1_2025_VÅR_1_3,,BØA205 Sogndal - Økonomistyring  (3),BØA205 Sogndal - Økonomistyring  (3),16042,UE_203_BØA205_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+29904,UE_203_NVB013_1_2025_VÅR_1,,NVB013-1 25V,NVB013-1 25V Digital organisasjon og ledelse,15739,ST_0203201400,332,2025_VÅR,unpublished,,,,,,true
+29746,UE_203_SABV270_1_2025_VÅR_1,,SABV270-1 25V,SABV270-1 25V Community Work from an International Perspective,10871,,332,2025_VÅR,active,,,,,,true
+29775,UE_203_PPUA302_1_2025_VÅR_1,,PPUA302-1 25V,PPUA302-1 25V Skolen i samfunnet - ledelse av lærings- og utviklingsarbeid i et organisasjons- og samfunnsperspektiv,439,ST_0203300200,332,2025_VÅR,active,,,,,,true
+29661,UE_203_PHDH907_1_2025_VÅR_1,,PHDH907-1 25V,"PHDH907-1 25V Metoder for kartlegging av helse, funksjon og deltakelse",198,ST_0203100000,332,2025_VÅR,active,,,,,,true
+29828,UE_203_PSBU102_1_2025_VÅR_1,,PSBU102-1 25V,PSBU102-1 25V Kompetanse og tjenesteutvikling i psykososialt arbeid med barn og unge,429,ST_0203100100,332,2025_VÅR,active,,,,,,true
+29844,UE_203_SO202_1_2025_VÅR_1,,SO202-1 25V,SO202-1 25V Økonomi og samfunn,15739,ST_0203201400,332,2025_VÅR,active,,,,,,true
+29876,UE_203_RAD140_1_2025_VÅR_1,,RAD140-1 25V,RAD140-1 25V Sikker strålebruk i radiografi,355,ST_0203100200,332,2025_VÅR,active,,,,,,true
+29882,UE_203_RAD150_1_2025_VÅR_1,,RAD150-1 25V,"RAD150-1 25V Anatomi, fysiologi og farmakologi",355,ST_0203100200,332,2025_VÅR,active,,,,,,true
+28913,UA_203_SYKI110_1_2025_VÅR_1_4,,Førde: International nursing students  (4),Førde: International nursing students  (4),17565,UE_203_SYKI110_1_2025_VÅR_1,332,2025_VÅR,unpublished,,,,,,true
+29902,UE_203_STR801_1_2025_VÅR_1,,STR801-1 25V,STR801-1 25V Strategi- og virksomhetsutvikling,15739,ST_0203201400,332,2025_VÅR,active,,,,,,true
+28979,UA_203_PSBU105_1_2025_VÅR_1_2,,PSBU105 Førde (2),PSBU105 Førde (2),17296,UE_203_PSBU105_1_2025_VÅR_1,332,2025_VÅR,unpublished,,,,,,true
+30923,UE_203_PCS902_1_2025_VÅR_1,,PCS902-1 25V,"PCS902-1 25V Forskningsmetode, forskningsetikk og vitenskapelig arbeidsform",5313,ST_0203201000,332,2025_VÅR,active,,,,,,true
+30108,UE_203_SYKDS390_1_2025_VÅR_1,,SYKDS390-1 25V,SYKDS390-1 25V Bacheloroppgave,429,ST_0203100100,332,2025_VÅR,unpublished,,,,,,true
+28532,UA_203_VPLP100_1_2025_VÅR_1_1,,Bergen VPLP100 (1),Bergen VPLP100 (1),17666,UE_203_VPLP100_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+28829,UA_203_MKUF502A_1_2025_VÅR_1_1,,MKUF502A Bergen (1),MKUF502A Bergen (1),17049,UE_203_MKUF502A_1_2025_VÅR_1,332,2025_VÅR,unpublished,,,,,,true
+28537,UA_203_VPLP100_1_2025_VÅR_1_2,,Sogndal VPLP100 (2),Sogndal VPLP100 (2),17666,UE_203_VPLP100_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+29811,UE_203_PRV002_1_2025_VÅR_1,,PRV002-1 25V,PRV002-1 25V Testemne digital eksamen 2,54,ST_0203000000,332,2025_VÅR,unpublished,,,,,,true
+28557,UA_203_SAB390_1_2025_VÅR_1_2,,SAB390- Sogndal V25 (2),SAB390- Sogndal V25 (2),17372,UE_203_SAB390_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+28629,UA_203_SRLE201_1_2025_VÅR_1_3,,SRLE201 Bergen - Klasse B (3),SRLE201 Bergen - Klasse B (3),17412,UE_203_SRLE201_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+30099,UE_203_SYKDS330P_1_2025_VÅR_1,,SYKDS330P-1 25V,"SYKDS330P-1 25V Praksisstudie, Sykepleie ved psykisk sykdom/lidelse",429,ST_0203100100,332,2025_VÅR,unpublished,,,,,,true
+28694,UE_203_ADA595_1_2025_VÅR_1,,ADA595-1 25V,ADA595-1 25V Masteroppgave,5313,ST_0203201000,332,2025_VÅR,unpublished,,,,,,true
+28275,UA_203_MGBMA401_1_2025_VÅR_1_3,,MGBMA401 Stord (3),MGBMA401 Stord (3),16801,UE_203_MGBMA401_1_2025_VÅR_1,332,2025_VÅR,unpublished,,,,,,true
+29937,UE_203_SYKB220P_1_2025_VÅR_1,,SYKB220P / SYKB230P-1 25V,"SYKB220P/230P-1 25V Praksisstudie, Medisinsk/Kirurgisk sykepleie ved akutt, kronisk og kritisk sykdom",429,ST_0203100100,332,2025_VÅR,active,,,,,,true
+28449,UA_203_SA6-405_1_2025_VÅR_1_2,,SA6-405 - Haugesund (2),SA6-405 - Haugesund (2),17351,UE_203_SA6-405_1_2025_VÅR_1,332,2025_VÅR,unpublished,,,,,,true
+30004,UE_203_SYKDB300_1_2025_VÅR_1,,SYKDB300-1 25V,SYKDB300-1 25V Sykepleie ved komplekse og sammensatte pasienttilstander og sykdomsbilde i kommunehelsetjenesten,429,ST_0203100100,332,2025_VÅR,unpublished,,,,,,true
+28848,UA_203_SYKI104_1_2025_VÅR_1_4,,Førde: International nursing students campus - V25 (4),Førde: International nursing students campus - V25 (4),17561,UE_203_SYKI104_1_2025_VÅR_1,332,2025_VÅR,unpublished,,,,,,true
+28884,UA_203_SYKI106_1_2025_VÅR_1_3,,Stord: International nursing students V25 (3),Stord: International nursing students V25 (3),17563,UE_203_SYKI106_1_2025_VÅR_1,332,2025_VÅR,unpublished,,,,,,true
+30011,UE_203_PHD901_1_2025_VÅR_1,,PHD901-1 25V,PHD901-1 25V Danning og didaktiske praksiser,200,ST_0203300000,332,2025_VÅR,unpublished,,,,,,true
+28127,UA_203_BØA116_1_2025_VÅR_1_1,,BØA116 Bergen - Markedsføring (1),BØA116 Bergen - Markedsføring (1),16035,UE_203_BØA116_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+28213,UA_203_MAT104_1_2025_VÅR_1_3,,MAT104 Haugesund - Informasjonsteknologi (3),MAT104 Haugesund - Informasjonsteknologi (3),16717,UE_203_MAT104_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+28763,UE_203_ASP802_1_2025_VÅR_1,,ASP802-1 25V,ASP802-1 25V Andrespråkspedagogikk 2,440,ST_0203300300,332,2025_VÅR,active,,,,,,true
+28995,UA_203_REAL102_1_2025_VÅR_1_1,,REAL102 Bergen (1),REAL102 Bergen (1),17333,UE_203_REAL102_1_2025_VÅR_1,332,2025_VÅR,unpublished,,,,,,true
+30077,UE_203_SYKDH140_1_2025_VÅR_1,,SYKDH140-1 25V,SYKDH140-1 25V Sykdomslære og farmakologi,429,ST_0203100100,332,2025_VÅR,unpublished,,,,,,true
+29930,UE_203_RADP1_1_2025_VÅR_1,,RADP1-1 25V,RADP1-1 25V Klinisk praksis - pasienten i sentrum,355,ST_0203100200,332,2025_VÅR,unpublished,,,,,,true
+28160,UA_203_MGBMA101_1_2025_VÅR_1_1,,MGBMA101 Bergen - Klasse ENG (1),MGBMA101 Bergen - Klasse ENG (1),16797,UE_203_MGBMA101_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+29952,UE_203_RADP5_1_2025_VÅR_1,,RADP5-1 25V,RADP5-1 25V Clinical practice - Advanced patient care,355,ST_0203100200,332,2025_VÅR,unpublished,,,,,,true
+30103,UE_203_SYKDS360P_1_2025_VÅR_1,,SYKDS360P-1 25V,"SYKDS360P-1 25V Praksisstudie, Faglig ledelse, tjenesteutvikling og innovasjon",429,ST_0203100100,332,2025_VÅR,unpublished,,,,,,true
+28989,UA_203_REAL101_1_2025_VÅR_1_1,,REAL101 Bergen (1),REAL101 Bergen (1),17332,UE_203_REAL101_1_2025_VÅR_1,332,2025_VÅR,unpublished,,,,,,true
+28992,UA_203_REAL101_1_2025_VÅR_1_2,,REAL101 Stord fagskulen (2),REAL101 Stord fagskulen (2),17332,UE_203_REAL101_1_2025_VÅR_1,332,2025_VÅR,unpublished,,,,,,true
+28999,UA_203_SA6-405_1_2025_VÅR_1_1,,SA6-405 - Førde (1),SA6-405 - Førde (1),17351,UE_203_SA6-405_1_2025_VÅR_1,332,2025_VÅR,unpublished,,,,,,true
+28997,UA_203_REAL102_1_2025_VÅR_1_2,,REAL102 Stord fagskulen (2),REAL102 Stord fagskulen (2),17333,UE_203_REAL102_1_2025_VÅR_1,332,2025_VÅR,unpublished,,,,,,true
+30036,UE_203_RED210_1_2025_VÅR_1,,RED210-1 25V,RED210-1 25V Fagopplæring redningsdykking,15740,ST_0203209000,332,2025_VÅR,unpublished,,,,,,true
+27973,UA_203_MAT301_1_2025_VÅR_1_6,,MAT301 Bergen - Elektronikk (6),MAT301 Bergen - Elektronikk (6),16724,UE_203_MAT301_1_2025_VÅR_1,332,2025_VÅR,unpublished,,,,,,true
+29009,UE_203_EVN1012_1_2025_VÅR_1,,EVN1012-1 25V,EVN1012-1 25V Innføring i endringsledelse i maritime organisasjoner,15738,ST_0203201300,332,2025_VÅR,unpublished,,,,,,true
+28262,UA_203_MGBMA301_1_2025_VÅR_1_1,,MGBMA301 Bergen (1),MGBMA301 Bergen (1),16799,UE_203_MGBMA301_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+30059,UE_203_SYKDF330P_1_2025_VÅR_1,,SYKDF330P-1 25V,"SYKDF330P-1 25V Praksisstudie, Sykepleie ved psykisk sykdom/lidelse",429,ST_0203100100,332,2025_VÅR,unpublished,,,,,,true
+28957,UE_203_DAT259_1_2025_VÅR_1,,DAT259-1 25V,DAT259-1 25V Utvalgte emner i programvareutvikling,5313,ST_0203201000,332,2025_VÅR,unpublished,,,,,,true
+29685,UE_203_PL4-303_1_2025_VÅR_1,,PL4-303/GE487 25V Runoff Management,PL4-303/GE487 25V Runoff Management,15737,ST_0203201200,332,2025_VÅR,unpublished,,,,,,true
+29732,UE_203_NAB3042_1_2025_VÅR_1,,NAB3042-1 25V,NAB3042-1 25V Ledelse i bærekraftige maritime organisasjoner,15738,ST_0203201300,332,2025_VÅR,unpublished,,,,,,true
+30754,KK_MARCYB_2025 VÅR,,MARCYB 2025 VÅR,Maritime Cyber Risk Management,15738,ST_0203201300,332,2025_VÅR,unpublished,,,,,,true
+30093,UE_203_SYKDH330P_1_2025_VÅR_1,,SYKDH330P-1 25V,"SYKDH330P-1 25V Praksisstudie, Sykepleie ved psykisk sykdom/lidelse",429,ST_0203100100,332,2025_VÅR,unpublished,,,,,,true
+30112,UE_203_SYKF100_1_2025_VÅR_1,,SYKF100-1 25V,SYKF100-1 25V Grunnleggende sykepleie,429,ST_0203100100,332,2025_VÅR,unpublished,,,,,,true
+30113,UE_203_SYKDS220P_1_2025_VÅR_1,,SYKDS220P-1 25V,"SYKDS220P-1 25V Praksisstudie, Medisinsk sykepleie ved akutt, kronisk og kritisk sykdom",429,ST_0203100100,332,2025_VÅR,unpublished,,,,,,true
+30785,UA_203_SA6-503_1_2025_VÅR_1_2,,SA6-503 Haugesund (2),SA6-503 Haugesund (2),17353,UE_203_SA6-503_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+29792,UE_203_MGUKØ301_1_2025_VÅR_1,,MGUKØ301-1 25V,"MGUKØ301-1 25V Kroppsøving 2, emne 1 - Kroppsøvingsfaget, danning, kropp og læring",438,ST_0203300100,332,2025_VÅR,unpublished,,,,,,true
+29615,UE_203_PHD909_1_2025_VÅR_1,,PHD909-1 25V,PHD909-1 25V Utdanningsretorikk,200,ST_0203300000,332,2025_VÅR,active,,,,,,true
+29618,UE_203_PHD912_1_2025_VÅR_1,,PHD912-1 25V,PHD912-1 25V Økokritikk og didaktiske praksiser,200,ST_0203300000,332,2025_VÅR,unpublished,,,,,,true
+29678,UE_203_PL4-302_1_2025_VÅR_1,,PL4-302-1 25V,PL4-302-1 25V Towards a Low Emission Society,15737,ST_0203201200,332,2025_VÅR,unpublished,,,,,,true
+30100,UE_203_SYKDS100_1_2025_VÅR_1,,SYKDS100-1 25V,SYKDS100-1 25V Grunnleggende sykepleie,429,ST_0203100100,332,2025_VÅR,active,,,,,,true
+30255,UE_203_TEK801_1_2025_VÅR_1,,TEK801-1 25V,TEK801-1 25V Tekstilkultur 1,441,ST_0203300400,332,2025_VÅR,unpublished,,,,,,true
+28257,UA_203_DAT109_1_2025_VÅR_1_2,,DAT109 Bergen - Informasjonsteknologi (2),DAT109 Bergen - Informasjonsteknologi (2),16052,UE_203_DAT109_1_2025_VÅR_1,332,2025_VÅR,unpublished,,,,,,true
+27920,UA_203_MGBSP501_1_2025_VÅR_1_1,,MGB/MGUSP501 Bergen - V25,MGB/MGUSP501 Bergen - V25,16891,UE_203_MGBSP501_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+30163,UE_203_VOØ001_1_2025_VÅR_1,,VOØ001-1 25V,VOØ001-1 25V Prosjektledelse,15739,ST_0203201400,332,2025_VÅR,active,,,,,,true
+28386,UA_203_MGBNA301_1_2025_VÅR_1_2,,MGBNA301 Sogndal (2),MGBNA301 Sogndal (2),16835,UE_203_MGBNA301_1_2025_VÅR_1,332,2025_VÅR,unpublished,,,,,,true
+29747,UE_203_PL491_1_2025_VÅR_1,,PL491-1 25V,PL491-1 25V Bacheloroppgave i Landskapsplanlegging med landskapsarkitektur,15737,ST_0203201200,332,2025_VÅR,unpublished,,,,,,true
+29980,UE_203_RE6-2004_1_2025_VÅR_1,,RE6-2004-1 25V,RE6-2004-1 25V Omdømme & Strategisk kommunikasjon,15739,ST_0203201400,332,2025_VÅR,active,,,,,,true
+28396,UA_203_MGBNA401_1_2025_VÅR_1_2,,MGBNA401 Sogndal (2),MGBNA401 Sogndal (2),16836,UE_203_MGBNA401_1_2025_VÅR_1,332,2025_VÅR,unpublished,,,,,,true
+28074,UA_203_MGBKH401_1_2025_VÅR_1_2,,MGBKH401 Stord (2),MGBKH401 Stord (2),16776,UE_203_MGBKH401_1_2025_VÅR_1,332,2025_VÅR,unpublished,,,,,,true
+28072,UA_203_MGUMA102_1_2025_VÅR_1_3,,MGUMA102 Sogndal  (3),MGUMA102 Sogndal  (3),16936,UE_203_MGUMA102_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+29766,UE_203_SDG230_1_2025_VÅR_1,,SDG230-1 25V,SDG230-1 25V Rettferdig fordeling og rettferdig skatt,15739,ST_0203201400,332,2025_VÅR,active,,,,,,true
+28094,UA_203_MGUMA202_1_2025_VÅR_1_5,,MGUMA202 Stord  (5),MGUMA202 Stord  (5),16938,UE_203_MGUMA202_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+29774,UE_203_SDG238_1_2025_VÅR_1,,SDG238-1 25V,SDG238-1 25V Eco Global Operational Management,15739,ST_0203201400,332,2025_VÅR,active,,,,,,true
+30116,UE_203_SYKF110_1_2025_VÅR_1,,SYKF110-1 25V,SYKF110-1 25V Danning og akademisk håndverk,429,ST_0203100100,332,2025_VÅR,unpublished,,,,,,true
+29791,UE_203_SIB801_1_2025_VÅR_1,,SIB801/SIB851-1 25V,SIB801/SIB851-1 25V Samskaping og innovasjon for bærekraftig utvikling,438,ST_0203300100,332,2025_VÅR,active,,,,,,true
+29798,UE_203_SIB851_1_2025_VÅR_1,,SIB851-1 25V,SIB851-1 25V Samskaping og innovasjon for bærekraftig utvikling,438,ST_0203300100,332,2025_VÅR,unpublished,,,,,,true
+29429,UE_203_FØS8301_1_2025_VÅR_1,,FØS8301-1 25V,FØS8301-1 25V Bærekraftig forretningsutvikling,15739,ST_0203201400,332,2025_VÅR,unpublished,,,,,,true
+29820,UE_203_SIK201_1_2025_VÅR_1,,SIK201-1 25V,SIK201-1 25V Innføring i brannsikkerhet,5316,ST_0203201100,332,2025_VÅR,active,,,,,,true
+29848,UE_203_SO590_2_2025_VÅR_1,,SO590-2 25V,SO590-2 25V Bacheloroppgave i sosiologi,15739,ST_0203201400,332,2025_VÅR,active,,,,,,true
+30133,UE_203_TST312_1_2025_VÅR_1,,TST312-1 25V,TST312-1 25V Tegn som støtte til munnavlesning (TSS),440,ST_0203300300,332,2025_VÅR,unpublished,,,,,,true
+30140,UE_203_U5NOR13_1_2025_VÅR_1,,U5NOR13-1 25V,U5NOR13-1 25V Norsk for utenlandske studenter. Begynnerkurs,440,ST_0203300300,332,2025_VÅR,active,,,,,,true
+30187,UE_203_YFL815_1_2025_VÅR_1,,YFL815-1 25V,YFL815-1 25V Tilpasset opplæring og motivasjon i mangfoldige og flerspråklige elevgrupper (del 2),439,ST_0203300200,332,2025_VÅR,active,,,,,,true
+30150,UE_203_UVN802N_1_2025_VÅR_1,,UVN802N-1 25V,UVN802N-1 25V Norsk som andrespråk i voksenopplæringen 2,440,ST_0203300300,332,2025_VÅR,active,,,,,,true
+29868,UE_203_SOS150_1_2025_VÅR_1,,SOS150-1 25V,SOS150-1 25V Fra ung til voksen,15739,ST_0203201400,332,2025_VÅR,active,,,,,,true
+28132,UA_203_MGUMA503_1_2025_VÅR_1_2,,MGUMA503 Sogndal (2),MGUMA503 Sogndal (2),16943,UE_203_MGUMA503_1_2025_VÅR_1,332,2025_VÅR,unpublished,,,,,,true
+28133,UA_203_BØA116_1_2025_VÅR_1_2,,BØA116 Haugesund - Markedsføring  (2),BØA116 Haugesund - Markedsføring  (2),16035,UE_203_BØA116_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+30155,UE_203_SYKH220P_1_2025_VÅR_1,,SYKH220P-1 25V,"SYKH220P-1 25V Praksisstudie, Medisinsk sykepleie ved akutt, kronisk og kritisk sykdom",429,ST_0203100100,332,2025_VÅR,unpublished,,,,,,true
+29897,UE_203_RAD220_1_2025_VÅR_1,,RAD220-1 25V,RAD220-1 25V Radiografi i diagnostikk og behandling,355,ST_0203100200,332,2025_VÅR,active,,,,,,true
+30158,UE_203_VEI802_1_2025_VÅR_1,,VEI802-1 25V,VEI802-1 25V Profesjonskvalifisering: veiledning av studenter og nyutdannede lærere i barnehage og skole,439,ST_0203300200,332,2025_VÅR,unpublished,,,,,,true
+30166,UE_203_VPL305_1_2025_VÅR_1,,VPL305-1 25V,"VPL305-1 25V Perspective on global Citizenship, Critical reflection and Project work in the south (Tanzania)",430,ST_0203100300,332,2025_VÅR,active,,,,,,true
+30237,UE_203_SYKS330P_1_2025_VÅR_1,,SYKS330P-1 25V,"SYKS330P-1 25V Praksisstudie, Sykepleie ved psykisk sykdom/lidelse",429,ST_0203100100,332,2025_VÅR,unpublished,,,,,,true
+28159,UA_203_MGBPE201_1_2025_VÅR_1_9,,MGBPE201 Bergen - Klasse MOH - V25,MGBPE201 Bergen - Klasse MOH - V25,16856,UE_203_MGBPE201_1_2025_VÅR_1,332,2025_VÅR,unpublished,,,,,,true
+28170,UA_203_MGBPE301_1_2025_VÅR_1_10,,MGBPE301 Bergen - masterfag - KRO/PROF/MUS - V25,MGBPE301 Bergen - masterfag - KRO/PROF/MUS- V25,16857,UE_203_MGBPE301_1_2025_VÅR_1,332,2025_VÅR,active,,,,30797,hvl241118-dov-E1,true
+29919,UE_203_RAD320_1_2025_VÅR_1,,RAD320-1 25V,RAD320-1 25V Professional and Behavioural Aspects of Patient Care in Radiography,355,ST_0203100200,332,2025_VÅR,active,,,,,,true
+29942,UE_203_RADP3_1_2025_VÅR_1,,RADP3-1 25V,RADP3-1 25V Klinisk praksis - Kunnskapsbasert praksis (KBP) og teknologi,355,ST_0203100200,332,2025_VÅR,unpublished,,,,,,true
+30268,UE_203_TOS201E_1_2025_VÅR_1,,TOS201E-1 25V,TOS201E-1 25V Tolking i praksis - norsk/somali,440,ST_0203300300,332,2025_VÅR,unpublished,,,,,,true
+28206,UA_203_MGUNO102_1_2025_VÅR_1_1,,MGUNO102 Bergen  (1),MGUNO102 Bergen  (1),16982,UE_203_MGUNO102_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+29960,UE_203_RDL300_1_2025_VÅR_1,,RDL300-1 25V,RDL300-1 25V Dykkeleder for redningsdykkere,15740,ST_0203209000,332,2025_VÅR,active,,,,,,true
+28267,UA_203_MGUNO503_1_2025_VÅR_1_1,,MGUNO503 Bergen (1),MGUNO503 Bergen (1),16987,UE_203_MGUNO503_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+28374,UA_203_MGUPE201_1_2025_VÅR_1_1,,MGUPE201 Bergen felles (1),MGUPE201 Bergen felles (1),16995,UE_203_MGUPE201_1_2025_VÅR_1,332,2025_VÅR,unpublished,,,,,,true
+28406,UA_203_MGUPE201_1_2025_VÅR_1_7,,MGUPE201 Bergen - Klasse KRLE (7),MGUPE201 Bergen - Klasse KRLE (7),16995,UE_203_MGUPE201_1_2025_VÅR_1,332,2025_VÅR,unpublished,,,,,,true
+30174,UE_203_VVPB802_1_2025_VÅR_1,,VVPB802-1 25V,"VVPB802-1 25V Barnehagelæreren som lærerutdanner, veileder og vurderer",439,ST_0203300200,332,2025_VÅR,active,,,,,,true
+30274,UE_203_TOS201P_1_2025_VÅR_1,,TOS201P-1 25V,TOS201P-1 25V Tolking i praksis - norsk/mandarin,440,ST_0203300300,332,2025_VÅR,unpublished,,,,,,true
+30212,UE_203_ØAL119_1_2025_VÅR_1,,ØAL119-1 25V,ØAL119-1 25V Supply Chain Management - innkjøp og distribusjon,15739,ST_0203201400,332,2025_VÅR,active,,,,,,true
+30214,UE_203_ØAL120_1_2025_VÅR_1,,ØAL120-1 25V,ØAL120-1 25V Kunnskapsstyring i forsyningskjedeledelse,15739,ST_0203201400,332,2025_VÅR,active,,,,,,true
+29991,UE_203_PDR100_1_2025_VÅR_1,,PDR100-1 25V,PDR100-1 25V Prosessdrama,441,ST_0203300400,332,2025_VÅR,active,,,,,,true
+30272,UE_203_TOS201O_1_2025_VÅR_1,,TOS201O-1 25V,TOS201O-1 25V Tolking i praksis - norsk/bulgarsk,440,ST_0203300300,332,2025_VÅR,unpublished,,,,,,true
+28194,UA_203_MGBMA101_1_2025_VÅR_1_6,,MGBMA101 Bergen - Klasse MUS (6),MGBMA101 Bergen - Klasse MUS (6),16797,UE_203_MGBMA101_1_2025_VÅR_1,332,2025_VÅR,unpublished,,,,,,true
+27926,UA_203_MGBSP501_1_2025_VÅR_1_2,,MGBSP501 Sogndal (2),MGBSP501 Sogndal (2),16891,UE_203_MGBSP501_1_2025_VÅR_1,332,2025_VÅR,unpublished,,,,,,true
+28902,UA_203_SYKI110_1_2025_VÅR_1_2,,Haugesund: International nursing students  (2),Haugesund: International nursing students  (2),17565,UE_203_SYKI110_1_2025_VÅR_1,332,2025_VÅR,unpublished,,,,,,true
+30177,UE_203_WPE101_1_2025_VÅR_1,,WPE101-1 25V,WPE101-1 25V Wild Pedagogies and Ecophilosophy in Outdoor Education,438,ST_0203300100,332,2025_VÅR,active,,,,,,true
+30008,UE_203_SYKDB320P_1_2025_VÅR_1,,SYKDB320P-1 25V,"SYKDB320P-1 25V Praksisstudie, Sykepleie ved komplekse og sammensatte pasienttilstander og sykdomsbilder i kommunehelsetjenesten",429,ST_0203100100,332,2025_VÅR,unpublished,,,,,,true
+30016,UE_203_SYKDB330P_1_2025_VÅR_1,,SYKDB330P-1 25V,"SYKDB330P-1 25V Praksisstudie, sykepleie ved psykisk sykdom/lidelse",429,ST_0203100100,332,2025_VÅR,unpublished,,,,,,true
+29997,UE_203_PFS802_1_2025_VÅR_1,,PFS802-1 25V,PFS802-1 25V Produksjon for scene 2,441,ST_0203300400,332,2025_VÅR,unpublished,,,,,,true
+30014,UE_203_PHD902_1_2025_VÅR_1,,PHD902-1 25V,"PHD902-1 25V Vitenskapsteori, etikk og akademisk tekstarbeid",200,ST_0203300000,332,2025_VÅR,active,,,,,,true
+28443,UA_203_MGUPE301_1_2025_VÅR_1_5,,MGUPE301 Bergen - masterfag NOR (5),MGUPE301 Bergen - masterfag NOR (5),16996,UE_203_MGUPE301_1_2025_VÅR_1,332,2025_VÅR,unpublished,,,,,,true
+30220,UE_203_ØAL150_1_2025_VÅR_1,,ØAL150-1 25V,ØAL150-1 25V Internship Logistikk,15739,ST_0203201400,332,2025_VÅR,active,,,,,,true
+28135,UA_203_MGBPE201_1_2025_VÅR_1_4,,MGBPE201 Bergen - Klasse ENG (4),MGBPE201 Bergen - Klasse ENG (4),16856,UE_203_MGBPE201_1_2025_VÅR_1,332,2025_VÅR,unpublished,,,,,,true
+28185,UA_203_MGBPE301_1_2025_VÅR_1_13,,MGBPE301 Bergen - masterfag - SPED/KoH/ENG - V25,MGBPE301 Bergen - masterfag - SPED/KoH/ENG - V25,16857,UE_203_MGBPE301_1_2025_VÅR_1,332,2025_VÅR,active,,,,30797,hvl241118-dov-E1,true
+30049,UE_203_SA523_3_2025_VÅR_1,,SA523-3 25V,SA523-3 25V Bacheloroppgave i historie,15739,ST_0203201400,332,2025_VÅR,active,,,,,,true
+30060,UE_203_SA590_1_2025_VÅR_1,,SA590-1 25V,SA590-1 25V Internasjonal politikk,15739,ST_0203201400,332,2025_VÅR,active,,,,,,true
+28205,UA_203_MGBPE301_1_2025_VÅR_1_3,,MGBPE301 Bergen - masterfag - MAT/SAM/MoH - V25,MGBPE301 Bergen - masterfag - MAT/SAM/MoH - V25,16857,UE_203_MGBPE301_1_2025_VÅR_1,332,2025_VÅR,active,,,,30797,hvl241118-dov-E1,true
+30196,UE_203_SYKI105_1_2025_VÅR_1,,SYKI105-1 25V,SYKI105-1 25V Practical studies in Hospital and Community Health Care,429,ST_0203100100,332,2025_VÅR,unpublished,,,,,,true
+30204,UE_203_SYKI111_1_2025_VÅR_1,,SYKI111-1 25V,SYKI111-1 25V Folkehelse i et globalt perspektiv,198,ST_0203100000,332,2025_VÅR,unpublished,,,,,,true
+30206,UE_203_SYKI112_1_2025_VÅR_1,,SYKI112-1 25V,SYKI112-25S Maternal Health in a Global Perspective,198,ST_0203100000,332,2025_VÅR,active,,,,,,true
+28791,UA_203_MGUSP501_1_2025_VÅR_1_2,,MGUSP501/MGBSP501  Sogndal (2),MGUSP501/MGBSP501 Sogndal (2),17028,UE_203_MGUSP501_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+30921,UE_203_VOB006_1_2025_VÅR_1,,VOB006-1 25V,VOB006-1 25V Forhandlinger og konfliktforståelse,15738,ST_0203201300,332,2025_VÅR,active,,,,,,true
+30065,UE_203_SYKDF390_1_2025_VÅR_1,,SYKDF390-1 25V,SYKDF390-1 25V Bacheloroppgave,429,ST_0203100100,332,2025_VÅR,active,,,,,,true
+30083,UE_203_SA606_1_2025_VÅR_1,,SA606-1 25V,SA606-1 25V Historievitenskaplig metode,15739,ST_0203201400,332,2025_VÅR,active,,,,,,true
+30095,UE_203_SYKDH360P_1_2025_VÅR_1,,SYKDH360P-1 25V,"SYKDH360P-1 25V Praksisstudie, Faglig ledelse, tjenesteutvikling og innovasjon",429,ST_0203100100,332,2025_VÅR,unpublished,,,,,,true
+30276,UE_203_TOS201Q_1_2025_VÅR_1,,TOS201Q-1 25V,TOS201Q-1 25V Tolking i praksis - norsk/oromo,440,ST_0203300300,332,2025_VÅR,unpublished,,,,,,true
+30278,UE_203_TOS201R_1_2025_VÅR_1,,TOS201R-1 25V,TOS201R-1 25V Tolking i praksis - norsk/persisk,440,ST_0203300300,332,2025_VÅR,unpublished,,,,,,true
+30097,UE_203_SYKDH390_1_2025_VÅR_1,,SYKDH390-1 25V,SYKDH390-1 25V Bacheloroppgave,429,ST_0203100100,332,2025_VÅR,active,,,,,,true
+30221,UE_203_SYKS220P_1_2025_VÅR_1,,SYKS220P-1 25V,"SYKS220P-1 25V Praksisstudie, Medisinsk sykepleie ved akutt, kronisk og kritisk sykdom",429,ST_0203100100,332,2025_VÅR,unpublished,,,,,,true
+30224,UE_203_SYKS230P_1_2025_VÅR_1,,SYKS230P-1 25V,"SYKS230P-1 25V Praksisstudie, Kirurgisk sykepleie ved akutt, kronisk og kritisk sykdom",429,ST_0203100100,332,2025_VÅR,unpublished,,,,,,true
+30258,UE_203_ØKB3103_1_2025_VÅR_1,,ØKB3103-1 25V,ØKB3103-1 25V Finansielle instrumenter,15739,ST_0203201400,332,2025_VÅR,active,,,,,,true
+28409,UA_203_MGBSA401_1_2025_VÅR_1_2,,MGBSA401 Stord (2),MGBSA401 Stord (2),16884,UE_203_MGBSA401_1_2025_VÅR_1,332,2025_VÅR,unpublished,,,,,,true
+30117,UE_203_SYKDS230P_1_2025_VÅR_1,,SYKDS230P-1 25V,"SYKDS230P-1 25V Praksisstudie, Kirurgisk sykepleie ved akutt, kronisk og kritisk sykdom",429,ST_0203100100,332,2025_VÅR,unpublished,,,,,,true
+30604,UA_203_NHR101_1_2025_VÅR_1_4,,NHR101 Bergen - Klasse E (4),NHR101 Bergen - Klasse E (4),17189,UE_203_NHR101_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+30783,UE_203_SA6-406_1_2025_VÅR_1,,SA6-406-1 25V,SA6-406-1 25V Ledelse av pedagogisk virksomhet,15739,ST_0203201400,332,2025_VÅR,active,,,,,,true
+30752,UA_203_MGUPE301_1_2025_VÅR_1_6,,MGUPE301 Bergen - masterfag NOR/SPED/PROF - V25,MGUPE301 Bergen - masterfag NOR/SPED/PROF - V25,16996,UE_203_MGUPE301_1_2025_VÅR_1,332,2025_VÅR,active,,,,30688,hvl240902-dov-E1,true
+30257,UE_203_TEK802_1_2025_VÅR_1,,TEK802-1 25V,TEK802-1 25V Tekstilkultur 2,441,ST_0203300400,332,2025_VÅR,active,,,,,,true
+30261,UE_203_THO802_1_2025_VÅR_1,,THO802-1 25V,THO802-1 25V Implementering av e-helse,429,ST_0203100100,332,2025_VÅR,active,,,,,,true
+30790,UA_203_NOB802N_1_2025_VÅR_1_1,,Klasse A onsdag 09 (1),Klasse A onsdag 09 (1),17196,UE_203_NOB802N_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+30270,UE_203_TOS201F_1_2025_VÅR_1,,TOS201F-1 25V,TOS201F-1 25V Tolking i praksis - norsk/tigrinja,440,ST_0203300300,332,2025_VÅR,unpublished,,,,,,true
+28308,UA_203_MAT202_1_2025_VÅR_1_13,,MAT202 Førde - Bygg (13),MAT202 Førde - Bygg (13),16722,UE_203_MAT202_1_2025_VÅR_1,332,2025_VÅR,unpublished,,,,,,true
+30791,UA_203_NOB802N_1_2025_VÅR_1_2,,NOB802-N Sogndal V25,NOB802-N Sogndal V25,17196,UE_203_NOB802N_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+30159,UE_203_SYKH230P_1_2025_VÅR_1,,SYKH230P-1 25V,"SYKH230P-1 25V Praksisstudie, Kirurgisk sykepleie ved akutt, kronisk og kritisk sykdom",429,ST_0203100100,332,2025_VÅR,unpublished,,,,,,true
+28450,UA_203_MGUPE301_1_2025_VÅR_1_8,,MGUPE301 Bergen - masterfag KRO (8),MGUPE301 Bergen - masterfag KRO (8),16996,UE_203_MGUPE301_1_2025_VÅR_1,332,2025_VÅR,unpublished,,,,,,true
+30161,UE_203_VEI803_1_2025_VÅR_1,,VEI802/803 25V Profesjonskvalifisering og profesjonsveiledning ,VEI802/803 25V Profesjonskvalifisering og profesjonsveiledning ,439,ST_0203300200,332,2025_VÅR,active,,,,,,true
+30168,UE_203_VSFO801_1_2025_VÅR_1,,VSFO801-1 25V,VSFO801-1 25V Mat og måltidsglede i SFO,438,ST_0203300100,332,2025_VÅR,active,,,,,,true
+30300,UE_203_TST112_1_2025_VÅR_1,,TST112-1 25V,TST112-1 25V Norsk Tegnspråk 2,440,ST_0203300300,332,2025_VÅR,unpublished,,,,,,true
+30271,UE_203_ØKB3123_1_2025_VÅR_1,,ØKB3123-1 25V,ØKB3123-1 25V Human Resource Management,15739,ST_0203201400,332,2025_VÅR,active,,,,,,true
+30173,UE_203_SYKH330P_1_2025_VÅR_1,,SYKH330P-1 25V,"SYKH330P-1 25V Praksisstudie, Sykepleie ved psykisk sykdom/lidelse",429,ST_0203100100,332,2025_VÅR,unpublished,,,,,,true
+30176,UE_203_SYKH360P_1_2025_VÅR_1,,SYKH360P-1 25V,"SYKH360P-1 25V Praksisstudie, Faglig ledelse, tjenesteutvikling og innovasjon",429,ST_0203100100,332,2025_VÅR,unpublished,,,,,,true
+30180,UE_203_SYKH390_1_2025_VÅR_1,,SYKH390-1 25V,SYKH390-1 25V Bacheloroppgave,429,ST_0203100100,332,2025_VÅR,unpublished,,,,,,true
+30183,UE_203_YFL810_1_2025_VÅR_1,,YFL810-1 25V,YFL810-1 25V Vurderingspraksis og læreplanforståelse (del 2),439,ST_0203300200,332,2025_VÅR,active,,,,,,true
+30184,UE_203_SYKI101_1_2025_VÅR_1,,SYKI101-1 25V,SYKI101-1 25V Practical studies in Community Health Care,429,ST_0203100100,332,2025_VÅR,unpublished,,,,,,true
+28350,UA_203_MAT202_1_2025_VÅR_1_9,,MAT202 Bergen - Havteknologi (9),MAT202 Bergen - Havteknologi (9),16722,UE_203_MAT202_1_2025_VÅR_1,332,2025_VÅR,unpublished,,,,,,true
+30194,UE_203_SYKI104_1_2025_VÅR_1,,SYKI104-1 25V,SYKI104-1 25V Practical studies in Hospital and Community Health Care,429,ST_0203100100,332,2025_VÅR,unpublished,,,,,,true
+30197,UE_203_ØAA112_1_2025_VÅR_1,,ØAA112-1 25V,"ØAA112-1 25V Lærende ledelse, organisasjon og kultur",15739,ST_0203201400,332,2025_VÅR,active,,,,,,true
+28425,UA_203_MGUPE301_1_2025_VÅR_1_11,,MGUPE301 Bergen - masterfag ENG (11),MGUPE301 Bergen - masterfag ENG (11),16996,UE_203_MGUPE301_1_2025_VÅR_1,332,2025_VÅR,unpublished,,,,,,true
+28614,UE_203_DYK603_1_2025_VÅR_1,,DYK603-1 25V,DYK603-1 25V Kommunikasjon og rapportering,15740,ST_0203209000,332,2025_VÅR,active,,,,,,true
+30760,UA_203_MGUEN301_1_2025_VÅR_1_2,,MGUEN301 Stord (2),MGUEN301 Stord (2),16899,UE_203_MGUEN301_1_2025_VÅR_1,332,2025_VÅR,unpublished,,,,,,true
+28175,UA_203_MGBPE301_1_2025_VÅR_1_11,,MGBPE301 Bergen - masterfag SAM (11),MGBPE301 Bergen - masterfag SAM (11),16857,UE_203_MGBPE301_1_2025_VÅR_1,332,2025_VÅR,unpublished,,,,,,true
+28195,UA_203_MGBPE301_1_2025_VÅR_1_16,,MGBPE301 Bergen - masterfag KH (16),MGBPE301 Bergen - masterfag KH (16),16857,UE_203_MGBPE301_1_2025_VÅR_1,332,2025_VÅR,unpublished,,,,,,true
+30240,UE_203_SYKS360P_1_2025_VÅR_1,,SYKS360P-1 25V,"SYKS360P-1 25V Praksisstudie,  Faglig ledelse, tjenesteutvikling og innovasjon",429,ST_0203100100,332,2025_VÅR,unpublished,,,,,,true
+28862,UA_203_SYKI105_1_2025_VÅR_1_3,,Stord: International nursing students V25 (3),Stord: International nursing students V25 (3),17562,UE_203_SYKI105_1_2025_VÅR_1,332,2025_VÅR,unpublished,,,,,,true
+27981,UA_203_MAT301_1_2025_VÅR_1_8,,MAT301 Bergen - Energiteknologi (8),MAT301 Bergen - Energiteknologi (8),16724,UE_203_MAT301_1_2025_VÅR_1,332,2025_VÅR,unpublished,,,,,,true
+28696,UA_203_MGUSA401_1_2025_VÅR_1_3,,MGUSA401 Sogndal (3),MGUSA401 Sogndal (3),17020,UE_203_MGUSA401_1_2025_VÅR_1,332,2025_VÅR,unpublished,,,,,,true
+27924,UA_203_MAT301_1_2025_VÅR_1_10,,MAT301 Bergen - Kjemi (10),MAT301 Bergen - Kjemi (10),16724,UE_203_MAT301_1_2025_VÅR_1,332,2025_VÅR,unpublished,,,,,,true
+28016,UA_203_MGBEN201_1_2025_VÅR_1_2,,MGBEN201 Stord (2),MGBEN201 Stord (2),16762,UE_203_MGBEN201_1_2025_VÅR_1,332,2025_VÅR,unpublished,,,,,,true
+30707,UE_203_VSFO804_1_2025_VÅR_1,,VSFO804-1 25V,VSFO804-1 25V Kunst- og kulturaktiviteter i SFO,441,ST_0203300400,332,2025_VÅR,active,,,,,,true
+30778,UE_203_SA6-405_1_2025_VÅR_1,,SA6-405-1 25V,SA6-405-1 25V Ledelse av forbedringsarbeid i grunnenheter,15739,ST_0203201400,332,2025_VÅR,active,,,,,,true
+30757,UA_203_MGBEN401_1_2025_VÅR_1_1,,MGBEN401 Bergen (1),MGBEN401 Bergen (1),16764,UE_203_MGBEN401_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+30371,UE_203_SYKS320P_1_2025_VÅR_1,,SYKS320P-1 25V,"SYKS320P-1 25V Praksisstudie, Sykepleie ved komplekse og sammensatte pasienttilstander og sykdomsbilder i kommunehelsetjenesten",429,ST_0203100100,332,2025_VÅR,unpublished,,,,,,true
+28304,UA_203_MAT202_1_2025_VÅR_1_11,,MAT202 Bergen - Kjemi (11),MAT202 Bergen - Kjemi (11),16722,UE_203_MAT202_1_2025_VÅR_1,332,2025_VÅR,unpublished,,,,,,true
+28086,UA_203_MAS144_1_2025_VÅR_1_2,,MAS144 Bergen - Havteknologi (2),MAS144 Bergen - Havteknologi (2),16635,UE_203_MAS144_1_2025_VÅR_1,332,2025_VÅR,unpublished,,,,,,true
+27962,UA_203_MAT301_1_2025_VÅR_1_4,,MAT301 Bergen - Cyberfysisk nettverksteknologi (4),MAT301 Bergen - Cyberfysisk nettverksteknologi (4),16724,UE_203_MAT301_1_2025_VÅR_1,332,2025_VÅR,unpublished,,,,,,true
+29540,UE_203_MGBKH501_1_2025_VÅR_1,,MGBKH501 / MGUKH501 - 25V,"MGBKH501 / MGUKH501 - 25V Kunst og håndverk 3, emne 1 - Fagdidaktikk",441,ST_0203300400,332,2025_VÅR,active,,,,,,true
+27967,UA_203_MAT301_1_2025_VÅR_1_5,,MAT301 Bergen - Dataingeniør (5),MAT301 Bergen - Dataingeniør (5),16724,UE_203_MAT301_1_2025_VÅR_1,332,2025_VÅR,unpublished,,,,,,true
+28436,UA_203_MGBNO101_1_2025_VÅR_1_8,,MGBNO101 Bergen - Klasse KRO1 (8),MGBNO101 Bergen - Klasse KRO1 (8),16841,UE_203_MGBNO101_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+29557,UE_203_MGBMH301A_1_2025_VÅR_1,,"MGB/MGUMH301A - 25V Mat og helse 2, emne 1","MGB/MGUMH301A - 25V Mat og helse 2, emne 1",438,ST_0203300100,332,2025_VÅR,active,,,,,,true
+29558,UE_203_MGBMA302_1_2025_VÅR_1,,MGBMA302-1 25V,"MGBMA302-1 25V Matematikk 2, emne 1 - Perspektiv på matematikkfaget",440,ST_0203300300,332,2025_VÅR,unpublished,,,,,,true
+27977,UA_203_MAT301_1_2025_VÅR_1_7,,MAT301 Bergen - Elkraft (7),MAT301 Bergen - Elkraft (7),16724,UE_203_MAT301_1_2025_VÅR_1,332,2025_VÅR,unpublished,,,,,,true
+27986,UA_203_MAT301_1_2025_VÅR_1_9,,MAT301 Bergen - Havteknologi (9),MAT301 Bergen - Havteknologi (9),16724,UE_203_MAT301_1_2025_VÅR_1,332,2025_VÅR,unpublished,,,,,,true
+29563,UE_203_MGBMAS101_1_2025_VÅR_1,,MGBMAS101-1 25V,"MGBMAS101-1 25V Matematikk 1, emne 1 - Begynneropplæring i matematikk",440,ST_0203300300,332,2025_VÅR,unpublished,,,,,,true
+28064,UA_203_MGBKH301_1_2025_VÅR_1_2,,MGB/MGUKH301-401  Stord - V25,MGB/MGUKH301-401  Stord - V25,16775,UE_203_MGBKH301_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+28069,UA_203_MGBKH401_1_2025_VÅR_1_1,,MGBKH401/MGUKH401 Bergen (1),MGBKH401/MGUKH401 Bergen (1),16776,UE_203_MGBKH401_1_2025_VÅR_1,332,2025_VÅR,unpublished,,,,,,true
+28853,UA_203_SYKI105_1_2025_VÅR_1_1,,SYKI105 1 2025 VÅR Bergen,SYKI105 1 2025 VÅR Bergen,17562,UE_203_SYKI105_1_2025_VÅR_1,332,2025_VÅR,unpublished,,,,,,true
+30758,UA_203_MGBEN401_1_2025_VÅR_1_2,,MGBEN401 Stord (2),MGBEN401 Stord (2),16764,UE_203_MGBEN401_1_2025_VÅR_1,332,2025_VÅR,unpublished,,,,,,true
+30905,UA_203_ING162_1_2025_VÅR_1_3,,ING162 Haugesund - Maskin (3),ING162 Haugesund - Maskin (3),16393,UE_203_ING162_1_2025_VÅR_1,332,2025_VÅR,unpublished,,,,,,true
+30907,UA_203_ING164_1_2025_VÅR_1_2,,ING164 Førde - Elektroteknologi (2),ING164 Førde - Elektroteknologi (2),16394,UE_203_ING164_1_2025_VÅR_1,332,2025_VÅR,unpublished,,,,,,true
+30908,UA_203_ING164_1_2025_VÅR_1_3,,ING164 Haugesund - Elektroteknologi (3),ING164 Haugesund - Elektroteknologi (3),16394,UE_203_ING164_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+30909,UA_203_ING164_1_2025_VÅR_1_4,,ING164 Bergen - Data (4),ING164 Bergen - Data (4),16394,UE_203_ING164_1_2025_VÅR_1,332,2025_VÅR,unpublished,,,,,,true
+28116,UA_203_MAS219_1_2025_VÅR_1_2,,MAS219 Haugesund Konte-semester - ingen undervisning på campus (,MAS219 Haugesund Konte-semester - ingen undervisning på campus (,16648,UE_203_MAS219_1_2025_VÅR_1,332,2025_VÅR,unpublished,,,,,,true
+28179,UA_203_MGBMA101_1_2025_VÅR_1_3,,MGBMA101 Bergen - Klasse KRLE (3),MGBMA101 Bergen - Klasse KRLE (3),16797,UE_203_MGBMA101_1_2025_VÅR_1,332,2025_VÅR,unpublished,,,,,,true
+28419,UA_203_MGBNO101_1_2025_VÅR_1_3,,MGBNO101 Bergen - Klasse KRLE (3),MGBNO101 Bergen - Klasse KRLE (3),16841,UE_203_MGBNO101_1_2025_VÅR_1,332,2025_VÅR,unpublished,,,,,,true
+28430,UA_203_MGBNO101_1_2025_VÅR_1_6,,MGBNO101 Bergen - Klasse MUS (6),MGBNO101 Bergen - Klasse MUS (6),16841,UE_203_MGBNO101_1_2025_VÅR_1,332,2025_VÅR,unpublished,,,,,,true
+28189,UA_203_MGBMA101_1_2025_VÅR_1_5,,MGBMA101 Bergen - Klasse MOH (5),MGBMA101 Bergen - Klasse MOH (5),16797,UE_203_MGBMA101_1_2025_VÅR_1,332,2025_VÅR,unpublished,,,,,,true
+28843,UA_203_SYKF360P_1_2025_VÅR_1_2,,"Kull 82: SYKF360P - Praksisstudie, Faglig ledelse, tjenesteutvikling og innovasjon","Kull 82: SYKF360P - Praksisstudie, Faglig ledelse, tjenesteutvikling og innovasjon",17531,UE_203_SYKF360P_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+29578,UE_203_MS1-325_1_2025_VÅR_1,,MS1-325-1 25V,"MS1-325-1 25V Samhandling, tenesteutvikling og innovasjon",429,ST_0203100100,332,2025_VÅR,active,,,,,,true
+28266,UA_203_DAT109_1_2025_VÅR_1_4,,DAT109 25V Haugesund,DAT109 25V Systemutvikling - Haugesund,16052,UE_203_DAT109_1_2025_VÅR_1,332,2025_VÅR,unpublished,,,,,,true
+28299,UA_203_MAT202_1_2025_VÅR_1_10,,MAT202 Bergen - Marinteknikk (10),MAT202 Bergen - Marinteknikk (10),16722,UE_203_MAT202_1_2025_VÅR_1,332,2025_VÅR,unpublished,,,,,,true
+28323,UA_203_MAT202_1_2025_VÅR_1_16,,MAT202 Haugesund - Brann (16),MAT202 Haugesund - Brann (16),16722,UE_203_MAT202_1_2025_VÅR_1,332,2025_VÅR,unpublished,,,,,,true
+28335,UA_203_MAT202_1_2025_VÅR_1_3,,MAT202 Bergen - Bkr. Produksjon og sirkulærøkonomi (3),MAT202 Bergen - Bkr. Produksjon og sirkulærøkonomi (3),16722,UE_203_MAT202_1_2025_VÅR_1,332,2025_VÅR,unpublished,,,,,,true
+30769,UA_203_VPLP200_1_2025_VÅR_1_1,,Bergen VPLP200 (1),Bergen VPLP200 (1),17667,UE_203_VPLP200_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+28345,UA_203_MAT202_1_2025_VÅR_1_5,,MAT202 Bergen - Energiteknologi (5),MAT202 Bergen - Energiteknologi (5),16722,UE_203_MAT202_1_2025_VÅR_1,332,2025_VÅR,unpublished,,,,,,true
+28366,UA_203_MGBNA201_1_2025_VÅR_1_2,,MGBNA201 Sogndal (2),MGBNA201 Sogndal (2),16833,UE_203_MGBNA201_1_2025_VÅR_1,332,2025_VÅR,unpublished,,,,,,true
+30971,UA_203_MAT301_1_2025_VÅR_1_16,,MAT301 Selvstudium 25V,MAT301 Flervariabel analyse (Matematikk 3) - Selvstudium våren 2025,16724,UE_203_MAT301_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+28225,UA_203_MGBPE301_1_2025_VÅR_1_7,,MGBPE301 Bergen - masterfag MUS (7),MGBPE301 Bergen - masterfag MUS (7),16857,UE_203_MGBPE301_1_2025_VÅR_1,332,2025_VÅR,unpublished,,,,,,true
+28427,UA_203_MGBNO101_1_2025_VÅR_1_5,,MGBNO101 Bergen - Klasse MOH (5),MGBNO101 Bergen - Klasse MOH (5),16841,UE_203_MGBNO101_1_2025_VÅR_1,332,2025_VÅR,unpublished,,,,,,true
+29693,UE_203_MGUEN102_1_2025_VÅR_1,,MGUEN102-1 25V,"MGUEN102-1 25V Engelsk 1, emne 1 - Engelsk språk med fagdidaktikk",440,ST_0203300300,332,2025_VÅR,active,,,,,,true
+29702,UE_203_MUSPRA_1_2025_VÅR_1,,MUSPRA-1 25V,"MUSPRA-1 25V Grunnskolepraksis, årsstudium i musikk",441,ST_0203300400,332,2025_VÅR,unpublished,,,,,,true
+28393,UA_203_MGUPE201_1_2025_VÅR_1_4,,MGUPE201 Bergen - Klasse MAT/MUS - V25,MGUPE201 Bergen - Klasse MAT/MUS - V25,16995,UE_203_MGUPE201_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+28413,UA_203_MGUPE201_1_2025_VÅR_1_8,,MGUPE201 Bergen - Klasse ENG/NOR - V25,MGUPE201 Bergen - Klasse ENG/NOR - V25,16995,UE_203_MGUPE201_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+29712,UE_203_MIDR404_1_2025_VÅR_1,,MIDR404-1 25V,MIDR404-1 25V Danning og læring i idrett og friluftsliv,438,ST_0203300100,332,2025_VÅR,active,,,,,,true
+29724,UE_203_NAB3032_1_2025_VÅR_1,,NAB3032-1 25V,NAB3032-1 25V Dynamisk Posisjonering (DP-Induction),15738,ST_0203201300,332,2025_VÅR,active,,,,,,true
+28511,UA_203_VPL310_1_2025_VÅR_1_1,,Bergen VPL310 (1),Bergen VPL310 (1),17664,UE_203_VPL310_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+28549,UA_203_VPLP200_1_2025_VÅR_1_2,,Sogndal VPLP200 (25V),Sogndal VPLP200 (25V),17667,UE_203_VPLP200_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+28796,UA_203_MGUSP501_1_2025_VÅR_1_3,,MGUSP501 Stord (3),MGUSP501 Stord (3),17028,UE_203_MGUSP501_1_2025_VÅR_1,332,2025_VÅR,unpublished,,,,,,true
+30761,UA_203_MGUEN401_1_2025_VÅR_1_1,,MGUEN401 Bergen (1),MGUEN401 Bergen (1),16901,UE_203_MGUEN401_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+29753,UE_203_NAB804_1_2025_VÅR_1,,NAB804-1 25V,"NAB804-1 25V Naturfag 2, emne 2 - Den levende naturen 2",438,ST_0203300100,332,2025_VÅR,unpublished,,,,,,true
+28946,UA_203_VPD130_1_2025_VÅR_1_1,,Haugesund VPD130 (1),Haugesund VPD130 (1),17647,UE_203_VPD130_1_2025_VÅR_1,332,2025_VÅR,unpublished,,,,,,true
+28950,UA_203_VPD130_1_2025_VÅR_1_2,,Sogndal VPD130 (2),Sogndal VPD130 (2),17647,UE_203_VPD130_1_2025_VÅR_1,332,2025_VÅR,unpublished,,,,,,true
+29778,UE_203_MGUKØ102_1_2025_VÅR_1,,MGUKØ102-1 25V,"MGUKØ102-1 25V Kroppsøving 1, emne 1 - Kroppsøvingsfaget, læreren og undervisning",438,ST_0203300100,332,2025_VÅR,active,,,,,,true
+29785,UE_203_NABP2003_1_2025_VÅR_1,,NABP2003-1 25V,NABP2003-1 25V Navigasjon IV,15738,ST_0203201300,332,2025_VÅR,active,,,,,,true
+29799,UE_203_MGUKØ401_1_2025_VÅR_1,,MGUKØ401-1 25V,"MGUKØ401-1 25V Kroppsøving 2, emne 2 - Kroppsøvingsfaget, lærerkompetanse, forskning og utviklingsarbeid",438,ST_0203300100,332,2025_VÅR,unpublished,,,,,,true
+29813,UE_203_MGUMA201_1_2025_VÅR_1,,MGUMA201-1 25V,"MGUMA201-1 25V Matematikk 1, emne 2 - Læring i matematikk",440,ST_0203300300,332,2025_VÅR,active,,,,,,true
+29821,UE_203_MGUMA401_1_2025_VÅR_1,,MGUMA401-1 25V,"MGUMA401-1 25V Matematikk 2, emne 2 - Problemløsning og handlingskompetanse i matematikk",440,ST_0203300300,332,2025_VÅR,active,,,,,,true
+29833,UE_203_NABY0003_1_2025_VÅR_1,,NABY0003-1 25V,NABY0003-1 25V Forkurs fysikk for nautikk Y-vei,15738,ST_0203201300,332,2025_VÅR,active,,,,,,true
+29845,UE_203_MGUMH301A_1_2025_VÅR_1,,MGUMH301A-1 25V,"MGUMH301A-1 25V Mat og helse 2, emne 1 - Sosialt felleskap, kulturelt mangfold og bærekraft i mat og måltider",438,ST_0203300100,332,2025_VÅR,unpublished,,,,,,true
+29862,UE_203_MGUMH503_1_2025_VÅR_1,,MGUMH503-1 25V,"MGUMH503-1 25V Mat og helse 3, emne 3 - Skolen som matlandskap",438,ST_0203300100,332,2025_VÅR,unpublished,,,,,,true
+29865,UE_203_MOA254_1_2025_VÅR_1,,MOA254-1 25V,MOA254-1 25V Konflikt og konflikthåndtering,15737,ST_0203201200,332,2025_VÅR,active,,,,,,true
+29891,UE_203_MGUMU301_1_2025_VÅR_1,,MGUMU301-1 25V,"MGUMU301-1 25V Musikk 2, emne 1 - Musikalske møter i og utenfor klasserommet",441,ST_0203300400,332,2025_VÅR,unpublished,,,,,,true
+29911,UE_203_MGUMU503_1_2025_VÅR_1,,MGUMU503-1 25V,"MGUMU503-1 25V Musikk 3, emne 3 - Musikkpedagogisk grunnlagstenking, tradisjoner og utviklingstrekk",441,ST_0203300400,332,2025_VÅR,unpublished,,,,,,true
+30776,UA_203_SYKI102_1_2025_VÅR_1_1,,Haugesund: International nursing students (1),Haugesund: International nursing students (1),17558,UE_203_SYKI102_1_2025_VÅR_1,332,2025_VÅR,unpublished,,,,,,true
+30781,UA_203_SA6-502_1_2025_VÅR_1_1,,SA6-502 Førde (1),SA6-502 Førde (1),17352,UE_203_SA6-502_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+28650,UA_203_MGUSA201_1_2025_VÅR_1_3,,MGUSA201/MGBSA201 Sogndal (3),MGUSA201/MGBSA201 Sogndal (3),17015,UE_203_MGUSA201_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+28540,UA_203_SAB320_1_2025_VÅR_1_1,,SAB320 - Bergen V25 (1),SAB320 - Bergen V25 (1),17371,UE_203_SAB320_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+28516,UA_203_VPL310_1_2025_VÅR_1_2,,Sogndal VPL310 (2),Sogndal VPL310 (2),17664,UE_203_VPL310_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+28518,UA_203_SAB250_1_2025_VÅR_1_1,,SAB250 Bergen - V25,SAB250 Bergen - V25,17369,UE_203_SAB250_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+28523,UA_203_SAB250_1_2025_VÅR_1_2,,SAB250 Sogndal - V25 (2),SAB250 Sogndal - V25 (2),17369,UE_203_SAB250_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+28735,UA_203_SYKF220P_1_2025_VÅR_1_1,,SYKF220P Kull 83 (1),SYKF220P Kull 83 (1),17518,UE_203_SYKF220P_1_2025_VÅR_1,332,2025_VÅR,unpublished,,,,,,true
+28739,UA_203_SYKF220P_1_2025_VÅR_1_2,,SYKF220P Kull 84 (2),SYKF220P Kull 84 (2),17518,UE_203_SYKF220P_1_2025_VÅR_1,332,2025_VÅR,unpublished,,,,,,true
+28839,UA_203_SYKF360P_1_2025_VÅR_1_1,,"Kull 81: SYKF360P - Praksisstudie,  Faglig ledelse, tjenesteutvi","Kull 81: SYKF360P - Praksisstudie,  Faglig ledelse, tjenesteutvi",17531,UE_203_SYKF360P_1_2025_VÅR_1,332,2025_VÅR,unpublished,,,,,,true
+28872,UA_203_SYKI106_1_2025_VÅR_1_1,,Bergen: International nursing students V25 (1),Bergen: International nursing students V25 (1),17563,UE_203_SYKI106_1_2025_VÅR_1,332,2025_VÅR,unpublished,,,,,,true
+28896,UA_203_SYKI110_1_2025_VÅR_1_1,,SYKI110 1 2025 VÅR Bergen,SYKI110 1 2025 VÅR Bergen,17565,UE_203_SYKI110_1_2025_VÅR_1,332,2025_VÅR,unpublished,,,,,,true
+28975,UA_203_VPD300_1_2025_VÅR_1_1,,Haugesund VPD300 (1),Haugesund VPD300 (1),17651,UE_203_VPD300_1_2025_VÅR_1,332,2025_VÅR,unpublished,,,,,,true
+30782,UA_203_SA6-502_1_2025_VÅR_1_2,,SA6-502 Haugesund (2),SA6-502 Haugesund (2),17352,UE_203_SA6-502_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+30787,UA_203_VPD390_1_2025_VÅR_1_2,,Sogndal VPD390 (2),Sogndal VPD390 (2),17866,UE_203_VPD390_1_2025_VÅR_1,332,2025_VÅR,unpublished,,,,,,true
+30944,UA_203_SYKI104_1_2025_VÅR_1_3,,Stord: International nursing students campus - V25 (3),Stord: International nursing students campus - V25 (3),17561,UE_203_SYKI104_1_2025_VÅR_1,332,2025_VÅR,unpublished,,,,,,true
+27991,UA_203_MGUKH201_1_2025_VÅR_1_1,,MGUKH201 Bergen (1),MGUKH201 Bergen (1),16909,UE_203_MGUKH201_1_2025_VÅR_1,332,2025_VÅR,unpublished,,,,,,true
+30422,UA_203_MGUPRO401_1_2025_VÅR_1_1,,MGUPRO401 Bergen (1),MGUPRO401 Bergen (1),17010,UE_203_MGUPRO401_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+27979,UA_203_MGBNO301_1_2025_VÅR_1_2,,MGBNO301 Sogndal (2),MGBNO301 Sogndal (2),16843,UE_203_MGBNO301_1_2025_VÅR_1,332,2025_VÅR,unpublished,,,,,,true
+28053,UA_203_MGUKØ503_1_2025_VÅR_1_2,,MGUKØ503 Sogndal (2),MGUKØ503 Sogndal (2),16933,UE_203_MGUKØ503_1_2025_VÅR_1,332,2025_VÅR,unpublished,,,,,,true
+28130,UA_203_MGBPE201_1_2025_VÅR_1_3,,MGBPE201 Stord (3),MGBPE201 Stord (3),16856,UE_203_MGBPE201_1_2025_VÅR_1,332,2025_VÅR,unpublished,,,,,,true
+28140,UA_203_MGBPE201_1_2025_VÅR_1_5,,MGBPE201 Bergen - Klasse NAT - V25,MGBPE201 Bergen - Klasse NAT - V25,16856,UE_203_MGBPE201_1_2025_VÅR_1,332,2025_VÅR,unpublished,,,,,,true
+28388,UA_203_MGBSA301_1_2025_VÅR_1_1,,MGBSA301 Bergen (1),MGBSA301 Bergen (1),16883,UE_203_MGBSA301_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true
+28420,UA_203_MGUPE301_1_2025_VÅR_1_10,,MGUPE301 Bergen - masterfag MAT - V25,MGUPE301 Bergen - masterfag MAT - V25,16996,UE_203_MGUPE301_1_2025_VÅR_1,332,2025_VÅR,active,,,,30688,hvl240902-dov-E1,true
+28451,UA_203_MGUPE301_1_2025_VÅR_1_9,,MGUPE301 Bergen - masterfag KRO/MoH/MUS - V25,MGUPE301 Bergen - masterfag KRO/MoH/MUS - V25,16996,UE_203_MGUPE301_1_2025_VÅR_1,332,2025_VÅR,active,,,,30688,hvl240902-dov-E1,true
+30473,UA_203_PSBU104_1_2025_VÅR_1_1,,PSBU104 - Stord/Haugesund (1),PSBU104 - Stord/Haugesund (1),17295,UE_203_PSBU104_1_2025_VÅR_1,332,2025_VÅR,active,,,,,,true

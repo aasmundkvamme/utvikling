@@ -1,0 +1,122 @@
+,Unnamed: 0,Kontoadministrator,Informasjonskonsulent,Emneadministrator,Førstelinje,Superbrukar,Emneinnsyn
+0,Administratorar - legg til/fjern,På,Av,Av,Av,Av,Av
+1,Vis Administrer LTI,På,Av,Av,Av,Av,Av
+2,Administrer LTI,,,,,,
+3,legg til / slett / rediger,,,,,,
+4,LTI - legg til,På,Av,Av,Av,Av,Av
+5,LTI - rediger,På,Av,Av,Av,Av,Av
+6,LTI - slett,På,Av,Av,Av,Av,Av
+7,Administrer emne,På,Av,Delvis skrudd på Administrer emne Emneadministrator,Av,Delvis skrudd på Administrer emne Superbrukar,Av
+8,Emne - administrer/oppdater,På,Av,Av,Av,På,Av
+9,Emne - legg til,På,Av,Av,Av,På,Av
+10,Emne - fullfør,På,Av,Av,Av,På,Av
+11,Emne - publiser,På,Av,På,Av,På,Av
+12,Emne - rette opp igjen,På,Av,På,Av,På,Av
+13,Emne - slett,På,Av,Av,Av,Av,Av
+14,Administrer emnefiler,På,Av,På,Av,På,På
+15,Emnefiler - legg til,På,Av,På,Av,På,På
+16,Emnefiler - rediger,På,Av,På,Av,På,På
+17,Emnefiler - slett,På,Av,På,Av,På,På
+18,Administrer emneinnhald,På,Av,På,Av,På,På
+19,Emneinnhald - legg til,På,Av,På,Av,På,På
+20,Emneinnhald - rediger,På,Av,På,Av,På,På
+21,Emneinnhald - slett,På,Av,På,Av,På,På
+22,Administrer emnemalar,På,Av,Av,Av,På,Av
+23,Emnemalar - lag,På,Av,Av,Av,På,Av
+24,Emnemalar - rediger,På,Av,Av,Av,På,Av
+25,Emnemalar - slett,På,Av,Av,Av,På,Av
+26,Administrer emneseksjonar,På,Av,På,Av,På,Av
+27,Emneseksjonar - legg til,På,Av,På,Av,På,Av
+28,Emneseksjonar - rediger,På,Av,På,Av,På,Av
+29,Emneseksjonar - slett,På,Av,På,Av,På,Av
+30,Administrer grupper,På,Av,På,Av,På,På
+31,Grupper - administrer,På,Av,På,Av,På,På
+32,Grupper - legg til,På,Av,På,Av,På,På
+33,Grupper - slett,På,Av,På,Av,På,På
+34,Administrer kontokalendrar,På,Av,Av,Av,Av,Av
+35,Kontokalendrar - endre synlegheit,På,Av,Av,Av,Av,Av
+36,Kontokalendrar - legg til / endre / slett hendingar,På,Av,Av,Av,Av,Av
+37,Administrer oppgåver og quizzar,På,Av,På,Av,På,På
+38,Oppgåver og quizar - legg til,På,Av,På,Av,På,På
+39,Oppgåver og quizar - rediger,På,Av,På,Av,På,På
+40,Oppgåver og quizar - slett,På,Av,På,Av,På,På
+41,Administrer sider,På,Av,På,Av,På,På
+42,Sider - Oppdater,På,Av,På,Av,På,På
+43,Sider - Opprett,På,Av,På,Av,På,På
+44,Sider - Slett,På,Av,På,Av,På,På
+45,Analyse - vis sider,På,Av,På,Av,På,Av
+46,Analyse-hub,På,Av,Av,Av,Av,Av
+47,Analytics for administratorar - sjå og eksporter data,På,Av,På,Av,På,Av
+48,Blueprint-emne - legg til / endre / tilknytt / slett,På,Av,Av,Av,På,Av
+49,Brukarar - Designarar,På,Av,På,Av,På,Av
+50,Designarar - fjern,På,Av,På,Av,På,Av
+51,Designarar - legg til,På,Av,På,Av,På,Av
+52,Brukarar - Faglærarar,På,Av,På,Av,På,Av
+53,Faglærarar - fjern,På,Av,På,Av,På,Av
+54,Faglærarar - legg til,På,Av,På,Av,På,Av
+55,Brukarar - Observatørar,På,Av,På,Av,På,Av
+56,Observatørar - fjern,På,Av,På,Av,På,Av
+57,Observatørar - legg til,På,Av,På,Av,På,Av
+58,Brukarar - Studentar,På,Av,På,Av,På,Av
+59,Studentar - Fjern,På,Av,På,Av,På,Av
+60,Studentar - legg til,På,Av,På,Av,På,Av
+61,Brukarar - Undervisningsassistentar,På,Av,På,Av,På,Av
+62,Undervisningsassistentar - Fjern,På,Av,På,Av,På,Av
+63,Undervisningsassistentar - Legg til,På,Av,På,Av,På,Av
+64,Brukarar - administrer innloggingsdetaljar,På,Av,Av,Av,På,Av
+65,Brukarar - endre innhald,På,Av,Av,Av,Av,Av
+66,Brukarar - generer paringskodar for å koble observatørar til studentar,På,Av,På,Av,På,Av
+67,Brukarar - handtere observatørar,På,Av,På,Av,På,Av
+68,Brukarar - handtere studentar i emne,På,Av,På,Av,På,Av
+69,Brukarar - opptre som,På,Av,Av,Av,På,Av
+70,Brukarar - tillat administrative handlingar i emne,På,Av,På,Av,På,Av
+71,Brukarar - vis innloggings-ID-ar,På,Av,På,På,På,Av
+72,Brukarar - vis liste,På,Av,På,På,På,På
+73,Brukarar - vis primær e-postadresse,På,Av,På,På,På,På
+74,DIskusjonar - opprett,På,På,På,Av,Av,På
+75,Datateneste - administrer,På,Av,Av,Av,Av,Av
+76,Diskusjonar - lag innlegg,På,På,På,Av,Av,På
+77,Diskusjonar - moderer,På,Av,På,Av,Av,På
+78,Diskusjonar - vis,På,På,På,Av,På,På
+79,Ekspertiseskalaer for læringsmål - Legg til/rediger,På,Av,På,Av,På,Av
+80,Emne - endre synlegheit,På,Av,På,Av,På,På
+81,Emneinnhald - vis,På,Av,På,På,På,På
+82,Emnekalender - legg til / endre / slett,På,Av,På,Av,På,På
+83,Emner - gjenopprett,På,Av,Av,Av,På,Av
+84,Emner - vis endringslogg,På,Av,Av,Av,På,Av
+85,Emner - vis liste,På,På,På,På,På,På
+86,Funksjonsval - tillat/ikkje tillat,På,Av,Av,Av,Av,Av
+87,Funksjonsval - vis,På,Av,Av,Av,På,Av
+88,Globale kunngjeringar - legg til / rediger / slett,På,På,På,Av,På,Av
+89,Grupper - vis alle studentgrupper,På,Av,På,På,På,På
+90,Impact - administrer,På,Av,Av,Av,Av,Av
+91,Innlevering - Lever på vegne av student,På,Av,Av,Av,Av,Av
+92,Innstillingar på kontonivå - administrer,På,Av,Av,Av,Av,Av
+93,Item Banks - share with subaccounts,På,Av,Av,Av,På,Av
+94,Kunngjeringar - vis,På,På,På,På,På,På
+95,Lagrinskvote - administrer,På,Av,Av,Av,Av,Av
+96,Læringsmål - importer,På,Av,På,Av,På,Av
+97,Læringsmål - legg til / endre / slett,På,Av,På,Av,På,Av
+98,Løyve - administrer,På,Av,Av,Av,Av,Av
+99,Quizar - sjå innleveringslogg,På,Av,På,Av,På,Av
+100,Rapportar - administrer,På,Av,På,Av,På,På
+101,SIS Data - administrer,På,Av,Av,Av,På,Av
+102,SIS Data - les,På,Av,Av,På,På,Av
+103,SIS-data - import,På,Av,Av,Av,På,Av
+104,Samtaler - send meldingar til alle på emnet,På,På,På,Av,Av,På
+105,Samtaler - send meldingar til individuelle emnedeltakarar,På,På,På,Av,Av,På
+106,Spørsmålsbankar - administrer konto,På,Av,På,Av,På,Av
+107,Spørsmålsbankar - vis og lenke til,På,Av,På,Av,På,På
+108,Statistikk - vis,På,Av,På,Av,På,På
+109,Studentsamarbeid - opprett,På,Av,På,Av,Av,På
+110,Utviklarnøklar - administrer,På,Av,Av,Av,Av,Av
+111,Varsel - legg til / rediger / slett,På,Av,Av,Av,Av,Av
+112,Varsler - vis,På,Av,Av,Av,Av,Av
+113,Vurderingar - endre,På,Av,Av,Av,Av,Av
+114,Vurderingar - sjå alle vurderingar,På,Av,På,Av,Av,Av
+115,Vurderingar - vis endringslogg,På,Av,På,Av,Av,Av
+116,Vurderingar - vis vurderingslogg,På,Av,På,Av,Av,Av
+117,Vurderingsskjema - legg til / endre / slett,På,Av,På,Av,Av,Av
+118,Vurdringar - vel å moderere sluttvurdering,På,Av,Av,Av,Av,Av
+119,Webkonferanse - opprett,På,Av,På,Av,På,På
+120,duglegberekninger for læringsmål - legg til/rediger,På,Av,På,Av,Av,Av

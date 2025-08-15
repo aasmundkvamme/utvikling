@@ -1,0 +1,9 @@
+User does not have FS personløpenr
+Unable to delete user
+Essential data missing for undefined.
+Unable to create user account
+Unable to change user login_id
+Unable to add admin - missing data if false: AccountID: true | CanvasID: false | RoleID: true
+Too many user accounts returned
+Unable to post user to Canvas
+Unable to update user account

@@ -1,0 +1,90 @@
+rollekode,institusjonsnr,emnekode,versjonskode,etternavn,fornavn,emnenavn_bokmal,studieprognavn,stednavn_bokmal,rollenr,dato_fra,dato_til,faknr,instituttnr,gruppenr,studieprogramkode,aktivitetkode,undplanlopenr,terminkode,arstall,terminnr,saksbehinit_opprettet,dato_opprettet,saksbehinit_endring,dato_endring,merknadtekst,etterutdkurskode,kurstidsangivelsekode,klassekode,prioritetsnr,institusjonsnr_eier
+KONTAKT,,,,Aaberg,Vibeke,,Bachelor - barnehagelærerutdanning,,32,2019-08-01 00:00:00,,,,,BBL,,,,,,ANEB,2019-08-22 09:40:20,HMHA,2022-09-07 11:59:24,,,,,,203
+KONTAKT,,,,Aaberg,Vibeke,,"Barnehagelærerutdanning, deltid",,33,2019-08-01 00:00:00,,,,,BBLD,,,,,,ANEB,2019-08-22 09:41:48,HMHA,2022-09-07 11:59:24,,,,,,203
+KONTAKT,,,,Aandahl,Anne Christine,,"Utøve, lage og produsere musikk",,6,2017-01-01 00:00:00,,,,,MUS60,,,,,,KHE,2017-03-07 15:29:45,KHE,2017-03-07 15:29:45,,,,,,203
+KONTAKT,,,,Aandahl,Anne Christine,,"Kunst og håndverk, årsstudium",,7,2017-01-01 00:00:00,,,,,KH60,,,,,,KHE,2017-03-07 15:30:30,KHE,2017-03-07 15:30:30,,,,,,203
+KONTAKT,,,,Bach,Jørgen Stangeland,,Bachelor i tegnspråk og tolking,,1,2019-06-14 00:00:00,,,,,TST,,,,,,ALHE,2019-06-14 14:17:03,ALHE,2019-06-14 14:17:03,,,,,,203
+KONTAKT,,,,Bakke,Bente Cathrine Janby,,Ph.d Enkeltemner,,2,2016-08-01 00:00:00,,,,,PHDE,,,,,,ANEB,2017-04-25 13:00:31,ANEB,2017-04-25 13:00:31,,,,,,203
+KONTAKT,203,TEK802,1,Dahle,Birthe Berven,Tekstilkultur 2,,,1,2024-02-16 00:00:00,,,,,,,,,,,BBDA,2024-02-16 14:02:23,BBDA,2024-02-16 14:02:23,,,,,,203
+KONTAKT,,,,Eikemo,Gro-Mette Rønning,,"Bachelor i økonomi og administrasjon, Haugesund",,1,2021-09-22 00:00:00,,,,,ØKB,,,,,,GME,2021-09-22 08:47:50,GME,2023-01-03 09:34:58,Studieveileder Haugesund,,,,,203
+KONTAKT,,,,Eikemo,Gro-Mette Rønning,,Bachelor i økonomi og administrasjon - deltid,,2,2021-09-22 00:00:00,,,,,ØKBD,,,,,,GME,2021-09-22 08:48:34,GME,2021-09-22 08:48:34,Studieveileder Haugesund,,,,,203
+KONTAKT,,,,Eikemo,Gro-Mette Rønning,,Master i økonomi og administrasjon (Siviløkonom),,3,2021-09-22 00:00:00,,,,,MSB,,,,,,GME,2021-09-22 08:49:32,GME,2021-09-22 08:49:32,Studieveileder Haugesund,,,,,203
+KONTAKT,,,,Eikemo,Gro-Mette Rønning,,Enkeltemner på Økonomi og administrasjon,,4,2021-09-22 00:00:00,,,,,ØKAD-EMNER,,,,,,GME,2021-09-22 08:50:23,GME,2021-09-22 08:50:23,Studieveileder Haugesund,,,,,203
+KONTAKT,,,,Eikemo,Gro-Mette Rønning,,Bachelor i nautikk,,5,2022-09-10 00:00:00,,,,,NAB,,,,,,GME,2022-09-22 14:53:16,GME,2022-09-22 14:53:16,,,,,,203
+KONTAKT,,,,Eikemo,Gro-Mette Rønning,,Bachelor i nautikk med integrert praksis,,6,2022-09-10 00:00:00,,,,,NABP,,,,,,GME,2022-09-22 14:54:12,GME,2023-04-28 13:57:42,Studieveileder,,,,,203
+KONTAKT,,,,Eikemo,Gro-Mette Rønning,,Bachelor i Maritime Management,,7,2022-09-10 00:00:00,,,,,BAMM,,,,,,GME,2022-09-22 14:54:57,GME,2023-01-03 09:40:26,Studieveileder,,,,,203
+KONTAKT,,,,Eikemo,Gro-Mette Rønning,,Master i maritime operasjoner,,8,2022-09-10 00:00:00,,,,,MMO,,,,,,GME,2022-09-22 14:55:33,GME,2024-05-30 09:25:05,Studieveileder,,,,,203
+KONTAKT,,,,Eikemo,Gro-Mette Rønning,,"Bachelor i økonomi og administrasjon, Haugesund",,9,2021-09-22 00:00:00,,,,,ØKB,,,,,,GME,2023-01-03 09:35:08,GME,2023-01-03 09:35:08,Studieveileder Haugesund,,,,,203
+KONTAKT,,,,Eikemo,Gro-Mette Rønning,,Bachelor i nautikk Y-vei,,10,2022-09-01 00:00:00,,,,,NABY,,,,,,GME,2023-02-27 10:44:42,GME,2024-05-30 09:26:37,Studieveileder,,,,,203
+KONTAKT,203,NABP1004,1,Eikemo,Gro-Mette Rønning,Praksis I,,,11,2024-05-01 00:00:00,,,,,,,,,,,GME,2024-06-22 19:59:13,KHE,2025-02-07 11:06:36,Studieveileder,,,,,203
+KONTAKT,203,NABP2005,1,Eikemo,Gro-Mette Rønning,Praksis II,,,12,2024-05-01 00:00:00,,,,,,,,,,,GME,2024-06-22 20:00:39,KHE,2025-02-07 11:09:03,Studieveileder,,,,,203
+KONTAKT,203,NABP3001,1,Eikemo,Gro-Mette Rønning,Praksis III,,,13,2024-05-01 00:00:00,,,,,,,,,,,GME,2024-06-22 20:01:40,GME,2025-03-18 11:14:13,Studieveileder,,,,,203
+KONTAKT,203,NABP4002,1,Eikemo,Gro-Mette Rønning,Praksis IV,,,14,2024-05-01 00:00:00,,,,,,,,,,,GME,2024-06-22 20:02:35,GME,2025-03-18 11:15:15,Studieveileder,,,,,203
+KONTAKT,,,,Eikemo,Gro-Mette Rønning,,Bachelor i Maritime Management - nettstudium,,15,2025-05-01 00:00:00,,,,,BAMMN,,,,,,KHE,2024-12-03 09:22:01,KHE,2024-12-03 09:22:01,,,,,,203
+KONTAKT,,,,Erfjord,Helene Flatland,,"Bachelor i eiendomsmegling, økonomi og jus",,2,2019-10-10 00:00:00,,,,,EIMB,,,,,,GTA,2019-10-18 14:06:09,GTA,2019-10-18 14:06:09,,,,,,203
+KONTAKT,,,,Erfjord,Helene Flatland,,"Bachelor i økonomi og administrasjon, Sogndal",,3,2019-10-10 00:00:00,,,,,ØKOB,,,,,,GTA,2019-10-18 14:07:36,GTA,2019-10-18 14:07:36,,,,,,203
+KONTAKT,,,,Erfjord,Helene Flatland,,"Økonomi og jus, bachelorstudium, Sogndal",,4,2019-10-10 00:00:00,,,,,ØKOJ,,,,,,GTA,2019-10-18 14:08:44,GTA,2019-10-18 14:08:44,,,,,,203
+KONTAKT,,,,Erfjord,Helene Flatland,,"Bachelor i reiseliv, markedsføring og ledelse",,6,2019-10-10 00:00:00,,,,,RLIL,,,,,,GTA,2019-10-18 14:11:17,GTA,2019-10-18 14:11:17,,,,,,203
+KONTAKT,,,,Erfjord,Helene Flatland,,"Bachelor i natur og opplevelsesbasert reiseliv, Sogndal",,7,2019-10-10 00:00:00,,,,,BRL,,,,,,GTA,2019-10-18 14:13:29,GTA,2019-10-18 14:13:29,,,,,,203
+KONTAKT,,,,Erfjord,Helene Flatland,,"Jus, årsstudium",,8,2019-10-10 00:00:00,,,,,JUS,,,,,,GTA,2019-10-18 14:15:16,GTA,2019-10-18 14:15:16,,,,,,203
+KONTAKT,,,,Eriksen,Cathrine Bjelland,,"Barnehagelærerutdanning, arbeidsplassbasert",,2,2017-07-01 00:00:00,,,,,ABLU,,,,,,RVI,2017-08-21 12:41:15,RVI,2017-08-21 12:41:15,,,,,,203
+KONTAKT,,,,Fernandez Anez,Maria de Las Nieves,,Master i Brannsikkerhet - deltid,,10,2020-01-01 00:00:00,,,,,MAS-BR-DEL,,,,,,RUH,2020-04-03 11:21:21,RUH,2020-04-03 11:21:32,Studieprogramansvarleg,,,,,203
+KONTAKT,,,,Halland,Sissel Jeanette Aastvedt,,Læringsmiljø og pedagogisk ledelse,,11,2016-04-01 00:00:00,,,,,LPL,,,,,,JSM,2016-03-14 13:16:14,JSM,2016-03-14 13:16:14,,,,,,203
+KONTAKT,,,,Hanssen,Toril,,"Barnehagelærerutdanning, arbeidsplassbasert",,27,2014-08-01 00:00:00,,,,,ABLU,,,,,,KHE,2014-12-02 08:26:18,KHE,2014-12-02 08:26:18,,,,,,203
+KONTAKT,,,,Hemmingsson,Per Fredrik Lennart,,Master i Brannsikkerhet,,8,2016-07-01 00:00:00,,,,,MAS-BRANN,,,,,,RUH,2016-06-03 07:35:05,RUH,2016-06-03 07:35:05,,,,,,203
+KONTAKT,,,,Hemmingsson,Per Fredrik Lennart,,Master i Brannsikkerhet - deltid,,9,2016-07-01 00:00:00,,,,,MAS-BR-DEL,,,,,,RUH,2016-06-03 07:35:15,RUH,2016-06-03 07:35:15,,,,,,203
+KONTAKT,,,,Henriksen,Jorunn Anette,,Grunnskolelærerutdanning 1.-7. trinn,,10,2019-06-18 00:00:00,,,,,MGBBE,,,,,,ALHE,2019-06-19 09:13:46,ALHE,2019-06-19 09:13:46,,,,,,203
+KONTAKT,,,,Henriksen,Jorunn Anette,,Grunnskolelærerutdanning 5.-10. trinn,,11,2019-06-18 00:00:00,,,,,MGUST,,,,,,ALHE,2019-06-19 09:41:42,ALHE,2019-06-19 09:41:42,,,,,,203
+KONTAKT,,,,Hjelmeseter,Rune,,"Bachelor i ingeniørfag, Brannsikkerhet",,1,2014-08-01 00:00:00,,,,,ING-BRANN,,,,,,KHE,2014-12-02 09:13:41,KHE,2014-12-02 09:13:41,,,,,,203
+KONTAKT,,,,Hjelmeseter,Rune,,"Bachelor i ingeniørfag, maskin",,7,2014-08-01 00:00:00,,,,,ING-MAB,,,,,,KHE,2014-12-02 09:28:58,KHE,2014-12-02 09:28:58,,,,,,203
+KONTAKT,,,,Hjelmeseter,Rune,,"Bachelor i ingeniørfag, Maskin for fagskoleingeniører",,11,2016-07-01 00:00:00,,,,,ING-MAFA,,,,,,RUH,2016-06-03 07:32:40,RUH,2021-11-08 13:48:19,Studierettleiar,,,,,203
+KONTAKT,203,PHD902,1,Jakobsen,Stine Soltvedt,"Vitenskapsteori, etikk og akademisk tekstarbeid",,,1,2019-02-11 00:00:00,,,,,,,,,,,STSJ,2019-02-11 14:27:34,STSJ,2022-01-04 13:45:43,,,,,,203
+KONTAKT,203,PHD904,1,Jakobsen,Stine Soltvedt,Utforskende forskningsformer,,,2,2019-03-07 00:00:00,,,,,,,,,,,STSJ,2019-03-07 14:24:45,KHE,2022-03-17 15:00:31,,,,,,203
+KONTAKT,203,PHD909,1,Jakobsen,Stine Soltvedt,Utdanningsretorikk,,,5,2019-04-09 00:00:00,,,,,,,,,,,STSJ,2019-04-09 10:22:29,STSJ,2019-04-09 10:22:29,,,,,,203
+KONTAKT,,,,Jakobsen,Stine Soltvedt,,Ph.d.-studiet Studier av danning og didaktiske praksiser,,6,2019-04-25 00:00:00,,,,,PHD,,,,,,STSJ,2019-04-25 15:04:01,STSJ,2019-04-25 15:04:01,,,,,,203
+KONTAKT,203,PHD911,1,Jakobsen,Stine Soltvedt,Ikke-vestlig utdanningsfilosofi og politikk,,,8,2019-06-12 00:00:00,,,,,,,,,,,STSJ,2019-06-12 14:48:18,STSJ,2023-05-02 16:23:42,,,,,,203
+KONTAKT,203,PHD901,1,Jakobsen,Stine Soltvedt,Danning og didaktiske praksiser,,,9,2019-06-27 00:00:00,,,,,,,,,,,STSJ,2019-06-27 15:00:54,STSJ,2023-05-15 10:35:14,,,,,,203
+KONTAKT,203,PHD906,1,Jakobsen,Stine Soltvedt,Utdanningsinstitusjoner som danningsarenaer,,,10,2019-06-27 00:00:00,,,,,,,,,,,STSJ,2019-06-27 15:01:14,STSJ,2023-05-15 10:42:22,,,,,,203
+KONTAKT,203,PHD914,1,Jakobsen,Stine Soltvedt,Kroppslig danning,,,19,2021-01-05 00:00:00,,,,,,,,,,,STSJ,2021-01-05 09:40:15,STSJ,2021-01-05 09:40:15,,,,,,203
+KONTAKT,203,PHD903,1,Jakobsen,Stine Soltvedt,Forskningsmetodologi og -design,,,22,2023-04-10 00:00:00,,,,,,,,,,,STSJ,2023-04-10 13:45:52,STSJ,2023-04-10 13:45:52,,,,,,203
+KONTAKT,203,PHD908,1,Jakobsen,Stine Soltvedt,Kritisk matematikkdidaktikk: undervisning og forskning,,,24,2023-05-15 00:00:00,,,,,,,,,,,STSJ,2023-05-15 10:43:21,STSJ,2023-05-15 10:43:21,,,,,,203
+KONTAKT,203,PHD912,1,Jakobsen,Stine Soltvedt,Økokritikk og didaktiske praksiser ,,,25,2023-05-15 00:00:00,,,,,,,,,,,STSJ,2023-05-15 10:45:16,STSJ,2023-05-15 10:45:16,,,,,,203
+KONTAKT,203,PHD915,1,Jakobsen,Stine Soltvedt,Multimodal leseferdigheter og estetisk engasjement  ,,,26,2023-05-15 00:00:00,,,,,,,,,,,STSJ,2023-05-15 10:46:08,STSJ,2023-05-15 10:46:08,,,,,,203
+KONTAKT,,,,Julbø,Brit,,"Bachelor i ingeniørfag, maskin",,21,2014-08-01 00:00:00,,,,,ING-MAB,,,,,,KHE,2014-11-07 09:45:04,KHE,2014-11-07 09:45:22,,,,,,203
+KONTAKT,,,,Kallmyr,Linda Skrede,,Grunnskolelærerutdanning 1.-7. trinn,,19,2019-06-18 00:00:00,,,,,MGBBE,,,,,,ALHE,2019-06-19 09:28:12,ALHE,2019-06-19 09:28:12,,,,,,203
+KONTAKT,,,,Kallmyr,Linda Skrede,,Grunnskolelærerutdanning 5.-10. trinn,,20,2019-06-18 00:00:00,,,,,MGUST,,,,,,ALHE,2019-06-19 09:41:42,ALHE,2019-06-19 09:41:42,,,,,,203
+KONTAKT,,,,Konglevoll,Steinar,,,,2,2006-01-01 00:00:00,,,,,,,,,,,SKO,2006-04-21 12:56:54,SKO,2006-04-24 09:16:56,,EU ENG,2001,,,203
+KONTAKT,,,,Kringeland,Tone Åslaug,,Videreutdanning i pleie og behandling av ikke-helende sår,,17,2014-08-01 00:00:00,,,,,SÅR,,,,,,KHE,2014-12-02 14:28:26,KHE,2014-12-02 14:28:26,,,,,,203
+KONTAKT,,,,Miljeteig,Jorunn Sætre,,Læringsmiljø og pedagogisk ledelse,,9,2016-04-01 00:00:00,,,,,LPL,,,,,,JSM,2016-03-14 13:16:45,JSM,2016-03-14 13:16:45,,,,,,203
+KONTAKT,,,,Navarsete,Kari Marie,,Bachelor - barnehagelærerutdanning,,14,2019-06-14 00:00:00,,,,,BBL,,,,,,ALHE,2019-06-14 14:19:10,ALHE,2019-06-14 14:19:10,,,,,,203
+KONTAKT,,,,Navarsete,Kari Marie,,"Barnehagelærerutdanning, deltid",,15,2019-06-14 00:00:00,,,,,BBLD,,,,,,ALHE,2019-06-14 14:21:04,ALHE,2019-06-14 14:21:04,,,,,,203
+KONTAKT,203,SYKH231P,1,Nesheim,Andreas Rande,"Medisinsk og kirurgisk sykepleie - akutt, kronisk og kritisk sykdom med samhandling på tvers av helsetjenestenivå",,,3,2024-05-01 00:00:00,,,,,,,,,,,ANNE,2024-10-17 12:40:25,KHE,2025-02-04 13:14:56,,,,,,203
+KONTAKT,203,SYKH330P,1,Nesheim,Andreas Rande,"Praksisstudie, Sykepleie ved psykisk sykdom/lidelse",,,4,2024-07-01 00:00:00,,,,,,,,,,,ANNE,2024-11-11 12:25:10,KHE,2025-02-04 13:16:28,,,,,,203
+KONTAKT,,,,Nilssen,Ingvild,,"Master i innovasjon og ledelse, samfunnsfaglig retning",,2,2022-09-07 00:00:00,,,,,MIL-MA,,,,,,GME,2022-09-07 09:47:14,GME,2022-09-07 09:47:14,Studieveileder,,,,,203
+KONTAKT,,,,Nilssen,Ingvild,,Masterstudium i organisasjon og ledelse,,3,2023-07-01 00:00:00,,,,,MADL,,,,,,KHE,2024-01-11 12:30:06,KHE,2024-01-11 12:30:06,,,,,,203
+KONTAKT,,,,Siglen,Elin,,"Kunst og håndverk, årsstudium",,9,2014-08-01 00:00:00,,,,,KH60,,,,,,KHE,2014-12-02 09:32:41,KHE,2014-12-02 09:32:41,,,,,,203
+KONTAKT,,,,Siglen,Elin,,"Utøve, lage og produsere musikk",,11,2014-08-01 00:00:00,,,,,MUS60,,,,,,KHE,2014-12-02 09:48:09,KHE,2014-12-02 09:48:09,,,,,,203
+KONTAKT,,,,Siglen,Elin,,Bachelor i drama og anvendt teater,,21,2019-06-14 00:00:00,,,,,DRAMAT,,,,,,ALHE,2019-06-14 13:55:38,ALHE,2019-06-14 13:55:38,,,,,,203
+KONTAKT,203,NAB3025,1,Steensnæs,Jorunn,Medisinsk behandling,,,123,2023-05-01 00:00:00,,,,,,,,,,,FSWS,2023-03-13 13:38:22,KHE,2023-03-13 13:54:35,,,,,,203
+KONTAKT,,,,Theodorsen,Britt Randby,,"Kunst og håndverk, årsstudium",,11,2014-08-01 00:00:00,,,,,KH60,,,,,,KHE,2014-12-02 09:32:12,KHE,2014-12-02 09:32:12,,,,,,203
+KONTAKT,,,,Theodorsen,Britt Randby,,Masterstudium Kreative fag og læreprosesser,,13,2014-08-01 00:00:00,,,,,MASPEL,,,,,,KHE,2014-12-02 09:34:11,HMHA,2025-02-04 16:11:12,,,,,,203
+KONTAKT,,,,Theodorsen,Britt Randby,,"Utøve, lage og produsere musikk",,14,2014-08-01 00:00:00,,,,,MUS60,,,,,,KHE,2014-12-02 09:48:36,KHE,2014-12-02 09:48:36,,,,,,203
+KONTAKT,,,,Tjerandsen,Eli,,"Bachelor i økonomi og administrasjon, Haugesund",,1,2023-01-02 00:00:00,,,,,ØKB,,,,,,GME,2023-01-03 09:34:21,GME,2023-01-03 09:34:28,Studieveileder Haugesund,,,,,203
+KONTAKT,,,,Tjerandsen,Eli,,"Bachelor i økonomi og administrasjon, Haugesund",,2,2023-01-02 00:00:00,,,,,ØKB,,,,,,GME,2023-01-03 09:35:08,GME,2023-01-03 09:35:08,Studieveileder Haugesund,,,,,203
+KONTAKT,,,,Tjerandsen,Eli,,Bachelor i økonomi og administrasjon - deltid,,3,2023-01-02 00:00:00,,,,,ØKBD,,,,,,GME,2023-01-03 09:35:49,GME,2023-01-03 09:35:49,Studieveileder Haugesund,,,,,203
+KONTAKT,,,,Tjerandsen,Eli,,Master i økonomi og administrasjon (Siviløkonom),,4,2023-01-02 00:00:00,,,,,MSB,,,,,,GME,2023-01-03 09:36:53,GME,2023-01-03 09:36:53,Studieveileder Haugessund,,,,,203
+KONTAKT,,,,Tjerandsen,Eli,,Årsstudium i administrasjon og ledelse,,5,2023-01-01 00:00:00,,,,,ADLE,,,,,,ELT,2023-05-04 10:58:50,ELT,2023-05-04 11:00:41,Studieveileder Haugesund,,,,,203
+KONTAKT,203,NAB3030,1,Trovåg,Johanne Marie,Bacheloroppgave,,,48,2018-04-22 00:00:00,,,,,,,,,,,HMHA,2018-05-08 15:10:56,HMHA,2018-05-08 15:10:56,,,,,,203
+KONTAKT,203,EVN1005,1,Trovåg,Johanne Marie,Maritim jus 2,,,81,2018-04-22 00:00:00,,,,,,,,,,,HMHA,2018-05-08 15:13:14,HMHA,2018-05-08 15:13:14,,,,,,203
+KONTAKT,203,EVN1004,1,Trovåg,Johanne Marie,Maritim jus 1,,,82,2018-04-22 00:00:00,,,,,,,,,,,HMHA,2018-05-08 15:13:17,HMHA,2018-05-08 15:13:17,,,,,,203
+KONTAKT,,,,Vikane,Ragnhild,,"Barnehagelærerutdanning, arbeidsplassbasert",,1,2014-08-01 00:00:00,,,,,ABLU,,,,,,KHE,2014-12-02 08:26:52,KHE,2014-12-02 08:26:52,,,,,,203
+KONTAKT,203,,,Vikane,Ragnhild,,,Institutt for maskin- og maritime studium,6,2016-06-20 00:00:00,,20,13,0,,,,,,,RVI,2016-09-27 11:05:09,RVI,2016-09-27 11:05:09,,,,,,203
+KONTAKT,,,,Vikane,Ragnhild,,Bachelor - barnehagelærerutdanning,,10,2019-08-01 00:00:00,,,,,BBL,,,,,,ANEB,2019-08-22 09:40:43,ANEB,2019-08-22 09:40:43,,,,,,203
+KONTAKT,,,,Vikane,Ragnhild,,"Barnehagelærerutdanning, deltid",,11,2019-08-01 00:00:00,,,,,BBLD,,,,,,ANEB,2019-08-22 09:41:27,ANEB,2019-08-22 09:41:27,,,,,,203
+KONTAKT,,,,Vikane,Ragnhild,,Grunnskolelærerutdanning 5.-10. trinn,,13,2020-01-01 00:00:00,,,,,MGUST,,,,,,RVI,2020-03-26 10:03:55,KHE,2023-09-06 09:30:52,,,,,,203
+KONTAKT,,,,Vikane,Ragnhild,,Grunnskolelærerutdanning 1.-7. trinn,,14,2020-01-01 00:00:00,,,,,MGBST,,,,,,RVI,2020-08-05 09:31:16,KHE,2023-09-06 09:31:51,,,,,,203
+KONTAKT,,,,Waage,Lene Borgen,,Masterstudium Kreative fag og læreprosesser,,20,2016-06-20 00:00:00,,,,,MASPEL,,,,,,RVI,2016-09-27 11:45:21,HMHA,2025-02-04 16:11:12,,,,,,203
+KONTAKT,,,,Østhus,Anna Therese Nesheim,,Enkeltemner på nautikk,,35,2019-07-01 00:00:00,,,,,NAB-EMNER,,,,,,KHE,2020-08-31 11:22:43,KHE,2020-08-31 11:22:43,,,,,,203
+KONTAKT,,,,Kjelstad,Sissel,,Sykepleie,,1,2003-08-01 00:00:00,4340-11-18 00:00:00,,,,GRS,,,HØST,2003,,FS,2004-11-18 12:06:50,HMHA,2014-01-22 14:48:38,Konvertert fra kullkontaktperson 03H,,,,,203
+KONTAKT,,,,Kjelstad,Sissel,,Sykepleie,,2,2002-08-01 00:00:00,4340-11-18 00:00:00,,,,GRS,,,HØST,2002,,FS,2004-11-18 12:06:50,HMHA,2014-01-22 14:48:38,Konvertert fra kullkontaktperson 02H,,,,,203
+KONTAKT,203,MGUPE201,1,Meslo,Eirik Hårstad,"Pedagogikk og elevkunnskap, emne 2 - Læreren og eleven i mangfoldige læringsmiljø",,,24,2024-09-17 00:00:00,2025-06-30 00:00:00,,,,,,,,,,EHME,2024-09-17 14:30:30,FSWS,2025-02-10 12:08:08,,,,,,203

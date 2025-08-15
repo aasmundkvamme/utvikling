@@ -1,0 +1,65 @@
+Manglar opplysingar i FS:
+2025/06/11 10:04:02.062: INFO Processing: 7e730944-143c-4c76-bf70-47111efea8e0 | Synnøve Kristine Nepstad Bendixsen
+2025/06/11 10:04:02.334: WARN selectedUsername sykbe@hvl.no differs from the one registered in Canvas for this user, sybe@hvl.no
+
+
+Feil oppdatering (ligg rett i FS)?
+2025/06/11 10:05:06.889: WARN selectedUsername jmog@hvl.no differs from the one registered in Canvas for this user, johanmog@hvl.no
+2025/06/11 10:05:07.129: WARN Will update unique_id (login_id) from johanmog@hvl.no to jmog@hvl.no for canvas_user_id 29097
+
+
+Sletta dobbelt pålogging i Canvas:
+2025/06/11 10:05:37.733: INFO Processing: 4dea5a8b-be1d-4999-ae6a-e2c35e2703ac | Bente Mjøen Larssen
+2025/06/11 10:05:38.577: INFO No Canvas user account found
+
+
+Dette var ein sletta brukar:
+2025/06/11 10:05:45.682: INFO Processing: 7d2df2b4-2811-4247-8aed-80f888f6ff17 | Johan Lie
+2025/06/11 10:05:45.927: WARN selectedUsername jlie@hvl.no differs from the one registered in Canvas for this user, this cannot be blank
+
+
+Denne låg kanskej ikkje i test, men ligg aktiv i prod:
+2025/06/11 10:07:19.159: INFO Processing: d1db14ab-478b-4fd2-b55a-0569afb72e69 | Helge Olsen
+2025/06/11 10:07:19.355: INFO No Canvas user account found
+
+
+Berre feil i test, ikkje i prod:
+2025/06/11 10:07:25.868: INFO Processing: fa572e6c-310a-46d8-af3f-d16ed568c861 | Hans Jørgen Timm Guthe
+2025/06/11 10:07:26.077: INFO No Canvas user account found
+
+
+Feil sis_id i test, rett i prod:
+2025/06/11 10:07:56.433: INFO Processing: 98422ca9-dc8e-49a8-a594-254ca2f2e07b | Cecilie Hjortland Skare
+2025/06/11 10:07:56.694: INFO No Canvas user account found
+
+
+Brukarnamn i Canvas og FS stemmer overens:
+2025/06/11 10:08:02.712: INFO Processing: c940c6fd-0bbf-430d-a58a-dec10c103b4f | Britt Linn Hjellum Ruud
+2025/06/11 10:08:02.974: WARN selectedUsername blhj@hvl.no differs from the one registered in Canvas for this user, 142339@hvl.no
+
+
+Rett i prod, feil i test:
+2025/06/11 10:08:09.684: INFO Processing: e111dd0a-8fa3-4e90-b8a2-9ec63f9aac3b | Irene Instenes
+2025/06/11 10:08:09.914: INFO No Canvas user account found
+
+
+Kvifor skal han her endre brukarnamn?
+2025/06/11 10:08:45.443: INFO Processing: 9aa6626e-bfbb-45dd-a37a-19ea5486c3c1 | Frode Kutschera
+2025/06/11 10:08:45.670: WARN selectedUsername frkut3829@hvl.no differs from the one registered in Canvas for this user, fku@hvl.no
+
+
+Brukarnamn i Canvas og FS stemmer overens:
+2025/06/11 10:08:48.237: INFO Processing: b0e43c31-fc4f-42a7-b461-5314e26aaaa2 | Simon Johnstad
+2025/06/11 10:08:48.473: WARN selectedUsername sjoh@hvl.no differs from the one registered in Canvas for this user, 146989@hvl.no
+
+
+Rett i prod, feil i test:
+2025/06/11 10:09:02.640: INFO Processing: 0e317c80-57a7-4bcd-9f4a-9bc916a3f582 | Therese Ersvær Sjursæther
+2025/06/11 10:09:02.884: INFO No Canvas user account found
+
+
+Brukarnamn i Canvas og FS stemmer overens:
+2025/06/11 10:09:19.404: INFO Processing: 7c4e1a20-5f04-4a9e-8bd7-af719d44268d | Anna Emilie Hagen
+2025/06/11 10:09:19.641: WARN selectedUsername aeh@hvl.no differs from the one registered in Canvas for this user, 579173@hvl.no
+
+

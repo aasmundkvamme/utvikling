@@ -1,0 +1,104 @@
+Samsvar mellom FS og Canvas drift:
+    2025/06/11 10:09:25.584: INFO Processing: 9b29de76-9c22-4ed0-b790-19ded47e2a04 | Padmaja Barua
+    2025/06/11 10:09:25.836: INFO No Canvas user account found
+
+    2025/06/11 10:09:48.282: INFO Processing: 2ac87459-76cb-4b16-9344-e201e0f60601 | Kelvin Wade Ivankovic
+    2025/06/11 10:09:48.505: INFO No Canvas user account found
+
+    2025/06/11 10:10:05.619: INFO Processing: 92500648-8fe4-4b32-a608-1eb0b8eb3836 | Igor Slazyk
+    2025/06/11 10:10:05.860: INFO No Canvas user account found
+
+    2025/06/11 10:11:15.172: INFO Processing: 8fda1a4c-dad5-405d-b6ef-9fea539848be | Arild Skarsfjord Berg
+    2025/06/11 10:11:15.390: INFO No Canvas user account found
+
+    2025/06/11 10:11:25.077: INFO Processing: d26fadb1-777e-4025-98e3-ba4fe8bed637 | Marte Handal
+    2025/06/11 10:11:25.334: INFO No Canvas user account found
+
+    2025/06/11 10:11:45.436: INFO Processing: ff1dc62b-a530-4757-8e08-27cac25827e9 | Gloria Abena Ampim
+    2025/06/11 10:11:45.768: INFO No Canvas user account found
+
+    2025/06/11 10:12:04.169: INFO Processing: 9b00ea37-de02-4d91-b4ef-ac8f552d2469 | Anette Hjartåker
+    2025/06/11 10:12:04.685: INFO No Canvas user account found
+
+    2025/06/11 10:12:10.426: INFO Processing: e194f146-959c-496b-a0e5-5b3aefd70f5f | Tor Georg Jakobsen
+    2025/06/11 10:12:10.637: INFO No Canvas user account found
+
+    2025/06/11 10:12:12.464: INFO Processing: 14b527eb-d107-446b-813f-75d29613a7f8 | Joshua Tetteh Ocansey
+    2025/06/11 10:12:12.701: INFO No Canvas user account found
+
+    2025/06/11 10:12:32.636: INFO Processing: b1ea65fa-3f80-4b60-adb3-82c38877a5fc | Erik Laurens Jansen
+    2025/06/11 10:12:32.851: INFO No Canvas user account found
+
+    2025/06/11 10:12:56.812: INFO Processing: 728a9b62-335f-44fe-92e6-aa7086e1d507 | Ingrid Selnes Arholm
+    2025/06/11 10:12:57.040: INFO No Canvas user account found
+
+    2025/06/11 10:13:39.163: INFO Processing: 92d69c7e-5b1d-4d62-91a7-5d88f5edd7e3 | Andrew Athan Mcaleavey
+    2025/06/11 10:13:39.410: INFO No Canvas user account found
+
+    2025/06/11 10:14:14.747: INFO Processing: 67a8b8f3-cfa1-45dc-b211-5c4f5059c356 | Leiv Opstad
+    2025/06/11 10:14:14.980: INFO No Canvas user account found
+
+    2025/06/11 10:21:21.393: INFO Processing: a051b0b4-6701-437d-ad45-ff7454e3244a | Ingrid Boge
+    2025/06/11 10:21:21.641: INFO No Canvas user account found
+
+
+
+Mangla løpenummer i Canvas, retta opp
+    2025/06/11 10:15:08.226: INFO Processing: 37932615-2f95-474d-b15c-58f46b4be200 | Bente Landa Martinsen
+    2025/06/11 10:15:08.430: INFO No Canvas user account found
+
+Diverse feil i Canvas, retta opp
+    2025/06/11 10:17:35.890: INFO Processing: f24f40a1-e567-443e-8dc2-5cfbc7077d60 | Randi Træland Hella
+    2025/06/11 10:17:36.152: INFO No Canvas user account found
+
+Ikkje brukarnamn i FS, to påloggingar (HVL + ekstern)
+    2025/06/11 10:18:20.727: INFO Processing: 0ce4e8a6-94fa-4d39-8105-40909d09081a | Simon Sanca
+    2025/06/11 10:18:21.008: INFO No Canvas user account found
+
+    2025/06/11 10:18:34.450: INFO Processing: 68c96cc0-f88c-4d24-a0c7-a27e0e2ff46e | Monica Jakobsen Strand
+    2025/06/11 10:18:34.701: INFO No Canvas user account found
+
+
+Nesten samsvar FS/Canvas
+    2025/06/11 10:12:35.904: INFO Processing: be250b05-4e42-4a98-a9c2-9bc0c62a568d | Kristoffer Røksund Hansen
+    2025/06/11 10:12:36.129: WARN selectedUsername krhan4255@hvl.no differs from the one registered in Canvas for this user, 575700@hvl.no
+    2025/06/11 10:12:36.342: WARN Will update unique_id (login_id) from 575700@hvl.no to krhan4255@hvl.no for canvas_user_id 22320
+
+
+Har pålogging frå Oslomet inne i Canvas (trust account)
+    2025/06/11 10:09:37.591: INFO Processing: 0b393029-592c-4fbc-9443-081f21acf708 | Aleksander Vie
+    2025/06/11 10:09:41.713: WARN  httpPUT() HTTPStatus: 403 Forbidden
+
+Har pålogging frå USN inne i Canvas (trust account)
+    2025/06/11 10:11:37.663: INFO Processing: 8849bcae-6383-4dc4-9b6f-4f9828073ccd | Ann Hege Lorvik Waterhouse
+    2025/06/11 10:11:37.892: INFO No Canvas user account found
+
+
+Dobbelt pålogging i Canvas, retta opp
+    2786:2025/06/11 10:09:21.476: WARN selectedUsername etny@hvl.no differs from the one registered in Canvas for this user, 143809@hvl.no
+    2787:2025/06/11 10:09:21.676: WARN Will update unique_id (login_id) from 143809@hvl.no to etny@hvl.no for canvas_user_id 41482
+    2788:2025/06/11 10:09:21.835: WARN User has more than one login_id: [object Object],[object Object]
+
+    2025/06/11 10:11:20.207: INFO Processing: aab14bee-fbd4-4e56-ae83-c8a9e6ad790e | Kristin Igland Naustdal
+    2025/06/11 10:11:20.445: WARN selectedUsername kina@hvl.no differs from the one registered in Canvas for this user, 118154@hvl.no
+    2025/06/11 10:11:20.667: WARN Will update unique_id (login_id) from 118154@hvl.no to kina@hvl.no for canvas_user_id 107464
+
+
+
+To konti i Canvas, slått saman, men det er noko rart med FS-oppføringa:
+    2025/06/11 10:10:53.498: INFO Processing: c7ccead7-ea0d-4c85-ae29-f236232e2de1 | Cecilie Kristiansen
+    2025/06/11 10:10:53.733: WARN selectedUsername ceck@hvl.no differs from the one registered in Canvas for this user, 139602@hvl.no
+    2025/06/11 10:10:53.935: WARN Will update unique_id (login_id) from 139602@hvl.no to ceck@hvl.no for canvas_user_id 67602
+
+
+
+To konti i Canvas, slått saman
+    2025/06/11 10:11:11.114: INFO Processing: 817dde27-0791-4a1f-9472-57e8ce436322 | Mostafa Zare
+    2025/06/11 10:11:11.370: WARN selectedUsername moza@hvl.no differs from the one registered in Canvas for this user, 667246@hvl.no
+    2025/06/11 10:11:11.582: WARN Will update unique_id (login_id) from 667246@hvl.no to moza@hvl.no for canvas_user_id 76381
+
+
+
+Rett i Canvas, feil i FS:
+    2025/06/11 10:11:30.721: INFO Processing: f7b7320f-b49d-4a83-8089-a08c2cf3d98e | Morten Rosenfeldt
+    2025/06/11 10:11:30.928: INFO No Canvas user account found
