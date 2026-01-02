@@ -7,6 +7,7 @@ import shutil
 from datetime import datetime, timedelta
 import time
 import os
+import tempfile
 import logging
 import smtplib
 import pyodbc
@@ -379,6 +380,66 @@ def ny_history(data, logger):
         #         logger.error(exc)
     except Exception as e:
         logger.error(e)
+
+
+def get_course_users(course_id, token=None, per_page=100, timeout=10, max_retries=3):
+    """
+    Fetch all users for a Canvas course with pagination, retries and timeout.
+    Returns a pandas.DataFrame.
+    """
+    token = token or os.environ.get('TOKEN_CANVAS') or os.environ.get('tokenCanvas')
+    if not token:
+        raise RuntimeError("Missing TOKEN_CANVAS (or tokenCanvas) environment variable")
+
+    session = requests.Session()
+    headers = {'Authorization': f'Bearer {token}'}
+    page = 1
+    all_results = []
+
+    while True:
+        params = {'per_page': per_page, 'page': page}
+        data = None
+        for attempt in range(1, max_retries + 1):
+            try:
+                resp = session.get(
+                    f"https://hvl.instructure.com/api/v1/courses/{course_id}/users/",
+                    headers=headers, params=params, timeout=timeout
+                )
+                if resp.status_code == 429:  # rate limited
+                    wait = int(resp.headers.get("Retry-After", "5"))
+                    time.sleep(wait)
+                    continue
+                resp.raise_for_status()
+                data = resp.json()
+                if not isinstance(data, list):
+                    raise ValueError("Expected a JSON list of users from Canvas")
+                all_results.extend(data)
+                break
+            except requests.exceptions.RequestException:
+                if attempt == max_retries:
+                    raise
+                time.sleep(2 ** attempt)
+        if not data or len(data) < per_page:
+            break
+        page += 1
+
+    df = pd.json_normalize(all_results) if all_results else pd.DataFrame()
+    return df
+
+
+def save_df_safe(df, path):
+    """Write DataFrame to CSV atomically (via temporary file + replace)."""
+    dirn = os.path.dirname(path) or '.'
+    tmp = tempfile.NamedTemporaryFile(delete=False, dir=dirn, suffix='.tmp')
+    try:
+        df.to_csv(tmp.name, index=False)
+        tmp.close()
+        os.replace(tmp.name, path)
+    finally:
+        try:
+            os.remove(tmp.name)
+        except Exception:
+            pass
 
 
 def sjekk_external_tools(url, logger):
